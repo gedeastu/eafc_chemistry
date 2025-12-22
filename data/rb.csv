@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Nahuel Carvajal,RB,Aston Villa,Japan,Premier League,Wingback
+2,Giovanni Trippier,RB,Lyon,Belgium,Ligue 1,Attacking Wing Back
+3,Trent Dalot,RB,Brighton,Poland,Premier League,Wingback
+4,Giovanni Porro,RB,Stuttgart,Argentina,Bundesliga,Attacking Wing Back
+5,Dani Dalot,RB,Bologna,Belgium,Serie A,Falseback
+6,Denzel Hakimi,RB,Lille,Germany,Ligue 1,Wingback
+7,Timothy Di Lorenzo,RB,Lyon,Brazil,Ligue 1,Wingback
+8,Benjamin Walker,RB,Lyon,Brazil,Ligue 1,Wingback
+9,Jeremie Tomiyasu,RB,Valencia,France,La Liga,Attacking Wing Back
+10,Nahuel Gusto,RB,Newcastle,Argentina,Premier League,Wingback
+11,Takehiro Hakimi,RB,Aston Villa,Belgium,Premier League,Wingback
+12,Kyle Dalot,RB,Valencia,Japan,La Liga,Fullback
+13,Kyle Frimpong,RB,RB Leipzig,Germany,Bundesliga,Wingback
+14,Pedro Wan-Bissaka,RB,Bologna,Belgium,Serie A,Fullback
+15,Dani Castagne,RB,Atalanta,Portugal,Serie A,Wingback
+16,Timothy Pavard,RB,Chelsea,England,Premier League,Wingback
+17,Giovanni Trippier,RB,Valencia,France,La Liga,Fullback
+18,Dani Cancelo,RB,Real Betis,Turkey,La Liga,Falseback
+19,Aaron Tomiyasu,RB,Nice,Spain,Ligue 1,Falseback
+20,Rico Tomiyasu,RB,Tottenham,Turkey,Premier League,Falseback
+21,Kieran Wan-Bissaka,RB,Bayer Leverkusen,Morocco,Bundesliga,Wingback
+22,Achraf Hakimi,RB,Barcelona,USA,La Liga,Wingback
+23,Ben Castagne,RB,Stuttgart,USA,Bundesliga,Falseback
+24,Jeremie Hakimi,RB,Lazio,Italy,Serie A,Wingback
+25,Rico White,RB,Monaco,Spain,Ligue 1,Attacking Wing Back
+26,Reece Dumfries,RB,PSG,Italy,Ligue 1,Fullback
+27,Nahuel Alexander-Arnold,RB,Juventus,Brazil,Serie A,Attacking Wing Back
+28,Takehiro Frimpong,RB,Valencia,Germany,La Liga,Falseback
+29,Takehiro Molina,RB,Real Betis,USA,La Liga,Wingback
+30,Reece Carvajal,RB,Lille,Turkey,Ligue 1,Falseback
+31,Takehiro Lewis,RB,Marseille,Spain,Ligue 1,Fullback
+32,Kyle Alexander-Arnold,RB,Aston Villa,England,Premier League,Falseback
+33,Takehiro Trippier,RB,Juventus,Spain,Serie A,Fullback
+34,Rico Carvajal,RB,Bayern Munich,Netherlands,Bundesliga,Falseback
+35,Dani Walker,RB,AS Roma,Japan,Serie A,Wingback
+36,Pedro Porro,RB,Bologna,Argentina,Serie A,Wingback
+37,Jeremie Dumfries,RB,Atalanta,England,Serie A,Wingback
+38,Achraf Di Lorenzo,RB,Nice,Spain,Ligue 1,Wingback
+39,Achraf Lewis,RB,Bayern Munich,Poland,Bundesliga,Falseback
+40,Achraf Walker,RB,Marseille,Germany,Ligue 1,Attacking Wing Back
+41,Trent Carvajal,RB,Real Sociedad,Germany,La Liga,Fullback
+42,Timothy Frimpong,RB,Inter Milan,Portugal,Serie A,Fullback
+43,Jeremie Frimpong,RB,West Ham,Italy,Premier League,Falseback
+44,Kyle Dalot,RB,Real Sociedad,Brazil,La Liga,Attacking Wing Back
+45,Rico Dalot,RB,Napoli,Spain,Serie A,Attacking Wing Back
+46,Benjamin Walker,RB,Bayer Leverkusen,Morocco,Bundesliga,Falseback
+47,Takehiro Lewis,RB,Dortmund,Japan,Bundesliga,Fullback
+48,Aaron Hakimi,RB,Dortmund,Italy,Bundesliga,Attacking Wing Back
+49,Diogo Gusto,RB,Lazio,Turkey,Serie A,Wingback
+50,Dani Molina,RB,Bayer Leverkusen,Japan,Bundesliga,Wingback
+51,Timothy Cancelo,RB,Real Madrid,Portugal,La Liga,Wingback
+52,Ben White,RB,Napoli,Belgium,Serie A,Attacking Wing Back
+53,Denzel Cancelo,RB,AC Milan,Italy,Serie A,Falseback
+54,Takehiro Castagne,RB,Lazio,England,Serie A,Falseback
+55,Benjamin Frimpong,RB,Chelsea,Argentina,Premier League,Attacking Wing Back
+56,Denzel Pavard,RB,Nice,Germany,Ligue 1,Fullback
+57,Denzel Trippier,RB,Liverpool,Portugal,Premier League,Falseback
+58,Ben Frimpong,RB,Barcelona,France,La Liga,Attacking Wing Back
+59,Benjamin Gusto,RB,Marseille,Brazil,Ligue 1,Fullback
+60,Denzel Tomiyasu,RB,Napoli,Germany,Serie A,Fullback
+61,Timothy Tomiyasu,RB,Atletico Madrid,Spain,La Liga,Wingback
+62,Kieran Walker,RB,Manchester United,Argentina,Premier League,Wingback
+63,Reece Dalot,RB,Bayer Leverkusen,Portugal,Bundesliga,Falseback
+64,Rico Cancelo,RB,Brighton,Netherlands,Premier League,Wingback
+65,Joao Pavard,RB,Inter Milan,Spain,Serie A,Attacking Wing Back
+66,Kyle Carvajal,RB,Valencia,Italy,La Liga,Fullback
+67,Jeremie White,RB,Tottenham,Morocco,Premier League,Falseback
+68,Pedro Hakimi,RB,Dortmund,Argentina,Bundesliga,Falseback
+69,Achraf Cancelo,RB,Real Betis,France,La Liga,Wingback
+70,Ben James,RB,Bayern Munich,Portugal,Bundesliga,Falseback
+71,Timothy Alexander-Arnold,RB,West Ham,Italy,Premier League,Attacking Wing Back
+72,Kyle White,RB,Juventus,Brazil,Serie A,Fullback
+73,Reece Trippier,RB,Marseille,Netherlands,Ligue 1,Falseback
+74,Malo Wan-Bissaka,RB,Real Sociedad,England,La Liga,Falseback
+75,Giovanni White,RB,Arsenal,Morocco,Premier League,Attacking Wing Back
+76,Joao Wan-Bissaka,RB,Athletic Club,Brazil,La Liga,Fullback
+77,Nahuel Alexander-Arnold,RB,Bayern Munich,Brazil,Bundesliga,Falseback
+78,Achraf Frimpong,RB,Lille,Turkey,Ligue 1,Wingback
+79,Aaron White,RB,Napoli,Belgium,Serie A,Wingback
+80,Trent Dumfries,RB,Lyon,Japan,Ligue 1,Falseback
+81,Joao Alexander-Arnold,RB,Liverpool,Spain,Premier League,Attacking Wing Back
+82,Giovanni James,RB,Valencia,Morocco,La Liga,Falseback
+83,Kyle Trippier,RB,Newcastle,England,Premier League,Fullback
+84,Aaron Gusto,RB,AC Milan,Japan,Serie A,Fullback
+85,Nahuel Trippier,RB,Lyon,France,Ligue 1,Wingback
+86,Ben Wan-Bissaka,RB,AS Roma,Turkey,Serie A,Attacking Wing Back
+87,Kyle Cancelo,RB,Manchester United,Portugal,Premier League,Fullback
+88,Malo Gusto,RB,PSG,Spain,Ligue 1,Fullback
+89,Giovanni Porro,RB,Arsenal,Belgium,Premier League,Fullback
+90,Jeremie Dumfries,RB,Dortmund,Japan,Bundesliga,Wingback
+91,Timothy Gusto,RB,PSG,Morocco,Ligue 1,Falseback
+92,Joao Dumfries,RB,Real Sociedad,USA,La Liga,Attacking Wing Back
+93,Ben Castagne,RB,Lille,USA,Ligue 1,Falseback
+94,Reece Alexander-Arnold,RB,Brest,England,Ligue 1,Wingback
+95,Jeremie Molina,RB,West Ham,France,Premier League,Wingback
+96,Diogo Porro,RB,Monaco,Netherlands,Ligue 1,Fullback
+97,Joao Porro,RB,Atalanta,Portugal,Serie A,Fullback
+98,Timothy White,RB,Chelsea,Germany,Premier League,Falseback
+99,Ben Cancelo,RB,AC Milan,Italy,Serie A,Falseback
+100,Ben Tomiyasu,RB,Brest,Netherlands,Ligue 1,Attacking Wing Back
+101,Rico Dumfries,RB,AC Milan,Morocco,Serie A,Attacking Wing Back
+102,Dani Hakimi,RB,Nice,England,Ligue 1,Attacking Wing Back
+103,Nahuel Frimpong,RB,Manchester United,Brazil,Premier League,Fullback
+104,Achraf Tomiyasu,RB,PSG,Japan,Ligue 1,Falseback
+105,Aaron Alexander-Arnold,RB,Newcastle,Poland,Premier League,Wingback
+106,Reece Gusto,RB,Inter Milan,Netherlands,Serie A,Attacking Wing Back
+107,Achraf Cancelo,RB,Dortmund,Morocco,Bundesliga,Attacking Wing Back
+108,Timothy Alexander-Arnold,RB,Newcastle,USA,Premier League,Falseback
+109,Kyle Cancelo,RB,Bologna,Japan,Serie A,Attacking Wing Back
+110,Achraf Porro,RB,Atalanta,Poland,Serie A,Falseback
+111,Aaron Frimpong,RB,Bayer Leverkusen,Italy,Bundesliga,Attacking Wing Back
+112,Joao White,RB,Arsenal,Morocco,Premier League,Attacking Wing Back
+113,Reece Cancelo,RB,Marseille,Italy,Ligue 1,Attacking Wing Back
+114,Malo Porro,RB,Brighton,Italy,Premier League,Falseback
+115,Malo Frimpong,RB,Real Sociedad,France,La Liga,Falseback
+116,Diogo Hakimi,RB,Real Sociedad,Netherlands,La Liga,Wingback
+117,Diogo Hakimi,RB,Inter Milan,Spain,Serie A,Wingback
+118,Takehiro Molina,RB,Lille,Morocco,Ligue 1,Falseback
+119,Kyle Lewis,RB,Atalanta,Germany,Serie A,Wingback
+120,Malo Pavard,RB,Girona,Brazil,La Liga,Falseback
+121,Aaron Wan-Bissaka,RB,Juventus,Turkey,Serie A,Wingback
+122,Trent James,RB,Napoli,Argentina,Serie A,Attacking Wing Back
+123,Joao Carvajal,RB,Real Betis,Italy,La Liga,Attacking Wing Back
+124,Joao Di Lorenzo,RB,Stuttgart,France,Bundesliga,Falseback
+125,Achraf Lewis,RB,AS Roma,Belgium,Serie A,Attacking Wing Back
+126,Nahuel Frimpong,RB,Newcastle,Belgium,Premier League,Falseback
+127,Denzel White,RB,Real Betis,Brazil,La Liga,Fullback
+128,Achraf Dumfries,RB,Newcastle,England,Premier League,Falseback
+129,Takehiro Porro,RB,AS Roma,USA,Serie A,Fullback
+130,Nahuel Dalot,RB,Juventus,England,Serie A,Wingback
+131,Kyle Molina,RB,Lyon,Netherlands,Ligue 1,Attacking Wing Back
+132,Dani Frimpong,RB,Brest,Netherlands,Ligue 1,Falseback
+133,Benjamin Gusto,RB,Lille,England,Ligue 1,Attacking Wing Back
+134,Kyle Di Lorenzo,RB,Real Sociedad,USA,La Liga,Wingback
+135,Giovanni Walker,RB,Girona,Japan,La Liga,Wingback
+136,Joao James,RB,Marseille,Japan,Ligue 1,Fullback
+137,Joao Dalot,RB,Valencia,Argentina,La Liga,Fullback
+138,Aaron Di Lorenzo,RB,Real Betis,Argentina,La Liga,Falseback
+139,Denzel Carvajal,RB,Dortmund,England,Bundesliga,Wingback
+140,Kieran Carvajal,RB,Real Betis,Portugal,La Liga,Attacking Wing Back
+141,Trent Wan-Bissaka,RB,Monaco,France,Ligue 1,Attacking Wing Back
+142,Ben Molina,RB,AS Roma,Japan,Serie A,Falseback
+143,Pedro Dumfries,RB,Manchester City,USA,Premier League,Falseback
+144,Nahuel Pavard,RB,West Ham,England,Premier League,Wingback
+145,Aaron Tomiyasu,RB,Lazio,USA,Serie A,Falseback
+146,Aaron James,RB,Real Betis,Italy,La Liga,Fullback
+147,Giovanni Gusto,RB,Tottenham,Morocco,Premier League,Fullback
+148,Timothy Lewis,RB,RB Leipzig,Belgium,Bundesliga,Fullback
+149,Giovanni Castagne,RB,Aston Villa,Turkey,Premier League,Fullback
+150,Rico Frimpong,RB,Inter Milan,England,Serie A,Falseback
+151,Nahuel Trippier,RB,Aston Villa,Italy,Premier League,Fullback
+152,Rico Frimpong,RB,Stuttgart,Turkey,Bundesliga,Wingback
+153,Denzel Di Lorenzo,RB,Tottenham,Argentina,Premier League,Fullback
+154,Benjamin Alexander-Arnold,RB,Lille,USA,Ligue 1,Fullback
+155,Malo Molina,RB,RB Leipzig,Poland,Bundesliga,Falseback
+156,Ben Trippier,RB,Juventus,Italy,Serie A,Wingback
+157,Achraf Pavard,RB,Manchester United,Germany,Premier League,Fullback
+158,Joao Molina,RB,Lyon,Argentina,Ligue 1,Falseback
+159,Nahuel Pavard,RB,Marseille,Morocco,Ligue 1,Fullback
+160,Diogo Dalot,RB,Dortmund,Italy,Bundesliga,Wingback
+161,Malo James,RB,Valencia,Brazil,La Liga,Attacking Wing Back
+162,Ben Carvajal,RB,Manchester City,Poland,Premier League,Attacking Wing Back
+163,Takehiro Alexander-Arnold,RB,Real Betis,France,La Liga,Fullback
+164,Dani Tomiyasu,RB,Juventus,Morocco,Serie A,Fullback
+165,Pedro Carvajal,RB,Barcelona,USA,La Liga,Falseback
+166,Denzel Dalot,RB,Bologna,Netherlands,Serie A,Wingback
+167,Denzel James,RB,Newcastle,Belgium,Premier League,Wingback
+168,Joao Castagne,RB,Frankfurt,Germany,Bundesliga,Fullback
+169,Kyle Carvajal,RB,Bayer Leverkusen,Spain,Bundesliga,Attacking Wing Back
+170,Pedro Cancelo,RB,Athletic Club,France,La Liga,Wingback
+171,Takehiro Gusto,RB,Manchester United,USA,Premier League,Attacking Wing Back
+172,Jeremie Dumfries,RB,Bayern Munich,Morocco,Bundesliga,Falseback
+173,Reece Tomiyasu,RB,Monaco,England,Ligue 1,Fullback
+174,Malo Di Lorenzo,RB,Brest,Italy,Ligue 1,Falseback
+175,Dani Tomiyasu,RB,Inter Milan,Belgium,Serie A,Falseback
+176,Giovanni Dalot,RB,Lille,Brazil,Ligue 1,Wingback
+177,Nahuel Alexander-Arnold,RB,AC Milan,England,Serie A,Attacking Wing Back
+178,Trent James,RB,Atalanta,Japan,Serie A,Attacking Wing Back
+179,Denzel Walker,RB,Bayern Munich,France,Bundesliga,Wingback
+180,Ben Gusto,RB,PSG,Turkey,Ligue 1,Attacking Wing Back
+181,Pedro Trippier,RB,Atalanta,Spain,Serie A,Fullback
+182,Kieran Molina,RB,Manchester City,Germany,Premier League,Attacking Wing Back
+183,Dani Cancelo,RB,Bayer Leverkusen,Belgium,Bundesliga,Falseback
+184,Takehiro Carvajal,RB,Stuttgart,Brazil,Bundesliga,Fullback
+185,Denzel Wan-Bissaka,RB,Napoli,Brazil,Serie A,Falseback
+186,Reece Dumfries,RB,Bayern Munich,USA,Bundesliga,Wingback
+187,Malo Molina,RB,Manchester City,Japan,Premier League,Falseback
+188,Ben Wan-Bissaka,RB,Tottenham,USA,Premier League,Fullback
+189,Benjamin James,RB,Newcastle,Italy,Premier League,Fullback
+190,Aaron Cancelo,RB,Real Sociedad,Poland,La Liga,Fullback
+191,Achraf Hakimi,RB,Brest,England,Ligue 1,Wingback
+192,Kyle Dumfries,RB,Brighton,Japan,Premier League,Falseback
+193,Rico Di Lorenzo,RB,Dortmund,Japan,Bundesliga,Fullback
+194,Dani Porro,RB,Inter Milan,Morocco,Serie A,Fullback
+195,Achraf Cancelo,RB,Monaco,France,Ligue 1,Attacking Wing Back
+196,Malo Trippier,RB,Inter Milan,Japan,Serie A,Fullback
+197,Ben Hakimi,RB,Juventus,Netherlands,Serie A,Falseback
+198,Ben Molina,RB,Tottenham,Portugal,Premier League,Wingback
+199,Kyle Dalot,RB,Chelsea,Germany,Premier League,Fullback
+200,Nahuel Carvajal,RB,AC Milan,Turkey,Serie A,Attacking Wing Back
+201,Malo Walker,RB,Lille,Portugal,Ligue 1,Fullback
+202,Diogo Carvajal,RB,Valencia,Poland,La Liga,Falseback
+203,Aaron Dalot,RB,Monaco,France,Ligue 1,Attacking Wing Back
+204,Timothy Molina,RB,Bayern Munich,Italy,Bundesliga,Falseback
+205,Takehiro Dumfries,RB,PSG,Belgium,Ligue 1,Attacking Wing Back
+206,Aaron Dumfries,RB,Nice,Brazil,Ligue 1,Attacking Wing Back
+207,Malo Lewis,RB,Frankfurt,Morocco,Bundesliga,Attacking Wing Back
+208,Takehiro Trippier,RB,Tottenham,Netherlands,Premier League,Fullback
+209,Kieran Lewis,RB,Frankfurt,USA,Bundesliga,Attacking Wing Back
+210,Pedro Pavard,RB,Monaco,Germany,Ligue 1,Falseback
+211,Joao Alexander-Arnold,RB,Napoli,France,Serie A,Attacking Wing Back
+212,Kyle White,RB,Lyon,Brazil,Ligue 1,Fullback
+213,Trent Lewis,RB,Inter Milan,Portugal,Serie A,Fullback
+214,Timothy Tomiyasu,RB,Stuttgart,Belgium,Bundesliga,Fullback
+215,Benjamin James,RB,Napoli,USA,Serie A,Fullback
+216,Denzel Wan-Bissaka,RB,Monaco,Portugal,Ligue 1,Wingback
+217,Kyle Porro,RB,Dortmund,Portugal,Bundesliga,Fullback
+218,Kieran Porro,RB,Stuttgart,Argentina,Bundesliga,Attacking Wing Back
+219,Malo Pavard,RB,Barcelona,Germany,La Liga,Attacking Wing Back
+220,Nahuel Wan-Bissaka,RB,Tottenham,Belgium,Premier League,Wingback
+221,Giovanni Alexander-Arnold,RB,Bayer Leverkusen,Netherlands,Bundesliga,Wingback
+222,Kyle Dumfries,RB,Real Madrid,Morocco,La Liga,Falseback
+223,Trent Lewis,RB,Atletico Madrid,England,La Liga,Fullback
+224,Malo Gusto,RB,Frankfurt,France,Bundesliga,Attacking Wing Back
+225,Pedro Tomiyasu,RB,Valencia,Japan,La Liga,Wingback
+226,Ben Tomiyasu,RB,Bologna,Turkey,Serie A,Fullback
+227,Kyle Di Lorenzo,RB,Lyon,Italy,Ligue 1,Attacking Wing Back
+228,Denzel Alexander-Arnold,RB,AS Roma,Japan,Serie A,Fullback
+229,Ben White,RB,Tottenham,Argentina,Premier League,Fullback
+230,Benjamin Carvajal,RB,Bayern Munich,Germany,Bundesliga,Attacking Wing Back
+231,Takehiro Cancelo,RB,Frankfurt,Brazil,Bundesliga,Wingback
+232,Timothy Trippier,RB,Valencia,Portugal,La Liga,Falseback
+233,Timothy Hakimi,RB,Girona,USA,La Liga,Falseback
+234,Timothy Frimpong,RB,Bayer Leverkusen,Belgium,Bundesliga,Attacking Wing Back
+235,Denzel Castagne,RB,Brighton,France,Premier League,Falseback
+236,Kyle Cancelo,RB,Lazio,Japan,Serie A,Attacking Wing Back
+237,Trent Alexander-Arnold,RB,Dortmund,Brazil,Bundesliga,Wingback
+238,Giovanni Carvajal,RB,RB Leipzig,Morocco,Bundesliga,Attacking Wing Back
+239,Takehiro Carvajal,RB,Inter Milan,Portugal,Serie A,Attacking Wing Back
+240,Giovanni Frimpong,RB,Bayern Munich,Belgium,Bundesliga,Falseback
+241,Timothy Pavard,RB,Atalanta,Portugal,Serie A,Attacking Wing Back
+242,Timothy Lewis,RB,Marseille,Argentina,Ligue 1,Wingback
+243,Nahuel Wan-Bissaka,RB,Bayer Leverkusen,Morocco,Bundesliga,Wingback
+244,Kieran White,RB,Juventus,Italy,Serie A,Attacking Wing Back
+245,Jeremie White,RB,Real Betis,England,La Liga,Falseback
+246,Trent White,RB,Dortmund,Italy,Bundesliga,Attacking Wing Back
+247,Pedro Wan-Bissaka,RB,Athletic Club,Japan,La Liga,Wingback
+248,Kieran Gusto,RB,AS Roma,Argentina,Serie A,Falseback
+249,Ben Frimpong,RB,Atalanta,Brazil,Serie A,Fullback
+250,Diogo Walker,RB,Aston Villa,Japan,Premier League,Attacking Wing Back
+251,Diogo Hakimi,RB,Marseille,Brazil,Ligue 1,Fullback
+252,Ben Alexander-Arnold,RB,PSG,France,Ligue 1,Falseback
+253,Reece Trippier,RB,AC Milan,France,Serie A,Attacking Wing Back
+254,Malo White,RB,Lazio,Brazil,Serie A,Attacking Wing Back
+255,Kyle Frimpong,RB,Brest,Netherlands,Ligue 1,Falseback
+256,Takehiro Dumfries,RB,Newcastle,England,Premier League,Fullback
+257,Kyle White,RB,Brest,Morocco,Ligue 1,Fullback
+258,Achraf Di Lorenzo,RB,Newcastle,Argentina,Premier League,Fullback
+259,Benjamin Carvajal,RB,Tottenham,Japan,Premier League,Fullback
+260,Diogo Gusto,RB,Dortmund,Portugal,Bundesliga,Attacking Wing Back
+261,Takehiro Castagne,RB,Lazio,Spain,Serie A,Fullback
+262,Pedro Carvajal,RB,Liverpool,France,Premier League,Fullback
+263,Aaron Trippier,RB,Inter Milan,Italy,Serie A,Attacking Wing Back
+264,Kieran White,RB,Valencia,Italy,La Liga,Fullback
+265,Denzel Trippier,RB,Atletico Madrid,Turkey,La Liga,Wingback
+266,Rico Gusto,RB,Bayer Leverkusen,England,Bundesliga,Fullback
+267,Ben Hakimi,RB,Girona,Brazil,La Liga,Wingback
+268,Joao Pavard,RB,Atalanta,Japan,Serie A,Wingback
+269,Jeremie Carvajal,RB,Real Betis,Portugal,La Liga,Fullback
+270,Denzel Alexander-Arnold,RB,Liverpool,Morocco,Premier League,Falseback
+271,Timothy Tomiyasu,RB,Girona,USA,La Liga,Wingback
+272,Denzel Porro,RB,AC Milan,Netherlands,Serie A,Attacking Wing Back
+273,Diogo White,RB,Arsenal,Turkey,Premier League,Attacking Wing Back
+274,Denzel Di Lorenzo,RB,AS Roma,France,Serie A,Fullback
+275,Takehiro Carvajal,RB,AS Roma,Japan,Serie A,Falseback
+276,Malo Tomiyasu,RB,Real Madrid,Turkey,La Liga,Falseback
+277,Pedro Dalot,RB,Liverpool,Spain,Premier League,Fullback
+278,Diogo Molina,RB,PSG,Poland,Ligue 1,Attacking Wing Back
+279,Giovanni Porro,RB,Juventus,Belgium,Serie A,Fullback
+280,Rico White,RB,Marseille,Spain,Ligue 1,Attacking Wing Back
+281,Trent Hakimi,RB,PSG,USA,Ligue 1,Wingback
+282,Jeremie Wan-Bissaka,RB,Brest,Morocco,Ligue 1,Wingback
+283,Rico White,RB,Arsenal,Belgium,Premier League,Falseback
+284,Timothy Frimpong,RB,Lyon,Spain,Ligue 1,Fullback
+285,Denzel Hakimi,RB,Nice,Belgium,Ligue 1,Falseback
+286,Trent Cancelo,RB,Newcastle,Netherlands,Premier League,Wingback
+287,Aaron Pavard,RB,Lyon,Morocco,Ligue 1,Wingback
+288,Diogo Alexander-Arnold,RB,Napoli,Argentina,Serie A,Falseback
+289,Trent James,RB,Liverpool,Germany,Premier League,Wingback
+290,Timothy Di Lorenzo,RB,Real Madrid,Poland,La Liga,Falseback
+291,Diogo James,RB,PSG,Belgium,Ligue 1,Fullback
+292,Nahuel Trippier,RB,Dortmund,Argentina,Bundesliga,Falseback
+293,Denzel Frimpong,RB,RB Leipzig,England,Bundesliga,Fullback
+294,Ben Di Lorenzo,RB,AC Milan,Belgium,Serie A,Wingback
+295,Reece Carvajal,RB,Aston Villa,England,Premier League,Fullback
+296,Kyle Frimpong,RB,Atletico Madrid,Belgium,La Liga,Falseback
+297,Reece Carvajal,RB,Stuttgart,Belgium,Bundesliga,Fullback
+298,Kieran Cancelo,RB,AS Roma,Italy,Serie A,Fullback
+299,Dani Dalot,RB,RB Leipzig,Netherlands,Bundesliga,Falseback
+300,Timothy Carvajal,RB,West Ham,USA,Premier League,Attacking Wing Back
+301,Ben Porro,RB,Newcastle,Portugal,Premier League,Attacking Wing Back
+302,Diogo Cancelo,RB,Aston Villa,England,Premier League,Falseback
+303,Kieran James,RB,Newcastle,Morocco,Premier League,Falseback
+304,Giovanni Hakimi,RB,Dortmund,Netherlands,Bundesliga,Wingback
+305,Achraf Trippier,RB,Atalanta,Turkey,Serie A,Attacking Wing Back
+306,Kieran Dumfries,RB,Nice,Netherlands,Ligue 1,Falseback
+307,Achraf Carvajal,RB,Liverpool,Belgium,Premier League,Attacking Wing Back
+308,Joao Lewis,RB,Lille,Spain,Ligue 1,Falseback
+309,Giovanni White,RB,Napoli,Poland,Serie A,Falseback
+310,Achraf Tomiyasu,RB,Lyon,France,Ligue 1,Wingback
+311,Achraf Lewis,RB,Lille,England,Ligue 1,Wingback
+312,Reece Cancelo,RB,Bologna,Argentina,Serie A,Fullback
+313,Dani Hakimi,RB,AS Roma,Argentina,Serie A,Falseback
+314,Diogo James,RB,Brest,Germany,Ligue 1,Fullback
+315,Joao Porro,RB,Lazio,Spain,Serie A,Fullback
+316,Takehiro Frimpong,RB,Nice,Germany,Ligue 1,Fullback
+317,Trent Frimpong,RB,Frankfurt,Belgium,Bundesliga,Attacking Wing Back
+318,Denzel Frimpong,RB,Manchester United,Poland,Premier League,Falseback
+319,Denzel Pavard,RB,Real Sociedad,Morocco,La Liga,Falseback
+320,Joao Porro,RB,Liverpool,France,Premier League,Wingback
+321,Timothy Lewis,RB,Brighton,USA,Premier League,Fullback
+322,Benjamin Lewis,RB,Tottenham,Turkey,Premier League,Falseback
+323,Ben Carvajal,RB,Frankfurt,Belgium,Bundesliga,Wingback
+324,Kieran Gusto,RB,Brighton,Brazil,Premier League,Wingback
+325,Aaron Trippier,RB,Juventus,France,Serie A,Falseback
+326,Nahuel Di Lorenzo,RB,Tottenham,Turkey,Premier League,Fullback
+327,Timothy Wan-Bissaka,RB,PSG,Belgium,Ligue 1,Wingback
+328,Giovanni Lewis,RB,Nice,Poland,Ligue 1,Wingback
+329,Malo White,RB,Brest,Netherlands,Ligue 1,Fullback
+330,Benjamin Carvajal,RB,AC Milan,Turkey,Serie A,Fullback
+331,Diogo Tomiyasu,RB,Nice,Germany,Ligue 1,Attacking Wing Back
+332,Takehiro Carvajal,RB,Frankfurt,France,Bundesliga,Wingback
+333,Dani Dumfries,RB,Monaco,France,Ligue 1,Wingback
+334,Joao Carvajal,RB,Lille,England,Ligue 1,Attacking Wing Back
+335,Joao Wan-Bissaka,RB,Dortmund,Poland,Bundesliga,Falseback
+336,Pedro Dumfries,RB,Lazio,Morocco,Serie A,Falseback
+337,Jeremie Dumfries,RB,Lille,England,Ligue 1,Falseback
+338,Joao Frimpong,RB,AC Milan,Argentina,Serie A,Falseback
+339,Joao Trippier,RB,Monaco,Japan,Ligue 1,Wingback
+340,Reece Dalot,RB,Monaco,England,Ligue 1,Wingback
+341,Dani Lewis,RB,Valencia,Turkey,La Liga,Attacking Wing Back
+342,Dani Castagne,RB,Dortmund,Portugal,Bundesliga,Wingback
+343,Benjamin Molina,RB,Athletic Club,France,La Liga,Wingback
+344,Trent Cancelo,RB,Bayer Leverkusen,Belgium,Bundesliga,Attacking Wing Back
+345,Trent Walker,RB,Bologna,Japan,Serie A,Fullback
+346,Ben Pavard,RB,Real Sociedad,Portugal,La Liga,Falseback
+347,Nahuel Di Lorenzo,RB,Nice,Germany,Ligue 1,Falseback
+348,Joao Hakimi,RB,Stuttgart,Japan,Bundesliga,Attacking Wing Back
+349,Giovanni Di Lorenzo,RB,Stuttgart,Argentina,Bundesliga,Wingback
+350,Ben Walker,RB,Napoli,Turkey,Serie A,Falseback
+351,Dani Wan-Bissaka,RB,Inter Milan,Netherlands,Serie A,Wingback
+352,Ben Walker,RB,Athletic Club,Spain,La Liga,Falseback
+353,Pedro Pavard,RB,Lyon,Belgium,Ligue 1,Fullback
+354,Pedro Alexander-Arnold,RB,Frankfurt,Morocco,Bundesliga,Fullback
+355,Pedro Alexander-Arnold,RB,Nice,England,Ligue 1,Falseback
+356,Pedro White,RB,Newcastle,England,Premier League,Wingback
+357,Kyle Gusto,RB,Liverpool,Turkey,Premier League,Attacking Wing Back
+358,Giovanni Hakimi,RB,Manchester United,Spain,Premier League,Falseback
+359,Rico Hakimi,RB,Bayern Munich,Turkey,Bundesliga,Fullback
+360,Pedro Molina,RB,Lazio,Turkey,Serie A,Falseback
+361,Takehiro Tomiyasu,RB,PSG,Italy,Ligue 1,Wingback
+362,Joao Pavard,RB,Valencia,England,La Liga,Attacking Wing Back
+363,Joao Wan-Bissaka,RB,Brest,Argentina,Ligue 1,Attacking Wing Back
+364,Aaron Tomiyasu,RB,Real Madrid,Portugal,La Liga,Attacking Wing Back
+365,Kyle Porro,RB,Atalanta,Portugal,Serie A,Attacking Wing Back
+366,Ben Porro,RB,Chelsea,Portugal,Premier League,Wingback
+367,Joao Frimpong,RB,Marseille,Spain,Ligue 1,Fullback
+368,Jeremie White,RB,RB Leipzig,USA,Bundesliga,Fullback
+369,Ben Castagne,RB,Dortmund,Turkey,Bundesliga,Falseback
+370,Joao Gusto,RB,Barcelona,Portugal,La Liga,Fullback
+371,Dani Trippier,RB,Chelsea,Turkey,Premier League,Fullback
+372,Pedro Hakimi,RB,Atalanta,France,Serie A,Fullback
+373,Diogo Dumfries,RB,Real Sociedad,Spain,La Liga,Wingback
+374,Denzel Castagne,RB,West Ham,Portugal,Premier League,Falseback
+375,Rico Hakimi,RB,Girona,England,La Liga,Falseback
+376,Trent Dumfries,RB,Stuttgart,Argentina,Bundesliga,Attacking Wing Back
+377,Trent Dumfries,RB,Arsenal,Netherlands,Premier League,Falseback
+378,Jeremie Dumfries,RB,Napoli,Turkey,Serie A,Fullback
+379,Rico White,RB,Newcastle,Turkey,Premier League,Attacking Wing Back
+380,Ben White,RB,Athletic Club,Portugal,La Liga,Wingback
+381,Malo Alexander-Arnold,RB,RB Leipzig,England,Bundesliga,Wingback
+382,Rico White,RB,Manchester City,Argentina,Premier League,Wingback
+383,Rico Trippier,RB,Lazio,Belgium,Serie A,Falseback
+384,Denzel Carvajal,RB,Arsenal,Japan,Premier League,Attacking Wing Back
+385,Diogo Carvajal,RB,Dortmund,Japan,Bundesliga,Wingback
+386,Diogo Porro,RB,Juventus,Turkey,Serie A,Falseback
+387,Giovanni Lewis,RB,Marseille,Belgium,Ligue 1,Fullback
+388,Benjamin Di Lorenzo,RB,Marseille,Italy,Ligue 1,Attacking Wing Back
+389,Dani Gusto,RB,AS Roma,Belgium,Serie A,Wingback
+390,Reece Hakimi,RB,Real Betis,Spain,La Liga,Attacking Wing Back
+391,Giovanni Carvajal,RB,Lyon,Poland,Ligue 1,Falseback
+392,Pedro Gusto,RB,PSG,Brazil,Ligue 1,Wingback
+393,Achraf Carvajal,RB,Inter Milan,Japan,Serie A,Wingback
+394,Nahuel Lewis,RB,Liverpool,Portugal,Premier League,Fullback
+395,Kieran Trippier,RB,Arsenal,USA,Premier League,Wingback
+396,Nahuel Pavard,RB,Brighton,Poland,Premier League,Attacking Wing Back
+397,Nahuel Cancelo,RB,Tottenham,Turkey,Premier League,Wingback
+398,Takehiro Frimpong,RB,Juventus,Japan,Serie A,Fullback
+399,Dani James,RB,Nice,Argentina,Ligue 1,Attacking Wing Back
+400,Reece Pavard,RB,Lazio,Japan,Serie A,Fullback
+401,Ben Molina,RB,AC Milan,Turkey,Serie A,Fullback
+402,Kieran Frimpong,RB,Bayern Munich,Turkey,Bundesliga,Wingback
+403,Reece Wan-Bissaka,RB,Aston Villa,Portugal,Premier League,Wingback
+404,Timothy Pavard,RB,Real Madrid,Argentina,La Liga,Falseback
+405,Dani Dalot,RB,AC Milan,Turkey,Serie A,Falseback
+406,Rico Carvajal,RB,Lazio,England,Serie A,Wingback
+407,Rico Walker,RB,Chelsea,Morocco,Premier League,Attacking Wing Back
+408,Benjamin Tomiyasu,RB,Bologna,Netherlands,Serie A,Fullback
+409,Jeremie Carvajal,RB,PSG,Morocco,Ligue 1,Falseback
+410,Dani Frimpong,RB,Real Sociedad,Turkey,La Liga,Falseback
+411,Giovanni Dalot,RB,Real Betis,Belgium,La Liga,Wingback
+412,Timothy Hakimi,RB,Valencia,Japan,La Liga,Attacking Wing Back
+413,Diogo Frimpong,RB,Bayer Leverkusen,England,Bundesliga,Wingback
+414,Trent Di Lorenzo,RB,Marseille,England,Ligue 1,Attacking Wing Back
+415,Jeremie Gusto,RB,Athletic Club,Brazil,La Liga,Wingback
+416,Benjamin Porro,RB,Atalanta,Germany,Serie A,Wingback
+417,Kyle Trippier,RB,Napoli,Morocco,Serie A,Wingback
+418,Rico Tomiyasu,RB,Real Betis,Portugal,La Liga,Fullback
+419,Denzel Dalot,RB,Athletic Club,Netherlands,La Liga,Fullback
+420,Reece Gusto,RB,Manchester City,England,Premier League,Fullback
+421,Trent James,RB,Real Madrid,Germany,La Liga,Fullback
+422,Trent Dalot,RB,Manchester United,Turkey,Premier League,Wingback
+423,Nahuel Dumfries,RB,Atalanta,France,Serie A,Falseback
+424,Rico Pavard,RB,Juventus,France,Serie A,Falseback
+425,Nahuel Lewis,RB,Liverpool,Spain,Premier League,Attacking Wing Back
+426,Diogo White,RB,Arsenal,England,Premier League,Fullback
+427,Giovanni Carvajal,RB,Juventus,Japan,Serie A,Attacking Wing Back
+428,Takehiro Cancelo,RB,Lyon,Brazil,Ligue 1,Wingback
+429,Nahuel Carvajal,RB,Bayern Munich,Belgium,Bundesliga,Falseback
+430,Kyle Tomiyasu,RB,AS Roma,Spain,Serie A,Fullback
+431,Pedro Castagne,RB,Dortmund,Portugal,Bundesliga,Attacking Wing Back
+432,Jeremie Pavard,RB,Manchester City,Turkey,Premier League,Falseback
+433,Benjamin Trippier,RB,AS Roma,England,Serie A,Fullback
+434,Trent Dalot,RB,Athletic Club,USA,La Liga,Fullback
+435,Rico Di Lorenzo,RB,AS Roma,Poland,Serie A,Attacking Wing Back
+436,Pedro Porro,RB,Aston Villa,Netherlands,Premier League,Fullback
+437,Malo Frimpong,RB,PSG,Belgium,Ligue 1,Fullback
+438,Diogo Lewis,RB,Valencia,Morocco,La Liga,Attacking Wing Back
+439,Pedro Frimpong,RB,Juventus,France,Serie A,Falseback
+440,Diogo Tomiyasu,RB,Valencia,Italy,La Liga,Fullback
+441,Pedro Castagne,RB,Newcastle,Belgium,Premier League,Wingback
+442,Timothy Tomiyasu,RB,Tottenham,France,Premier League,Attacking Wing Back
+443,Achraf Pavard,RB,Barcelona,England,La Liga,Fullback
+444,Ben Cancelo,RB,Bayern Munich,Turkey,Bundesliga,Fullback
+445,Reece Porro,RB,AC Milan,Turkey,Serie A,Fullback
+446,Denzel Tomiyasu,RB,Athletic Club,France,La Liga,Wingback
+447,Diogo Dumfries,RB,Liverpool,Spain,Premier League,Wingback
+448,Diogo Cancelo,RB,Real Betis,Poland,La Liga,Falseback
+449,Pedro Carvajal,RB,Tottenham,Brazil,Premier League,Fullback
+450,Benjamin Hakimi,RB,Barcelona,Morocco,La Liga,Wingback
+451,Benjamin Hakimi,RB,Tottenham,Portugal,Premier League,Attacking Wing Back
+452,Diogo Gusto,RB,Bologna,Belgium,Serie A,Wingback
+453,Trent Lewis,RB,Brest,Brazil,Ligue 1,Attacking Wing Back
+454,Diogo Castagne,RB,AC Milan,Turkey,Serie A,Wingback
+455,Giovanni James,RB,Valencia,Poland,La Liga,Attacking Wing Back
+456,Denzel Di Lorenzo,RB,Inter Milan,Italy,Serie A,Fullback
+457,Achraf Cancelo,RB,Dortmund,USA,Bundesliga,Attacking Wing Back
+458,Nahuel Lewis,RB,AS Roma,USA,Serie A,Falseback
+459,Joao Castagne,RB,Girona,USA,La Liga,Falseback
+460,Kyle Porro,RB,Lille,Italy,Ligue 1,Fullback
+461,Takehiro Gusto,RB,Manchester City,Brazil,Premier League,Wingback
+462,Jeremie Trippier,RB,Real Sociedad,Germany,La Liga,Fullback
+463,Kyle Lewis,RB,West Ham,Argentina,Premier League,Fullback
+464,Malo Trippier,RB,RB Leipzig,Belgium,Bundesliga,Falseback
+465,Achraf Walker,RB,West Ham,Argentina,Premier League,Falseback
+466,Joao Frimpong,RB,Frankfurt,Japan,Bundesliga,Attacking Wing Back
+467,Diogo Trippier,RB,AC Milan,Morocco,Serie A,Fullback
+468,Pedro Wan-Bissaka,RB,Nice,Turkey,Ligue 1,Attacking Wing Back
+469,Benjamin Cancelo,RB,Real Sociedad,France,La Liga,Falseback
+470,Dani Wan-Bissaka,RB,Girona,Japan,La Liga,Fullback
+471,Joao Molina,RB,Inter Milan,Portugal,Serie A,Falseback
+472,Takehiro Gusto,RB,PSG,Spain,Ligue 1,Fullback
+473,Jeremie Pavard,RB,Dortmund,Italy,Bundesliga,Fullback
+474,Takehiro Di Lorenzo,RB,Nice,Portugal,Ligue 1,Falseback
+475,Giovanni Molina,RB,Brest,USA,Ligue 1,Wingback
+476,Denzel Dumfries,RB,Real Madrid,Morocco,La Liga,Falseback
+477,Diogo Alexander-Arnold,RB,Dortmund,Poland,Bundesliga,Falseback
+478,Timothy Walker,RB,Real Madrid,USA,La Liga,Wingback
+479,Malo Frimpong,RB,Arsenal,USA,Premier League,Fullback
+480,Joao Frimpong,RB,Marseille,Spain,Ligue 1,Attacking Wing Back
+481,Ben Pavard,RB,AS Roma,Brazil,Serie A,Wingback
+482,Denzel Di Lorenzo,RB,Atletico Madrid,Netherlands,La Liga,Attacking Wing Back
+483,Ben Tomiyasu,RB,Aston Villa,Germany,Premier League,Wingback
+484,Kieran Molina,RB,Chelsea,Brazil,Premier League,Attacking Wing Back
+485,Achraf Hakimi,RB,Girona,Spain,La Liga,Falseback
+486,Trent Carvajal,RB,Lille,Portugal,Ligue 1,Falseback
+487,Ben Lewis,RB,Lyon,Italy,Ligue 1,Wingback
+488,Reece Pavard,RB,Inter Milan,Morocco,Serie A,Fullback
+489,Ben Lewis,RB,Arsenal,USA,Premier League,Fullback
+490,Aaron Walker,RB,Newcastle,France,Premier League,Wingback
+491,Ben Castagne,RB,Napoli,France,Serie A,Wingback
+492,Reece James,RB,RB Leipzig,Turkey,Bundesliga,Fullback
+493,Takehiro Dumfries,RB,Bologna,Morocco,Serie A,Falseback
+494,Nahuel Lewis,RB,Chelsea,Japan,Premier League,Wingback
+495,Reece White,RB,Lille,Turkey,Ligue 1,Attacking Wing Back
+496,Kyle Molina,RB,RB Leipzig,Portugal,Bundesliga,Wingback
+497,Dani Tomiyasu,RB,Marseille,Poland,Ligue 1,Falseback
+498,Kieran Alexander-Arnold,RB,Atletico Madrid,Morocco,La Liga,Attacking Wing Back
+499,Joao Tomiyasu,RB,AS Roma,France,Serie A,Falseback
+500,Benjamin Di Lorenzo,RB,Bologna,Morocco,Serie A,Fullback
+501,Nahuel Alexander-Arnold,RB,Bayern Munich,Italy,Bundesliga,Falseback
+502,Kieran Trippier,RB,Bologna,Belgium,Serie A,Wingback
+503,Jeremie Gusto,RB,Lille,France,Ligue 1,Wingback
+504,Jeremie James,RB,Dortmund,Italy,Bundesliga,Falseback
+505,Achraf Di Lorenzo,RB,Lazio,Japan,Serie A,Attacking Wing Back
+506,Aaron Wan-Bissaka,RB,Barcelona,England,La Liga,Wingback
+507,Denzel Walker,RB,Napoli,Japan,Serie A,Fullback
+508,Timothy Alexander-Arnold,RB,AC Milan,Spain,Serie A,Attacking Wing Back
+509,Timothy Carvajal,RB,Lazio,Morocco,Serie A,Wingback
+510,Denzel James,RB,Barcelona,Poland,La Liga,Falseback
+511,Joao Gusto,RB,Real Sociedad,Turkey,La Liga,Wingback
+512,Takehiro Frimpong,RB,RB Leipzig,Turkey,Bundesliga,Attacking Wing Back
+513,Timothy Gusto,RB,Dortmund,Argentina,Bundesliga,Falseback
+514,Joao Gusto,RB,Lyon,Belgium,Ligue 1,Wingback
+515,Reece Dumfries,RB,Barcelona,Poland,La Liga,Attacking Wing Back
+516,Kieran Hakimi,RB,Nice,Morocco,Ligue 1,Attacking Wing Back
+517,Denzel Tomiyasu,RB,Monaco,Portugal,Ligue 1,Fullback
+518,Kieran Dalot,RB,Bologna,Belgium,Serie A,Attacking Wing Back
+519,Dani Gusto,RB,Dortmund,Belgium,Bundesliga,Wingback
+520,Pedro Hakimi,RB,Frankfurt,Germany,Bundesliga,Wingback
+521,Rico Hakimi,RB,Valencia,Brazil,La Liga,Attacking Wing Back
+522,Nahuel Pavard,RB,Valencia,Spain,La Liga,Wingback
+523,Denzel Cancelo,RB,West Ham,Brazil,Premier League,Attacking Wing Back
+524,Diogo Molina,RB,Bologna,Argentina,Serie A,Attacking Wing Back
+525,Ben Hakimi,RB,Real Sociedad,France,La Liga,Wingback
+526,Dani Di Lorenzo,RB,Lazio,Portugal,Serie A,Wingback
+527,Jeremie Cancelo,RB,Real Madrid,Spain,La Liga,Attacking Wing Back
+528,Reece Tomiyasu,RB,Athletic Club,Belgium,La Liga,Fullback
+529,Jeremie Frimpong,RB,Monaco,Morocco,Ligue 1,Wingback
+530,Takehiro Frimpong,RB,Valencia,Poland,La Liga,Fullback
+531,Trent Wan-Bissaka,RB,Manchester United,Belgium,Premier League,Fullback
+532,Kyle Cancelo,RB,Athletic Club,Belgium,La Liga,Falseback
+533,Achraf Lewis,RB,Juventus,Belgium,Serie A,Falseback
+534,Reece Lewis,RB,Newcastle,Germany,Premier League,Falseback
+535,Kieran Porro,RB,Real Betis,France,La Liga,Falseback
+536,Denzel Lewis,RB,Real Sociedad,Portugal,La Liga,Fullback
+537,Benjamin Molina,RB,Valencia,Brazil,La Liga,Fullback
+538,Nahuel Tomiyasu,RB,Stuttgart,Brazil,Bundesliga,Falseback
+539,Timothy Wan-Bissaka,RB,Barcelona,Germany,La Liga,Wingback
+540,Malo Tomiyasu,RB,Lazio,Belgium,Serie A,Falseback
+541,Kieran Hakimi,RB,Atletico Madrid,Turkey,La Liga,Fullback
+542,Benjamin Trippier,RB,Monaco,Argentina,Ligue 1,Attacking Wing Back
+543,Trent Di Lorenzo,RB,Monaco,Germany,Ligue 1,Attacking Wing Back
+544,Takehiro Di Lorenzo,RB,Tottenham,Portugal,Premier League,Wingback
+545,Rico Molina,RB,Aston Villa,Japan,Premier League,Fullback
+546,Kyle Castagne,RB,Chelsea,Belgium,Premier League,Attacking Wing Back
+547,Denzel Carvajal,RB,Nice,Netherlands,Ligue 1,Attacking Wing Back
+548,Reece Cancelo,RB,Bayern Munich,Netherlands,Bundesliga,Attacking Wing Back
+549,Ben Hakimi,RB,Barcelona,England,La Liga,Wingback
+550,Denzel White,RB,Aston Villa,Belgium,Premier League,Fullback
+551,Achraf Porro,RB,Bologna,Argentina,Serie A,Wingback
+552,Giovanni Hakimi,RB,Bologna,Germany,Serie A,Falseback
+553,Jeremie Dumfries,RB,Nice,Poland,Ligue 1,Attacking Wing Back
+554,Achraf Frimpong,RB,Real Madrid,Japan,La Liga,Fullback
+555,Denzel Molina,RB,Tottenham,Argentina,Premier League,Attacking Wing Back
+556,Takehiro Dumfries,RB,Arsenal,Poland,Premier League,Falseback
+557,Ben Gusto,RB,Napoli,Morocco,Serie A,Wingback
+558,Kieran Tomiyasu,RB,Bayer Leverkusen,France,Bundesliga,Falseback
+559,Diogo Molina,RB,Atletico Madrid,England,La Liga,Attacking Wing Back
+560,Kyle Walker,RB,Newcastle,Italy,Premier League,Fullback
+561,Jeremie Pavard,RB,Brighton,Germany,Premier League,Wingback
+562,Reece Molina,RB,Barcelona,USA,La Liga,Wingback
+563,Joao Alexander-Arnold,RB,Dortmund,France,Bundesliga,Attacking Wing Back
+564,Pedro Pavard,RB,Bayer Leverkusen,France,Bundesliga,Attacking Wing Back
+565,Nahuel Di Lorenzo,RB,West Ham,France,Premier League,Falseback
+566,Dani Trippier,RB,AS Roma,Brazil,Serie A,Attacking Wing Back
+567,Timothy Di Lorenzo,RB,Liverpool,USA,Premier League,Falseback
+568,Malo Di Lorenzo,RB,Bayer Leverkusen,Belgium,Bundesliga,Fullback
+569,Joao Trippier,RB,PSG,Portugal,Ligue 1,Attacking Wing Back
+570,Aaron Molina,RB,AC Milan,Brazil,Serie A,Fullback
+571,Jeremie Carvajal,RB,PSG,USA,Ligue 1,Fullback
+572,Ben Gusto,RB,Juventus,Japan,Serie A,Fullback
+573,Trent Castagne,RB,Dortmund,Morocco,Bundesliga,Wingback
+574,Takehiro Trippier,RB,Aston Villa,USA,Premier League,Falseback
+575,Benjamin Walker,RB,Real Sociedad,France,La Liga,Attacking Wing Back
+576,Aaron Castagne,RB,Tottenham,Belgium,Premier League,Attacking Wing Back
+577,Dani Porro,RB,Nice,Germany,Ligue 1,Falseback
+578,Aaron Castagne,RB,Monaco,USA,Ligue 1,Falseback
+579,Dani Hakimi,RB,Manchester United,Germany,Premier League,Attacking Wing Back
+580,Giovanni Alexander-Arnold,RB,Athletic Club,Turkey,La Liga,Attacking Wing Back
+581,Trent James,RB,Stuttgart,Japan,Bundesliga,Attacking Wing Back
+582,Dani Trippier,RB,Real Madrid,USA,La Liga,Wingback
+583,Timothy Molina,RB,Manchester City,England,Premier League,Falseback
+584,Jeremie Tomiyasu,RB,Lazio,Morocco,Serie A,Falseback
+585,Giovanni Tomiyasu,RB,Stuttgart,Poland,Bundesliga,Attacking Wing Back
+586,Denzel Hakimi,RB,Athletic Club,Argentina,La Liga,Fullback
+587,Takehiro Wan-Bissaka,RB,Manchester City,Morocco,Premier League,Wingback
+588,Diogo James,RB,AC Milan,USA,Serie A,Fullback
+589,Benjamin Tomiyasu,RB,Dortmund,Morocco,Bundesliga,Falseback
+590,Timothy Porro,RB,AS Roma,France,Serie A,Falseback
+591,Diogo Dalot,RB,AS Roma,Argentina,Serie A,Falseback
+592,Kieran Porro,RB,West Ham,Japan,Premier League,Wingback
+593,Diogo Tomiyasu,RB,Nice,Brazil,Ligue 1,Falseback
+594,Malo Trippier,RB,Bayern Munich,Belgium,Bundesliga,Falseback
+595,Dani Carvajal,RB,Frankfurt,Spain,Bundesliga,Fullback
+596,Achraf Di Lorenzo,RB,Dortmund,Argentina,Bundesliga,Wingback
+597,Benjamin James,RB,West Ham,Morocco,Premier League,Fullback
+598,Malo Cancelo,RB,Manchester United,Netherlands,Premier League,Attacking Wing Back
+599,Aaron Walker,RB,Napoli,Turkey,Serie A,Wingback
+600,Kieran Di Lorenzo,RB,Real Sociedad,Belgium,La Liga,Falseback
+601,Benjamin Alexander-Arnold,RB,Nice,Belgium,Ligue 1,Wingback
+602,Denzel Molina,RB,Frankfurt,Morocco,Bundesliga,Fullback
+603,Kyle Pavard,RB,Monaco,Portugal,Ligue 1,Wingback
+604,Ben Di Lorenzo,RB,Real Sociedad,USA,La Liga,Falseback
+605,Ben Trippier,RB,Bologna,Spain,Serie A,Wingback
+606,Aaron Hakimi,RB,Frankfurt,Japan,Bundesliga,Wingback
+607,Joao Alexander-Arnold,RB,Arsenal,Argentina,Premier League,Falseback
+608,Pedro Lewis,RB,Atalanta,Turkey,Serie A,Falseback
+609,Denzel James,RB,Real Betis,Germany,La Liga,Falseback
+610,Pedro Tomiyasu,RB,Barcelona,Belgium,La Liga,Falseback
+611,Giovanni Porro,RB,Chelsea,Belgium,Premier League,Fullback
+612,Ben Castagne,RB,Dortmund,Brazil,Bundesliga,Fullback
+613,Malo Di Lorenzo,RB,Marseille,Argentina,Ligue 1,Falseback
+614,Diogo Porro,RB,Lille,Italy,Ligue 1,Fullback
+615,Denzel Hakimi,RB,PSG,Netherlands,Ligue 1,Fullback
+616,Kyle Dumfries,RB,AS Roma,Poland,Serie A,Attacking Wing Back
+617,Pedro Hakimi,RB,Real Betis,Portugal,La Liga,Wingback
+618,Malo Di Lorenzo,RB,Lille,Germany,Ligue 1,Falseback
+619,Aaron Dalot,RB,Brighton,Argentina,Premier League,Fullback
+620,Timothy White,RB,Dortmund,Brazil,Bundesliga,Falseback
+621,Kieran Tomiyasu,RB,Brest,France,Ligue 1,Wingback
+622,Denzel Carvajal,RB,Stuttgart,England,Bundesliga,Wingback
+623,Malo Di Lorenzo,RB,Lille,Argentina,Ligue 1,Wingback
+624,Dani Hakimi,RB,Marseille,Argentina,Ligue 1,Attacking Wing Back
+625,Diogo White,RB,Bayern Munich,Italy,Bundesliga,Attacking Wing Back
+626,Trent Wan-Bissaka,RB,Bologna,Japan,Serie A,Attacking Wing Back
+627,Trent Trippier,RB,Lyon,Spain,Ligue 1,Wingback
+628,Kieran Wan-Bissaka,RB,Napoli,England,Serie A,Fullback
+629,Nahuel Pavard,RB,Athletic Club,France,La Liga,Wingback
+630,Joao Gusto,RB,Dortmund,Poland,Bundesliga,Attacking Wing Back
+631,Malo James,RB,Girona,Portugal,La Liga,Falseback
+632,Reece Dalot,RB,Liverpool,Germany,Premier League,Fullback
+633,Aaron Pavard,RB,Dortmund,Turkey,Bundesliga,Falseback
+634,Reece Pavard,RB,AC Milan,France,Serie A,Falseback
+635,Ben Frimpong,RB,Dortmund,Brazil,Bundesliga,Falseback
+636,Dani Alexander-Arnold,RB,Chelsea,Japan,Premier League,Attacking Wing Back
+637,Dani Gusto,RB,Barcelona,England,La Liga,Falseback
+638,Benjamin Dumfries,RB,Liverpool,Spain,Premier League,Wingback
+639,Aaron James,RB,Brest,USA,Ligue 1,Fullback
+640,Jeremie Frimpong,RB,Stuttgart,Brazil,Bundesliga,Falseback
+641,Rico Walker,RB,Marseille,Brazil,Ligue 1,Attacking Wing Back
+642,Pedro Hakimi,RB,Aston Villa,Netherlands,Premier League,Falseback
+643,Trent Wan-Bissaka,RB,AC Milan,Poland,Serie A,Wingback
+644,Diogo Dumfries,RB,Real Betis,Morocco,La Liga,Wingback
+645,Benjamin Carvajal,RB,Marseille,USA,Ligue 1,Attacking Wing Back
+646,Jeremie Molina,RB,Lille,England,Ligue 1,Fullback
+647,Ben Gusto,RB,Lazio,USA,Serie A,Falseback
+648,Ben Alexander-Arnold,RB,Dortmund,Argentina,Bundesliga,Fullback
+649,Benjamin Hakimi,RB,Real Betis,France,La Liga,Falseback
+650,Joao Dumfries,RB,Frankfurt,Japan,Bundesliga,Fullback
+651,Ben Walker,RB,Atletico Madrid,Belgium,La Liga,Fullback
+652,Diogo Lewis,RB,Bologna,Turkey,Serie A,Attacking Wing Back
+653,Giovanni Trippier,RB,Inter Milan,Belgium,Serie A,Attacking Wing Back
+654,Rico Molina,RB,Real Madrid,Portugal,La Liga,Fullback
+655,Achraf Wan-Bissaka,RB,Atalanta,Brazil,Serie A,Fullback
+656,Takehiro James,RB,Stuttgart,Japan,Bundesliga,Wingback
+657,Kyle Di Lorenzo,RB,Atalanta,Netherlands,Serie A,Falseback
+658,Joao Hakimi,RB,AS Roma,Brazil,Serie A,Fullback
+659,Malo Lewis,RB,PSG,Belgium,Ligue 1,Attacking Wing Back
+660,Benjamin Alexander-Arnold,RB,Dortmund,Japan,Bundesliga,Wingback
+661,Reece White,RB,Frankfurt,Spain,Bundesliga,Falseback
+662,Dani Alexander-Arnold,RB,Stuttgart,Germany,Bundesliga,Wingback
+663,Achraf James,RB,Real Betis,Germany,La Liga,Attacking Wing Back
+664,Trent Hakimi,RB,Liverpool,Japan,Premier League,Fullback
+665,Kieran Trippier,RB,Athletic Club,Japan,La Liga,Falseback
+666,Benjamin James,RB,Arsenal,Belgium,Premier League,Falseback
+667,Jeremie Pavard,RB,Dortmund,England,Bundesliga,Falseback
+668,Aaron Carvajal,RB,Manchester City,Netherlands,Premier League,Attacking Wing Back
+669,Kyle Wan-Bissaka,RB,Inter Milan,Spain,Serie A,Falseback
+670,Benjamin White,RB,Real Sociedad,Belgium,La Liga,Fullback
+671,Giovanni Frimpong,RB,RB Leipzig,Portugal,Bundesliga,Fullback
+672,Malo Pavard,RB,Bayern Munich,USA,Bundesliga,Fullback
+673,Jeremie Frimpong,RB,Newcastle,Turkey,Premier League,Fullback
+674,Denzel James,RB,Tottenham,Japan,Premier League,Fullback
+675,Ben Lewis,RB,Real Betis,Morocco,La Liga,Fullback
+676,Diogo Frimpong,RB,Valencia,Netherlands,La Liga,Fullback
+677,Joao Tomiyasu,RB,Chelsea,Japan,Premier League,Fullback
+678,Giovanni Molina,RB,Marseille,Morocco,Ligue 1,Fullback
+679,Timothy Tomiyasu,RB,Barcelona,Belgium,La Liga,Falseback
+680,Joao Dalot,RB,Liverpool,Spain,Premier League,Falseback
+681,Ben Pavard,RB,West Ham,Netherlands,Premier League,Wingback
+682,Denzel Porro,RB,Bayer Leverkusen,Argentina,Bundesliga,Wingback
+683,Achraf Di Lorenzo,RB,Valencia,Turkey,La Liga,Falseback
+684,Reece Frimpong,RB,Bayern Munich,Belgium,Bundesliga,Attacking Wing Back
+685,Timothy Dumfries,RB,Marseille,Morocco,Ligue 1,Attacking Wing Back
+686,Takehiro Walker,RB,Atletico Madrid,Morocco,La Liga,Falseback
+687,Dani Gusto,RB,Real Madrid,Poland,La Liga,Wingback
+688,Rico Porro,RB,Marseille,Germany,Ligue 1,Attacking Wing Back
+689,Benjamin Alexander-Arnold,RB,Manchester United,Netherlands,Premier League,Falseback
+690,Denzel Carvajal,RB,Stuttgart,Portugal,Bundesliga,Fullback
+691,Kyle Molina,RB,Newcastle,Morocco,Premier League,Fullback
+692,Diogo Lewis,RB,Tottenham,Argentina,Premier League,Falseback
+693,Reece Frimpong,RB,Athletic Club,Morocco,La Liga,Fullback
+694,Reece Porro,RB,Arsenal,England,Premier League,Wingback
+695,Jeremie Cancelo,RB,Tottenham,Belgium,Premier League,Fullback
+696,Joao Pavard,RB,Atalanta,Japan,Serie A,Falseback
+697,Achraf Castagne,RB,Real Sociedad,Netherlands,La Liga,Falseback
+698,Jeremie Tomiyasu,RB,Manchester United,Germany,Premier League,Falseback
+699,Kieran Porro,RB,Atletico Madrid,Germany,La Liga,Attacking Wing Back
+700,Kyle Castagne,RB,Manchester United,Argentina,Premier League,Falseback
+701,Diogo Lewis,RB,Juventus,Argentina,Serie A,Attacking Wing Back
+702,Jeremie Dumfries,RB,Real Madrid,Italy,La Liga,Fullback
+703,Diogo Carvajal,RB,Newcastle,Germany,Premier League,Wingback
+704,Timothy Pavard,RB,Stuttgart,Germany,Bundesliga,Falseback
+705,Giovanni Castagne,RB,Inter Milan,Germany,Serie A,Attacking Wing Back
+706,Jeremie Alexander-Arnold,RB,Bayer Leverkusen,France,Bundesliga,Wingback
+707,Denzel Molina,RB,Brighton,Belgium,Premier League,Falseback
+708,Kieran Trippier,RB,Brest,Argentina,Ligue 1,Fullback
+709,Joao Molina,RB,Real Sociedad,France,La Liga,Wingback
+710,Nahuel Cancelo,RB,Girona,Poland,La Liga,Attacking Wing Back
+711,Jeremie Lewis,RB,Barcelona,Spain,La Liga,Attacking Wing Back
+712,Dani Tomiyasu,RB,Bologna,Turkey,Serie A,Falseback
+713,Aaron Tomiyasu,RB,Aston Villa,Brazil,Premier League,Fullback
+714,Ben Wan-Bissaka,RB,Real Betis,Turkey,La Liga,Falseback
+715,Jeremie Dalot,RB,Inter Milan,Brazil,Serie A,Attacking Wing Back
+716,Benjamin Cancelo,RB,Girona,Belgium,La Liga,Attacking Wing Back
+717,Giovanni Porro,RB,Stuttgart,Brazil,Bundesliga,Wingback
+718,Takehiro Tomiyasu,RB,Lazio,Belgium,Serie A,Attacking Wing Back
+719,Denzel Cancelo,RB,RB Leipzig,Poland,Bundesliga,Wingback
+720,Joao Lewis,RB,Juventus,Morocco,Serie A,Falseback
+721,Benjamin Lewis,RB,Monaco,Morocco,Ligue 1,Falseback
+722,Diogo Porro,RB,Juventus,Japan,Serie A,Wingback
+723,Benjamin Di Lorenzo,RB,Athletic Club,Netherlands,La Liga,Attacking Wing Back
+724,Takehiro Molina,RB,Manchester City,England,Premier League,Attacking Wing Back
+725,Benjamin Frimpong,RB,Frankfurt,Germany,Bundesliga,Fullback
+726,Pedro Castagne,RB,Bayern Munich,Belgium,Bundesliga,Fullback
+727,Rico Castagne,RB,Frankfurt,Poland,Bundesliga,Falseback
+728,Takehiro Pavard,RB,Juventus,France,Serie A,Attacking Wing Back
+729,Pedro Castagne,RB,AC Milan,Argentina,Serie A,Wingback
+730,Rico Walker,RB,AC Milan,Portugal,Serie A,Fullback
+731,Reece Hakimi,RB,AC Milan,Morocco,Serie A,Attacking Wing Back
+732,Jeremie Di Lorenzo,RB,Nice,Spain,Ligue 1,Wingback
+733,Benjamin Cancelo,RB,Liverpool,England,Premier League,Wingback
+734,Achraf Dalot,RB,Bologna,Japan,Serie A,Wingback
+735,Nahuel Castagne,RB,Manchester City,Japan,Premier League,Wingback
+736,Trent Porro,RB,Atletico Madrid,USA,La Liga,Fullback
+737,Aaron James,RB,Napoli,France,Serie A,Wingback
+738,Benjamin White,RB,Atletico Madrid,France,La Liga,Attacking Wing Back
+739,Denzel Frimpong,RB,Girona,Japan,La Liga,Fullback
+740,Achraf Carvajal,RB,Lille,Italy,Ligue 1,Falseback
+741,Aaron Dumfries,RB,Lazio,Italy,Serie A,Falseback
+742,Giovanni Alexander-Arnold,RB,Brest,Belgium,Ligue 1,Wingback
+743,Takehiro Cancelo,RB,Barcelona,Portugal,La Liga,Fullback
+744,Reece Dumfries,RB,Bayer Leverkusen,Morocco,Bundesliga,Wingback
+745,Trent Hakimi,RB,Marseille,Morocco,Ligue 1,Wingback
+746,Nahuel Porro,RB,Marseille,Japan,Ligue 1,Attacking Wing Back
+747,Pedro Dalot,RB,Bayer Leverkusen,Belgium,Bundesliga,Falseback
+748,Denzel James,RB,Stuttgart,Germany,Bundesliga,Falseback
+749,Kyle White,RB,Lyon,Germany,Ligue 1,Wingback
+750,Giovanni Hakimi,RB,Liverpool,USA,Premier League,Falseback
+751,Dani Frimpong,RB,Napoli,Poland,Serie A,Falseback
+752,Trent James,RB,Monaco,Germany,Ligue 1,Wingback
+753,Pedro Hakimi,RB,Bayern Munich,Germany,Bundesliga,Wingback
+754,Diogo Pavard,RB,Brighton,Germany,Premier League,Wingback
+755,Nahuel Molina,RB,Bayer Leverkusen,Belgium,Bundesliga,Attacking Wing Back
+756,Denzel Gusto,RB,Monaco,Portugal,Ligue 1,Wingback
+757,Ben Pavard,RB,Inter Milan,England,Serie A,Attacking Wing Back
+758,Achraf Walker,RB,Lazio,Netherlands,Serie A,Fullback
+759,Rico Dalot,RB,Bayern Munich,England,Bundesliga,Wingback
+760,Timothy Lewis,RB,Liverpool,Italy,Premier League,Fullback
+761,Reece Dumfries,RB,Bayern Munich,Netherlands,Bundesliga,Wingback
+762,Rico Trippier,RB,Athletic Club,USA,La Liga,Fullback
+763,Trent Lewis,RB,AS Roma,Portugal,Serie A,Wingback
+764,Rico Trippier,RB,Brighton,Morocco,Premier League,Attacking Wing Back
+765,Ben Molina,RB,Monaco,USA,Ligue 1,Falseback
+766,Diogo White,RB,Stuttgart,Netherlands,Bundesliga,Fullback
+767,Reece Cancelo,RB,Chelsea,Brazil,Premier League,Falseback
+768,Jeremie White,RB,Lazio,France,Serie A,Attacking Wing Back
+769,Trent Di Lorenzo,RB,Napoli,Netherlands,Serie A,Attacking Wing Back
+770,Achraf Tomiyasu,RB,PSG,Portugal,Ligue 1,Falseback
+771,Trent Carvajal,RB,Stuttgart,Japan,Bundesliga,Attacking Wing Back
+772,Rico James,RB,Frankfurt,Italy,Bundesliga,Fullback
+773,Benjamin Carvajal,RB,Newcastle,Argentina,Premier League,Wingback
+774,Kieran Tomiyasu,RB,Real Betis,England,La Liga,Attacking Wing Back
+775,Dani Tomiyasu,RB,Atalanta,Portugal,Serie A,Falseback
+776,Reece Castagne,RB,Manchester City,Germany,Premier League,Falseback
+777,Timothy Molina,RB,Stuttgart,Brazil,Bundesliga,Falseback
+778,Aaron Wan-Bissaka,RB,Athletic Club,Italy,La Liga,Wingback
+779,Timothy Di Lorenzo,RB,Girona,France,La Liga,Attacking Wing Back
+780,Achraf Frimpong,RB,Atletico Madrid,Netherlands,La Liga,Wingback
+781,Jeremie Pavard,RB,Napoli,Spain,Serie A,Attacking Wing Back
+782,Diogo Castagne,RB,Stuttgart,Japan,Bundesliga,Fullback
+783,Pedro Alexander-Arnold,RB,Brighton,Spain,Premier League,Falseback
+784,Rico Molina,RB,Bayern Munich,Germany,Bundesliga,Wingback
+785,Joao Walker,RB,Inter Milan,Germany,Serie A,Attacking Wing Back
+786,Rico Castagne,RB,Real Madrid,Turkey,La Liga,Wingback
+787,Trent Dalot,RB,Real Madrid,Brazil,La Liga,Attacking Wing Back
+788,Dani Walker,RB,Arsenal,Poland,Premier League,Fullback
+789,Malo Hakimi,RB,Manchester City,USA,Premier League,Falseback
+790,Trent Lewis,RB,Real Madrid,England,La Liga,Falseback
+791,Ben White,RB,RB Leipzig,Japan,Bundesliga,Attacking Wing Back
+792,Jeremie James,RB,Napoli,Brazil,Serie A,Falseback
+793,Takehiro White,RB,Real Sociedad,Belgium,La Liga,Falseback
+794,Takehiro Trippier,RB,Brest,Japan,Ligue 1,Wingback
+795,Denzel Trippier,RB,Stuttgart,Belgium,Bundesliga,Fullback
+796,Reece Alexander-Arnold,RB,PSG,Argentina,Ligue 1,Falseback
+797,Reece Frimpong,RB,Newcastle,Argentina,Premier League,Attacking Wing Back
+798,Achraf Walker,RB,Atletico Madrid,Italy,La Liga,Falseback
+799,Pedro Pavard,RB,Bayer Leverkusen,Italy,Bundesliga,Wingback
+800,Kyle Gusto,RB,Athletic Club,Spain,La Liga,Wingback
+801,Rico Porro,RB,Manchester City,Turkey,Premier League,Fullback
+802,Timothy Gusto,RB,Monaco,Netherlands,Ligue 1,Wingback
+803,Giovanni Trippier,RB,Girona,Portugal,La Liga,Wingback
+804,Jeremie White,RB,Real Madrid,Spain,La Liga,Wingback
+805,Reece Pavard,RB,Real Betis,Morocco,La Liga,Attacking Wing Back
+806,Malo Carvajal,RB,Stuttgart,Belgium,Bundesliga,Attacking Wing Back
+807,Joao Lewis,RB,Liverpool,Morocco,Premier League,Wingback
+808,Aaron Frimpong,RB,Arsenal,Belgium,Premier League,Wingback
+809,Kieran Alexander-Arnold,RB,Real Betis,USA,La Liga,Fullback
+810,Jeremie Castagne,RB,Marseille,Netherlands,Ligue 1,Wingback
+811,Takehiro Dumfries,RB,Brest,Argentina,Ligue 1,Falseback
+812,Denzel Lewis,RB,Bayern Munich,USA,Bundesliga,Wingback
+813,Benjamin Molina,RB,Juventus,Italy,Serie A,Falseback
+814,Giovanni Di Lorenzo,RB,Real Sociedad,Belgium,La Liga,Attacking Wing Back
+815,Dani Tomiyasu,RB,Athletic Club,England,La Liga,Fullback
+816,Giovanni Pavard,RB,Chelsea,England,Premier League,Fullback
+817,Timothy Tomiyasu,RB,Arsenal,Argentina,Premier League,Attacking Wing Back
+818,Achraf Frimpong,RB,Bayern Munich,Germany,Bundesliga,Wingback
+819,Rico Trippier,RB,PSG,Spain,Ligue 1,Wingback
+820,Dani Tomiyasu,RB,Atalanta,Belgium,Serie A,Wingback
+821,Trent Cancelo,RB,AC Milan,USA,Serie A,Falseback
+822,Dani Porro,RB,Atletico Madrid,Poland,La Liga,Falseback
+823,Timothy Carvajal,RB,Dortmund,Germany,Bundesliga,Wingback
+824,Denzel Wan-Bissaka,RB,Napoli,Brazil,Serie A,Attacking Wing Back
+825,Giovanni Pavard,RB,PSG,France,Ligue 1,Wingback
+826,Takehiro White,RB,Marseille,Japan,Ligue 1,Fullback
+827,Takehiro Hakimi,RB,Bayer Leverkusen,Belgium,Bundesliga,Fullback
+828,Achraf Trippier,RB,Nice,Poland,Ligue 1,Fullback
+829,Rico James,RB,Bayern Munich,Italy,Bundesliga,Falseback
+830,Malo Walker,RB,Lazio,Belgium,Serie A,Falseback
+831,Diogo Gusto,RB,AS Roma,Japan,Serie A,Falseback
+832,Denzel James,RB,Brighton,Italy,Premier League,Attacking Wing Back
+833,Malo Castagne,RB,Barcelona,Italy,La Liga,Falseback
+834,Timothy Trippier,RB,Girona,Italy,La Liga,Falseback
+835,Kyle Hakimi,RB,Manchester United,USA,Premier League,Attacking Wing Back
+836,Aaron Pavard,RB,Bayern Munich,Turkey,Bundesliga,Falseback
+837,Dani Dumfries,RB,West Ham,Belgium,Premier League,Attacking Wing Back
+838,Timothy Pavard,RB,Lyon,Italy,Ligue 1,Fullback
+839,Dani Frimpong,RB,Brighton,Brazil,Premier League,Attacking Wing Back
+840,Malo Molina,RB,PSG,USA,Ligue 1,Falseback
+841,Trent Wan-Bissaka,RB,Girona,Turkey,La Liga,Falseback
+842,Timothy Lewis,RB,Inter Milan,Spain,Serie A,Fullback
+843,Nahuel Dumfries,RB,Dortmund,Japan,Bundesliga,Falseback
+844,Nahuel Trippier,RB,Girona,Spain,La Liga,Fullback
+845,Diogo Dalot,RB,West Ham,Morocco,Premier League,Fullback
+846,Trent Tomiyasu,RB,Brest,Brazil,Ligue 1,Attacking Wing Back
+847,Trent Tomiyasu,RB,Bayern Munich,Portugal,Bundesliga,Fullback
+848,Aaron Castagne,RB,Girona,Japan,La Liga,Falseback
+849,Denzel Walker,RB,Nice,Germany,Ligue 1,Attacking Wing Back
+850,Timothy Castagne,RB,Liverpool,Argentina,Premier League,Fullback
+851,Aaron Trippier,RB,Dortmund,Netherlands,Bundesliga,Falseback
+852,Denzel Porro,RB,AC Milan,Belgium,Serie A,Falseback
+853,Benjamin Hakimi,RB,Chelsea,Germany,Premier League,Falseback
+854,Joao White,RB,Atletico Madrid,England,La Liga,Attacking Wing Back
+855,Rico Di Lorenzo,RB,Inter Milan,USA,Serie A,Attacking Wing Back
+856,Giovanni Trippier,RB,Brest,Germany,Ligue 1,Wingback
+857,Aaron Cancelo,RB,Brest,Morocco,Ligue 1,Wingback
+858,Achraf Tomiyasu,RB,Bayern Munich,Morocco,Bundesliga,Wingback
+859,Aaron Walker,RB,Liverpool,Netherlands,Premier League,Fullback
+860,Reece James,RB,Frankfurt,Netherlands,Bundesliga,Attacking Wing Back
+861,Ben Castagne,RB,Nice,France,Ligue 1,Attacking Wing Back
+862,Pedro Frimpong,RB,PSG,Portugal,Ligue 1,Fullback
+863,Rico Di Lorenzo,RB,Brest,Argentina,Ligue 1,Attacking Wing Back
+864,Nahuel James,RB,Aston Villa,Spain,Premier League,Attacking Wing Back
+865,Malo Walker,RB,RB Leipzig,England,Bundesliga,Wingback
+866,Jeremie Dumfries,RB,Athletic Club,Argentina,La Liga,Attacking Wing Back
+867,Trent Castagne,RB,Brighton,Netherlands,Premier League,Wingback
+868,Pedro James,RB,Brest,Germany,Ligue 1,Falseback
+869,Nahuel Dalot,RB,Nice,Italy,Ligue 1,Attacking Wing Back
+870,Rico Tomiyasu,RB,Brighton,Netherlands,Premier League,Fullback
+871,Diogo White,RB,Inter Milan,Morocco,Serie A,Fullback
+872,Dani Cancelo,RB,Arsenal,England,Premier League,Falseback
+873,Kieran Cancelo,RB,Atletico Madrid,France,La Liga,Attacking Wing Back
+874,Reece Trippier,RB,Dortmund,Belgium,Bundesliga,Falseback
+875,Trent James,RB,Real Madrid,Japan,La Liga,Wingback
+876,Takehiro White,RB,Atalanta,England,Serie A,Wingback
+877,Malo Lewis,RB,Barcelona,Portugal,La Liga,Attacking Wing Back
+878,Achraf Cancelo,RB,Valencia,Japan,La Liga,Fullback
+879,Timothy Lewis,RB,Atletico Madrid,Germany,La Liga,Fullback
+880,Joao Wan-Bissaka,RB,Napoli,Morocco,Serie A,Falseback
+881,Aaron Carvajal,RB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+882,Jeremie Walker,RB,Lille,Argentina,Ligue 1,Falseback
+883,Malo Walker,RB,Athletic Club,Brazil,La Liga,Falseback
+884,Takehiro Carvajal,RB,Newcastle,France,Premier League,Wingback
+885,Rico Porro,RB,Lille,Portugal,Ligue 1,Falseback
+886,Dani Pavard,RB,Manchester United,Portugal,Premier League,Falseback
+887,Pedro Trippier,RB,Real Sociedad,Portugal,La Liga,Fullback
+888,Kyle Molina,RB,Monaco,Germany,Ligue 1,Attacking Wing Back
+889,Diogo Tomiyasu,RB,RB Leipzig,Brazil,Bundesliga,Fullback
+890,Takehiro Porro,RB,Lyon,Germany,Ligue 1,Attacking Wing Back
+891,Aaron Porro,RB,Dortmund,Argentina,Bundesliga,Falseback
+892,Ben Trippier,RB,Girona,Belgium,La Liga,Wingback
+893,Aaron Dumfries,RB,Bayer Leverkusen,Brazil,Bundesliga,Attacking Wing Back
+894,Malo Frimpong,RB,Tottenham,Netherlands,Premier League,Falseback
+895,Kieran Porro,RB,Barcelona,Morocco,La Liga,Attacking Wing Back
+896,Ben Castagne,RB,Lille,Portugal,Ligue 1,Falseback
+897,Kyle Di Lorenzo,RB,Dortmund,USA,Bundesliga,Fullback
+898,Diogo Walker,RB,Dortmund,Germany,Bundesliga,Wingback
+899,Takehiro Porro,RB,Nice,Germany,Ligue 1,Fullback
+900,Achraf Di Lorenzo,RB,Lille,France,Ligue 1,Falseback
+901,Denzel Walker,RB,PSG,Brazil,Ligue 1,Wingback
+902,Joao Dalot,RB,Lazio,USA,Serie A,Wingback
+903,Reece Wan-Bissaka,RB,Bayer Leverkusen,England,Bundesliga,Falseback
+904,Giovanni Dalot,RB,Nice,Belgium,Ligue 1,Fullback
+905,Ben Molina,RB,Marseille,Netherlands,Ligue 1,Falseback
+906,Dani James,RB,Real Madrid,Japan,La Liga,Attacking Wing Back
+907,Rico Walker,RB,Girona,Spain,La Liga,Wingback
+908,Malo Di Lorenzo,RB,Manchester City,Spain,Premier League,Attacking Wing Back
+909,Timothy Hakimi,RB,Bayern Munich,Portugal,Bundesliga,Falseback
+910,Takehiro Gusto,RB,RB Leipzig,Argentina,Bundesliga,Falseback
+911,Trent Tomiyasu,RB,Dortmund,Argentina,Bundesliga,Attacking Wing Back
+912,Denzel Frimpong,RB,Stuttgart,Netherlands,Bundesliga,Fullback
+913,Kieran Castagne,RB,PSG,Germany,Ligue 1,Fullback
+914,Nahuel Dalot,RB,Manchester United,Portugal,Premier League,Fullback
+915,Pedro Hakimi,RB,Chelsea,Netherlands,Premier League,Wingback
+916,Pedro Dalot,RB,Real Sociedad,Morocco,La Liga,Falseback
+917,Benjamin Carvajal,RB,Stuttgart,Spain,Bundesliga,Attacking Wing Back
+918,Pedro Frimpong,RB,Aston Villa,Morocco,Premier League,Attacking Wing Back
+919,Joao Tomiyasu,RB,Dortmund,Morocco,Bundesliga,Wingback
+920,Nahuel Frimpong,RB,Marseille,England,Ligue 1,Wingback
+921,Timothy Di Lorenzo,RB,Monaco,Belgium,Ligue 1,Falseback
+922,Giovanni Walker,RB,Manchester United,France,Premier League,Falseback
+923,Joao Tomiyasu,RB,Barcelona,Argentina,La Liga,Fullback
+924,Takehiro Wan-Bissaka,RB,Bayer Leverkusen,Belgium,Bundesliga,Attacking Wing Back
+925,Benjamin Dalot,RB,Marseille,Japan,Ligue 1,Wingback
+926,Giovanni Porro,RB,Monaco,Morocco,Ligue 1,Fullback
+927,Rico Dumfries,RB,Bayern Munich,Argentina,Bundesliga,Attacking Wing Back
+928,Rico Di Lorenzo,RB,Chelsea,Belgium,Premier League,Attacking Wing Back
+929,Diogo Lewis,RB,Girona,Poland,La Liga,Falseback
+930,Kieran Frimpong,RB,Atletico Madrid,Spain,La Liga,Falseback
+931,Pedro Walker,RB,Real Sociedad,Portugal,La Liga,Falseback
+932,Aaron James,RB,Liverpool,Netherlands,Premier League,Falseback
+933,Giovanni Cancelo,RB,Liverpool,Brazil,Premier League,Falseback
+934,Denzel Pavard,RB,Girona,Belgium,La Liga,Wingback
+935,Reece Porro,RB,Inter Milan,Spain,Serie A,Fullback
+936,Benjamin Frimpong,RB,Real Betis,Brazil,La Liga,Falseback
+937,Denzel Dumfries,RB,Juventus,England,Serie A,Attacking Wing Back
+938,Ben Tomiyasu,RB,Frankfurt,Turkey,Bundesliga,Fullback
+939,Rico Alexander-Arnold,RB,Bayern Munich,Turkey,Bundesliga,Attacking Wing Back
+940,Takehiro Frimpong,RB,AC Milan,Brazil,Serie A,Fullback
+941,Takehiro Dumfries,RB,PSG,Belgium,Ligue 1,Attacking Wing Back
+942,Rico Cancelo,RB,West Ham,England,Premier League,Attacking Wing Back
+943,Nahuel Alexander-Arnold,RB,Atletico Madrid,Poland,La Liga,Attacking Wing Back
+944,Achraf Molina,RB,Bologna,Turkey,Serie A,Attacking Wing Back
+945,Jeremie Lewis,RB,Nice,Argentina,Ligue 1,Fullback
+946,Dani Alexander-Arnold,RB,PSG,England,Ligue 1,Wingback
+947,Joao Castagne,RB,Barcelona,Portugal,La Liga,Falseback
+948,Achraf Frimpong,RB,Atalanta,France,Serie A,Attacking Wing Back
+949,Denzel Di Lorenzo,RB,Liverpool,England,Premier League,Falseback
+950,Giovanni Dumfries,RB,Frankfurt,Spain,Bundesliga,Wingback
+951,Aaron Pavard,RB,Real Sociedad,France,La Liga,Attacking Wing Back
+952,Timothy Dumfries,RB,RB Leipzig,Germany,Bundesliga,Fullback
+953,Nahuel Trippier,RB,Barcelona,Turkey,La Liga,Wingback
+954,Aaron James,RB,Lyon,Netherlands,Ligue 1,Fullback
+955,Aaron Porro,RB,Nice,Spain,Ligue 1,Attacking Wing Back
+956,Timothy Walker,RB,Chelsea,Japan,Premier League,Falseback
+957,Diogo Di Lorenzo,RB,Real Betis,England,La Liga,Wingback
+958,Giovanni Dalot,RB,Girona,Turkey,La Liga,Attacking Wing Back
+959,Benjamin James,RB,Napoli,USA,Serie A,Fullback
+960,Dani Dumfries,RB,RB Leipzig,Turkey,Bundesliga,Fullback
+961,Takehiro Trippier,RB,Marseille,Turkey,Ligue 1,Fullback
+962,Reece Tomiyasu,RB,Real Sociedad,Belgium,La Liga,Wingback
+963,Aaron Cancelo,RB,Stuttgart,Netherlands,Bundesliga,Fullback
+964,Kieran Lewis,RB,Athletic Club,Belgium,La Liga,Fullback
+965,Nahuel Porro,RB,Dortmund,Morocco,Bundesliga,Falseback
+966,Aaron White,RB,Lazio,Netherlands,Serie A,Fullback
+967,Kyle Walker,RB,Real Sociedad,Spain,La Liga,Attacking Wing Back
+968,Reece Dalot,RB,Real Madrid,Netherlands,La Liga,Attacking Wing Back
+969,Nahuel White,RB,Athletic Club,Netherlands,La Liga,Falseback
+970,Kieran Alexander-Arnold,RB,RB Leipzig,France,Bundesliga,Falseback
+971,Trent Frimpong,RB,Athletic Club,Netherlands,La Liga,Wingback
+972,Kyle Cancelo,RB,Napoli,Turkey,Serie A,Wingback
+973,Kyle Frimpong,RB,AS Roma,Brazil,Serie A,Falseback
+974,Pedro White,RB,Napoli,England,Serie A,Attacking Wing Back
+975,Dani Dalot,RB,Dortmund,Belgium,Bundesliga,Fullback
+976,Benjamin Tomiyasu,RB,Inter Milan,Brazil,Serie A,Fullback
+977,Aaron James,RB,Atletico Madrid,Portugal,La Liga,Fullback
+978,Ben Trippier,RB,Barcelona,Belgium,La Liga,Falseback
+979,Aaron Alexander-Arnold,RB,Tottenham,Netherlands,Premier League,Falseback
+980,Kyle Hakimi,RB,Nice,Spain,Ligue 1,Fullback
+981,Kyle Pavard,RB,Brest,Belgium,Ligue 1,Fullback
+982,Diogo Di Lorenzo,RB,AS Roma,Turkey,Serie A,Fullback
+983,Dani Lewis,RB,Barcelona,Brazil,La Liga,Fullback
+984,Kieran Lewis,RB,Dortmund,Belgium,Bundesliga,Falseback
+985,Achraf Gusto,RB,Manchester United,Italy,Premier League,Wingback
+986,Joao Pavard,RB,Athletic Club,Italy,La Liga,Attacking Wing Back
+987,Jeremie Tomiyasu,RB,Monaco,Japan,Ligue 1,Falseback
+988,Benjamin Hakimi,RB,Liverpool,USA,Premier League,Fullback
+989,Kieran Frimpong,RB,Nice,Argentina,Ligue 1,Fullback
+990,Pedro Frimpong,RB,Bayern Munich,England,Bundesliga,Falseback
+991,Ben Pavard,RB,Athletic Club,USA,La Liga,Fullback
+992,Rico White,RB,Manchester City,USA,Premier League,Falseback
+993,Giovanni Castagne,RB,Real Betis,Netherlands,La Liga,Attacking Wing Back
+994,Jeremie Trippier,RB,Liverpool,Netherlands,Premier League,Attacking Wing Back
+995,Reece White,RB,Brighton,Morocco,Premier League,Wingback
+996,Giovanni Trippier,RB,Girona,Netherlands,La Liga,Attacking Wing Back
+997,Denzel Carvajal,RB,Bayer Leverkusen,Turkey,Bundesliga,Falseback
+998,Ben Walker,RB,West Ham,Italy,Premier League,Falseback
+999,Reece Carvajal,RB,Frankfurt,Italy,Bundesliga,Attacking Wing Back
+1000,Diogo Pavard,RB,Manchester United,Turkey,Premier League,Wingback
+1001,Achraf Castagne,RB,RB Leipzig,Turkey,Bundesliga,Wingback
+1002,Achraf Carvajal,RB,Atletico Madrid,Argentina,La Liga,Falseback
+1003,Achraf Gusto,RB,AC Milan,Japan,Serie A,Wingback
+1004,Aaron Tomiyasu,RB,Barcelona,Spain,La Liga,Fullback
+1005,Ben Pavard,RB,Marseille,Italy,Ligue 1,Wingback
+1006,Aaron Dalot,RB,Athletic Club,Brazil,La Liga,Attacking Wing Back
+1007,Timothy Wan-Bissaka,RB,AS Roma,Morocco,Serie A,Falseback
+1008,Jeremie White,RB,Dortmund,Poland,Bundesliga,Attacking Wing Back
+1009,Pedro Molina,RB,Stuttgart,France,Bundesliga,Wingback
+1010,Timothy Wan-Bissaka,RB,Napoli,Belgium,Serie A,Fullback
+1011,Kyle Porro,RB,PSG,France,Ligue 1,Falseback
+1012,Takehiro Lewis,RB,Juventus,Morocco,Serie A,Wingback
+1013,Kyle Cancelo,RB,Bologna,Morocco,Serie A,Wingback
+1014,Achraf Castagne,RB,Real Madrid,England,La Liga,Falseback
+1015,Malo Di Lorenzo,RB,Lazio,England,Serie A,Wingback
+1016,Trent Alexander-Arnold,RB,Juventus,Japan,Serie A,Wingback
+1017,Takehiro White,RB,Napoli,Poland,Serie A,Wingback
+1018,Rico Hakimi,RB,Marseille,Germany,Ligue 1,Fullback
+1019,Malo Wan-Bissaka,RB,Dortmund,Turkey,Bundesliga,Fullback
+1020,Kieran White,RB,Juventus,Portugal,Serie A,Wingback
+1021,Aaron Carvajal,RB,Inter Milan,Turkey,Serie A,Falseback
+1022,Kyle Dumfries,RB,Brest,Belgium,Ligue 1,Fullback
+1023,Takehiro Dalot,RB,Atletico Madrid,France,La Liga,Fullback
+1024,Kieran Di Lorenzo,RB,Frankfurt,USA,Bundesliga,Falseback
+1025,Benjamin Lewis,RB,Nice,USA,Ligue 1,Attacking Wing Back
+1026,Takehiro Hakimi,RB,Brest,Argentina,Ligue 1,Wingback
+1027,Diogo Wan-Bissaka,RB,West Ham,Argentina,Premier League,Fullback
+1028,Kyle Cancelo,RB,Lyon,Italy,Ligue 1,Wingback
+1029,Aaron Tomiyasu,RB,Atalanta,Belgium,Serie A,Attacking Wing Back
+1030,Dani Gusto,RB,Manchester United,France,Premier League,Falseback
+1031,Diogo Wan-Bissaka,RB,Lazio,Spain,Serie A,Fullback
+1032,Benjamin Gusto,RB,Newcastle,Italy,Premier League,Falseback
+1033,Achraf Alexander-Arnold,RB,Real Sociedad,Poland,La Liga,Falseback
+1034,Joao Dumfries,RB,Liverpool,Spain,Premier League,Attacking Wing Back
+1035,Trent Gusto,RB,Juventus,Brazil,Serie A,Fullback
+1036,Giovanni Di Lorenzo,RB,Bayer Leverkusen,Belgium,Bundesliga,Fullback
+1037,Pedro Wan-Bissaka,RB,Lyon,Spain,Ligue 1,Fullback
+1038,Diogo Wan-Bissaka,RB,Atalanta,Netherlands,Serie A,Wingback
+1039,Jeremie Dumfries,RB,Valencia,Germany,La Liga,Falseback
+1040,Kyle Tomiyasu,RB,Brighton,Netherlands,Premier League,Fullback
+1041,Benjamin Tomiyasu,RB,West Ham,Germany,Premier League,Wingback
+1042,Takehiro Gusto,RB,AC Milan,Spain,Serie A,Wingback
+1043,Kieran Lewis,RB,Frankfurt,USA,Bundesliga,Wingback
+1044,Giovanni Dalot,RB,Bayer Leverkusen,Japan,Bundesliga,Falseback
+1045,Aaron White,RB,Lazio,Morocco,Serie A,Wingback
+1046,Achraf Wan-Bissaka,RB,Real Betis,Argentina,La Liga,Attacking Wing Back
+1047,Timothy Carvajal,RB,Stuttgart,Poland,Bundesliga,Wingback
+1048,Trent Cancelo,RB,Athletic Club,Italy,La Liga,Fullback
+1049,Timothy Tomiyasu,RB,Atalanta,Poland,Serie A,Fullback
+1050,Achraf Castagne,RB,West Ham,USA,Premier League,Fullback
+1051,Reece Trippier,RB,AC Milan,Turkey,Serie A,Fullback
+1052,Takehiro Di Lorenzo,RB,Manchester United,Belgium,Premier League,Fullback
+1053,Jeremie Lewis,RB,RB Leipzig,Japan,Bundesliga,Wingback
+1054,Achraf Hakimi,RB,Manchester United,England,Premier League,Wingback
+1055,Takehiro Dumfries,RB,Athletic Club,Argentina,La Liga,Fullback
+1056,Kieran Tomiyasu,RB,PSG,Germany,Ligue 1,Wingback
+1057,Kieran Lewis,RB,Barcelona,Argentina,La Liga,Falseback
+1058,Jeremie Pavard,RB,AS Roma,Japan,Serie A,Falseback
+1059,Timothy Tomiyasu,RB,Atalanta,Portugal,Serie A,Attacking Wing Back
+1060,Dani Molina,RB,Brighton,Poland,Premier League,Falseback
+1061,Nahuel Di Lorenzo,RB,Juventus,Japan,Serie A,Falseback
+1062,Reece Hakimi,RB,Athletic Club,Netherlands,La Liga,Wingback
+1063,Kyle Wan-Bissaka,RB,Dortmund,Belgium,Bundesliga,Falseback
+1064,Achraf Dumfries,RB,Inter Milan,England,Serie A,Attacking Wing Back
+1065,Takehiro Walker,RB,Brighton,Brazil,Premier League,Falseback
+1066,Malo Lewis,RB,Lille,Poland,Ligue 1,Attacking Wing Back
+1067,Rico Dumfries,RB,Barcelona,France,La Liga,Falseback
+1068,Kieran Frimpong,RB,Napoli,Argentina,Serie A,Attacking Wing Back
+1069,Rico Hakimi,RB,Juventus,Poland,Serie A,Falseback
+1070,Joao Molina,RB,RB Leipzig,USA,Bundesliga,Attacking Wing Back
+1071,Nahuel Alexander-Arnold,RB,Juventus,Portugal,Serie A,Falseback
+1072,Denzel Alexander-Arnold,RB,PSG,Brazil,Ligue 1,Fullback
+1073,Takehiro Cancelo,RB,PSG,France,Ligue 1,Wingback
+1074,Aaron Di Lorenzo,RB,Marseille,Japan,Ligue 1,Attacking Wing Back
+1075,Diogo Wan-Bissaka,RB,Tottenham,Portugal,Premier League,Wingback
+1076,Dani Trippier,RB,Newcastle,USA,Premier League,Wingback
+1077,Achraf Molina,RB,Marseille,Portugal,Ligue 1,Attacking Wing Back
+1078,Takehiro Molina,RB,Napoli,Italy,Serie A,Falseback
+1079,Joao Lewis,RB,Real Sociedad,Japan,La Liga,Wingback
+1080,Takehiro Castagne,RB,Dortmund,Spain,Bundesliga,Attacking Wing Back
+1081,Pedro Trippier,RB,Real Sociedad,Argentina,La Liga,Fullback
+1082,Trent Carvajal,RB,Stuttgart,Turkey,Bundesliga,Attacking Wing Back
+1083,Dani Walker,RB,RB Leipzig,Netherlands,Bundesliga,Falseback
+1084,Benjamin Pavard,RB,Arsenal,Morocco,Premier League,Wingback
+1085,Ben Carvajal,RB,Bayer Leverkusen,Turkey,Bundesliga,Falseback
+1086,Denzel White,RB,Real Betis,Netherlands,La Liga,Attacking Wing Back
+1087,Takehiro Lewis,RB,Bologna,Brazil,Serie A,Falseback
+1088,Giovanni Gusto,RB,Bologna,England,Serie A,Attacking Wing Back
+1089,Pedro Porro,RB,Real Sociedad,Brazil,La Liga,Attacking Wing Back
+1090,Timothy Tomiyasu,RB,Athletic Club,Germany,La Liga,Falseback
+1091,Achraf Tomiyasu,RB,Stuttgart,USA,Bundesliga,Falseback
+1092,Dani Porro,RB,Aston Villa,England,Premier League,Falseback
+1093,Denzel Hakimi,RB,Inter Milan,Italy,Serie A,Fullback
+1094,Kyle Dumfries,RB,Monaco,USA,Ligue 1,Attacking Wing Back
+1095,Denzel Walker,RB,Atletico Madrid,France,La Liga,Attacking Wing Back
+1096,Ben White,RB,Girona,Germany,La Liga,Attacking Wing Back
+1097,Nahuel Dalot,RB,West Ham,France,Premier League,Fullback
+1098,Timothy Carvajal,RB,Monaco,Belgium,Ligue 1,Attacking Wing Back
+1099,Pedro Molina,RB,Manchester United,Poland,Premier League,Wingback
+1100,Benjamin Lewis,RB,Chelsea,Morocco,Premier League,Falseback
+1101,Kyle Di Lorenzo,RB,Girona,Turkey,La Liga,Wingback
+1102,Trent Pavard,RB,Juventus,England,Serie A,Falseback
+1103,Timothy Walker,RB,Frankfurt,Spain,Bundesliga,Attacking Wing Back
+1104,Trent Carvajal,RB,Bayern Munich,Belgium,Bundesliga,Attacking Wing Back
+1105,Takehiro Wan-Bissaka,RB,Arsenal,Portugal,Premier League,Wingback
+1106,Giovanni Dalot,RB,AC Milan,Spain,Serie A,Attacking Wing Back
+1107,Pedro Dalot,RB,Manchester City,Belgium,Premier League,Attacking Wing Back
+1108,Rico Hakimi,RB,AC Milan,Argentina,Serie A,Attacking Wing Back
+1109,Joao Dumfries,RB,PSG,Argentina,Ligue 1,Attacking Wing Back
+1110,Joao Di Lorenzo,RB,Tottenham,France,Premier League,Wingback
+1111,Nahuel Wan-Bissaka,RB,Dortmund,France,Bundesliga,Attacking Wing Back
+1112,Kyle Alexander-Arnold,RB,AC Milan,Brazil,Serie A,Wingback
+1113,Ben James,RB,Bayer Leverkusen,Spain,Bundesliga,Attacking Wing Back
+1114,Dani Frimpong,RB,Bologna,Netherlands,Serie A,Fullback
+1115,Takehiro Porro,RB,Girona,Portugal,La Liga,Wingback
+1116,Kieran Hakimi,RB,Athletic Club,Argentina,La Liga,Attacking Wing Back
+1117,Takehiro Lewis,RB,Lyon,Japan,Ligue 1,Fullback
+1118,Nahuel Wan-Bissaka,RB,Manchester United,Argentina,Premier League,Attacking Wing Back
+1119,Nahuel Molina,RB,Lyon,Argentina,Ligue 1,Attacking Wing Back
+1120,Giovanni Hakimi,RB,Brighton,England,Premier League,Fullback
+1121,Pedro Dalot,RB,Stuttgart,Germany,Bundesliga,Wingback
+1122,Trent Cancelo,RB,Girona,Morocco,La Liga,Attacking Wing Back
+1123,Ben Dalot,RB,Atalanta,Italy,Serie A,Fullback
+1124,Aaron Wan-Bissaka,RB,Inter Milan,Argentina,Serie A,Falseback
+1125,Ben Wan-Bissaka,RB,Bayer Leverkusen,Poland,Bundesliga,Fullback
+1126,Trent Tomiyasu,RB,Lazio,Argentina,Serie A,Fullback
+1127,Giovanni White,RB,Inter Milan,France,Serie A,Attacking Wing Back
+1128,Takehiro Alexander-Arnold,RB,Dortmund,Germany,Bundesliga,Attacking Wing Back
+1129,Joao Lewis,RB,Bayern Munich,Belgium,Bundesliga,Attacking Wing Back
+1130,Dani Dumfries,RB,Juventus,Germany,Serie A,Wingback
+1131,Achraf Gusto,RB,Barcelona,Portugal,La Liga,Falseback
+1132,Jeremie Gusto,RB,Arsenal,Argentina,Premier League,Fullback
+1133,Trent Cancelo,RB,PSG,England,Ligue 1,Falseback
+1134,Joao Hakimi,RB,Girona,Turkey,La Liga,Fullback
+1135,Reece White,RB,Lille,Japan,Ligue 1,Falseback
+1136,Nahuel Wan-Bissaka,RB,Napoli,Portugal,Serie A,Falseback
+1137,Kieran Gusto,RB,Aston Villa,Poland,Premier League,Falseback
+1138,Rico Wan-Bissaka,RB,Lille,Argentina,Ligue 1,Wingback
+1139,Achraf Dumfries,RB,Bayern Munich,Japan,Bundesliga,Wingback
+1140,Nahuel James,RB,Arsenal,Argentina,Premier League,Falseback
+1141,Ben Dalot,RB,Inter Milan,Japan,Serie A,Fullback
+1142,Reece Porro,RB,Juventus,Japan,Serie A,Wingback
+1143,Diogo James,RB,Real Sociedad,Morocco,La Liga,Fullback
+1144,Pedro Lewis,RB,Tottenham,Spain,Premier League,Falseback
+1145,Kyle Dumfries,RB,Real Sociedad,Argentina,La Liga,Falseback
+1146,Jeremie Molina,RB,Manchester City,Poland,Premier League,Fullback
+1147,Timothy Dumfries,RB,Barcelona,Argentina,La Liga,Attacking Wing Back
+1148,Timothy Trippier,RB,Athletic Club,Morocco,La Liga,Wingback
+1149,Kieran Dumfries,RB,RB Leipzig,England,Bundesliga,Attacking Wing Back
+1150,Diogo Frimpong,RB,Lazio,Argentina,Serie A,Wingback
+1151,Nahuel Di Lorenzo,RB,Marseille,USA,Ligue 1,Wingback
+1152,Achraf Carvajal,RB,Lazio,Germany,Serie A,Falseback
+1153,Jeremie Molina,RB,Brest,England,Ligue 1,Falseback
+1154,Giovanni Wan-Bissaka,RB,Tottenham,Portugal,Premier League,Wingback
+1155,Timothy Gusto,RB,Chelsea,Poland,Premier League,Wingback
+1156,Reece Walker,RB,Juventus,France,Serie A,Falseback
+1157,Dani Di Lorenzo,RB,Inter Milan,Italy,Serie A,Wingback
+1158,Denzel Tomiyasu,RB,Bayer Leverkusen,Portugal,Bundesliga,Attacking Wing Back
+1159,Pedro Pavard,RB,Lyon,Netherlands,Ligue 1,Wingback
+1160,Pedro Trippier,RB,AS Roma,Italy,Serie A,Falseback
+1161,Trent Dumfries,RB,Girona,Argentina,La Liga,Wingback
+1162,Reece Molina,RB,AS Roma,Germany,Serie A,Attacking Wing Back
+1163,Takehiro James,RB,AC Milan,Japan,Serie A,Attacking Wing Back
+1164,Joao Pavard,RB,Frankfurt,England,Bundesliga,Falseback
+1165,Kyle Tomiyasu,RB,West Ham,Argentina,Premier League,Attacking Wing Back
+1166,Takehiro Walker,RB,Atletico Madrid,England,La Liga,Wingback
+1167,Trent White,RB,Bayer Leverkusen,Morocco,Bundesliga,Falseback
+1168,Joao Cancelo,RB,Arsenal,Spain,Premier League,Wingback
+1169,Joao Walker,RB,Real Madrid,Japan,La Liga,Attacking Wing Back
+1170,Achraf Gusto,RB,Lazio,France,Serie A,Wingback
+1171,Rico Tomiyasu,RB,Aston Villa,Belgium,Premier League,Wingback
+1172,Benjamin Di Lorenzo,RB,Juventus,Portugal,Serie A,Wingback
+1173,Diogo Alexander-Arnold,RB,Girona,Germany,La Liga,Falseback
+1174,Timothy Castagne,RB,Juventus,England,Serie A,Wingback
+1175,Pedro Pavard,RB,RB Leipzig,England,Bundesliga,Falseback
+1176,Ben James,RB,Brest,Portugal,Ligue 1,Attacking Wing Back
+1177,Benjamin Tomiyasu,RB,AC Milan,Belgium,Serie A,Falseback
+1178,Ben Lewis,RB,Nice,Poland,Ligue 1,Wingback
+1179,Rico Frimpong,RB,Monaco,Poland,Ligue 1,Wingback
+1180,Reece Wan-Bissaka,RB,RB Leipzig,England,Bundesliga,Attacking Wing Back
+1181,Diogo Hakimi,RB,Dortmund,Argentina,Bundesliga,Attacking Wing Back
+1182,Achraf James,RB,Valencia,Morocco,La Liga,Fullback
+1183,Timothy Cancelo,RB,Manchester City,Poland,Premier League,Falseback
+1184,Pedro Wan-Bissaka,RB,Bayer Leverkusen,Argentina,Bundesliga,Fullback
+1185,Aaron Dumfries,RB,Manchester United,Argentina,Premier League,Wingback
+1186,Joao Tomiyasu,RB,PSG,Japan,Ligue 1,Fullback
+1187,Malo Gusto,RB,Brighton,Belgium,Premier League,Attacking Wing Back
+1188,Trent Porro,RB,Lille,Poland,Ligue 1,Falseback
+1189,Kyle Frimpong,RB,Newcastle,Poland,Premier League,Attacking Wing Back
+1190,Ben Alexander-Arnold,RB,Girona,Portugal,La Liga,Attacking Wing Back
+1191,Kyle Tomiyasu,RB,Lyon,Netherlands,Ligue 1,Attacking Wing Back
+1192,Denzel Trippier,RB,Athletic Club,USA,La Liga,Falseback
+1193,Takehiro Gusto,RB,Inter Milan,Italy,Serie A,Falseback
+1194,Pedro Gusto,RB,Lazio,Spain,Serie A,Fullback
+1195,Benjamin Lewis,RB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+1196,Giovanni Porro,RB,Real Betis,USA,La Liga,Falseback
+1197,Kyle Alexander-Arnold,RB,Brest,Poland,Ligue 1,Falseback
+1198,Rico James,RB,RB Leipzig,Portugal,Bundesliga,Wingback
+1199,Timothy Porro,RB,Real Sociedad,Belgium,La Liga,Falseback
+1200,Kyle James,RB,Manchester City,USA,Premier League,Attacking Wing Back
+1201,Aaron Alexander-Arnold,RB,Bayer Leverkusen,Netherlands,Bundesliga,Attacking Wing Back
+1202,Timothy Cancelo,RB,Tottenham,Germany,Premier League,Wingback
+1203,Pedro Di Lorenzo,RB,Tottenham,Germany,Premier League,Falseback
+1204,Joao Walker,RB,Juventus,Spain,Serie A,Wingback
+1205,Aaron Carvajal,RB,Real Betis,Poland,La Liga,Wingback
+1206,Pedro White,RB,Nice,England,Ligue 1,Falseback
+1207,Benjamin Walker,RB,Brighton,Poland,Premier League,Wingback
+1208,Malo Frimpong,RB,Lille,Spain,Ligue 1,Fullback
+1209,Takehiro James,RB,Atalanta,Japan,Serie A,Fullback
+1210,Joao Lewis,RB,Bayer Leverkusen,Netherlands,Bundesliga,Falseback
+1211,Malo Pavard,RB,Napoli,Spain,Serie A,Wingback
+1212,Takehiro Molina,RB,Brighton,Poland,Premier League,Fullback
+1213,Denzel Di Lorenzo,RB,Barcelona,Morocco,La Liga,Fullback
+1214,Nahuel Di Lorenzo,RB,Monaco,Turkey,Ligue 1,Attacking Wing Back
+1215,Malo Di Lorenzo,RB,Lyon,Poland,Ligue 1,Fullback
+1216,Trent Walker,RB,Atalanta,England,Serie A,Attacking Wing Back
+1217,Kieran Castagne,RB,Liverpool,France,Premier League,Falseback
+1218,Denzel Gusto,RB,Real Madrid,Italy,La Liga,Fullback
+1219,Jeremie Pavard,RB,Frankfurt,Portugal,Bundesliga,Attacking Wing Back
+1220,Giovanni Lewis,RB,Dortmund,Belgium,Bundesliga,Wingback
+1221,Benjamin Cancelo,RB,Lille,Portugal,Ligue 1,Wingback
+1222,Malo Castagne,RB,Real Madrid,USA,La Liga,Attacking Wing Back
+1223,Timothy Walker,RB,Nice,Belgium,Ligue 1,Attacking Wing Back
+1224,Nahuel White,RB,Barcelona,France,La Liga,Attacking Wing Back
+1225,Pedro Lewis,RB,AS Roma,Japan,Serie A,Wingback
+1226,Achraf White,RB,Marseille,England,Ligue 1,Attacking Wing Back
+1227,Rico Tomiyasu,RB,Liverpool,Turkey,Premier League,Fullback
+1228,Benjamin Cancelo,RB,Lazio,Spain,Serie A,Falseback
+1229,Aaron Gusto,RB,Real Madrid,Netherlands,La Liga,Attacking Wing Back
+1230,Denzel Dalot,RB,Frankfurt,Argentina,Bundesliga,Wingback
+1231,Joao Porro,RB,Nice,Portugal,Ligue 1,Falseback
+1232,Rico Dalot,RB,Manchester United,Spain,Premier League,Falseback
+1233,Joao Trippier,RB,Bayern Munich,Turkey,Bundesliga,Wingback
+1234,Jeremie Tomiyasu,RB,Nice,Spain,Ligue 1,Falseback
+1235,Trent Tomiyasu,RB,PSG,Poland,Ligue 1,Falseback
+1236,Joao White,RB,Barcelona,Brazil,La Liga,Fullback
+1237,Joao Trippier,RB,Barcelona,Morocco,La Liga,Fullback
+1238,Nahuel Alexander-Arnold,RB,Lille,Spain,Ligue 1,Wingback
+1239,Rico Castagne,RB,RB Leipzig,Netherlands,Bundesliga,Wingback
+1240,Denzel Frimpong,RB,Valencia,Belgium,La Liga,Wingback
+1241,Kyle Lewis,RB,Tottenham,Turkey,Premier League,Attacking Wing Back
+1242,Nahuel Frimpong,RB,Manchester City,Morocco,Premier League,Wingback
+1243,Aaron Alexander-Arnold,RB,Newcastle,Poland,Premier League,Wingback
+1244,Denzel White,RB,Newcastle,Turkey,Premier League,Fullback
+1245,Benjamin Frimpong,RB,Lyon,Argentina,Ligue 1,Falseback
+1246,Benjamin Gusto,RB,Atalanta,Turkey,Serie A,Attacking Wing Back
+1247,Joao Castagne,RB,Real Betis,Poland,La Liga,Falseback
+1248,Jeremie Trippier,RB,Marseille,Spain,Ligue 1,Wingback
+1249,Diogo James,RB,Atletico Madrid,USA,La Liga,Attacking Wing Back
+1250,Dani Gusto,RB,Monaco,Italy,Ligue 1,Falseback
+1251,Ben Di Lorenzo,RB,Girona,Germany,La Liga,Falseback
+1252,Joao Castagne,RB,Nice,Poland,Ligue 1,Attacking Wing Back
+1253,Nahuel White,RB,Valencia,Portugal,La Liga,Fullback
+1254,Timothy Frimpong,RB,Liverpool,Portugal,Premier League,Falseback
+1255,Reece Molina,RB,Lyon,USA,Ligue 1,Fullback
+1256,Timothy Dumfries,RB,RB Leipzig,Poland,Bundesliga,Fullback
+1257,Malo Frimpong,RB,Napoli,Argentina,Serie A,Falseback
+1258,Nahuel James,RB,Tottenham,Italy,Premier League,Falseback
+1259,Dani Frimpong,RB,AC Milan,Argentina,Serie A,Fullback
+1260,Jeremie Trippier,RB,Bayer Leverkusen,Netherlands,Bundesliga,Fullback
+1261,Denzel Pavard,RB,AC Milan,Belgium,Serie A,Falseback
+1262,Jeremie Hakimi,RB,Atletico Madrid,Turkey,La Liga,Falseback
+1263,Dani Alexander-Arnold,RB,Marseille,England,Ligue 1,Fullback
+1264,Pedro White,RB,Nice,USA,Ligue 1,Fullback
+1265,Joao Castagne,RB,Aston Villa,Poland,Premier League,Attacking Wing Back
+1266,Reece Lewis,RB,Bayer Leverkusen,Belgium,Bundesliga,Fullback
+1267,Aaron Hakimi,RB,AS Roma,Japan,Serie A,Attacking Wing Back
+1268,Giovanni Molina,RB,Manchester United,Argentina,Premier League,Falseback
+1269,Reece Dumfries,RB,Juventus,Italy,Serie A,Falseback
+1270,Ben Trippier,RB,Aston Villa,Italy,Premier League,Falseback
+1271,Dani Walker,RB,Aston Villa,Netherlands,Premier League,Attacking Wing Back
+1272,Timothy Trippier,RB,Nice,Germany,Ligue 1,Falseback
+1273,Kieran Trippier,RB,Liverpool,Portugal,Premier League,Falseback
+1274,Takehiro Lewis,RB,Bayern Munich,Japan,Bundesliga,Wingback
+1275,Kieran Cancelo,RB,Nice,Poland,Ligue 1,Wingback
+1276,Kieran Castagne,RB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+1277,Malo Gusto,RB,Dortmund,Belgium,Bundesliga,Falseback
+1278,Trent White,RB,Lyon,Netherlands,Ligue 1,Falseback
+1279,Diogo Molina,RB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+1280,Nahuel Trippier,RB,Bayern Munich,France,Bundesliga,Falseback
+1281,Malo James,RB,Marseille,Turkey,Ligue 1,Wingback
+1282,Pedro Pavard,RB,Lyon,Italy,Ligue 1,Falseback
+1283,Denzel White,RB,Real Betis,Argentina,La Liga,Falseback
+1284,Rico Dalot,RB,Lazio,England,Serie A,Attacking Wing Back
+1285,Joao Tomiyasu,RB,Brighton,Poland,Premier League,Falseback
+1286,Pedro Cancelo,RB,AC Milan,Belgium,Serie A,Falseback
+1287,Kyle Di Lorenzo,RB,Bayern Munich,Morocco,Bundesliga,Falseback
+1288,Jeremie Walker,RB,Manchester City,Italy,Premier League,Falseback
+1289,Aaron Cancelo,RB,PSG,Netherlands,Ligue 1,Falseback
+1290,Nahuel Dumfries,RB,AS Roma,Poland,Serie A,Wingback
+1291,Trent James,RB,Marseille,USA,Ligue 1,Attacking Wing Back
+1292,Benjamin Gusto,RB,Bayern Munich,Turkey,Bundesliga,Fullback
+1293,Giovanni Dalot,RB,Frankfurt,Japan,Bundesliga,Attacking Wing Back
+1294,Diogo James,RB,Tottenham,Spain,Premier League,Fullback
+1295,Reece Alexander-Arnold,RB,RB Leipzig,England,Bundesliga,Wingback
+1296,Giovanni Dalot,RB,Manchester United,Portugal,Premier League,Attacking Wing Back
+1297,Jeremie Carvajal,RB,Juventus,USA,Serie A,Attacking Wing Back
+1298,Kyle Carvajal,RB,Inter Milan,Italy,Serie A,Falseback
+1299,Diogo Wan-Bissaka,RB,Nice,Japan,Ligue 1,Wingback
+1300,Kyle James,RB,Stuttgart,Spain,Bundesliga,Wingback
+1301,Malo Frimpong,RB,AS Roma,Japan,Serie A,Wingback
+1302,Denzel Wan-Bissaka,RB,PSG,Argentina,Ligue 1,Wingback
+1303,Ben Castagne,RB,Lyon,Netherlands,Ligue 1,Falseback
+1304,Diogo Cancelo,RB,Atalanta,Japan,Serie A,Wingback
+1305,Pedro Carvajal,RB,Nice,France,Ligue 1,Wingback
+1306,Timothy Porro,RB,Stuttgart,Brazil,Bundesliga,Falseback
+1307,Aaron Gusto,RB,AC Milan,France,Serie A,Wingback
+1308,Takehiro Castagne,RB,RB Leipzig,USA,Bundesliga,Wingback
+1309,Nahuel Porro,RB,Barcelona,Japan,La Liga,Wingback
+1310,Timothy Castagne,RB,Bayern Munich,France,Bundesliga,Fullback
+1311,Achraf White,RB,Girona,Spain,La Liga,Attacking Wing Back
+1312,Giovanni Porro,RB,Dortmund,Morocco,Bundesliga,Falseback
+1313,Ben Frimpong,RB,Valencia,Germany,La Liga,Falseback
+1314,Denzel Gusto,RB,Atalanta,France,Serie A,Fullback
+1315,Joao Di Lorenzo,RB,Monaco,Brazil,Ligue 1,Wingback
+1316,Jeremie Trippier,RB,Athletic Club,Argentina,La Liga,Attacking Wing Back
+1317,Dani Dalot,RB,Bologna,Brazil,Serie A,Falseback
+1318,Pedro Trippier,RB,Atletico Madrid,Spain,La Liga,Falseback
+1319,Trent Castagne,RB,PSG,Poland,Ligue 1,Falseback
+1320,Kyle Tomiyasu,RB,Valencia,France,La Liga,Fullback
+1321,Malo Gusto,RB,Newcastle,Japan,Premier League,Attacking Wing Back
+1322,Malo Wan-Bissaka,RB,AC Milan,Belgium,Serie A,Falseback
+1323,Achraf Lewis,RB,Lille,Portugal,Ligue 1,Falseback
+1324,Diogo Wan-Bissaka,RB,Real Madrid,England,La Liga,Falseback
+1325,Kyle Castagne,RB,Lyon,Argentina,Ligue 1,Fullback
+1326,Kieran Cancelo,RB,Bayer Leverkusen,England,Bundesliga,Attacking Wing Back
+1327,Malo Carvajal,RB,Frankfurt,Argentina,Bundesliga,Wingback
+1328,Reece Lewis,RB,Dortmund,Germany,Bundesliga,Attacking Wing Back
+1329,Timothy Hakimi,RB,Juventus,Poland,Serie A,Falseback
+1330,Joao Castagne,RB,Juventus,Spain,Serie A,Falseback
+1331,Denzel James,RB,Lille,Argentina,Ligue 1,Wingback
+1332,Pedro Hakimi,RB,Liverpool,Spain,Premier League,Attacking Wing Back
+1333,Joao Porro,RB,Barcelona,Brazil,La Liga,Wingback
+1334,Pedro Lewis,RB,Manchester United,Poland,Premier League,Wingback
+1335,Nahuel Lewis,RB,Liverpool,Spain,Premier League,Fullback
+1336,Kieran Cancelo,RB,RB Leipzig,Italy,Bundesliga,Fullback
+1337,Diogo Trippier,RB,Napoli,England,Serie A,Fullback
+1338,Joao Carvajal,RB,Dortmund,Germany,Bundesliga,Wingback
+1339,Joao White,RB,Real Madrid,Belgium,La Liga,Attacking Wing Back
+1340,Trent Cancelo,RB,Atletico Madrid,Belgium,La Liga,Fullback
+1341,Kieran Carvajal,RB,Brighton,Germany,Premier League,Falseback
+1342,Aaron Frimpong,RB,Stuttgart,Italy,Bundesliga,Falseback
+1343,Diogo Gusto,RB,Lyon,Poland,Ligue 1,Falseback
+1344,Benjamin Trippier,RB,Monaco,Belgium,Ligue 1,Attacking Wing Back
+1345,Aaron Tomiyasu,RB,Manchester United,Morocco,Premier League,Attacking Wing Back
+1346,Achraf Alexander-Arnold,RB,Juventus,Japan,Serie A,Attacking Wing Back
+1347,Aaron Carvajal,RB,Manchester City,Japan,Premier League,Fullback
+1348,Achraf Lewis,RB,Nice,Belgium,Ligue 1,Falseback
+1349,Pedro Hakimi,RB,Liverpool,France,Premier League,Fullback
+1350,Rico Alexander-Arnold,RB,AC Milan,Turkey,Serie A,Attacking Wing Back
+1351,Malo White,RB,Athletic Club,Poland,La Liga,Wingback
+1352,Nahuel Tomiyasu,RB,Brest,Morocco,Ligue 1,Fullback
+1353,Rico Wan-Bissaka,RB,Brest,Brazil,Ligue 1,Falseback
+1354,Giovanni Hakimi,RB,Tottenham,Japan,Premier League,Fullback
+1355,Aaron Porro,RB,Arsenal,Germany,Premier League,Fullback
+1356,Diogo Lewis,RB,Manchester United,USA,Premier League,Falseback
+1357,Takehiro Tomiyasu,RB,Brighton,Portugal,Premier League,Falseback
+1358,Malo Wan-Bissaka,RB,Lazio,France,Serie A,Falseback
+1359,Benjamin Hakimi,RB,AC Milan,Turkey,Serie A,Falseback
+1360,Malo Tomiyasu,RB,Real Sociedad,Germany,La Liga,Falseback
+1361,Joao Alexander-Arnold,RB,Stuttgart,Italy,Bundesliga,Falseback
+1362,Kieran Carvajal,RB,RB Leipzig,Germany,Bundesliga,Attacking Wing Back
+1363,Jeremie Dumfries,RB,Dortmund,France,Bundesliga,Falseback
+1364,Denzel Porro,RB,Frankfurt,Portugal,Bundesliga,Falseback
+1365,Trent Pavard,RB,Dortmund,Japan,Bundesliga,Fullback
+1366,Ben Lewis,RB,Atalanta,Brazil,Serie A,Fullback
+1367,Jeremie Di Lorenzo,RB,Liverpool,France,Premier League,Falseback
+1368,Jeremie Molina,RB,Lyon,Japan,Ligue 1,Falseback
+1369,Jeremie Dalot,RB,Tottenham,Brazil,Premier League,Wingback
+1370,Dani Molina,RB,Manchester United,USA,Premier League,Attacking Wing Back
+1371,Trent Lewis,RB,Frankfurt,Belgium,Bundesliga,Attacking Wing Back
+1372,Trent Trippier,RB,Lille,Turkey,Ligue 1,Falseback
+1373,Nahuel Hakimi,RB,Girona,Belgium,La Liga,Falseback
+1374,Kieran Pavard,RB,Dortmund,Germany,Bundesliga,Wingback
+1375,Aaron Pavard,RB,Frankfurt,Japan,Bundesliga,Fullback
+1376,Giovanni Alexander-Arnold,RB,West Ham,France,Premier League,Falseback
+1377,Joao Pavard,RB,Arsenal,Turkey,Premier League,Wingback
+1378,Pedro Cancelo,RB,AS Roma,Spain,Serie A,Wingback
+1379,Diogo Molina,RB,Nice,Portugal,Ligue 1,Attacking Wing Back
+1380,Takehiro White,RB,Bayern Munich,France,Bundesliga,Attacking Wing Back
+1381,Giovanni Frimpong,RB,Atletico Madrid,Brazil,La Liga,Fullback
+1382,Diogo Frimpong,RB,West Ham,Italy,Premier League,Attacking Wing Back
+1383,Timothy Pavard,RB,Bologna,Germany,Serie A,Falseback
+1384,Giovanni Hakimi,RB,RB Leipzig,Turkey,Bundesliga,Wingback
+1385,Denzel Cancelo,RB,Bologna,Spain,Serie A,Attacking Wing Back
+1386,Reece Molina,RB,Lazio,Portugal,Serie A,Fullback
+1387,Achraf Dalot,RB,Bayern Munich,Poland,Bundesliga,Fullback
+1388,Dani Molina,RB,Nice,USA,Ligue 1,Attacking Wing Back
+1389,Denzel Wan-Bissaka,RB,Manchester United,Netherlands,Premier League,Attacking Wing Back
+1390,Benjamin Lewis,RB,Brest,Japan,Ligue 1,Wingback
+1391,Takehiro Molina,RB,West Ham,Japan,Premier League,Wingback
+1392,Diogo Pavard,RB,Arsenal,England,Premier League,Wingback
+1393,Takehiro Cancelo,RB,Lille,Turkey,Ligue 1,Fullback
+1394,Kieran Wan-Bissaka,RB,Atalanta,Brazil,Serie A,Wingback
+1395,Reece Dumfries,RB,AC Milan,USA,Serie A,Attacking Wing Back
+1396,Malo Hakimi,RB,Liverpool,USA,Premier League,Falseback
+1397,Benjamin Tomiyasu,RB,Real Madrid,Spain,La Liga,Fullback
+1398,Timothy Molina,RB,Atletico Madrid,Italy,La Liga,Attacking Wing Back
+1399,Dani James,RB,Liverpool,England,Premier League,Falseback
+1400,Aaron White,RB,Juventus,Japan,Serie A,Falseback
+1401,Ben Tomiyasu,RB,Lazio,Japan,Serie A,Wingback
+1402,Rico Dalot,RB,Dortmund,Netherlands,Bundesliga,Attacking Wing Back
+1403,Kieran Wan-Bissaka,RB,RB Leipzig,Spain,Bundesliga,Wingback
+1404,Trent Hakimi,RB,Girona,Poland,La Liga,Attacking Wing Back
+1405,Joao Di Lorenzo,RB,Inter Milan,England,Serie A,Falseback
+1406,Kyle Walker,RB,Lazio,England,Serie A,Fullback
+1407,Reece Dumfries,RB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+1408,Jeremie Cancelo,RB,Liverpool,USA,Premier League,Falseback
+1409,Ben Frimpong,RB,Frankfurt,Japan,Bundesliga,Falseback
+1410,Reece Cancelo,RB,Stuttgart,Belgium,Bundesliga,Fullback
+1411,Timothy Wan-Bissaka,RB,Marseille,Turkey,Ligue 1,Wingback
+1412,Kieran Frimpong,RB,Chelsea,Japan,Premier League,Wingback
+1413,Nahuel Lewis,RB,Real Sociedad,Brazil,La Liga,Fullback
+1414,Takehiro Lewis,RB,PSG,Germany,Ligue 1,Falseback
+1415,Denzel Carvajal,RB,Chelsea,Japan,Premier League,Attacking Wing Back
+1416,Denzel Hakimi,RB,Inter Milan,England,Serie A,Wingback
+1417,Denzel Cancelo,RB,Napoli,Italy,Serie A,Fullback
+1418,Jeremie Porro,RB,Juventus,England,Serie A,Falseback
+1419,Jeremie Dumfries,RB,Athletic Club,Morocco,La Liga,Fullback
+1420,Aaron Tomiyasu,RB,Real Betis,Argentina,La Liga,Fullback
+1421,Diogo Frimpong,RB,Valencia,Argentina,La Liga,Wingback
+1422,Benjamin Dalot,RB,Marseille,Italy,Ligue 1,Wingback
+1423,Kieran Hakimi,RB,Napoli,Morocco,Serie A,Attacking Wing Back
+1424,Kyle Tomiyasu,RB,Nice,Poland,Ligue 1,Wingback
+1425,Timothy White,RB,West Ham,Morocco,Premier League,Wingback
+1426,Achraf Lewis,RB,West Ham,Italy,Premier League,Falseback
+1427,Achraf Frimpong,RB,Real Betis,Turkey,La Liga,Attacking Wing Back
+1428,Nahuel Molina,RB,West Ham,Belgium,Premier League,Attacking Wing Back
+1429,Jeremie Di Lorenzo,RB,Lazio,Spain,Serie A,Fullback
+1430,Timothy Walker,RB,Manchester United,Argentina,Premier League,Falseback
+1431,Denzel Dalot,RB,Newcastle,Turkey,Premier League,Wingback
+1432,Takehiro Castagne,RB,Atalanta,Turkey,Serie A,Attacking Wing Back
+1433,Trent Lewis,RB,West Ham,Argentina,Premier League,Falseback
+1434,Diogo Trippier,RB,Atletico Madrid,Germany,La Liga,Fullback
+1435,Dani Pavard,RB,Stuttgart,Morocco,Bundesliga,Falseback
+1436,Rico Pavard,RB,Real Betis,Spain,La Liga,Falseback
+1437,Benjamin Lewis,RB,Lyon,Spain,Ligue 1,Attacking Wing Back
+1438,Ben Wan-Bissaka,RB,Nice,Spain,Ligue 1,Attacking Wing Back
+1439,Aaron Pavard,RB,Tottenham,Japan,Premier League,Falseback
+1440,Timothy Cancelo,RB,Nice,Argentina,Ligue 1,Falseback
+1441,Nahuel Dumfries,RB,RB Leipzig,England,Bundesliga,Wingback
+1442,Joao Hakimi,RB,Atalanta,Morocco,Serie A,Fullback
+1443,Benjamin Cancelo,RB,Lazio,Morocco,Serie A,Falseback
+1444,Benjamin Wan-Bissaka,RB,Aston Villa,Poland,Premier League,Fullback
+1445,Trent Alexander-Arnold,RB,Lazio,Netherlands,Serie A,Fullback
+1446,Kieran Frimpong,RB,PSG,Poland,Ligue 1,Fullback
+1447,Aaron Cancelo,RB,AC Milan,Portugal,Serie A,Attacking Wing Back
+1448,Rico Lewis,RB,Marseille,Japan,Ligue 1,Attacking Wing Back
+1449,Kyle Dalot,RB,Arsenal,Turkey,Premier League,Fullback
+1450,Reece Gusto,RB,Nice,Argentina,Ligue 1,Wingback
+1451,Rico Cancelo,RB,Manchester United,Portugal,Premier League,Fullback
+1452,Diogo Dumfries,RB,Atletico Madrid,Portugal,La Liga,Falseback
+1453,Aaron Gusto,RB,Brest,Morocco,Ligue 1,Attacking Wing Back
+1454,Takehiro Pavard,RB,Bayern Munich,Belgium,Bundesliga,Attacking Wing Back
+1455,Benjamin Lewis,RB,Arsenal,Germany,Premier League,Attacking Wing Back
+1456,Dani Castagne,RB,AC Milan,Brazil,Serie A,Wingback
+1457,Kyle Porro,RB,Real Sociedad,Poland,La Liga,Wingback
+1458,Achraf Dumfries,RB,Dortmund,Japan,Bundesliga,Wingback
+1459,Kieran Castagne,RB,Liverpool,USA,Premier League,Wingback
+1460,Malo James,RB,Lille,Poland,Ligue 1,Attacking Wing Back
+1461,Joao Molina,RB,Barcelona,Netherlands,La Liga,Attacking Wing Back
+1462,Giovanni Carvajal,RB,Monaco,Argentina,Ligue 1,Attacking Wing Back
+1463,Denzel Pavard,RB,Tottenham,Brazil,Premier League,Wingback
+1464,Nahuel Alexander-Arnold,RB,Manchester United,USA,Premier League,Attacking Wing Back
+1465,Reece Carvajal,RB,Valencia,France,La Liga,Fullback
+1466,Trent White,RB,Brighton,Germany,Premier League,Fullback
+1467,Reece Wan-Bissaka,RB,AC Milan,Belgium,Serie A,Falseback
+1468,Diogo Lewis,RB,Bayern Munich,Italy,Bundesliga,Fullback
+1469,Ben Di Lorenzo,RB,Inter Milan,Brazil,Serie A,Attacking Wing Back
+1470,Benjamin Trippier,RB,Tottenham,Spain,Premier League,Falseback
+1471,Nahuel Trippier,RB,Dortmund,Turkey,Bundesliga,Fullback
+1472,Takehiro Frimpong,RB,Monaco,Morocco,Ligue 1,Wingback
+1473,Dani Trippier,RB,Valencia,France,La Liga,Falseback
+1474,Kieran Cancelo,RB,Tottenham,Italy,Premier League,Attacking Wing Back
+1475,Kyle Dalot,RB,Chelsea,Belgium,Premier League,Falseback
+1476,Giovanni Alexander-Arnold,RB,RB Leipzig,Belgium,Bundesliga,Wingback
+1477,Kyle Trippier,RB,Inter Milan,Argentina,Serie A,Fullback
+1478,Reece Frimpong,RB,Valencia,Japan,La Liga,Wingback
+1479,Rico Frimpong,RB,Lazio,Argentina,Serie A,Falseback
+1480,Kyle Carvajal,RB,Girona,Brazil,La Liga,Wingback
+1481,Takehiro Frimpong,RB,Nice,Brazil,Ligue 1,Falseback
+1482,Benjamin Lewis,RB,Manchester City,Netherlands,Premier League,Falseback
+1483,Pedro Wan-Bissaka,RB,Frankfurt,England,Bundesliga,Wingback
+1484,Joao Dumfries,RB,Valencia,Spain,La Liga,Attacking Wing Back
+1485,Joao Porro,RB,Manchester City,Morocco,Premier League,Fullback
+1486,Giovanni White,RB,Real Betis,Italy,La Liga,Attacking Wing Back
+1487,Denzel Pavard,RB,Tottenham,France,Premier League,Wingback
+1488,Malo Dumfries,RB,Athletic Club,Turkey,La Liga,Fullback
+1489,Joao Gusto,RB,Lazio,Germany,Serie A,Falseback
+1490,Trent Di Lorenzo,RB,Athletic Club,Belgium,La Liga,Falseback
+1491,Nahuel James,RB,Dortmund,Spain,Bundesliga,Fullback
+1492,Trent Di Lorenzo,RB,Lyon,Spain,Ligue 1,Attacking Wing Back
+1493,Trent Trippier,RB,Athletic Club,Spain,La Liga,Wingback
+1494,Malo Wan-Bissaka,RB,Atalanta,Brazil,Serie A,Falseback
+1495,Kieran Castagne,RB,AC Milan,Belgium,Serie A,Attacking Wing Back
+1496,Diogo Di Lorenzo,RB,Napoli,Spain,Serie A,Attacking Wing Back
+1497,Rico Lewis,RB,Juventus,Italy,Serie A,Attacking Wing Back
+1498,Timothy Trippier,RB,Marseille,USA,Ligue 1,Wingback
+1499,Reece Di Lorenzo,RB,Stuttgart,Netherlands,Bundesliga,Falseback
+1500,Timothy White,RB,Chelsea,Netherlands,Premier League,Fullback

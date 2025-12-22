@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Ferland Cucurella,LB,AS Roma,Canada,Serie A,Attacking Wing Back
+2,Alejandro Hernandez,LB,Lazio,Canada,Serie A,Fullback
+3,Alex Robertson,LB,Atletico Madrid,Italy,La Liga,Attacking Wing Back
+4,Andrew Digne,LB,Tottenham,Italy,Premier League,Attacking Wing Back
+5,Tyrick Sandro,LB,Frankfurt,France,Bundesliga,Fullback
+6,Nuno Balde,LB,Inter Milan,Spain,Serie A,Fullback
+7,Ferland Sandro,LB,Nice,England,Ligue 1,Wingback
+8,Renan Alba,LB,Stuttgart,Belgium,Bundesliga,Attacking Wing Back
+9,Kieran Dimarco,LB,Lille,Germany,Ligue 1,Falseback
+10,Oleksandr Palmieri,LB,Newcastle,France,Premier League,Attacking Wing Back
+11,Marc Gaya,LB,Athletic Club,Argentina,La Liga,Attacking Wing Back
+12,Raphael Cucurella,LB,Newcastle,Ukraine,Premier League,Fullback
+13,Andrew Tierney,LB,RB Leipzig,Argentina,Bundesliga,Wingback
+14,Luke Davies,LB,Barcelona,Argentina,La Liga,Fullback
+15,Emerson Maatsen,LB,Nice,Ukraine,Ligue 1,Falseback
+16,Nuno Ait-Nouri,LB,Lille,Scotland,Ligue 1,Falseback
+17,Alejandro Gaya,LB,Barcelona,Spain,La Liga,Wingback
+18,Alex Davies,LB,Juventus,Italy,Serie A,Attacking Wing Back
+19,Luke Hernandez,LB,Marseille,Ecuador,Ligue 1,Attacking Wing Back
+20,Renan Mitchell,LB,Brest,Portugal,Ligue 1,Falseback
+21,Vitaliy Palmieri,LB,Nice,Canada,Ligue 1,Falseback
+22,Ben Hernandez,LB,RB Leipzig,Argentina,Bundesliga,Attacking Wing Back
+23,Emerson Sandro,LB,Atalanta,England,Serie A,Attacking Wing Back
+24,Lucas Palmieri,LB,RB Leipzig,Italy,Bundesliga,Attacking Wing Back
+25,Tyrick Gaya,LB,Lille,Portugal,Ligue 1,Attacking Wing Back
+26,Oleksandr Estupinan,LB,Inter Milan,France,Serie A,Fullback
+27,Marc Mendy,LB,RB Leipzig,Canada,Bundesliga,Fullback
+28,Ferland Estupinan,LB,PSG,Argentina,Ligue 1,Wingback
+29,Ferland Gaya,LB,PSG,Portugal,Ligue 1,Fullback
+30,Oleksandr Guerreiro,LB,Tottenham,Portugal,Premier League,Fullback
+31,Jose Robertson,LB,Inter Milan,Ecuador,Serie A,Fullback
+32,Alex Mitchell,LB,Tottenham,Spain,Premier League,Falseback
+33,Vitaliy Mitchell,LB,Newcastle,France,Premier League,Falseback
+34,Alejandro Alba,LB,Athletic Club,Brazil,La Liga,Falseback
+35,Theo Mendy,LB,Chelsea,Belgium,Premier League,Wingback
+36,Raphael Mykolenko,LB,Bologna,Portugal,Serie A,Wingback
+37,Alex Cucurella,LB,Bayern Munich,Ecuador,Bundesliga,Falseback
+38,Raphael Mendes,LB,Girona,Ecuador,La Liga,Attacking Wing Back
+39,Alejandro Robertson,LB,Juventus,Scotland,Serie A,Falseback
+40,Jose Gaya,LB,Inter Milan,Germany,Serie A,Fullback
+41,Ben Balde,LB,Real Betis,Ukraine,La Liga,Fullback
+42,Raphael Zinchenko,LB,Bayern Munich,Portugal,Bundesliga,Falseback
+43,Emerson Udogie,LB,Arsenal,Portugal,Premier League,Wingback
+44,Destiny Sandro,LB,Juventus,Argentina,Serie A,Fullback
+45,Jordi Maatsen,LB,Bayern Munich,Spain,Bundesliga,Fullback
+46,Alphonso Lodi,LB,Liverpool,Germany,Premier League,Fullback
+47,Destiny Guerreiro,LB,Lille,Portugal,Ligue 1,Wingback
+48,Nuno Hernandez,LB,AS Roma,Argentina,Serie A,Wingback
+49,Marc Mitchell,LB,Marseille,Ukraine,Ligue 1,Attacking Wing Back
+50,Andrew Lodi,LB,Nice,Italy,Ligue 1,Attacking Wing Back
+51,Lucas Mykolenko,LB,Dortmund,Ukraine,Bundesliga,Wingback
+52,Ferland Alba,LB,Real Betis,Belgium,La Liga,Wingback
+53,Kieran Ait-Nouri,LB,Real Madrid,France,La Liga,Attacking Wing Back
+54,Raphael Zinchenko,LB,Bayern Munich,France,Bundesliga,Fullback
+55,Alejandro Sandro,LB,Dortmund,France,Bundesliga,Attacking Wing Back
+56,Pervis Mitchell,LB,Manchester City,Ukraine,Premier League,Falseback
+57,Ian Lodi,LB,Inter Milan,Italy,Serie A,Attacking Wing Back
+58,Renan Lodi,LB,Marseille,Scotland,Ligue 1,Falseback
+59,Federico Lodi,LB,Monaco,Italy,Ligue 1,Falseback
+60,Theo Balde,LB,Aston Villa,Ukraine,Premier League,Fullback
+61,Marc Maatsen,LB,Juventus,Algeria,Serie A,Fullback
+62,Luke Shaw,LB,Manchester United,France,Premier League,Falseback
+63,Renan Hernandez,LB,Bologna,Ecuador,Serie A,Fullback
+64,Jose Palmieri,LB,PSG,Spain,Ligue 1,Falseback
+65,Ferland Mendes,LB,Lille,Belgium,Ligue 1,Falseback
+66,Tyrick Hernandez,LB,Napoli,Germany,Serie A,Attacking Wing Back
+67,Oleksandr Cucurella,LB,Stuttgart,Brazil,Bundesliga,Fullback
+68,Federico Gaya,LB,Bayern Munich,Algeria,Bundesliga,Fullback
+69,Theo Mendy,LB,Barcelona,Belgium,La Liga,Fullback
+70,Alphonso Udogie,LB,Atletico Madrid,Ecuador,La Liga,Falseback
+71,Emerson Davies,LB,Lyon,France,Ligue 1,Attacking Wing Back
+72,Alphonso Robertson,LB,Atletico Madrid,Ecuador,La Liga,Attacking Wing Back
+73,Ferland Chilwell,LB,Real Madrid,Canada,La Liga,Attacking Wing Back
+74,Andrew Mendes,LB,Girona,England,La Liga,Attacking Wing Back
+75,Alphonso Tierney,LB,West Ham,France,Premier League,Fullback
+76,Raphael Estupinan,LB,RB Leipzig,Argentina,Bundesliga,Attacking Wing Back
+77,Vitaliy Ait-Nouri,LB,Liverpool,England,Premier League,Falseback
+78,Andrew Lodi,LB,Real Sociedad,Netherlands,La Liga,Falseback
+79,Marc Mykolenko,LB,Athletic Club,France,La Liga,Wingback
+80,Alex Digne,LB,Frankfurt,Algeria,Bundesliga,Fullback
+81,Alphonso Robertson,LB,Barcelona,Portugal,La Liga,Wingback
+82,Theo Balde,LB,Napoli,Scotland,Serie A,Attacking Wing Back
+83,Renan Balde,LB,Stuttgart,Portugal,Bundesliga,Falseback
+84,Nuno Estupinan,LB,Monaco,Algeria,Ligue 1,Attacking Wing Back
+85,Emerson Palmieri,LB,Valencia,Ecuador,La Liga,Fullback
+86,Ian Mendes,LB,Real Betis,Spain,La Liga,Falseback
+87,Ian Gaya,LB,Napoli,Scotland,Serie A,Wingback
+88,Theo Shaw,LB,Girona,Germany,La Liga,Attacking Wing Back
+89,Jordi Balde,LB,Aston Villa,Brazil,Premier League,Falseback
+90,Alejandro Mykolenko,LB,Real Sociedad,Ukraine,La Liga,Wingback
+91,Ben Chilwell,LB,Real Madrid,Italy,La Liga,Falseback
+92,Kieran Alba,LB,Bayer Leverkusen,Netherlands,Bundesliga,Fullback
+93,Luke Sandro,LB,Atletico Madrid,Ecuador,La Liga,Falseback
+94,Lucas Palmieri,LB,Atalanta,Portugal,Serie A,Wingback
+95,Destiny Maatsen,LB,Inter Milan,Ecuador,Serie A,Wingback
+96,Theo Maatsen,LB,RB Leipzig,Ukraine,Bundesliga,Fullback
+97,Luke Maatsen,LB,Bayern Munich,Argentina,Bundesliga,Falseback
+98,Alphonso Maatsen,LB,Lyon,Germany,Ligue 1,Attacking Wing Back
+99,Jose Mykolenko,LB,Marseille,Germany,Ligue 1,Falseback
+100,Nuno Mitchell,LB,RB Leipzig,Algeria,Bundesliga,Attacking Wing Back
+101,Ferland Maatsen,LB,Bayern Munich,Algeria,Bundesliga,Attacking Wing Back
+102,Kieran Tierney,LB,Brest,Spain,Ligue 1,Falseback
+103,Tyrick Mykolenko,LB,Newcastle,Ukraine,Premier League,Fullback
+104,Destiny Palmieri,LB,RB Leipzig,Argentina,Bundesliga,Fullback
+105,Luke Shaw,LB,AS Roma,Netherlands,Serie A,Attacking Wing Back
+106,Lucas Digne,LB,Napoli,Spain,Serie A,Falseback
+107,Kieran Chilwell,LB,Frankfurt,Algeria,Bundesliga,Fullback
+108,Jose Balde,LB,Liverpool,Canada,Premier League,Attacking Wing Back
+109,Ferland Chilwell,LB,AC Milan,Argentina,Serie A,Wingback
+110,Ian Guerreiro,LB,Brest,Italy,Ligue 1,Falseback
+111,Ben Tierney,LB,Bayern Munich,France,Bundesliga,Fullback
+112,Alphonso Lodi,LB,RB Leipzig,Italy,Bundesliga,Fullback
+113,Nuno Ait-Nouri,LB,Inter Milan,Algeria,Serie A,Attacking Wing Back
+114,Nuno Udogie,LB,Girona,Ecuador,La Liga,Fullback
+115,Ben Mitchell,LB,Monaco,Argentina,Ligue 1,Falseback
+116,Alphonso Hernandez,LB,Real Sociedad,Brazil,La Liga,Attacking Wing Back
+117,Luke Shaw,LB,Marseille,Belgium,Ligue 1,Wingback
+118,Destiny Digne,LB,Dortmund,England,Bundesliga,Fullback
+119,Marc Dimarco,LB,Lille,Algeria,Ligue 1,Fullback
+120,Kieran Mendy,LB,Juventus,Germany,Serie A,Fullback
+121,Jose Cucurella,LB,Inter Milan,Ukraine,Serie A,Fullback
+122,Pervis Cucurella,LB,Manchester City,Belgium,Premier League,Fullback
+123,Alex Chilwell,LB,Real Sociedad,Brazil,La Liga,Fullback
+124,Destiny Mitchell,LB,Frankfurt,Ukraine,Bundesliga,Wingback
+125,Oleksandr Estupinan,LB,Real Sociedad,Ukraine,La Liga,Falseback
+126,Theo Chilwell,LB,Tottenham,Ukraine,Premier League,Attacking Wing Back
+127,Alex Mykolenko,LB,Manchester City,Italy,Premier League,Wingback
+128,Luke Shaw,LB,Aston Villa,England,Premier League,Fullback
+129,Vitaliy Mykolenko,LB,Athletic Club,Algeria,La Liga,Falseback
+130,Pervis Lodi,LB,Tottenham,France,Premier League,Wingback
+131,Luke Balde,LB,Inter Milan,Brazil,Serie A,Fullback
+132,Alejandro Mykolenko,LB,Bayern Munich,Scotland,Bundesliga,Fullback
+133,Alejandro Guerreiro,LB,Athletic Club,Ecuador,La Liga,Fullback
+134,Raphael Ait-Nouri,LB,AC Milan,Algeria,Serie A,Wingback
+135,Raphael Mitchell,LB,AS Roma,Canada,Serie A,Wingback
+136,Alphonso Davies,LB,Dortmund,England,Bundesliga,Attacking Wing Back
+137,Jordi Estupinan,LB,Atletico Madrid,Canada,La Liga,Fullback
+138,Theo Estupinan,LB,Liverpool,Algeria,Premier League,Fullback
+139,Alphonso Alba,LB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+140,Jose Tierney,LB,Frankfurt,Italy,Bundesliga,Attacking Wing Back
+141,Rayan Zinchenko,LB,Nice,Scotland,Ligue 1,Fullback
+142,Tyrick Shaw,LB,Lazio,Portugal,Serie A,Fullback
+143,Marc Dimarco,LB,Bayer Leverkusen,France,Bundesliga,Wingback
+144,Nuno Palmieri,LB,Lazio,Brazil,Serie A,Wingback
+145,Ben Palmieri,LB,Inter Milan,Argentina,Serie A,Wingback
+146,Pervis Digne,LB,Monaco,Spain,Ligue 1,Attacking Wing Back
+147,Emerson Balde,LB,Frankfurt,Germany,Bundesliga,Wingback
+148,Ian Hernandez,LB,Aston Villa,Germany,Premier League,Falseback
+149,Renan Udogie,LB,Bologna,Ukraine,Serie A,Wingback
+150,Tyrick Maatsen,LB,Juventus,Spain,Serie A,Wingback
+151,Lucas Maatsen,LB,Real Madrid,Belgium,La Liga,Attacking Wing Back
+152,Oleksandr Palmieri,LB,Lyon,Belgium,Ligue 1,Fullback
+153,Ferland Hernandez,LB,Aston Villa,Portugal,Premier League,Attacking Wing Back
+154,Ian Guerreiro,LB,Newcastle,Italy,Premier League,Fullback
+155,Alex Ait-Nouri,LB,Manchester United,Brazil,Premier League,Fullback
+156,Pervis Guerreiro,LB,Napoli,Brazil,Serie A,Falseback
+157,Jose Hernandez,LB,Real Sociedad,Portugal,La Liga,Falseback
+158,Lucas Sandro,LB,AS Roma,Portugal,Serie A,Falseback
+159,Theo Tierney,LB,Manchester United,Scotland,Premier League,Falseback
+160,Nuno Sandro,LB,AS Roma,Ecuador,Serie A,Falseback
+161,Jose Mykolenko,LB,Dortmund,Ukraine,Bundesliga,Fullback
+162,Kieran Digne,LB,Juventus,France,Serie A,Wingback
+163,Ian Alba,LB,Atalanta,Canada,Serie A,Attacking Wing Back
+164,Emerson Palmieri,LB,Bologna,Ukraine,Serie A,Fullback
+165,Alphonso Maatsen,LB,Newcastle,Argentina,Premier League,Attacking Wing Back
+166,Renan Guerreiro,LB,Girona,Algeria,La Liga,Falseback
+167,Oleksandr Tierney,LB,Atalanta,Netherlands,Serie A,Falseback
+168,Kieran Gaya,LB,West Ham,Brazil,Premier League,Fullback
+169,Alex Estupinan,LB,Frankfurt,Germany,Bundesliga,Wingback
+170,Lucas Udogie,LB,Monaco,Portugal,Ligue 1,Falseback
+171,Nuno Mykolenko,LB,Lyon,Portugal,Ligue 1,Wingback
+172,Vitaliy Gaya,LB,Stuttgart,Algeria,Bundesliga,Fullback
+173,Alphonso Cucurella,LB,Bayern Munich,France,Bundesliga,Wingback
+174,Alejandro Ait-Nouri,LB,AC Milan,Italy,Serie A,Falseback
+175,Ferland Maatsen,LB,PSG,Italy,Ligue 1,Falseback
+176,Andrew Balde,LB,Manchester United,France,Premier League,Falseback
+177,Lucas Lodi,LB,Marseille,Spain,Ligue 1,Attacking Wing Back
+178,Pervis Chilwell,LB,Lazio,Argentina,Serie A,Falseback
+179,Lucas Mendy,LB,Newcastle,France,Premier League,Falseback
+180,Jordi Cucurella,LB,Real Sociedad,Belgium,La Liga,Falseback
+181,Federico Lodi,LB,Chelsea,France,Premier League,Wingback
+182,Rayan Mendy,LB,Aston Villa,Spain,Premier League,Fullback
+183,Ben Mendy,LB,Lazio,France,Serie A,Fullback
+184,Oleksandr Palmieri,LB,Stuttgart,Ukraine,Bundesliga,Fullback
+185,Alex Tierney,LB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+186,Renan Cucurella,LB,Bologna,France,Serie A,Attacking Wing Back
+187,Oleksandr Shaw,LB,Lazio,Belgium,Serie A,Wingback
+188,Kieran Palmieri,LB,RB Leipzig,Spain,Bundesliga,Fullback
+189,Raphael Gaya,LB,Manchester United,Germany,Premier League,Fullback
+190,Alejandro Dimarco,LB,Dortmund,Spain,Bundesliga,Attacking Wing Back
+191,Rayan Hernandez,LB,Liverpool,England,Premier League,Wingback
+192,Jordi Lodi,LB,Real Sociedad,Belgium,La Liga,Fullback
+193,Alex Palmieri,LB,Dortmund,Portugal,Bundesliga,Attacking Wing Back
+194,Rayan Digne,LB,Girona,England,La Liga,Attacking Wing Back
+195,Federico Lodi,LB,Newcastle,Ukraine,Premier League,Fullback
+196,Jordi Ait-Nouri,LB,Atletico Madrid,Algeria,La Liga,Attacking Wing Back
+197,Ferland Mendes,LB,Bayern Munich,England,Bundesliga,Attacking Wing Back
+198,Ferland Mendy,LB,Real Madrid,Canada,La Liga,Attacking Wing Back
+199,Alex Shaw,LB,Real Betis,Italy,La Liga,Attacking Wing Back
+200,Andrew Sandro,LB,Lyon,England,Ligue 1,Falseback
+201,Lucas Alba,LB,RB Leipzig,Brazil,Bundesliga,Attacking Wing Back
+202,Marc Robertson,LB,Dortmund,Belgium,Bundesliga,Wingback
+203,Jordi Chilwell,LB,Frankfurt,Algeria,Bundesliga,Falseback
+204,Jordi Zinchenko,LB,Bologna,Canada,Serie A,Fullback
+205,Ben Davies,LB,Bayer Leverkusen,Germany,Bundesliga,Wingback
+206,Alex Balde,LB,Bayer Leverkusen,Canada,Bundesliga,Falseback
+207,Federico Lodi,LB,Dortmund,Algeria,Bundesliga,Fullback
+208,Andrew Lodi,LB,Frankfurt,Netherlands,Bundesliga,Wingback
+209,Jordi Balde,LB,Stuttgart,Germany,Bundesliga,Falseback
+210,Vitaliy Hernandez,LB,Aston Villa,Belgium,Premier League,Fullback
+211,Kieran Robertson,LB,Liverpool,Scotland,Premier League,Wingback
+212,Luke Hernandez,LB,Bayern Munich,Argentina,Bundesliga,Attacking Wing Back
+213,Alejandro Balde,LB,Bologna,Portugal,Serie A,Falseback
+214,Renan Chilwell,LB,Dortmund,Argentina,Bundesliga,Attacking Wing Back
+215,Alphonso Chilwell,LB,Lille,Brazil,Ligue 1,Falseback
+216,Renan Alba,LB,Bayern Munich,Algeria,Bundesliga,Attacking Wing Back
+217,Federico Alba,LB,Valencia,Argentina,La Liga,Attacking Wing Back
+218,Lucas Robertson,LB,Athletic Club,Canada,La Liga,Wingback
+219,Pervis Mendes,LB,Monaco,Netherlands,Ligue 1,Fullback
+220,Oleksandr Robertson,LB,AS Roma,Ukraine,Serie A,Falseback
+221,Rayan Maatsen,LB,Chelsea,Belgium,Premier League,Attacking Wing Back
+222,Luke Guerreiro,LB,Athletic Club,England,La Liga,Wingback
+223,Rayan Lodi,LB,Bayern Munich,Ukraine,Bundesliga,Falseback
+224,Ben Mykolenko,LB,Frankfurt,Portugal,Bundesliga,Wingback
+225,Theo Robertson,LB,Juventus,Argentina,Serie A,Wingback
+226,Tyrick Dimarco,LB,Manchester United,Germany,Premier League,Wingback
+227,Federico Robertson,LB,Bayer Leverkusen,Germany,Bundesliga,Fullback
+228,Theo Shaw,LB,Brest,Belgium,Ligue 1,Attacking Wing Back
+229,Theo Mitchell,LB,RB Leipzig,Scotland,Bundesliga,Fullback
+230,Alejandro Cucurella,LB,AC Milan,Scotland,Serie A,Attacking Wing Back
+231,Luke Balde,LB,AS Roma,Argentina,Serie A,Falseback
+232,Alejandro Lodi,LB,Bayern Munich,Argentina,Bundesliga,Fullback
+233,Alejandro Guerreiro,LB,Lille,Spain,Ligue 1,Fullback
+234,Renan Dimarco,LB,Dortmund,Argentina,Bundesliga,Attacking Wing Back
+235,Luke Balde,LB,Inter Milan,Canada,Serie A,Falseback
+236,Ferland Cucurella,LB,Brighton,Ukraine,Premier League,Fullback
+237,Nuno Mykolenko,LB,Girona,Portugal,La Liga,Wingback
+238,Ben Ait-Nouri,LB,Stuttgart,Spain,Bundesliga,Fullback
+239,Lucas Tierney,LB,Brest,Ecuador,Ligue 1,Attacking Wing Back
+240,Federico Ait-Nouri,LB,Atalanta,Algeria,Serie A,Wingback
+241,Destiny Alba,LB,Brighton,Spain,Premier League,Wingback
+242,Federico Mendy,LB,Brest,Ecuador,Ligue 1,Wingback
+243,Alex Lodi,LB,Dortmund,Algeria,Bundesliga,Attacking Wing Back
+244,Ferland Alba,LB,Lyon,France,Ligue 1,Fullback
+245,Jordi Cucurella,LB,Stuttgart,Ecuador,Bundesliga,Wingback
+246,Emerson Estupinan,LB,Manchester City,Spain,Premier League,Wingback
+247,Renan Davies,LB,Real Sociedad,Canada,La Liga,Fullback
+248,Kieran Hernandez,LB,AC Milan,Portugal,Serie A,Fullback
+249,Andrew Palmieri,LB,Athletic Club,Scotland,La Liga,Falseback
+250,Renan Chilwell,LB,Atletico Madrid,Germany,La Liga,Falseback
+251,Jordi Chilwell,LB,Lyon,Brazil,Ligue 1,Attacking Wing Back
+252,Oleksandr Tierney,LB,West Ham,Ecuador,Premier League,Falseback
+253,Alphonso Robertson,LB,Juventus,Algeria,Serie A,Attacking Wing Back
+254,Ben Davies,LB,Napoli,Scotland,Serie A,Attacking Wing Back
+255,Luke Alba,LB,Bologna,France,Serie A,Wingback
+256,Tyrick Cucurella,LB,Dortmund,Canada,Bundesliga,Falseback
+257,Oleksandr Davies,LB,PSG,Ukraine,Ligue 1,Wingback
+258,Alex Chilwell,LB,RB Leipzig,Brazil,Bundesliga,Wingback
+259,Emerson Dimarco,LB,Marseille,Spain,Ligue 1,Wingback
+260,Federico Sandro,LB,Bayern Munich,Ecuador,Bundesliga,Attacking Wing Back
+261,Pervis Hernandez,LB,Dortmund,England,Bundesliga,Attacking Wing Back
+262,Marc Hernandez,LB,Monaco,Italy,Ligue 1,Falseback
+263,Ben Digne,LB,Manchester City,France,Premier League,Attacking Wing Back
+264,Destiny Robertson,LB,Girona,Ecuador,La Liga,Wingback
+265,Ferland Dimarco,LB,Real Madrid,Brazil,La Liga,Attacking Wing Back
+266,Tyrick Dimarco,LB,RB Leipzig,Germany,Bundesliga,Wingback
+267,Nuno Balde,LB,Juventus,Ecuador,Serie A,Attacking Wing Back
+268,Alphonso Guerreiro,LB,Real Madrid,Netherlands,La Liga,Wingback
+269,Jose Sandro,LB,Real Madrid,Argentina,La Liga,Attacking Wing Back
+270,Emerson Lodi,LB,Nice,Scotland,Ligue 1,Wingback
+271,Pervis Ait-Nouri,LB,Athletic Club,Argentina,La Liga,Falseback
+272,Jordi Tierney,LB,Monaco,Portugal,Ligue 1,Attacking Wing Back
+273,Alex Guerreiro,LB,Stuttgart,Brazil,Bundesliga,Wingback
+274,Ben Lodi,LB,Stuttgart,Brazil,Bundesliga,Wingback
+275,Alejandro Palmieri,LB,Valencia,Canada,La Liga,Wingback
+276,Federico Mitchell,LB,AS Roma,Belgium,Serie A,Fullback
+277,Renan Mendy,LB,Atalanta,Spain,Serie A,Wingback
+278,Raphael Chilwell,LB,Manchester United,France,Premier League,Attacking Wing Back
+279,Vitaliy Balde,LB,Real Madrid,Scotland,La Liga,Falseback
+280,Vitaliy Hernandez,LB,Lille,Germany,Ligue 1,Wingback
+281,Tyrick Robertson,LB,Liverpool,England,Premier League,Wingback
+282,Theo Zinchenko,LB,Stuttgart,Scotland,Bundesliga,Fullback
+283,Renan Mendy,LB,Stuttgart,Canada,Bundesliga,Attacking Wing Back
+284,Vitaliy Palmieri,LB,Nice,France,Ligue 1,Falseback
+285,Kieran Ait-Nouri,LB,Bayern Munich,Canada,Bundesliga,Attacking Wing Back
+286,Destiny Maatsen,LB,Arsenal,Canada,Premier League,Fullback
+287,Federico Maatsen,LB,Real Sociedad,Belgium,La Liga,Wingback
+288,Theo Estupinan,LB,Girona,Brazil,La Liga,Wingback
+289,Raphael Chilwell,LB,Brest,Ecuador,Ligue 1,Attacking Wing Back
+290,Alex Mitchell,LB,Lyon,France,Ligue 1,Attacking Wing Back
+291,Alphonso Balde,LB,Juventus,Argentina,Serie A,Falseback
+292,Nuno Mykolenko,LB,Manchester United,Ukraine,Premier League,Fullback
+293,Alex Zinchenko,LB,Brest,Ecuador,Ligue 1,Attacking Wing Back
+294,Nuno Mykolenko,LB,Bayer Leverkusen,Ecuador,Bundesliga,Fullback
+295,Kieran Dimarco,LB,RB Leipzig,Scotland,Bundesliga,Fullback
+296,Andrew Tierney,LB,Bologna,France,Serie A,Attacking Wing Back
+297,Oleksandr Dimarco,LB,Juventus,Brazil,Serie A,Attacking Wing Back
+298,Oleksandr Gaya,LB,Nice,Italy,Ligue 1,Wingback
+299,Federico Tierney,LB,Arsenal,Canada,Premier League,Falseback
+300,Alex Davies,LB,Lille,Scotland,Ligue 1,Falseback
+301,Vitaliy Davies,LB,Newcastle,England,Premier League,Attacking Wing Back
+302,Kieran Zinchenko,LB,Real Betis,Ukraine,La Liga,Wingback
+303,Alejandro Zinchenko,LB,West Ham,Argentina,Premier League,Wingback
+304,Pervis Davies,LB,Marseille,Portugal,Ligue 1,Attacking Wing Back
+305,Destiny Mendes,LB,Chelsea,Ecuador,Premier League,Fullback
+306,Emerson Alba,LB,Monaco,Spain,Ligue 1,Wingback
+307,Destiny Zinchenko,LB,Monaco,Portugal,Ligue 1,Attacking Wing Back
+308,Nuno Gaya,LB,Frankfurt,France,Bundesliga,Attacking Wing Back
+309,Rayan Palmieri,LB,Athletic Club,Argentina,La Liga,Attacking Wing Back
+310,Luke Shaw,LB,Bayern Munich,Netherlands,Bundesliga,Wingback
+311,Marc Chilwell,LB,Manchester City,Brazil,Premier League,Wingback
+312,Jose Balde,LB,Tottenham,France,Premier League,Falseback
+313,Ferland Mitchell,LB,Brest,Argentina,Ligue 1,Falseback
+314,Andrew Cucurella,LB,Lyon,Canada,Ligue 1,Attacking Wing Back
+315,Raphael Maatsen,LB,Valencia,Italy,La Liga,Attacking Wing Back
+316,Nuno Udogie,LB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+317,Ferland Mendes,LB,Real Betis,France,La Liga,Attacking Wing Back
+318,Pervis Palmieri,LB,Brest,France,Ligue 1,Wingback
+319,Nuno Lodi,LB,RB Leipzig,Netherlands,Bundesliga,Wingback
+320,Vitaliy Maatsen,LB,Atletico Madrid,Portugal,La Liga,Fullback
+321,Oleksandr Zinchenko,LB,Lyon,Algeria,Ligue 1,Fullback
+322,Jordi Mitchell,LB,Monaco,England,Ligue 1,Fullback
+323,Oleksandr Lodi,LB,Bologna,Spain,Serie A,Wingback
+324,Federico Mendy,LB,Barcelona,Belgium,La Liga,Fullback
+325,Alex Ait-Nouri,LB,Atalanta,Brazil,Serie A,Attacking Wing Back
+326,Federico Chilwell,LB,Arsenal,Algeria,Premier League,Wingback
+327,Kieran Ait-Nouri,LB,Brest,Belgium,Ligue 1,Falseback
+328,Andrew Balde,LB,West Ham,Netherlands,Premier League,Attacking Wing Back
+329,Luke Chilwell,LB,RB Leipzig,Spain,Bundesliga,Falseback
+330,Destiny Palmieri,LB,Nice,Ecuador,Ligue 1,Fullback
+331,Jordi Chilwell,LB,Real Sociedad,Spain,La Liga,Wingback
+332,Emerson Palmieri,LB,RB Leipzig,Algeria,Bundesliga,Fullback
+333,Tyrick Chilwell,LB,Bayer Leverkusen,Brazil,Bundesliga,Attacking Wing Back
+334,Oleksandr Cucurella,LB,Atalanta,Canada,Serie A,Falseback
+335,Federico Estupinan,LB,Manchester City,France,Premier League,Wingback
+336,Nuno Chilwell,LB,Nice,France,Ligue 1,Wingback
+337,Federico Guerreiro,LB,Lazio,Italy,Serie A,Fullback
+338,Raphael Udogie,LB,Valencia,Italy,La Liga,Fullback
+339,Nuno Estupinan,LB,Nice,Italy,Ligue 1,Fullback
+340,Oleksandr Udogie,LB,Real Madrid,Argentina,La Liga,Falseback
+341,Federico Alba,LB,Lille,Germany,Ligue 1,Falseback
+342,Andrew Zinchenko,LB,Stuttgart,Algeria,Bundesliga,Falseback
+343,Ferland Cucurella,LB,Bayer Leverkusen,Italy,Bundesliga,Wingback
+344,Alphonso Udogie,LB,Newcastle,Argentina,Premier League,Attacking Wing Back
+345,Vitaliy Alba,LB,Monaco,Argentina,Ligue 1,Falseback
+346,Federico Robertson,LB,Manchester United,Ukraine,Premier League,Attacking Wing Back
+347,Ferland Palmieri,LB,Atletico Madrid,Germany,La Liga,Falseback
+348,Lucas Mitchell,LB,Tottenham,England,Premier League,Attacking Wing Back
+349,Destiny Mendes,LB,Brest,Ukraine,Ligue 1,Falseback
+350,Emerson Gaya,LB,Brighton,England,Premier League,Attacking Wing Back
+351,Lucas Hernandez,LB,Real Betis,Brazil,La Liga,Wingback
+352,Destiny Mendy,LB,Inter Milan,Ecuador,Serie A,Falseback
+353,Alex Robertson,LB,Brest,Netherlands,Ligue 1,Attacking Wing Back
+354,Andrew Estupinan,LB,Chelsea,England,Premier League,Fullback
+355,Vitaliy Maatsen,LB,Athletic Club,England,La Liga,Falseback
+356,Marc Mykolenko,LB,Bayern Munich,Ukraine,Bundesliga,Falseback
+357,Jordi Mendes,LB,Brest,Germany,Ligue 1,Attacking Wing Back
+358,Alphonso Shaw,LB,AS Roma,Ecuador,Serie A,Attacking Wing Back
+359,Rayan Balde,LB,Dortmund,Germany,Bundesliga,Wingback
+360,Andrew Udogie,LB,Monaco,Brazil,Ligue 1,Attacking Wing Back
+361,Pervis Udogie,LB,Chelsea,Belgium,Premier League,Fullback
+362,Pervis Mitchell,LB,Bayern Munich,Germany,Bundesliga,Fullback
+363,Rayan Tierney,LB,Real Betis,Scotland,La Liga,Attacking Wing Back
+364,Raphael Guerreiro,LB,AS Roma,Italy,Serie A,Falseback
+365,Renan Dimarco,LB,AC Milan,England,Serie A,Attacking Wing Back
+366,Alejandro Guerreiro,LB,Lyon,Algeria,Ligue 1,Falseback
+367,Marc Lodi,LB,Valencia,Brazil,La Liga,Attacking Wing Back
+368,Alphonso Shaw,LB,Dortmund,Canada,Bundesliga,Falseback
+369,Marc Hernandez,LB,Atalanta,Spain,Serie A,Wingback
+370,Ian Gaya,LB,Girona,Spain,La Liga,Falseback
+371,Renan Ait-Nouri,LB,Real Sociedad,Canada,La Liga,Wingback
+372,Alejandro Palmieri,LB,Liverpool,England,Premier League,Wingback
+373,Marc Sandro,LB,Manchester City,Spain,Premier League,Attacking Wing Back
+374,Theo Estupinan,LB,Napoli,Spain,Serie A,Falseback
+375,Nuno Tierney,LB,Bayern Munich,Italy,Bundesliga,Attacking Wing Back
+376,Alphonso Cucurella,LB,Chelsea,England,Premier League,Falseback
+377,Rayan Lodi,LB,RB Leipzig,Algeria,Bundesliga,Falseback
+378,Pervis Digne,LB,Real Sociedad,Ukraine,La Liga,Wingback
+379,Federico Mendy,LB,AC Milan,Portugal,Serie A,Attacking Wing Back
+380,Federico Robertson,LB,Bayer Leverkusen,Netherlands,Bundesliga,Attacking Wing Back
+381,Alex Sandro,LB,Bayer Leverkusen,Italy,Bundesliga,Falseback
+382,Alex Ait-Nouri,LB,Bayer Leverkusen,Ukraine,Bundesliga,Fullback
+383,Rayan Palmieri,LB,West Ham,Ukraine,Premier League,Wingback
+384,Pervis Dimarco,LB,Brighton,Spain,Premier League,Attacking Wing Back
+385,Alejandro Digne,LB,Aston Villa,Brazil,Premier League,Wingback
+386,Raphael Ait-Nouri,LB,AC Milan,England,Serie A,Fullback
+387,Renan Cucurella,LB,Athletic Club,France,La Liga,Attacking Wing Back
+388,Alex Hernandez,LB,Manchester United,Scotland,Premier League,Wingback
+389,Oleksandr Palmieri,LB,Inter Milan,Canada,Serie A,Falseback
+390,Jose Alba,LB,Inter Milan,Germany,Serie A,Wingback
+391,Ben Mitchell,LB,Aston Villa,Scotland,Premier League,Wingback
+392,Vitaliy Robertson,LB,Brighton,Argentina,Premier League,Fullback
+393,Ian Zinchenko,LB,Marseille,England,Ligue 1,Falseback
+394,Kieran Maatsen,LB,Bayer Leverkusen,Germany,Bundesliga,Attacking Wing Back
+395,Pervis Robertson,LB,Juventus,England,Serie A,Falseback
+396,Alex Hernandez,LB,Girona,Brazil,La Liga,Attacking Wing Back
+397,Alex Dimarco,LB,Frankfurt,Portugal,Bundesliga,Wingback
+398,Vitaliy Cucurella,LB,Girona,England,La Liga,Attacking Wing Back
+399,Nuno Balde,LB,Lyon,Scotland,Ligue 1,Fullback
+400,Alphonso Lodi,LB,Girona,Belgium,La Liga,Fullback
+401,Rayan Dimarco,LB,Real Sociedad,Brazil,La Liga,Falseback
+402,Emerson Mendes,LB,Liverpool,Italy,Premier League,Attacking Wing Back
+403,Pervis Mitchell,LB,Juventus,Scotland,Serie A,Attacking Wing Back
+404,Ian Davies,LB,Stuttgart,Algeria,Bundesliga,Falseback
+405,Jordi Hernandez,LB,Napoli,Netherlands,Serie A,Fullback
+406,Tyrick Sandro,LB,Real Sociedad,England,La Liga,Falseback
+407,Ian Hernandez,LB,Aston Villa,Spain,Premier League,Attacking Wing Back
+408,Vitaliy Cucurella,LB,Inter Milan,Spain,Serie A,Fullback
+409,Emerson Chilwell,LB,PSG,Argentina,Ligue 1,Falseback
+410,Alphonso Udogie,LB,Napoli,Brazil,Serie A,Fullback
+411,Pervis Gaya,LB,Stuttgart,England,Bundesliga,Wingback
+412,Renan Mendes,LB,Manchester United,Ukraine,Premier League,Fullback
+413,Kieran Mykolenko,LB,Tottenham,Italy,Premier League,Falseback
+414,Alex Robertson,LB,Real Sociedad,Ecuador,La Liga,Fullback
+415,Federico Mykolenko,LB,Brest,Brazil,Ligue 1,Falseback
+416,Andrew Mitchell,LB,Dortmund,Canada,Bundesliga,Falseback
+417,Andrew Guerreiro,LB,Manchester City,Scotland,Premier League,Attacking Wing Back
+418,Emerson Alba,LB,Lazio,Netherlands,Serie A,Fullback
+419,Ferland Dimarco,LB,Lyon,Belgium,Ligue 1,Fullback
+420,Ben Lodi,LB,Real Madrid,Scotland,La Liga,Fullback
+421,Ferland Palmieri,LB,Liverpool,France,Premier League,Falseback
+422,Nuno Digne,LB,Real Sociedad,Italy,La Liga,Fullback
+423,Pervis Lodi,LB,Napoli,Ecuador,Serie A,Falseback
+424,Kieran Mitchell,LB,West Ham,France,Premier League,Wingback
+425,Alex Hernandez,LB,AS Roma,France,Serie A,Wingback
+426,Rayan Chilwell,LB,Bologna,Belgium,Serie A,Fullback
+427,Marc Dimarco,LB,Lyon,Ecuador,Ligue 1,Fullback
+428,Alphonso Palmieri,LB,Nice,Ukraine,Ligue 1,Falseback
+429,Pervis Cucurella,LB,Atalanta,Belgium,Serie A,Fullback
+430,Andrew Shaw,LB,Lille,Argentina,Ligue 1,Fullback
+431,Kieran Hernandez,LB,Arsenal,Netherlands,Premier League,Attacking Wing Back
+432,Rayan Gaya,LB,Manchester City,Ecuador,Premier League,Attacking Wing Back
+433,Oleksandr Balde,LB,Aston Villa,England,Premier League,Fullback
+434,Rayan Tierney,LB,Chelsea,Canada,Premier League,Fullback
+435,Oleksandr Sandro,LB,Chelsea,Ecuador,Premier League,Wingback
+436,Federico Digne,LB,Real Madrid,France,La Liga,Fullback
+437,Luke Guerreiro,LB,Barcelona,Argentina,La Liga,Wingback
+438,Federico Mendes,LB,Girona,Ecuador,La Liga,Attacking Wing Back
+439,Marc Balde,LB,Stuttgart,Argentina,Bundesliga,Wingback
+440,Destiny Alba,LB,Inter Milan,Belgium,Serie A,Wingback
+441,Emerson Alba,LB,Real Madrid,Ukraine,La Liga,Falseback
+442,Alejandro Hernandez,LB,Bayern Munich,Netherlands,Bundesliga,Fullback
+443,Emerson Chilwell,LB,Juventus,Portugal,Serie A,Wingback
+444,Alphonso Cucurella,LB,Girona,Brazil,La Liga,Falseback
+445,Destiny Balde,LB,AS Roma,Ukraine,Serie A,Attacking Wing Back
+446,Rayan Tierney,LB,Newcastle,Ukraine,Premier League,Fullback
+447,Nuno Mendy,LB,Stuttgart,Ecuador,Bundesliga,Falseback
+448,Destiny Zinchenko,LB,RB Leipzig,Ukraine,Bundesliga,Attacking Wing Back
+449,Destiny Estupinan,LB,Napoli,Netherlands,Serie A,Falseback
+450,Marc Mendy,LB,Lille,France,Ligue 1,Falseback
+451,Kieran Dimarco,LB,Nice,Ukraine,Ligue 1,Falseback
+452,Rayan Tierney,LB,Atalanta,Scotland,Serie A,Attacking Wing Back
+453,Kieran Hernandez,LB,Bayern Munich,France,Bundesliga,Wingback
+454,Lucas Chilwell,LB,Lyon,Spain,Ligue 1,Fullback
+455,Ben Zinchenko,LB,West Ham,Ukraine,Premier League,Wingback
+456,Vitaliy Tierney,LB,Nice,Ukraine,Ligue 1,Attacking Wing Back
+457,Ian Lodi,LB,Manchester United,Brazil,Premier League,Falseback
+458,Jose Udogie,LB,Barcelona,Portugal,La Liga,Fullback
+459,Ben Dimarco,LB,Frankfurt,England,Bundesliga,Attacking Wing Back
+460,Federico Davies,LB,Girona,Netherlands,La Liga,Falseback
+461,Pervis Mykolenko,LB,Lille,Netherlands,Ligue 1,Attacking Wing Back
+462,Ben Ait-Nouri,LB,Barcelona,Belgium,La Liga,Falseback
+463,Jose Maatsen,LB,Bayern Munich,Algeria,Bundesliga,Falseback
+464,Alejandro Digne,LB,Stuttgart,Algeria,Bundesliga,Attacking Wing Back
+465,Pervis Balde,LB,Bayern Munich,Canada,Bundesliga,Wingback
+466,Emerson Mykolenko,LB,RB Leipzig,Germany,Bundesliga,Fullback
+467,Alex Maatsen,LB,AC Milan,France,Serie A,Fullback
+468,Destiny Maatsen,LB,Real Madrid,Canada,La Liga,Falseback
+469,Raphael Udogie,LB,Marseille,Canada,Ligue 1,Fullback
+470,Ferland Gaya,LB,Bologna,Ecuador,Serie A,Attacking Wing Back
+471,Tyrick Mendes,LB,Napoli,Brazil,Serie A,Attacking Wing Back
+472,Jordi Chilwell,LB,Juventus,Argentina,Serie A,Fullback
+473,Ian Ait-Nouri,LB,Tottenham,Germany,Premier League,Attacking Wing Back
+474,Jose Cucurella,LB,West Ham,Scotland,Premier League,Wingback
+475,Rayan Mendes,LB,Arsenal,England,Premier League,Wingback
+476,Vitaliy Mendes,LB,AC Milan,Ukraine,Serie A,Attacking Wing Back
+477,Federico Estupinan,LB,Chelsea,Argentina,Premier League,Fullback
+478,Alphonso Mendes,LB,Arsenal,Argentina,Premier League,Falseback
+479,Jordi Tierney,LB,AS Roma,Canada,Serie A,Wingback
+480,Andrew Dimarco,LB,Dortmund,Brazil,Bundesliga,Fullback
+481,Destiny Gaya,LB,Chelsea,Scotland,Premier League,Fullback
+482,Luke Alba,LB,Bologna,Argentina,Serie A,Fullback
+483,Luke Alba,LB,Barcelona,Belgium,La Liga,Falseback
+484,Federico Tierney,LB,Bayer Leverkusen,Canada,Bundesliga,Fullback
+485,Andrew Mykolenko,LB,Newcastle,France,Premier League,Attacking Wing Back
+486,Alphonso Mendes,LB,Lyon,Portugal,Ligue 1,Wingback
+487,Rayan Lodi,LB,Lyon,Belgium,Ligue 1,Wingback
+488,Marc Ait-Nouri,LB,Lazio,Italy,Serie A,Attacking Wing Back
+489,Jordi Shaw,LB,Atalanta,Canada,Serie A,Wingback
+490,Andrew Davies,LB,Bayer Leverkusen,England,Bundesliga,Attacking Wing Back
+491,Alex Mendes,LB,Real Betis,Ecuador,La Liga,Fullback
+492,Luke Guerreiro,LB,Dortmund,Belgium,Bundesliga,Fullback
+493,Alex Dimarco,LB,Brest,Canada,Ligue 1,Falseback
+494,Luke Gaya,LB,Atalanta,Brazil,Serie A,Fullback
+495,Jordi Palmieri,LB,Frankfurt,Algeria,Bundesliga,Falseback
+496,Raphael Alba,LB,Liverpool,Ecuador,Premier League,Attacking Wing Back
+497,Alejandro Tierney,LB,Manchester City,Algeria,Premier League,Falseback
+498,Raphael Ait-Nouri,LB,Nice,Portugal,Ligue 1,Wingback
+499,Andrew Mitchell,LB,Marseille,Scotland,Ligue 1,Falseback
+500,Lucas Davies,LB,Valencia,Ukraine,La Liga,Fullback
+501,Luke Ait-Nouri,LB,Real Sociedad,France,La Liga,Attacking Wing Back
+502,Jose Maatsen,LB,Bayer Leverkusen,Italy,Bundesliga,Wingback
+503,Rayan Mendes,LB,PSG,Belgium,Ligue 1,Fullback
+504,Alex Gaya,LB,Frankfurt,France,Bundesliga,Fullback
+505,Jordi Estupinan,LB,Bayer Leverkusen,Germany,Bundesliga,Attacking Wing Back
+506,Tyrick Digne,LB,Napoli,Ukraine,Serie A,Fullback
+507,Kieran Mendes,LB,Barcelona,Scotland,La Liga,Fullback
+508,Andrew Davies,LB,Stuttgart,Netherlands,Bundesliga,Falseback
+509,Tyrick Zinchenko,LB,RB Leipzig,Canada,Bundesliga,Wingback
+510,Alejandro Dimarco,LB,Atletico Madrid,Argentina,La Liga,Attacking Wing Back
+511,Destiny Dimarco,LB,AC Milan,Portugal,Serie A,Fullback
+512,Jose Lodi,LB,Lyon,Portugal,Ligue 1,Falseback
+513,Ian Estupinan,LB,Liverpool,Italy,Premier League,Falseback
+514,Andrew Gaya,LB,Athletic Club,Belgium,La Liga,Fullback
+515,Ian Mendy,LB,Real Betis,France,La Liga,Falseback
+516,Alphonso Digne,LB,Marseille,Brazil,Ligue 1,Fullback
+517,Alex Mendy,LB,Lazio,Belgium,Serie A,Fullback
+518,Jordi Mitchell,LB,Napoli,Scotland,Serie A,Fullback
+519,Destiny Maatsen,LB,Stuttgart,Ecuador,Bundesliga,Wingback
+520,Alex Dimarco,LB,PSG,Italy,Ligue 1,Falseback
+521,Alejandro Guerreiro,LB,Bayer Leverkusen,Canada,Bundesliga,Falseback
+522,Alex Alba,LB,Real Madrid,Brazil,La Liga,Wingback
+523,Marc Maatsen,LB,Real Sociedad,Ukraine,La Liga,Falseback
+524,Andrew Mitchell,LB,Aston Villa,Brazil,Premier League,Attacking Wing Back
+525,Destiny Hernandez,LB,Lazio,Belgium,Serie A,Fullback
+526,Kieran Udogie,LB,Valencia,Germany,La Liga,Attacking Wing Back
+527,Alphonso Mitchell,LB,Real Sociedad,Italy,La Liga,Wingback
+528,Kieran Palmieri,LB,RB Leipzig,Germany,Bundesliga,Fullback
+529,Pervis Mendes,LB,AS Roma,Ecuador,Serie A,Attacking Wing Back
+530,Ferland Mitchell,LB,Stuttgart,England,Bundesliga,Falseback
+531,Ian Hernandez,LB,Monaco,Algeria,Ligue 1,Wingback
+532,Vitaliy Palmieri,LB,Real Sociedad,Canada,La Liga,Attacking Wing Back
+533,Ferland Hernandez,LB,Liverpool,Algeria,Premier League,Falseback
+534,Lucas Hernandez,LB,AC Milan,Italy,Serie A,Attacking Wing Back
+535,Emerson Mendy,LB,Frankfurt,Netherlands,Bundesliga,Wingback
+536,Renan Chilwell,LB,Napoli,Spain,Serie A,Falseback
+537,Theo Alba,LB,Bayern Munich,Ecuador,Bundesliga,Fullback
+538,Alejandro Maatsen,LB,RB Leipzig,Germany,Bundesliga,Attacking Wing Back
+539,Oleksandr Tierney,LB,Real Madrid,Netherlands,La Liga,Falseback
+540,Emerson Guerreiro,LB,Marseille,Germany,Ligue 1,Falseback
+541,Alphonso Davies,LB,Dortmund,Spain,Bundesliga,Wingback
+542,Oleksandr Alba,LB,Real Madrid,Scotland,La Liga,Fullback
+543,Kieran Ait-Nouri,LB,Bayer Leverkusen,Belgium,Bundesliga,Wingback
+544,Raphael Udogie,LB,RB Leipzig,England,Bundesliga,Wingback
+545,Alphonso Sandro,LB,Athletic Club,Portugal,La Liga,Wingback
+546,Ian Mendy,LB,Nice,Italy,Ligue 1,Falseback
+547,Lucas Mendes,LB,Real Sociedad,Belgium,La Liga,Falseback
+548,Alphonso Mendy,LB,Manchester City,Belgium,Premier League,Falseback
+549,Alejandro Maatsen,LB,Real Betis,Scotland,La Liga,Attacking Wing Back
+550,Ben Tierney,LB,Bayer Leverkusen,Scotland,Bundesliga,Fullback
+551,Federico Digne,LB,Frankfurt,Belgium,Bundesliga,Falseback
+552,Theo Dimarco,LB,AC Milan,Spain,Serie A,Attacking Wing Back
+553,Destiny Zinchenko,LB,Lyon,Spain,Ligue 1,Falseback
+554,Emerson Mendes,LB,West Ham,Netherlands,Premier League,Wingback
+555,Jose Udogie,LB,Marseille,Portugal,Ligue 1,Falseback
+556,Federico Cucurella,LB,Bayer Leverkusen,Scotland,Bundesliga,Attacking Wing Back
+557,Destiny Shaw,LB,Dortmund,Scotland,Bundesliga,Wingback
+558,Ian Gaya,LB,RB Leipzig,Scotland,Bundesliga,Fullback
+559,Oleksandr Lodi,LB,Frankfurt,England,Bundesliga,Attacking Wing Back
+560,Kieran Mykolenko,LB,AS Roma,France,Serie A,Attacking Wing Back
+561,Marc Zinchenko,LB,AC Milan,Ukraine,Serie A,Attacking Wing Back
+562,Andrew Robertson,LB,Dortmund,Algeria,Bundesliga,Wingback
+563,Luke Palmieri,LB,Newcastle,Italy,Premier League,Falseback
+564,Destiny Maatsen,LB,AC Milan,Ecuador,Serie A,Wingback
+565,Renan Alba,LB,Atletico Madrid,Argentina,La Liga,Fullback
+566,Ben Mendes,LB,Valencia,Italy,La Liga,Attacking Wing Back
+567,Andrew Chilwell,LB,Brest,England,Ligue 1,Fullback
+568,Pervis Mitchell,LB,AC Milan,Italy,Serie A,Wingback
+569,Jordi Balde,LB,Brest,England,Ligue 1,Wingback
+570,Kieran Davies,LB,Manchester City,Algeria,Premier League,Attacking Wing Back
+571,Luke Ait-Nouri,LB,Manchester United,Netherlands,Premier League,Attacking Wing Back
+572,Ferland Dimarco,LB,West Ham,Brazil,Premier League,Falseback
+573,Oleksandr Sandro,LB,Real Sociedad,Germany,La Liga,Fullback
+574,Rayan Estupinan,LB,AS Roma,Spain,Serie A,Wingback
+575,Jose Shaw,LB,Lyon,Portugal,Ligue 1,Fullback
+576,Tyrick Hernandez,LB,Athletic Club,Portugal,La Liga,Wingback
+577,Alejandro Dimarco,LB,AS Roma,Germany,Serie A,Falseback
+578,Ian Alba,LB,Manchester City,Ecuador,Premier League,Fullback
+579,Oleksandr Mendy,LB,RB Leipzig,Spain,Bundesliga,Fullback
+580,Nuno Sandro,LB,Monaco,Argentina,Ligue 1,Wingback
+581,Ian Mendy,LB,Manchester United,Spain,Premier League,Attacking Wing Back
+582,Nuno Robertson,LB,RB Leipzig,Brazil,Bundesliga,Wingback
+583,Nuno Mitchell,LB,Girona,Portugal,La Liga,Wingback
+584,Luke Zinchenko,LB,Atletico Madrid,Italy,La Liga,Fullback
+585,Pervis Mendes,LB,Liverpool,Ecuador,Premier League,Wingback
+586,Lucas Guerreiro,LB,West Ham,Spain,Premier League,Wingback
+587,Nuno Zinchenko,LB,Stuttgart,Ecuador,Bundesliga,Fullback
+588,Tyrick Guerreiro,LB,Atletico Madrid,England,La Liga,Attacking Wing Back
+589,Andrew Davies,LB,Real Sociedad,Ecuador,La Liga,Fullback
+590,Luke Dimarco,LB,Bayern Munich,Spain,Bundesliga,Falseback
+591,Raphael Robertson,LB,Juventus,Brazil,Serie A,Falseback
+592,Luke Dimarco,LB,AS Roma,France,Serie A,Falseback
+593,Raphael Maatsen,LB,Newcastle,Ukraine,Premier League,Attacking Wing Back
+594,Raphael Ait-Nouri,LB,Atletico Madrid,Algeria,La Liga,Fullback
+595,Tyrick Mykolenko,LB,Atletico Madrid,Ecuador,La Liga,Falseback
+596,Federico Guerreiro,LB,Liverpool,Belgium,Premier League,Attacking Wing Back
+597,Alphonso Cucurella,LB,Atalanta,Spain,Serie A,Falseback
+598,Pervis Mendes,LB,West Ham,Spain,Premier League,Wingback
+599,Theo Chilwell,LB,Tottenham,England,Premier League,Attacking Wing Back
+600,Lucas Gaya,LB,PSG,Germany,Ligue 1,Fullback
+601,Emerson Hernandez,LB,Liverpool,Spain,Premier League,Attacking Wing Back
+602,Jose Palmieri,LB,Brighton,Canada,Premier League,Attacking Wing Back
+603,Kieran Udogie,LB,Napoli,Ukraine,Serie A,Attacking Wing Back
+604,Alphonso Mykolenko,LB,Frankfurt,Spain,Bundesliga,Attacking Wing Back
+605,Ben Dimarco,LB,Inter Milan,Spain,Serie A,Wingback
+606,Pervis Guerreiro,LB,Liverpool,Italy,Premier League,Falseback
+607,Ferland Guerreiro,LB,Inter Milan,Netherlands,Serie A,Wingback
+608,Marc Mendes,LB,Bayer Leverkusen,Portugal,Bundesliga,Fullback
+609,Rayan Gaya,LB,Girona,Algeria,La Liga,Fullback
+610,Andrew Robertson,LB,West Ham,Ukraine,Premier League,Attacking Wing Back
+611,Marc Mykolenko,LB,Bologna,Brazil,Serie A,Falseback
+612,Tyrick Palmieri,LB,Valencia,England,La Liga,Fullback
+613,Oleksandr Maatsen,LB,Marseille,Belgium,Ligue 1,Wingback
+614,Raphael Estupinan,LB,Valencia,Portugal,La Liga,Wingback
+615,Raphael Digne,LB,Atalanta,Scotland,Serie A,Wingback
+616,Raphael Shaw,LB,Lyon,Scotland,Ligue 1,Falseback
+617,Emerson Estupinan,LB,Brest,Scotland,Ligue 1,Falseback
+618,Kieran Balde,LB,Real Sociedad,Scotland,La Liga,Falseback
+619,Pervis Robertson,LB,Girona,Algeria,La Liga,Fullback
+620,Jordi Balde,LB,AC Milan,Spain,Serie A,Attacking Wing Back
+621,Raphael Mykolenko,LB,Lille,Spain,Ligue 1,Fullback
+622,Alphonso Chilwell,LB,Real Madrid,Canada,La Liga,Attacking Wing Back
+623,Theo Zinchenko,LB,Bayern Munich,Brazil,Bundesliga,Wingback
+624,Vitaliy Robertson,LB,Bologna,Scotland,Serie A,Falseback
+625,Alphonso Ait-Nouri,LB,Real Betis,Italy,La Liga,Fullback
+626,Oleksandr Cucurella,LB,Liverpool,Belgium,Premier League,Fullback
+627,Renan Estupinan,LB,RB Leipzig,Scotland,Bundesliga,Attacking Wing Back
+628,Jose Shaw,LB,Chelsea,Germany,Premier League,Falseback
+629,Luke Estupinan,LB,Dortmund,England,Bundesliga,Attacking Wing Back
+630,Ian Sandro,LB,West Ham,Belgium,Premier League,Fullback
+631,Alex Cucurella,LB,Bologna,Ecuador,Serie A,Fullback
+632,Pervis Zinchenko,LB,Frankfurt,Italy,Bundesliga,Fullback
+633,Oleksandr Gaya,LB,Bayern Munich,France,Bundesliga,Wingback
+634,Alex Cucurella,LB,Bayern Munich,Italy,Bundesliga,Fullback
+635,Oleksandr Cucurella,LB,Bayer Leverkusen,Ukraine,Bundesliga,Falseback
+636,Vitaliy Mykolenko,LB,AC Milan,Algeria,Serie A,Attacking Wing Back
+637,Rayan Robertson,LB,Monaco,Brazil,Ligue 1,Fullback
+638,Ben Dimarco,LB,Real Madrid,Argentina,La Liga,Falseback
+639,Ben Lodi,LB,Juventus,Portugal,Serie A,Fullback
+640,Jordi Maatsen,LB,Bayern Munich,Netherlands,Bundesliga,Falseback
+641,Alex Guerreiro,LB,Aston Villa,Italy,Premier League,Wingback
+642,Ben Digne,LB,Tottenham,Argentina,Premier League,Fullback
+643,Ian Gaya,LB,Bologna,Ecuador,Serie A,Falseback
+644,Emerson Palmieri,LB,Bayer Leverkusen,Germany,Bundesliga,Wingback
+645,Kieran Guerreiro,LB,PSG,England,Ligue 1,Falseback
+646,Tyrick Udogie,LB,Manchester United,Algeria,Premier League,Fullback
+647,Luke Digne,LB,Atalanta,Brazil,Serie A,Fullback
+648,Pervis Lodi,LB,Real Madrid,Scotland,La Liga,Attacking Wing Back
+649,Pervis Zinchenko,LB,Bayern Munich,Spain,Bundesliga,Attacking Wing Back
+650,Ferland Robertson,LB,Girona,Ukraine,La Liga,Wingback
+651,Kieran Robertson,LB,Brest,Brazil,Ligue 1,Falseback
+652,Lucas Balde,LB,Real Sociedad,Germany,La Liga,Wingback
+653,Marc Ait-Nouri,LB,Dortmund,England,Bundesliga,Attacking Wing Back
+654,Ian Estupinan,LB,PSG,Scotland,Ligue 1,Attacking Wing Back
+655,Raphael Alba,LB,RB Leipzig,Canada,Bundesliga,Falseback
+656,Oleksandr Guerreiro,LB,Chelsea,Scotland,Premier League,Attacking Wing Back
+657,Destiny Mendes,LB,Marseille,Spain,Ligue 1,Wingback
+658,Oleksandr Chilwell,LB,Stuttgart,Argentina,Bundesliga,Fullback
+659,Emerson Digne,LB,Nice,Brazil,Ligue 1,Falseback
+660,Emerson Mendy,LB,Stuttgart,Germany,Bundesliga,Attacking Wing Back
+661,Pervis Tierney,LB,Real Sociedad,France,La Liga,Falseback
+662,Jordi Mitchell,LB,Lille,Spain,Ligue 1,Fullback
+663,Ian Udogie,LB,Lyon,France,Ligue 1,Attacking Wing Back
+664,Ben Chilwell,LB,Napoli,Ecuador,Serie A,Attacking Wing Back
+665,Alphonso Mendes,LB,Juventus,Ukraine,Serie A,Attacking Wing Back
+666,Jordi Balde,LB,Lyon,Italy,Ligue 1,Attacking Wing Back
+667,Jose Zinchenko,LB,PSG,Germany,Ligue 1,Wingback
+668,Emerson Balde,LB,PSG,Brazil,Ligue 1,Falseback
+669,Pervis Mykolenko,LB,Inter Milan,Brazil,Serie A,Falseback
+670,Federico Dimarco,LB,Monaco,Algeria,Ligue 1,Wingback
+671,Federico Mendes,LB,Arsenal,Portugal,Premier League,Fullback
+672,Federico Mendes,LB,Lazio,England,Serie A,Fullback
+673,Raphael Dimarco,LB,AC Milan,Scotland,Serie A,Attacking Wing Back
+674,Nuno Gaya,LB,Dortmund,Belgium,Bundesliga,Fullback
+675,Jordi Zinchenko,LB,Manchester City,Italy,Premier League,Fullback
+676,Federico Estupinan,LB,Juventus,Algeria,Serie A,Falseback
+677,Rayan Udogie,LB,Napoli,Argentina,Serie A,Wingback
+678,Jose Chilwell,LB,AS Roma,England,Serie A,Attacking Wing Back
+679,Luke Mitchell,LB,Bologna,Scotland,Serie A,Wingback
+680,Alphonso Estupinan,LB,Frankfurt,France,Bundesliga,Falseback
+681,Kieran Cucurella,LB,Bayern Munich,Spain,Bundesliga,Fullback
+682,Renan Maatsen,LB,Nice,Portugal,Ligue 1,Attacking Wing Back
+683,Marc Cucurella,LB,Bayer Leverkusen,Ukraine,Bundesliga,Wingback
+684,Ferland Balde,LB,Marseille,Netherlands,Ligue 1,Fullback
+685,Nuno Mendes,LB,PSG,Ecuador,Ligue 1,Falseback
+686,Ferland Sandro,LB,Dortmund,Scotland,Bundesliga,Falseback
+687,Kieran Dimarco,LB,AS Roma,Germany,Serie A,Fullback
+688,Luke Hernandez,LB,Monaco,Belgium,Ligue 1,Wingback
+689,Ian Chilwell,LB,Dortmund,Spain,Bundesliga,Wingback
+690,Kieran Balde,LB,AC Milan,Ukraine,Serie A,Wingback
+691,Alphonso Maatsen,LB,Barcelona,Ukraine,La Liga,Fullback
+692,Tyrick Guerreiro,LB,Frankfurt,Ukraine,Bundesliga,Wingback
+693,Federico Digne,LB,AC Milan,England,Serie A,Fullback
+694,Nuno Balde,LB,Girona,Ecuador,La Liga,Attacking Wing Back
+695,Andrew Davies,LB,Real Madrid,Belgium,La Liga,Fullback
+696,Ferland Mendes,LB,Lyon,England,Ligue 1,Fullback
+697,Emerson Tierney,LB,AS Roma,Belgium,Serie A,Attacking Wing Back
+698,Ben Sandro,LB,Nice,Ukraine,Ligue 1,Attacking Wing Back
+699,Ferland Hernandez,LB,Bayer Leverkusen,Italy,Bundesliga,Attacking Wing Back
+700,Luke Digne,LB,Bologna,Netherlands,Serie A,Falseback
+701,Ben Maatsen,LB,Lille,Ukraine,Ligue 1,Attacking Wing Back
+702,Emerson Maatsen,LB,AS Roma,Portugal,Serie A,Falseback
+703,Ben Ait-Nouri,LB,Juventus,Ecuador,Serie A,Falseback
+704,Alejandro Mendes,LB,Inter Milan,Italy,Serie A,Fullback
+705,Alejandro Robertson,LB,RB Leipzig,England,Bundesliga,Fullback
+706,Jordi Lodi,LB,Marseille,Netherlands,Ligue 1,Attacking Wing Back
+707,Lucas Dimarco,LB,Stuttgart,Portugal,Bundesliga,Attacking Wing Back
+708,Marc Alba,LB,Bologna,France,Serie A,Wingback
+709,Ben Zinchenko,LB,Arsenal,France,Premier League,Fullback
+710,Kieran Sandro,LB,Bayern Munich,England,Bundesliga,Fullback
+711,Lucas Mendes,LB,Newcastle,Scotland,Premier League,Wingback
+712,Luke Hernandez,LB,Napoli,Belgium,Serie A,Wingback
+713,Raphael Zinchenko,LB,AS Roma,Canada,Serie A,Attacking Wing Back
+714,Oleksandr Davies,LB,Valencia,Algeria,La Liga,Wingback
+715,Kieran Dimarco,LB,AS Roma,Ukraine,Serie A,Fullback
+716,Lucas Davies,LB,Aston Villa,Portugal,Premier League,Wingback
+717,Lucas Udogie,LB,AC Milan,Scotland,Serie A,Falseback
+718,Marc Mendes,LB,Real Madrid,Ecuador,La Liga,Fullback
+719,Kieran Balde,LB,RB Leipzig,Portugal,Bundesliga,Fullback
+720,Emerson Zinchenko,LB,Bologna,Belgium,Serie A,Wingback
+721,Nuno Davies,LB,Brighton,Scotland,Premier League,Attacking Wing Back
+722,Raphael Guerreiro,LB,Arsenal,Argentina,Premier League,Wingback
+723,Jose Palmieri,LB,Arsenal,Ecuador,Premier League,Fullback
+724,Renan Ait-Nouri,LB,PSG,France,Ligue 1,Fullback
+725,Alejandro Lodi,LB,PSG,Germany,Ligue 1,Attacking Wing Back
+726,Andrew Mendes,LB,Bologna,Ecuador,Serie A,Attacking Wing Back
+727,Lucas Shaw,LB,Real Madrid,Italy,La Liga,Fullback
+728,Alejandro Sandro,LB,Marseille,Italy,Ligue 1,Attacking Wing Back
+729,Andrew Mitchell,LB,Athletic Club,Portugal,La Liga,Attacking Wing Back
+730,Jose Palmieri,LB,Inter Milan,Germany,Serie A,Wingback
+731,Vitaliy Lodi,LB,Manchester City,Canada,Premier League,Fullback
+732,Vitaliy Zinchenko,LB,Brest,Portugal,Ligue 1,Falseback
+733,Renan Estupinan,LB,Manchester United,Argentina,Premier League,Attacking Wing Back
+734,Renan Guerreiro,LB,Atalanta,France,Serie A,Fullback
+735,Alejandro Sandro,LB,Dortmund,Netherlands,Bundesliga,Wingback
+736,Renan Mendy,LB,Barcelona,Belgium,La Liga,Attacking Wing Back
+737,Renan Gaya,LB,Frankfurt,Ecuador,Bundesliga,Attacking Wing Back
+738,Jordi Chilwell,LB,Monaco,Algeria,Ligue 1,Wingback
+739,Nuno Palmieri,LB,Nice,England,Ligue 1,Falseback
+740,Marc Estupinan,LB,Inter Milan,Algeria,Serie A,Falseback
+741,Andrew Mykolenko,LB,Marseille,Brazil,Ligue 1,Falseback
+742,Jose Lodi,LB,Arsenal,England,Premier League,Wingback
+743,Ferland Mitchell,LB,Bologna,Ecuador,Serie A,Fullback
+744,Kieran Mykolenko,LB,Newcastle,Italy,Premier League,Attacking Wing Back
+745,Federico Davies,LB,Newcastle,England,Premier League,Fullback
+746,Luke Robertson,LB,Manchester United,England,Premier League,Falseback
+747,Raphael Udogie,LB,Real Sociedad,France,La Liga,Wingback
+748,Oleksandr Mendy,LB,Lille,Spain,Ligue 1,Falseback
+749,Kieran Mendes,LB,Bayer Leverkusen,Germany,Bundesliga,Fullback
+750,Emerson Ait-Nouri,LB,Manchester United,Netherlands,Premier League,Fullback
+751,Nuno Robertson,LB,Brighton,Portugal,Premier League,Attacking Wing Back
+752,Theo Alba,LB,Liverpool,Belgium,Premier League,Fullback
+753,Raphael Ait-Nouri,LB,Stuttgart,Belgium,Bundesliga,Wingback
+754,Marc Chilwell,LB,Atalanta,Spain,Serie A,Falseback
+755,Marc Lodi,LB,RB Leipzig,Argentina,Bundesliga,Fullback
+756,Emerson Maatsen,LB,Stuttgart,Spain,Bundesliga,Attacking Wing Back
+757,Luke Mendes,LB,Brest,Netherlands,Ligue 1,Falseback
+758,Alex Sandro,LB,RB Leipzig,Scotland,Bundesliga,Fullback
+759,Destiny Guerreiro,LB,Frankfurt,Belgium,Bundesliga,Fullback
+760,Destiny Mendy,LB,Stuttgart,France,Bundesliga,Wingback
+761,Oleksandr Udogie,LB,Frankfurt,France,Bundesliga,Attacking Wing Back
+762,Theo Palmieri,LB,Nice,France,Ligue 1,Falseback
+763,Marc Mendes,LB,Barcelona,Algeria,La Liga,Falseback
+764,Alphonso Robertson,LB,Girona,England,La Liga,Falseback
+765,Oleksandr Shaw,LB,Barcelona,England,La Liga,Falseback
+766,Renan Udogie,LB,Brest,Germany,Ligue 1,Falseback
+767,Vitaliy Guerreiro,LB,Frankfurt,Ecuador,Bundesliga,Fullback
+768,Raphael Sandro,LB,Marseille,Belgium,Ligue 1,Attacking Wing Back
+769,Kieran Zinchenko,LB,Arsenal,Canada,Premier League,Wingback
+770,Ferland Mendy,LB,RB Leipzig,Scotland,Bundesliga,Fullback
+771,Pervis Estupinan,LB,AC Milan,Algeria,Serie A,Falseback
+772,Nuno Mendy,LB,Bayer Leverkusen,Argentina,Bundesliga,Wingback
+773,Alphonso Guerreiro,LB,Girona,Germany,La Liga,Attacking Wing Back
+774,Oleksandr Digne,LB,Frankfurt,Algeria,Bundesliga,Attacking Wing Back
+775,Ben Mitchell,LB,Dortmund,Ukraine,Bundesliga,Wingback
+776,Federico Dimarco,LB,Liverpool,Argentina,Premier League,Fullback
+777,Lucas Ait-Nouri,LB,PSG,Algeria,Ligue 1,Wingback
+778,Theo Palmieri,LB,Manchester City,Ecuador,Premier League,Wingback
+779,Kieran Lodi,LB,Girona,Canada,La Liga,Wingback
+780,Luke Guerreiro,LB,Stuttgart,Canada,Bundesliga,Fullback
+781,Andrew Cucurella,LB,Liverpool,Portugal,Premier League,Falseback
+782,Vitaliy Hernandez,LB,AS Roma,Portugal,Serie A,Fullback
+783,Lucas Dimarco,LB,RB Leipzig,England,Bundesliga,Attacking Wing Back
+784,Alphonso Lodi,LB,Liverpool,Scotland,Premier League,Attacking Wing Back
+785,Alejandro Davies,LB,PSG,Ukraine,Ligue 1,Wingback
+786,Alex Guerreiro,LB,Brighton,Italy,Premier League,Wingback
+787,Rayan Estupinan,LB,Frankfurt,Ecuador,Bundesliga,Falseback
+788,Federico Maatsen,LB,Bayer Leverkusen,Algeria,Bundesliga,Wingback
+789,Federico Gaya,LB,Newcastle,Germany,Premier League,Wingback
+790,Ben Mendes,LB,Manchester City,Ecuador,Premier League,Falseback
+791,Federico Mitchell,LB,Valencia,Canada,La Liga,Attacking Wing Back
+792,Rayan Guerreiro,LB,Nice,Brazil,Ligue 1,Attacking Wing Back
+793,Vitaliy Ait-Nouri,LB,Atalanta,Ukraine,Serie A,Falseback
+794,Marc Palmieri,LB,Liverpool,France,Premier League,Wingback
+795,Alex Ait-Nouri,LB,AC Milan,Brazil,Serie A,Falseback
+796,Raphael Gaya,LB,RB Leipzig,Argentina,Bundesliga,Wingback
+797,Nuno Tierney,LB,Atalanta,Germany,Serie A,Wingback
+798,Kieran Zinchenko,LB,Real Sociedad,Brazil,La Liga,Attacking Wing Back
+799,Ferland Mitchell,LB,Frankfurt,Canada,Bundesliga,Wingback
+800,Tyrick Sandro,LB,Bayer Leverkusen,Germany,Bundesliga,Wingback
+801,Tyrick Tierney,LB,Real Betis,Belgium,La Liga,Falseback
+802,Alejandro Cucurella,LB,Bayern Munich,Netherlands,Bundesliga,Wingback
+803,Jordi Estupinan,LB,Nice,Spain,Ligue 1,Falseback
+804,Luke Lodi,LB,Stuttgart,Netherlands,Bundesliga,Wingback
+805,Emerson Balde,LB,Barcelona,Canada,La Liga,Attacking Wing Back
+806,Alphonso Lodi,LB,Arsenal,Argentina,Premier League,Fullback
+807,Andrew Mitchell,LB,Real Sociedad,Scotland,La Liga,Fullback
+808,Alejandro Lodi,LB,Lyon,Ecuador,Ligue 1,Wingback
+809,Ferland Tierney,LB,Monaco,Belgium,Ligue 1,Attacking Wing Back
+810,Kieran Zinchenko,LB,Marseille,Algeria,Ligue 1,Attacking Wing Back
+811,Luke Shaw,LB,Brest,Algeria,Ligue 1,Attacking Wing Back
+812,Rayan Shaw,LB,Aston Villa,Argentina,Premier League,Attacking Wing Back
+813,Jose Lodi,LB,Athletic Club,France,La Liga,Attacking Wing Back
+814,Marc Digne,LB,Stuttgart,Canada,Bundesliga,Falseback
+815,Rayan Guerreiro,LB,Bologna,Ukraine,Serie A,Wingback
+816,Ben Mendy,LB,Chelsea,Portugal,Premier League,Fullback
+817,Raphael Robertson,LB,Newcastle,France,Premier League,Falseback
+818,Oleksandr Maatsen,LB,Lazio,Germany,Serie A,Attacking Wing Back
+819,Kieran Davies,LB,PSG,Ecuador,Ligue 1,Fullback
+820,Marc Alba,LB,Manchester City,Spain,Premier League,Wingback
+821,Ian Digne,LB,Nice,Ukraine,Ligue 1,Wingback
+822,Alejandro Robertson,LB,Napoli,Germany,Serie A,Falseback
+823,Andrew Mendes,LB,Manchester City,Brazil,Premier League,Fullback
+824,Luke Gaya,LB,Real Madrid,Belgium,La Liga,Wingback
+825,Lucas Mykolenko,LB,Newcastle,England,Premier League,Wingback
+826,Alex Dimarco,LB,West Ham,Germany,Premier League,Falseback
+827,Theo Mitchell,LB,Lyon,Scotland,Ligue 1,Attacking Wing Back
+828,Kieran Mendy,LB,Juventus,Argentina,Serie A,Fullback
+829,Renan Robertson,LB,AC Milan,Germany,Serie A,Fullback
+830,Ferland Davies,LB,Lille,Italy,Ligue 1,Falseback
+831,Ben Guerreiro,LB,AC Milan,Ecuador,Serie A,Attacking Wing Back
+832,Ferland Cucurella,LB,AS Roma,Scotland,Serie A,Wingback
+833,Tyrick Shaw,LB,Frankfurt,Ukraine,Bundesliga,Attacking Wing Back
+834,Marc Balde,LB,Bayer Leverkusen,Portugal,Bundesliga,Falseback
+835,Emerson Mendes,LB,Brighton,Ecuador,Premier League,Wingback
+836,Emerson Udogie,LB,Marseille,Algeria,Ligue 1,Wingback
+837,Ferland Hernandez,LB,Atletico Madrid,Ukraine,La Liga,Attacking Wing Back
+838,Nuno Shaw,LB,Bologna,Scotland,Serie A,Attacking Wing Back
+839,Lucas Shaw,LB,Athletic Club,Germany,La Liga,Falseback
+840,Alex Tierney,LB,Inter Milan,Italy,Serie A,Wingback
+841,Lucas Lodi,LB,Frankfurt,Canada,Bundesliga,Falseback
+842,Ferland Guerreiro,LB,AC Milan,Netherlands,Serie A,Falseback
+843,Marc Zinchenko,LB,Juventus,Ukraine,Serie A,Wingback
+844,Federico Mendy,LB,Girona,Canada,La Liga,Falseback
+845,Rayan Balde,LB,Juventus,Spain,Serie A,Falseback
+846,Emerson Balde,LB,Liverpool,Italy,Premier League,Wingback
+847,Pervis Mykolenko,LB,Tottenham,Canada,Premier League,Wingback
+848,Emerson Cucurella,LB,Marseille,Canada,Ligue 1,Fullback
+849,Luke Tierney,LB,Brest,Belgium,Ligue 1,Wingback
+850,Luke Lodi,LB,Real Sociedad,Netherlands,La Liga,Wingback
+851,Ben Sandro,LB,Chelsea,Italy,Premier League,Wingback
+852,Federico Chilwell,LB,Stuttgart,Argentina,Bundesliga,Attacking Wing Back
+853,Emerson Mykolenko,LB,AC Milan,Scotland,Serie A,Falseback
+854,Ben Cucurella,LB,Real Sociedad,Ukraine,La Liga,Attacking Wing Back
+855,Ferland Gaya,LB,Stuttgart,Italy,Bundesliga,Fullback
+856,Alex Lodi,LB,Tottenham,Scotland,Premier League,Wingback
+857,Jordi Robertson,LB,Inter Milan,France,Serie A,Attacking Wing Back
+858,Emerson Udogie,LB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+859,Federico Chilwell,LB,Liverpool,Algeria,Premier League,Falseback
+860,Emerson Palmieri,LB,Liverpool,Italy,Premier League,Attacking Wing Back
+861,Jose Guerreiro,LB,Lazio,France,Serie A,Attacking Wing Back
+862,Nuno Lodi,LB,Valencia,Portugal,La Liga,Fullback
+863,Destiny Palmieri,LB,RB Leipzig,Algeria,Bundesliga,Wingback
+864,Oleksandr Digne,LB,Monaco,England,Ligue 1,Wingback
+865,Jordi Dimarco,LB,AS Roma,Scotland,Serie A,Fullback
+866,Ferland Guerreiro,LB,Juventus,Brazil,Serie A,Attacking Wing Back
+867,Alejandro Estupinan,LB,Valencia,Italy,La Liga,Fullback
+868,Theo Gaya,LB,PSG,Algeria,Ligue 1,Wingback
+869,Destiny Davies,LB,Manchester City,Scotland,Premier League,Wingback
+870,Marc Hernandez,LB,Aston Villa,Germany,Premier League,Attacking Wing Back
+871,Tyrick Estupinan,LB,Real Betis,England,La Liga,Fullback
+872,Ben Gaya,LB,RB Leipzig,Brazil,Bundesliga,Attacking Wing Back
+873,Rayan Alba,LB,Lazio,Portugal,Serie A,Wingback
+874,Alphonso Hernandez,LB,Manchester United,Netherlands,Premier League,Fullback
+875,Federico Lodi,LB,Bologna,Ukraine,Serie A,Wingback
+876,Alejandro Mykolenko,LB,Atalanta,Netherlands,Serie A,Attacking Wing Back
+877,Oleksandr Mykolenko,LB,AC Milan,Germany,Serie A,Wingback
+878,Andrew Estupinan,LB,AC Milan,Canada,Serie A,Wingback
+879,Oleksandr Lodi,LB,Bayern Munich,France,Bundesliga,Wingback
+880,Jose Davies,LB,AC Milan,Belgium,Serie A,Fullback
+881,Raphael Hernandez,LB,Atletico Madrid,Ukraine,La Liga,Wingback
+882,Theo Guerreiro,LB,Lyon,Germany,Ligue 1,Wingback
+883,Lucas Mendy,LB,Marseille,Ukraine,Ligue 1,Fullback
+884,Lucas Mykolenko,LB,Stuttgart,Germany,Bundesliga,Fullback
+885,Alex Estupinan,LB,Real Madrid,Ukraine,La Liga,Attacking Wing Back
+886,Luke Cucurella,LB,Bayer Leverkusen,Ukraine,Bundesliga,Falseback
+887,Raphael Guerreiro,LB,Atletico Madrid,Belgium,La Liga,Falseback
+888,Luke Chilwell,LB,Liverpool,Netherlands,Premier League,Wingback
+889,Alphonso Mykolenko,LB,Inter Milan,Brazil,Serie A,Wingback
+890,Destiny Mykolenko,LB,Chelsea,France,Premier League,Fullback
+891,Jose Sandro,LB,Valencia,Scotland,La Liga,Attacking Wing Back
+892,Andrew Davies,LB,Napoli,Italy,Serie A,Wingback
+893,Theo Mykolenko,LB,Barcelona,Germany,La Liga,Wingback
+894,Alex Chilwell,LB,Lazio,Germany,Serie A,Fullback
+895,Alejandro Palmieri,LB,Lyon,Algeria,Ligue 1,Wingback
+896,Alejandro Balde,LB,Brest,Portugal,Ligue 1,Fullback
+897,Nuno Chilwell,LB,Napoli,Canada,Serie A,Falseback
+898,Raphael Ait-Nouri,LB,Newcastle,Portugal,Premier League,Falseback
+899,Jose Shaw,LB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+900,Destiny Sandro,LB,Manchester United,France,Premier League,Attacking Wing Back
+901,Pervis Dimarco,LB,Bayern Munich,France,Bundesliga,Fullback
+902,Theo Tierney,LB,Juventus,Ukraine,Serie A,Falseback
+903,Oleksandr Digne,LB,Arsenal,Brazil,Premier League,Wingback
+904,Marc Sandro,LB,AC Milan,Ecuador,Serie A,Falseback
+905,Renan Mendes,LB,RB Leipzig,Scotland,Bundesliga,Attacking Wing Back
+906,Raphael Mykolenko,LB,AC Milan,Canada,Serie A,Wingback
+907,Tyrick Sandro,LB,Atletico Madrid,Belgium,La Liga,Wingback
+908,Lucas Sandro,LB,Newcastle,Brazil,Premier League,Fullback
+909,Raphael Tierney,LB,PSG,Ukraine,Ligue 1,Wingback
+910,Ian Davies,LB,Bayern Munich,Germany,Bundesliga,Wingback
+911,Jose Lodi,LB,Dortmund,Portugal,Bundesliga,Falseback
+912,Ferland Tierney,LB,Real Madrid,Scotland,La Liga,Wingback
+913,Ferland Ait-Nouri,LB,Bayer Leverkusen,Brazil,Bundesliga,Falseback
+914,Emerson Shaw,LB,Arsenal,England,Premier League,Fullback
+915,Alphonso Dimarco,LB,PSG,Brazil,Ligue 1,Attacking Wing Back
+916,Jordi Davies,LB,Chelsea,Canada,Premier League,Wingback
+917,Renan Shaw,LB,Newcastle,Germany,Premier League,Wingback
+918,Vitaliy Palmieri,LB,Brest,Germany,Ligue 1,Attacking Wing Back
+919,Ferland Mendy,LB,Frankfurt,Ecuador,Bundesliga,Fullback
+920,Oleksandr Ait-Nouri,LB,Bayern Munich,France,Bundesliga,Attacking Wing Back
+921,Emerson Dimarco,LB,Barcelona,Ukraine,La Liga,Attacking Wing Back
+922,Marc Robertson,LB,AS Roma,Germany,Serie A,Attacking Wing Back
+923,Andrew Chilwell,LB,Valencia,Netherlands,La Liga,Fullback
+924,Jose Robertson,LB,Manchester United,Brazil,Premier League,Fullback
+925,Ian Maatsen,LB,Lazio,Belgium,Serie A,Fullback
+926,Rayan Estupinan,LB,Brest,Brazil,Ligue 1,Attacking Wing Back
+927,Marc Guerreiro,LB,Dortmund,Germany,Bundesliga,Fullback
+928,Ferland Shaw,LB,Manchester United,Algeria,Premier League,Attacking Wing Back
+929,Theo Mendes,LB,Arsenal,Spain,Premier League,Attacking Wing Back
+930,Kieran Mendy,LB,Aston Villa,Ukraine,Premier League,Falseback
+931,Emerson Maatsen,LB,Liverpool,Ecuador,Premier League,Fullback
+932,Tyrick Tierney,LB,Nice,France,Ligue 1,Falseback
+933,Renan Mendy,LB,RB Leipzig,England,Bundesliga,Wingback
+934,Jordi Cucurella,LB,Real Madrid,Algeria,La Liga,Fullback
+935,Tyrick Sandro,LB,Nice,France,Ligue 1,Attacking Wing Back
+936,Tyrick Alba,LB,Lyon,Ecuador,Ligue 1,Falseback
+937,Alex Ait-Nouri,LB,Real Madrid,Netherlands,La Liga,Fullback
+938,Alphonso Ait-Nouri,LB,Frankfurt,Argentina,Bundesliga,Falseback
+939,Destiny Digne,LB,Dortmund,Spain,Bundesliga,Attacking Wing Back
+940,Pervis Sandro,LB,Monaco,Brazil,Ligue 1,Wingback
+941,Theo Zinchenko,LB,Manchester City,England,Premier League,Falseback
+942,Pervis Shaw,LB,Manchester City,Brazil,Premier League,Falseback
+943,Marc Chilwell,LB,Bayern Munich,Argentina,Bundesliga,Falseback
+944,Nuno Udogie,LB,Brest,Canada,Ligue 1,Wingback
+945,Jordi Davies,LB,Brest,Ecuador,Ligue 1,Wingback
+946,Tyrick Davies,LB,Dortmund,France,Bundesliga,Wingback
+947,Alphonso Balde,LB,Manchester United,Canada,Premier League,Falseback
+948,Alphonso Palmieri,LB,Dortmund,Canada,Bundesliga,Fullback
+949,Alphonso Balde,LB,Juventus,Algeria,Serie A,Fullback
+950,Rayan Zinchenko,LB,Juventus,Portugal,Serie A,Falseback
+951,Destiny Chilwell,LB,West Ham,Algeria,Premier League,Fullback
+952,Andrew Alba,LB,Manchester United,Ukraine,Premier League,Fullback
+953,Theo Palmieri,LB,Nice,Canada,Ligue 1,Falseback
+954,Theo Robertson,LB,Stuttgart,Canada,Bundesliga,Fullback
+955,Jordi Tierney,LB,Lyon,Scotland,Ligue 1,Attacking Wing Back
+956,Ben Hernandez,LB,Lille,Portugal,Ligue 1,Wingback
+957,Ian Zinchenko,LB,Stuttgart,Brazil,Bundesliga,Falseback
+958,Ian Balde,LB,Valencia,Brazil,La Liga,Wingback
+959,Lucas Mitchell,LB,Brest,Argentina,Ligue 1,Attacking Wing Back
+960,Alejandro Mykolenko,LB,Monaco,England,Ligue 1,Attacking Wing Back
+961,Ferland Maatsen,LB,Arsenal,Algeria,Premier League,Fullback
+962,Luke Digne,LB,Newcastle,Argentina,Premier League,Wingback
+963,Nuno Dimarco,LB,Arsenal,Brazil,Premier League,Falseback
+964,Nuno Cucurella,LB,Girona,Algeria,La Liga,Wingback
+965,Ben Mykolenko,LB,Nice,Ukraine,Ligue 1,Wingback
+966,Tyrick Mykolenko,LB,Newcastle,Ecuador,Premier League,Attacking Wing Back
+967,Luke Estupinan,LB,Lyon,Germany,Ligue 1,Falseback
+968,Destiny Mendy,LB,Real Betis,Canada,La Liga,Falseback
+969,Emerson Davies,LB,Bologna,France,Serie A,Falseback
+970,Alejandro Ait-Nouri,LB,Manchester City,Italy,Premier League,Fullback
+971,Jose Balde,LB,Napoli,Netherlands,Serie A,Wingback
+972,Pervis Shaw,LB,Real Sociedad,Netherlands,La Liga,Falseback
+973,Raphael Alba,LB,Marseille,Ukraine,Ligue 1,Falseback
+974,Alphonso Udogie,LB,Manchester United,Portugal,Premier League,Attacking Wing Back
+975,Emerson Palmieri,LB,Tottenham,France,Premier League,Attacking Wing Back
+976,Alex Lodi,LB,Arsenal,Italy,Premier League,Falseback
+977,Vitaliy Digne,LB,RB Leipzig,Algeria,Bundesliga,Falseback
+978,Lucas Lodi,LB,Real Madrid,Algeria,La Liga,Wingback
+979,Theo Shaw,LB,Athletic Club,France,La Liga,Fullback
+980,Theo Cucurella,LB,Valencia,Argentina,La Liga,Wingback
+981,Jordi Mendes,LB,AC Milan,Spain,Serie A,Fullback
+982,Emerson Zinchenko,LB,Nice,Ecuador,Ligue 1,Wingback
+983,Nuno Maatsen,LB,Frankfurt,France,Bundesliga,Falseback
+984,Andrew Chilwell,LB,West Ham,Portugal,Premier League,Falseback
+985,Raphael Lodi,LB,Bayer Leverkusen,Canada,Bundesliga,Fullback
+986,Alex Davies,LB,Real Sociedad,Netherlands,La Liga,Wingback
+987,Jordi Davies,LB,Atalanta,Canada,Serie A,Wingback
+988,Alphonso Tierney,LB,RB Leipzig,Netherlands,Bundesliga,Attacking Wing Back
+989,Alphonso Alba,LB,Athletic Club,Ecuador,La Liga,Attacking Wing Back
+990,Federico Maatsen,LB,Lyon,Brazil,Ligue 1,Wingback
+991,Ferland Shaw,LB,Manchester City,Italy,Premier League,Fullback
+992,Renan Lodi,LB,Napoli,Algeria,Serie A,Attacking Wing Back
+993,Tyrick Ait-Nouri,LB,Lazio,Ukraine,Serie A,Fullback
+994,Destiny Robertson,LB,Inter Milan,Germany,Serie A,Fullback
+995,Jordi Dimarco,LB,Bayern Munich,Algeria,Bundesliga,Fullback
+996,Nuno Cucurella,LB,Real Sociedad,Argentina,La Liga,Wingback
+997,Pervis Alba,LB,Real Sociedad,Argentina,La Liga,Fullback
+998,Oleksandr Mendy,LB,Brighton,Belgium,Premier League,Fullback
+999,Vitaliy Tierney,LB,Lille,Algeria,Ligue 1,Wingback
+1000,Alphonso Zinchenko,LB,Lille,Portugal,Ligue 1,Fullback
+1001,Jose Mendy,LB,Newcastle,Belgium,Premier League,Falseback
+1002,Alex Tierney,LB,Newcastle,Ukraine,Premier League,Falseback
+1003,Rayan Lodi,LB,West Ham,France,Premier League,Wingback
+1004,Ian Chilwell,LB,Stuttgart,Netherlands,Bundesliga,Wingback
+1005,Rayan Zinchenko,LB,Barcelona,Ukraine,La Liga,Fullback
+1006,Emerson Balde,LB,Brighton,France,Premier League,Falseback
+1007,Ben Robertson,LB,AC Milan,Ecuador,Serie A,Wingback
+1008,Pervis Shaw,LB,Real Sociedad,Spain,La Liga,Attacking Wing Back
+1009,Renan Gaya,LB,RB Leipzig,Italy,Bundesliga,Falseback
+1010,Pervis Lodi,LB,Bayern Munich,Ukraine,Bundesliga,Fullback
+1011,Marc Estupinan,LB,Atalanta,Scotland,Serie A,Attacking Wing Back
+1012,Raphael Mykolenko,LB,Real Betis,Italy,La Liga,Attacking Wing Back
+1013,Andrew Maatsen,LB,Brighton,Argentina,Premier League,Wingback
+1014,Alex Davies,LB,Atalanta,Ukraine,Serie A,Fullback
+1015,Luke Chilwell,LB,Athletic Club,Brazil,La Liga,Attacking Wing Back
+1016,Ben Balde,LB,Aston Villa,Ecuador,Premier League,Fullback
+1017,Jose Balde,LB,Frankfurt,Spain,Bundesliga,Falseback
+1018,Alphonso Estupinan,LB,Nice,Belgium,Ligue 1,Falseback
+1019,Ferland Gaya,LB,Valencia,Germany,La Liga,Fullback
+1020,Pervis Tierney,LB,Inter Milan,Ukraine,Serie A,Attacking Wing Back
+1021,Alphonso Alba,LB,Manchester City,Algeria,Premier League,Wingback
+1022,Federico Sandro,LB,Aston Villa,Ecuador,Premier League,Fullback
+1023,Jose Udogie,LB,AS Roma,Brazil,Serie A,Wingback
+1024,Luke Zinchenko,LB,Valencia,Ecuador,La Liga,Fullback
+1025,Renan Sandro,LB,RB Leipzig,Netherlands,Bundesliga,Fullback
+1026,Alphonso Guerreiro,LB,PSG,Argentina,Ligue 1,Falseback
+1027,Lucas Lodi,LB,Newcastle,Ukraine,Premier League,Falseback
+1028,Renan Sandro,LB,Lille,Netherlands,Ligue 1,Falseback
+1029,Alex Cucurella,LB,Aston Villa,Netherlands,Premier League,Falseback
+1030,Federico Udogie,LB,Liverpool,England,Premier League,Fullback
+1031,Rayan Mendy,LB,Real Sociedad,Canada,La Liga,Wingback
+1032,Tyrick Palmieri,LB,Real Betis,Scotland,La Liga,Fullback
+1033,Ferland Chilwell,LB,Arsenal,Portugal,Premier League,Fullback
+1034,Oleksandr Mykolenko,LB,Girona,Netherlands,La Liga,Falseback
+1035,Tyrick Lodi,LB,AS Roma,Spain,Serie A,Attacking Wing Back
+1036,Jose Tierney,LB,Juventus,Netherlands,Serie A,Fullback
+1037,Theo Chilwell,LB,Lyon,Germany,Ligue 1,Fullback
+1038,Jordi Maatsen,LB,Bayer Leverkusen,Argentina,Bundesliga,Falseback
+1039,Luke Lodi,LB,Lyon,Brazil,Ligue 1,Wingback
+1040,Vitaliy Lodi,LB,Atletico Madrid,Scotland,La Liga,Attacking Wing Back
+1041,Ben Balde,LB,Atletico Madrid,Ukraine,La Liga,Falseback
+1042,Emerson Mitchell,LB,Lyon,Algeria,Ligue 1,Wingback
+1043,Raphael Guerreiro,LB,Brighton,Algeria,Premier League,Fullback
+1044,Ben Udogie,LB,Liverpool,Brazil,Premier League,Fullback
+1045,Marc Maatsen,LB,Aston Villa,Brazil,Premier League,Falseback
+1046,Alejandro Alba,LB,Frankfurt,Netherlands,Bundesliga,Falseback
+1047,Emerson Alba,LB,Dortmund,Scotland,Bundesliga,Attacking Wing Back
+1048,Lucas Chilwell,LB,Atletico Madrid,Portugal,La Liga,Fullback
+1049,Ben Tierney,LB,Liverpool,Netherlands,Premier League,Falseback
+1050,Alejandro Udogie,LB,AC Milan,Portugal,Serie A,Fullback
+1051,Jose Dimarco,LB,Liverpool,Ecuador,Premier League,Fullback
+1052,Jordi Guerreiro,LB,Bologna,Spain,Serie A,Falseback
+1053,Alphonso Maatsen,LB,Bayer Leverkusen,Argentina,Bundesliga,Falseback
+1054,Pervis Chilwell,LB,Barcelona,Portugal,La Liga,Falseback
+1055,Kieran Mendy,LB,Bayern Munich,Brazil,Bundesliga,Fullback
+1056,Alejandro Mendy,LB,Atletico Madrid,Germany,La Liga,Fullback
+1057,Raphael Davies,LB,Stuttgart,Argentina,Bundesliga,Falseback
+1058,Jordi Udogie,LB,Manchester City,France,Premier League,Falseback
+1059,Jordi Mendy,LB,Real Sociedad,Canada,La Liga,Wingback
+1060,Kieran Lodi,LB,Real Betis,Ecuador,La Liga,Fullback
+1061,Rayan Mykolenko,LB,Bayern Munich,Germany,Bundesliga,Wingback
+1062,Alejandro Tierney,LB,Aston Villa,Ecuador,Premier League,Fullback
+1063,Emerson Digne,LB,Manchester United,Argentina,Premier League,Attacking Wing Back
+1064,Nuno Zinchenko,LB,Real Betis,Scotland,La Liga,Wingback
+1065,Nuno Ait-Nouri,LB,Lyon,Ecuador,Ligue 1,Wingback
+1066,Federico Udogie,LB,Chelsea,Brazil,Premier League,Fullback
+1067,Ferland Cucurella,LB,Atletico Madrid,Canada,La Liga,Attacking Wing Back
+1068,Oleksandr Guerreiro,LB,Lazio,Germany,Serie A,Fullback
+1069,Ferland Balde,LB,Chelsea,Spain,Premier League,Wingback
+1070,Ben Mendes,LB,AS Roma,Brazil,Serie A,Fullback
+1071,Jose Palmieri,LB,PSG,Germany,Ligue 1,Fullback
+1072,Vitaliy Digne,LB,RB Leipzig,Algeria,Bundesliga,Fullback
+1073,Lucas Ait-Nouri,LB,Brest,Scotland,Ligue 1,Falseback
+1074,Alejandro Robertson,LB,Real Madrid,Scotland,La Liga,Attacking Wing Back
+1075,Tyrick Mendy,LB,Brest,Algeria,Ligue 1,Wingback
+1076,Nuno Maatsen,LB,Barcelona,Algeria,La Liga,Attacking Wing Back
+1077,Raphael Ait-Nouri,LB,Frankfurt,Algeria,Bundesliga,Wingback
+1078,Luke Palmieri,LB,West Ham,Argentina,Premier League,Fullback
+1079,Renan Lodi,LB,Liverpool,Spain,Premier League,Falseback
+1080,Jose Mykolenko,LB,Dortmund,Spain,Bundesliga,Fullback
+1081,Nuno Mitchell,LB,Liverpool,Canada,Premier League,Falseback
+1082,Andrew Maatsen,LB,Real Sociedad,Brazil,La Liga,Wingback
+1083,Alphonso Mykolenko,LB,Lille,Belgium,Ligue 1,Fullback
+1084,Raphael Sandro,LB,AC Milan,Netherlands,Serie A,Wingback
+1085,Tyrick Shaw,LB,AC Milan,Italy,Serie A,Attacking Wing Back
+1086,Rayan Estupinan,LB,Newcastle,England,Premier League,Attacking Wing Back
+1087,Federico Maatsen,LB,AC Milan,France,Serie A,Falseback
+1088,Alphonso Davies,LB,RB Leipzig,Algeria,Bundesliga,Attacking Wing Back
+1089,Lucas Digne,LB,Lille,Netherlands,Ligue 1,Wingback
+1090,Kieran Hernandez,LB,Monaco,Portugal,Ligue 1,Fullback
+1091,Nuno Udogie,LB,Juventus,Germany,Serie A,Wingback
+1092,Nuno Davies,LB,Atletico Madrid,Ecuador,La Liga,Fullback
+1093,Federico Balde,LB,Lyon,Italy,Ligue 1,Fullback
+1094,Vitaliy Mendes,LB,Brighton,Scotland,Premier League,Falseback
+1095,Renan Maatsen,LB,Lille,Ecuador,Ligue 1,Fullback
+1096,Theo Chilwell,LB,Frankfurt,Ecuador,Bundesliga,Wingback
+1097,Theo Chilwell,LB,AC Milan,France,Serie A,Falseback
+1098,Rayan Cucurella,LB,Bayern Munich,Algeria,Bundesliga,Fullback
+1099,Ferland Gaya,LB,Atalanta,Spain,Serie A,Wingback
+1100,Jordi Digne,LB,AS Roma,Argentina,Serie A,Fullback
+1101,Alejandro Shaw,LB,Lyon,Ukraine,Ligue 1,Attacking Wing Back
+1102,Raphael Shaw,LB,Monaco,France,Ligue 1,Fullback
+1103,Jordi Digne,LB,Juventus,Italy,Serie A,Fullback
+1104,Jordi Davies,LB,Real Sociedad,Ecuador,La Liga,Falseback
+1105,Lucas Dimarco,LB,Napoli,Scotland,Serie A,Wingback
+1106,Marc Mendes,LB,Stuttgart,Scotland,Bundesliga,Attacking Wing Back
+1107,Andrew Mendy,LB,Manchester United,Ecuador,Premier League,Wingback
+1108,Renan Davies,LB,Bologna,France,Serie A,Falseback
+1109,Tyrick Cucurella,LB,Bologna,England,Serie A,Attacking Wing Back
+1110,Jose Mitchell,LB,Manchester United,Portugal,Premier League,Wingback
+1111,Ferland Ait-Nouri,LB,Atalanta,Belgium,Serie A,Wingback
+1112,Luke Alba,LB,Valencia,France,La Liga,Wingback
+1113,Emerson Cucurella,LB,Nice,Portugal,Ligue 1,Attacking Wing Back
+1114,Nuno Dimarco,LB,Frankfurt,Italy,Bundesliga,Falseback
+1115,Alex Zinchenko,LB,Brighton,Spain,Premier League,Falseback
+1116,Renan Alba,LB,Chelsea,England,Premier League,Falseback
+1117,Luke Balde,LB,Marseille,Scotland,Ligue 1,Attacking Wing Back
+1118,Federico Cucurella,LB,Barcelona,Portugal,La Liga,Wingback
+1119,Emerson Mendes,LB,Bayer Leverkusen,Algeria,Bundesliga,Fullback
+1120,Destiny Cucurella,LB,Bayer Leverkusen,Ecuador,Bundesliga,Wingback
+1121,Ben Mendes,LB,Marseille,Brazil,Ligue 1,Fullback
+1122,Kieran Estupinan,LB,Valencia,Spain,La Liga,Fullback
+1123,Pervis Guerreiro,LB,Girona,Italy,La Liga,Fullback
+1124,Kieran Balde,LB,AS Roma,Canada,Serie A,Fullback
+1125,Raphael Estupinan,LB,Atalanta,Portugal,Serie A,Fullback
+1126,Jose Dimarco,LB,Stuttgart,Algeria,Bundesliga,Wingback
+1127,Nuno Udogie,LB,Juventus,Spain,Serie A,Attacking Wing Back
+1128,Alphonso Gaya,LB,Athletic Club,England,La Liga,Wingback
+1129,Tyrick Robertson,LB,AS Roma,Portugal,Serie A,Attacking Wing Back
+1130,Kieran Chilwell,LB,Girona,Italy,La Liga,Falseback
+1131,Pervis Maatsen,LB,Girona,Canada,La Liga,Attacking Wing Back
+1132,Jordi Cucurella,LB,Frankfurt,Ukraine,Bundesliga,Wingback
+1133,Emerson Balde,LB,Stuttgart,England,Bundesliga,Wingback
+1134,Alejandro Mendy,LB,Manchester City,Argentina,Premier League,Falseback
+1135,Alex Digne,LB,Bayer Leverkusen,Algeria,Bundesliga,Fullback
+1136,Vitaliy Udogie,LB,Inter Milan,Italy,Serie A,Fullback
+1137,Alex Mitchell,LB,Valencia,Spain,La Liga,Fullback
+1138,Destiny Mendes,LB,RB Leipzig,Algeria,Bundesliga,Falseback
+1139,Alphonso Alba,LB,Girona,Canada,La Liga,Wingback
+1140,Ferland Mendes,LB,West Ham,Algeria,Premier League,Attacking Wing Back
+1141,Renan Guerreiro,LB,AS Roma,Germany,Serie A,Fullback
+1142,Jordi Mitchell,LB,Real Betis,England,La Liga,Wingback
+1143,Emerson Mendy,LB,Stuttgart,Germany,Bundesliga,Falseback
+1144,Marc Shaw,LB,Atletico Madrid,Scotland,La Liga,Falseback
+1145,Nuno Davies,LB,AS Roma,Germany,Serie A,Attacking Wing Back
+1146,Alex Mykolenko,LB,Athletic Club,England,La Liga,Attacking Wing Back
+1147,Ben Alba,LB,Juventus,Argentina,Serie A,Attacking Wing Back
+1148,Emerson Estupinan,LB,Dortmund,Netherlands,Bundesliga,Attacking Wing Back
+1149,Tyrick Chilwell,LB,Tottenham,France,Premier League,Falseback
+1150,Lucas Sandro,LB,Liverpool,Portugal,Premier League,Falseback
+1151,Ian Mitchell,LB,Bayern Munich,Ecuador,Bundesliga,Falseback
+1152,Federico Estupinan,LB,Stuttgart,Scotland,Bundesliga,Fullback
+1153,Ben Palmieri,LB,Bologna,Netherlands,Serie A,Fullback
+1154,Theo Guerreiro,LB,Girona,England,La Liga,Fullback
+1155,Rayan Mendy,LB,Stuttgart,Netherlands,Bundesliga,Attacking Wing Back
+1156,Kieran Balde,LB,Bayer Leverkusen,Algeria,Bundesliga,Wingback
+1157,Andrew Mykolenko,LB,PSG,Belgium,Ligue 1,Falseback
+1158,Alex Guerreiro,LB,Monaco,Ecuador,Ligue 1,Wingback
+1159,Alphonso Shaw,LB,Monaco,Ecuador,Ligue 1,Falseback
+1160,Alejandro Lodi,LB,Manchester City,Scotland,Premier League,Falseback
+1161,Luke Gaya,LB,Chelsea,England,Premier League,Attacking Wing Back
+1162,Lucas Mitchell,LB,Brest,Ukraine,Ligue 1,Attacking Wing Back
+1163,Ian Tierney,LB,Stuttgart,Scotland,Bundesliga,Fullback
+1164,Raphael Digne,LB,Real Madrid,Germany,La Liga,Attacking Wing Back
+1165,Luke Mendes,LB,Lille,Algeria,Ligue 1,Attacking Wing Back
+1166,Alejandro Balde,LB,Dortmund,Ecuador,Bundesliga,Wingback
+1167,Raphael Tierney,LB,Nice,England,Ligue 1,Wingback
+1168,Vitaliy Udogie,LB,West Ham,Spain,Premier League,Wingback
+1169,Emerson Maatsen,LB,Tottenham,Spain,Premier League,Falseback
+1170,Andrew Palmieri,LB,Girona,Ecuador,La Liga,Attacking Wing Back
+1171,Lucas Dimarco,LB,Frankfurt,France,Bundesliga,Fullback
+1172,Ferland Mitchell,LB,Brest,Brazil,Ligue 1,Fullback
+1173,Ben Shaw,LB,West Ham,France,Premier League,Fullback
+1174,Jordi Dimarco,LB,Nice,Belgium,Ligue 1,Wingback
+1175,Pervis Maatsen,LB,Girona,Spain,La Liga,Attacking Wing Back
+1176,Nuno Shaw,LB,Real Betis,Spain,La Liga,Fullback
+1177,Nuno Guerreiro,LB,Bologna,Netherlands,Serie A,Falseback
+1178,Vitaliy Mendy,LB,PSG,England,Ligue 1,Wingback
+1179,Nuno Mykolenko,LB,Newcastle,Germany,Premier League,Fullback
+1180,Ferland Cucurella,LB,Brighton,Algeria,Premier League,Falseback
+1181,Tyrick Mitchell,LB,Brest,Netherlands,Ligue 1,Falseback
+1182,Ben Tierney,LB,Marseille,Netherlands,Ligue 1,Wingback
+1183,Nuno Lodi,LB,Real Sociedad,Algeria,La Liga,Fullback
+1184,Raphael Zinchenko,LB,Valencia,Italy,La Liga,Wingback
+1185,Ian Mendes,LB,Frankfurt,Belgium,Bundesliga,Fullback
+1186,Alejandro Maatsen,LB,Monaco,Ecuador,Ligue 1,Falseback
+1187,Luke Digne,LB,Lyon,England,Ligue 1,Falseback
+1188,Vitaliy Balde,LB,Real Betis,Brazil,La Liga,Fullback
+1189,Ian Shaw,LB,Inter Milan,Brazil,Serie A,Attacking Wing Back
+1190,Theo Tierney,LB,Barcelona,Portugal,La Liga,Falseback
+1191,Federico Mendy,LB,Aston Villa,Scotland,Premier League,Wingback
+1192,Renan Lodi,LB,Newcastle,Netherlands,Premier League,Falseback
+1193,Oleksandr Palmieri,LB,Atalanta,Ecuador,Serie A,Attacking Wing Back
+1194,Rayan Maatsen,LB,Brest,Ecuador,Ligue 1,Attacking Wing Back
+1195,Marc Dimarco,LB,Manchester United,Canada,Premier League,Falseback
+1196,Destiny Cucurella,LB,Newcastle,Algeria,Premier League,Falseback
+1197,Nuno Palmieri,LB,Napoli,Argentina,Serie A,Fullback
+1198,Kieran Udogie,LB,Bayer Leverkusen,Scotland,Bundesliga,Fullback
+1199,Theo Sandro,LB,Manchester United,Netherlands,Premier League,Wingback
+1200,Marc Mykolenko,LB,AS Roma,Algeria,Serie A,Wingback
+1201,Alphonso Estupinan,LB,Barcelona,Ukraine,La Liga,Fullback
+1202,Emerson Maatsen,LB,Monaco,Netherlands,Ligue 1,Fullback
+1203,Renan Chilwell,LB,Girona,France,La Liga,Attacking Wing Back
+1204,Renan Tierney,LB,Chelsea,Netherlands,Premier League,Fullback
+1205,Pervis Dimarco,LB,Valencia,Scotland,La Liga,Falseback
+1206,Ian Shaw,LB,Bayern Munich,England,Bundesliga,Attacking Wing Back
+1207,Ian Mendy,LB,AS Roma,England,Serie A,Falseback
+1208,Jose Mitchell,LB,Real Sociedad,Brazil,La Liga,Attacking Wing Back
+1209,Tyrick Cucurella,LB,Tottenham,Germany,Premier League,Falseback
+1210,Oleksandr Udogie,LB,Bayern Munich,Brazil,Bundesliga,Attacking Wing Back
+1211,Jordi Zinchenko,LB,Atalanta,Netherlands,Serie A,Attacking Wing Back
+1212,Rayan Maatsen,LB,Lille,Italy,Ligue 1,Falseback
+1213,Nuno Chilwell,LB,Real Madrid,Brazil,La Liga,Wingback
+1214,Lucas Alba,LB,RB Leipzig,Ecuador,Bundesliga,Attacking Wing Back
+1215,Vitaliy Tierney,LB,Dortmund,Spain,Bundesliga,Wingback
+1216,Andrew Dimarco,LB,Bayer Leverkusen,Ecuador,Bundesliga,Fullback
+1217,Alphonso Lodi,LB,Nice,Italy,Ligue 1,Attacking Wing Back
+1218,Ian Mykolenko,LB,Tottenham,Germany,Premier League,Wingback
+1219,Alejandro Zinchenko,LB,Lyon,Canada,Ligue 1,Falseback
+1220,Nuno Shaw,LB,Atalanta,Portugal,Serie A,Wingback
+1221,Nuno Hernandez,LB,Atletico Madrid,Ukraine,La Liga,Fullback
+1222,Alex Gaya,LB,RB Leipzig,Spain,Bundesliga,Fullback
+1223,Kieran Ait-Nouri,LB,Atletico Madrid,Belgium,La Liga,Wingback
+1224,Jordi Sandro,LB,Bayern Munich,Belgium,Bundesliga,Fullback
+1225,Federico Balde,LB,Lille,Argentina,Ligue 1,Fullback
+1226,Luke Gaya,LB,Manchester United,Spain,Premier League,Falseback
+1227,Ian Zinchenko,LB,Frankfurt,Argentina,Bundesliga,Falseback
+1228,Alejandro Zinchenko,LB,Manchester United,France,Premier League,Attacking Wing Back
+1229,Rayan Mendes,LB,Valencia,Ecuador,La Liga,Attacking Wing Back
+1230,Jordi Maatsen,LB,Lyon,Argentina,Ligue 1,Fullback
+1231,Alex Robertson,LB,AS Roma,Belgium,Serie A,Falseback
+1232,Alphonso Robertson,LB,Manchester United,Scotland,Premier League,Attacking Wing Back
+1233,Destiny Dimarco,LB,Bologna,Ukraine,Serie A,Wingback
+1234,Jordi Gaya,LB,Nice,Algeria,Ligue 1,Wingback
+1235,Nuno Hernandez,LB,Monaco,Brazil,Ligue 1,Attacking Wing Back
+1236,Alphonso Davies,LB,Real Madrid,England,La Liga,Wingback
+1237,Rayan Davies,LB,AS Roma,Portugal,Serie A,Fullback
+1238,Marc Tierney,LB,West Ham,Belgium,Premier League,Falseback
+1239,Federico Maatsen,LB,Brest,Germany,Ligue 1,Falseback
+1240,Ian Hernandez,LB,Bayer Leverkusen,Canada,Bundesliga,Falseback
+1241,Marc Balde,LB,Marseille,France,Ligue 1,Fullback
+1242,Vitaliy Guerreiro,LB,Frankfurt,France,Bundesliga,Falseback
+1243,Renan Robertson,LB,RB Leipzig,France,Bundesliga,Falseback
+1244,Lucas Ait-Nouri,LB,AS Roma,Spain,Serie A,Fullback
+1245,Lucas Gaya,LB,Valencia,Ecuador,La Liga,Wingback
+1246,Renan Balde,LB,Nice,Portugal,Ligue 1,Wingback
+1247,Federico Ait-Nouri,LB,Real Betis,Italy,La Liga,Wingback
+1248,Alex Cucurella,LB,Newcastle,Belgium,Premier League,Wingback
+1249,Theo Palmieri,LB,Lille,Portugal,Ligue 1,Attacking Wing Back
+1250,Vitaliy Mitchell,LB,Bayern Munich,Spain,Bundesliga,Attacking Wing Back
+1251,Jordi Mendy,LB,Liverpool,Spain,Premier League,Fullback
+1252,Kieran Palmieri,LB,Stuttgart,Germany,Bundesliga,Attacking Wing Back
+1253,Kieran Shaw,LB,AC Milan,Germany,Serie A,Fullback
+1254,Tyrick Hernandez,LB,Dortmund,Italy,Bundesliga,Attacking Wing Back
+1255,Federico Tierney,LB,Napoli,Ukraine,Serie A,Attacking Wing Back
+1256,Kieran Shaw,LB,Lazio,Spain,Serie A,Attacking Wing Back
+1257,Destiny Robertson,LB,Athletic Club,Ukraine,La Liga,Fullback
+1258,Luke Lodi,LB,Stuttgart,Canada,Bundesliga,Fullback
+1259,Rayan Gaya,LB,Marseille,England,Ligue 1,Falseback
+1260,Jose Lodi,LB,Frankfurt,Canada,Bundesliga,Wingback
+1261,Alex Udogie,LB,Dortmund,Algeria,Bundesliga,Wingback
+1262,Vitaliy Mendy,LB,Stuttgart,Portugal,Bundesliga,Fullback
+1263,Ferland Tierney,LB,Valencia,Germany,La Liga,Attacking Wing Back
+1264,Federico Lodi,LB,PSG,Ukraine,Ligue 1,Attacking Wing Back
+1265,Lucas Tierney,LB,Bologna,Ukraine,Serie A,Attacking Wing Back
+1266,Ben Alba,LB,Newcastle,Spain,Premier League,Fullback
+1267,Alex Mendes,LB,Manchester City,Portugal,Premier League,Fullback
+1268,Destiny Mykolenko,LB,Lazio,Netherlands,Serie A,Attacking Wing Back
+1269,Lucas Guerreiro,LB,West Ham,Germany,Premier League,Falseback
+1270,Lucas Gaya,LB,Dortmund,Algeria,Bundesliga,Attacking Wing Back
+1271,Pervis Ait-Nouri,LB,Real Sociedad,Portugal,La Liga,Fullback
+1272,Andrew Udogie,LB,Lille,France,Ligue 1,Fullback
+1273,Destiny Palmieri,LB,Frankfurt,Italy,Bundesliga,Wingback
+1274,Kieran Mykolenko,LB,Napoli,Netherlands,Serie A,Fullback
+1275,Kieran Lodi,LB,Nice,England,Ligue 1,Fullback
+1276,Marc Hernandez,LB,Newcastle,Algeria,Premier League,Attacking Wing Back
+1277,Alejandro Mitchell,LB,Marseille,England,Ligue 1,Attacking Wing Back
+1278,Oleksandr Ait-Nouri,LB,Manchester City,Belgium,Premier League,Attacking Wing Back
+1279,Kieran Shaw,LB,Brest,Ecuador,Ligue 1,Attacking Wing Back
+1280,Pervis Cucurella,LB,Lazio,France,Serie A,Fullback
+1281,Kieran Mitchell,LB,Bayern Munich,Portugal,Bundesliga,Fullback
+1282,Tyrick Sandro,LB,Barcelona,Spain,La Liga,Fullback
+1283,Marc Udogie,LB,Stuttgart,Argentina,Bundesliga,Fullback
+1284,Jose Davies,LB,Real Madrid,Brazil,La Liga,Fullback
+1285,Alphonso Hernandez,LB,Atletico Madrid,Italy,La Liga,Fullback
+1286,Theo Cucurella,LB,Brighton,England,Premier League,Attacking Wing Back
+1287,Lucas Tierney,LB,West Ham,Italy,Premier League,Wingback
+1288,Alejandro Udogie,LB,RB Leipzig,Italy,Bundesliga,Wingback
+1289,Alphonso Digne,LB,Marseille,Germany,Ligue 1,Attacking Wing Back
+1290,Jose Dimarco,LB,Frankfurt,Scotland,Bundesliga,Falseback
+1291,Federico Mendes,LB,Brest,Belgium,Ligue 1,Fullback
+1292,Kieran Maatsen,LB,Bologna,Canada,Serie A,Fullback
+1293,Kieran Balde,LB,Arsenal,England,Premier League,Wingback
+1294,Raphael Mykolenko,LB,Monaco,England,Ligue 1,Wingback
+1295,Emerson Tierney,LB,Tottenham,Argentina,Premier League,Wingback
+1296,Oleksandr Balde,LB,Real Madrid,Scotland,La Liga,Falseback
+1297,Raphael Maatsen,LB,Dortmund,Canada,Bundesliga,Wingback
+1298,Tyrick Mitchell,LB,Bayern Munich,Italy,Bundesliga,Attacking Wing Back
+1299,Tyrick Lodi,LB,Real Sociedad,Argentina,La Liga,Fullback
+1300,Destiny Ait-Nouri,LB,Juventus,England,Serie A,Wingback
+1301,Emerson Tierney,LB,Bayern Munich,Germany,Bundesliga,Fullback
+1302,Emerson Mendes,LB,Lazio,France,Serie A,Attacking Wing Back
+1303,Rayan Gaya,LB,Bayern Munich,Germany,Bundesliga,Wingback
+1304,Emerson Udogie,LB,Brighton,Scotland,Premier League,Falseback
+1305,Jordi Udogie,LB,Bologna,Canada,Serie A,Fullback
+1306,Destiny Chilwell,LB,Valencia,Scotland,La Liga,Falseback
+1307,Destiny Digne,LB,Nice,Argentina,Ligue 1,Fullback
+1308,Emerson Cucurella,LB,Real Sociedad,Scotland,La Liga,Attacking Wing Back
+1309,Theo Digne,LB,PSG,Germany,Ligue 1,Falseback
+1310,Jordi Robertson,LB,Bayern Munich,Portugal,Bundesliga,Falseback
+1311,Marc Mitchell,LB,Stuttgart,Portugal,Bundesliga,Attacking Wing Back
+1312,Vitaliy Gaya,LB,Valencia,Brazil,La Liga,Attacking Wing Back
+1313,Oleksandr Lodi,LB,AS Roma,Germany,Serie A,Falseback
+1314,Alex Tierney,LB,Lyon,Canada,Ligue 1,Falseback
+1315,Vitaliy Lodi,LB,Napoli,Netherlands,Serie A,Falseback
+1316,Tyrick Zinchenko,LB,Dortmund,Ukraine,Bundesliga,Falseback
+1317,Ian Ait-Nouri,LB,PSG,Ukraine,Ligue 1,Attacking Wing Back
+1318,Lucas Maatsen,LB,Atalanta,Brazil,Serie A,Attacking Wing Back
+1319,Alejandro Balde,LB,Aston Villa,Algeria,Premier League,Attacking Wing Back
+1320,Theo Hernandez,LB,Newcastle,England,Premier League,Attacking Wing Back
+1321,Lucas Lodi,LB,Athletic Club,Germany,La Liga,Fullback
+1322,Alphonso Ait-Nouri,LB,Atalanta,Ecuador,Serie A,Falseback
+1323,Rayan Udogie,LB,Bayern Munich,Brazil,Bundesliga,Falseback
+1324,Oleksandr Gaya,LB,Frankfurt,France,Bundesliga,Attacking Wing Back
+1325,Luke Zinchenko,LB,AS Roma,Netherlands,Serie A,Fullback
+1326,Marc Zinchenko,LB,RB Leipzig,Netherlands,Bundesliga,Fullback
+1327,Jordi Gaya,LB,Bologna,Belgium,Serie A,Attacking Wing Back
+1328,Theo Mendes,LB,Valencia,Spain,La Liga,Attacking Wing Back
+1329,Alejandro Mykolenko,LB,Chelsea,Spain,Premier League,Wingback
+1330,Federico Mitchell,LB,AC Milan,Algeria,Serie A,Attacking Wing Back
+1331,Pervis Ait-Nouri,LB,Juventus,Scotland,Serie A,Wingback
+1332,Pervis Tierney,LB,Atalanta,Netherlands,Serie A,Fullback
+1333,Federico Gaya,LB,Atalanta,Algeria,Serie A,Falseback
+1334,Lucas Shaw,LB,Bayern Munich,Canada,Bundesliga,Fullback
+1335,Tyrick Digne,LB,Lyon,Germany,Ligue 1,Falseback
+1336,Alphonso Mendy,LB,RB Leipzig,Germany,Bundesliga,Falseback
+1337,Tyrick Tierney,LB,Dortmund,Brazil,Bundesliga,Fullback
+1338,Tyrick Guerreiro,LB,Chelsea,Belgium,Premier League,Falseback
+1339,Ferland Shaw,LB,Napoli,Germany,Serie A,Attacking Wing Back
+1340,Destiny Udogie,LB,Bayern Munich,Netherlands,Bundesliga,Wingback
+1341,Luke Mendes,LB,Juventus,Portugal,Serie A,Attacking Wing Back
+1342,Luke Sandro,LB,Atletico Madrid,Scotland,La Liga,Falseback
+1343,Pervis Mendy,LB,Juventus,England,Serie A,Attacking Wing Back
+1344,Federico Tierney,LB,RB Leipzig,Algeria,Bundesliga,Fullback
+1345,Pervis Sandro,LB,AS Roma,Canada,Serie A,Wingback
+1346,Nuno Estupinan,LB,Atalanta,Ecuador,Serie A,Falseback
+1347,Destiny Robertson,LB,Lazio,Netherlands,Serie A,Falseback
+1348,Alex Udogie,LB,Inter Milan,Italy,Serie A,Wingback
+1349,Rayan Alba,LB,West Ham,Scotland,Premier League,Fullback
+1350,Alex Hernandez,LB,Atletico Madrid,Canada,La Liga,Fullback
+1351,Pervis Mykolenko,LB,Atletico Madrid,Belgium,La Liga,Falseback
+1352,Jose Sandro,LB,Athletic Club,Portugal,La Liga,Falseback
+1353,Theo Balde,LB,Real Sociedad,Scotland,La Liga,Falseback
+1354,Federico Gaya,LB,Lazio,Belgium,Serie A,Falseback
+1355,Lucas Davies,LB,Arsenal,Canada,Premier League,Attacking Wing Back
+1356,Renan Ait-Nouri,LB,Valencia,Netherlands,La Liga,Falseback
+1357,Kieran Tierney,LB,Bayern Munich,Germany,Bundesliga,Attacking Wing Back
+1358,Alejandro Shaw,LB,Manchester United,Brazil,Premier League,Wingback
+1359,Tyrick Robertson,LB,Girona,Scotland,La Liga,Fullback
+1360,Oleksandr Palmieri,LB,Frankfurt,England,Bundesliga,Attacking Wing Back
+1361,Theo Ait-Nouri,LB,Juventus,Argentina,Serie A,Fullback
+1362,Alphonso Hernandez,LB,Nice,England,Ligue 1,Wingback
+1363,Jordi Mykolenko,LB,Napoli,Ukraine,Serie A,Fullback
+1364,Ben Mendes,LB,Bologna,Algeria,Serie A,Fullback
+1365,Alex Tierney,LB,Stuttgart,England,Bundesliga,Wingback
+1366,Alejandro Dimarco,LB,Bayern Munich,Canada,Bundesliga,Falseback
+1367,Andrew Hernandez,LB,Inter Milan,Brazil,Serie A,Wingback
+1368,Jose Chilwell,LB,Monaco,Spain,Ligue 1,Wingback
+1369,Kieran Digne,LB,Arsenal,Netherlands,Premier League,Falseback
+1370,Oleksandr Mykolenko,LB,Bayer Leverkusen,Germany,Bundesliga,Wingback
+1371,Raphael Palmieri,LB,Aston Villa,Brazil,Premier League,Attacking Wing Back
+1372,Andrew Robertson,LB,Monaco,Brazil,Ligue 1,Falseback
+1373,Federico Palmieri,LB,PSG,Ukraine,Ligue 1,Falseback
+1374,Emerson Davies,LB,Chelsea,Ukraine,Premier League,Wingback
+1375,Ferland Shaw,LB,AC Milan,Portugal,Serie A,Wingback
+1376,Rayan Estupinan,LB,Manchester United,Scotland,Premier League,Fullback
+1377,Jordi Robertson,LB,Napoli,Spain,Serie A,Fullback
+1378,Jose Mykolenko,LB,Tottenham,Argentina,Premier League,Fullback
+1379,Emerson Balde,LB,Frankfurt,Ecuador,Bundesliga,Fullback
+1380,Nuno Hernandez,LB,AC Milan,Portugal,Serie A,Attacking Wing Back
+1381,Nuno Dimarco,LB,Juventus,Scotland,Serie A,Wingback
+1382,Ben Mendes,LB,Nice,Ukraine,Ligue 1,Falseback
+1383,Raphael Palmieri,LB,Chelsea,Brazil,Premier League,Falseback
+1384,Renan Mendy,LB,Athletic Club,Brazil,La Liga,Attacking Wing Back
+1385,Alex Hernandez,LB,Newcastle,Scotland,Premier League,Fullback
+1386,Theo Zinchenko,LB,Lille,Portugal,Ligue 1,Falseback
+1387,Alex Davies,LB,RB Leipzig,Ecuador,Bundesliga,Attacking Wing Back
+1388,Alphonso Lodi,LB,Brest,Belgium,Ligue 1,Fullback
+1389,Lucas Guerreiro,LB,Newcastle,Argentina,Premier League,Falseback
+1390,Rayan Zinchenko,LB,RB Leipzig,Spain,Bundesliga,Attacking Wing Back
+1391,Lucas Chilwell,LB,Valencia,Portugal,La Liga,Wingback
+1392,Alex Estupinan,LB,Juventus,Canada,Serie A,Attacking Wing Back
+1393,Ben Cucurella,LB,Napoli,France,Serie A,Wingback
+1394,Alejandro Davies,LB,Bayer Leverkusen,Canada,Bundesliga,Falseback
+1395,Alphonso Mendy,LB,Marseille,Scotland,Ligue 1,Wingback
+1396,Federico Ait-Nouri,LB,Liverpool,Argentina,Premier League,Falseback
+1397,Alex Palmieri,LB,Liverpool,Italy,Premier League,Fullback
+1398,Rayan Robertson,LB,Inter Milan,Algeria,Serie A,Wingback
+1399,Ferland Mendes,LB,Lyon,Ecuador,Ligue 1,Falseback
+1400,Ben Alba,LB,Stuttgart,Argentina,Bundesliga,Falseback
+1401,Jordi Guerreiro,LB,Chelsea,Germany,Premier League,Wingback
+1402,Kieran Gaya,LB,Manchester City,Spain,Premier League,Attacking Wing Back
+1403,Rayan Mendy,LB,Nice,France,Ligue 1,Wingback
+1404,Theo Robertson,LB,Monaco,Argentina,Ligue 1,Wingback
+1405,Theo Estupinan,LB,Monaco,Canada,Ligue 1,Attacking Wing Back
+1406,Raphael Tierney,LB,Chelsea,Scotland,Premier League,Attacking Wing Back
+1407,Marc Lodi,LB,Frankfurt,England,Bundesliga,Wingback
+1408,Jordi Cucurella,LB,Girona,Scotland,La Liga,Falseback
+1409,Luke Digne,LB,Barcelona,Portugal,La Liga,Fullback
+1410,Ferland Guerreiro,LB,Lille,Spain,Ligue 1,Fullback
+1411,Jordi Lodi,LB,Girona,Belgium,La Liga,Wingback
+1412,Luke Shaw,LB,West Ham,Italy,Premier League,Falseback
+1413,Jordi Ait-Nouri,LB,Bayern Munich,Spain,Bundesliga,Wingback
+1414,Lucas Zinchenko,LB,Lazio,Germany,Serie A,Falseback
+1415,Rayan Mendes,LB,Stuttgart,France,Bundesliga,Fullback
+1416,Oleksandr Alba,LB,Athletic Club,Belgium,La Liga,Fullback
+1417,Federico Hernandez,LB,Atalanta,Belgium,Serie A,Fullback
+1418,Emerson Chilwell,LB,AC Milan,Ukraine,Serie A,Falseback
+1419,Jose Guerreiro,LB,Real Madrid,Argentina,La Liga,Falseback
+1420,Vitaliy Maatsen,LB,Girona,Portugal,La Liga,Falseback
+1421,Emerson Davies,LB,Stuttgart,Scotland,Bundesliga,Attacking Wing Back
+1422,Emerson Hernandez,LB,Bayer Leverkusen,Italy,Bundesliga,Falseback
+1423,Ferland Sandro,LB,Dortmund,France,Bundesliga,Wingback
+1424,Ferland Udogie,LB,Nice,Portugal,Ligue 1,Attacking Wing Back
+1425,Jose Lodi,LB,Brest,Argentina,Ligue 1,Attacking Wing Back
+1426,Raphael Davies,LB,Juventus,Algeria,Serie A,Wingback
+1427,Pervis Palmieri,LB,Napoli,Argentina,Serie A,Falseback
+1428,Federico Maatsen,LB,AC Milan,Germany,Serie A,Wingback
+1429,Federico Chilwell,LB,Bologna,Argentina,Serie A,Attacking Wing Back
+1430,Alejandro Ait-Nouri,LB,Tottenham,Algeria,Premier League,Attacking Wing Back
+1431,Ben Tierney,LB,Brest,Ukraine,Ligue 1,Fullback
+1432,Emerson Ait-Nouri,LB,AC Milan,Argentina,Serie A,Attacking Wing Back
+1433,Luke Mykolenko,LB,Bologna,Germany,Serie A,Falseback
+1434,Tyrick Digne,LB,Athletic Club,Spain,La Liga,Attacking Wing Back
+1435,Alejandro Udogie,LB,Manchester City,Scotland,Premier League,Fullback
+1436,Renan Palmieri,LB,Liverpool,England,Premier League,Fullback
+1437,Nuno Mitchell,LB,West Ham,Netherlands,Premier League,Fullback
+1438,Jose Hernandez,LB,Newcastle,Argentina,Premier League,Fullback
+1439,Renan Guerreiro,LB,Real Madrid,Italy,La Liga,Fullback
+1440,Lucas Chilwell,LB,Dortmund,France,Bundesliga,Wingback
+1441,Andrew Udogie,LB,Bayern Munich,Germany,Bundesliga,Attacking Wing Back
+1442,Renan Ait-Nouri,LB,Juventus,Canada,Serie A,Attacking Wing Back
+1443,Raphael Mitchell,LB,Atletico Madrid,Algeria,La Liga,Falseback
+1444,Ben Digne,LB,Lille,England,Ligue 1,Wingback
+1445,Ferland Sandro,LB,Juventus,Portugal,Serie A,Falseback
+1446,Andrew Alba,LB,Stuttgart,England,Bundesliga,Wingback
+1447,Destiny Balde,LB,Brighton,Algeria,Premier League,Attacking Wing Back
+1448,Nuno Mitchell,LB,Newcastle,Algeria,Premier League,Attacking Wing Back
+1449,Theo Tierney,LB,Juventus,Netherlands,Serie A,Attacking Wing Back
+1450,Oleksandr Lodi,LB,Real Betis,England,La Liga,Fullback
+1451,Jordi Sandro,LB,Stuttgart,Italy,Bundesliga,Attacking Wing Back
+1452,Ben Robertson,LB,Tottenham,Scotland,Premier League,Fullback
+1453,Kieran Balde,LB,Valencia,England,La Liga,Wingback
+1454,Luke Mendy,LB,PSG,Italy,Ligue 1,Attacking Wing Back
+1455,Kieran Tierney,LB,Atalanta,France,Serie A,Attacking Wing Back
+1456,Vitaliy Tierney,LB,Atletico Madrid,Algeria,La Liga,Attacking Wing Back
+1457,Ian Tierney,LB,Barcelona,Portugal,La Liga,Falseback
+1458,Renan Udogie,LB,PSG,England,Ligue 1,Fullback
+1459,Alphonso Tierney,LB,AS Roma,Netherlands,Serie A,Wingback
+1460,Rayan Chilwell,LB,PSG,Ukraine,Ligue 1,Attacking Wing Back
+1461,Alphonso Maatsen,LB,PSG,Belgium,Ligue 1,Fullback
+1462,Ferland Sandro,LB,Stuttgart,Belgium,Bundesliga,Fullback
+1463,Marc Mendes,LB,Chelsea,Belgium,Premier League,Wingback
+1464,Oleksandr Tierney,LB,Stuttgart,Canada,Bundesliga,Fullback
+1465,Luke Lodi,LB,Bayer Leverkusen,Ukraine,Bundesliga,Wingback
+1466,Ian Hernandez,LB,Juventus,France,Serie A,Wingback
+1467,Vitaliy Mykolenko,LB,Stuttgart,Italy,Bundesliga,Falseback
+1468,Rayan Tierney,LB,Bologna,Germany,Serie A,Wingback
+1469,Rayan Mykolenko,LB,Dortmund,Ukraine,Bundesliga,Fullback
+1470,Alex Cucurella,LB,Bayer Leverkusen,Brazil,Bundesliga,Wingback
+1471,Andrew Mendy,LB,Athletic Club,France,La Liga,Attacking Wing Back
+1472,Federico Chilwell,LB,Tottenham,Argentina,Premier League,Attacking Wing Back
+1473,Kieran Ait-Nouri,LB,Barcelona,Scotland,La Liga,Wingback
+1474,Ferland Lodi,LB,Frankfurt,Spain,Bundesliga,Falseback
+1475,Tyrick Palmieri,LB,Real Sociedad,Algeria,La Liga,Fullback
+1476,Pervis Shaw,LB,Brighton,Scotland,Premier League,Falseback
+1477,Jose Estupinan,LB,Dortmund,Algeria,Bundesliga,Fullback
+1478,Luke Zinchenko,LB,Lille,Belgium,Ligue 1,Fullback
+1479,Jose Zinchenko,LB,Girona,Belgium,La Liga,Wingback
+1480,Destiny Shaw,LB,Inter Milan,Algeria,Serie A,Falseback
+1481,Kieran Mendes,LB,Marseille,Brazil,Ligue 1,Wingback
+1482,Tyrick Chilwell,LB,Marseille,Scotland,Ligue 1,Attacking Wing Back
+1483,Kieran Estupinan,LB,Arsenal,Germany,Premier League,Fullback
+1484,Alphonso Shaw,LB,Atalanta,Brazil,Serie A,Wingback
+1485,Alphonso Udogie,LB,Napoli,Canada,Serie A,Falseback
+1486,Rayan Palmieri,LB,Dortmund,Argentina,Bundesliga,Wingback
+1487,Tyrick Digne,LB,West Ham,Brazil,Premier League,Wingback
+1488,Rayan Alba,LB,RB Leipzig,England,Bundesliga,Fullback
+1489,Ferland Shaw,LB,Napoli,Belgium,Serie A,Attacking Wing Back
+1490,Alex Robertson,LB,Real Madrid,Algeria,La Liga,Attacking Wing Back
+1491,Jordi Palmieri,LB,Nice,Scotland,Ligue 1,Falseback
+1492,Raphael Hernandez,LB,Real Madrid,Scotland,La Liga,Fullback
+1493,Jordi Udogie,LB,Tottenham,Portugal,Premier League,Wingback
+1494,Jordi Robertson,LB,Real Betis,Brazil,La Liga,Attacking Wing Back
+1495,Ferland Balde,LB,Bologna,France,Serie A,Falseback
+1496,Ian Chilwell,LB,Atalanta,England,Serie A,Attacking Wing Back
+1497,Tyrick Palmieri,LB,Bologna,France,Serie A,Wingback
+1498,Rayan Balde,LB,Bayern Munich,Germany,Bundesliga,Falseback
+1499,Alphonso Udogie,LB,Marseille,France,Ligue 1,Wingback
+1500,Vitaliy Cucurella,LB,Brest,Brazil,Ligue 1,Falseback

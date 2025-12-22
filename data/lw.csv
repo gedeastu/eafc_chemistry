@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Marcus Kvaratskhelia,LW,Valencia,England,La Liga,Wide Playmaker
+2,Vinicius Zaha,LW,West Ham,Japan,Premier League,Winger
+3,Marcus Heung-min,LW,AS Roma,Portugal,Serie A,Wide Playmaker
+4,Kingsley Mbappe,LW,Dortmund,Japan,Bundesliga,Wide Playmaker
+5,Kylian Gakpo,LW,Real Betis,Colombia,La Liga,Winger
+6,Luis Barnes,LW,Bologna,Belgium,Serie A,Inside Forward
+7,Cody Leao,LW,Real Sociedad,Georgia,La Liga,Wide Playmaker
+8,Kingsley Mitoma,LW,Newcastle,Netherlands,Premier League,Inside Forward
+9,Kingsley Junior,LW,Tottenham,Germany,Premier League,Inside Forward
+10,Nico Coman,LW,Lyon,Japan,Ligue 1,Wide Playmaker
+11,Marcus Williams,LW,Athletic Club,France,La Liga,Wide Playmaker
+12,Son Leao,LW,Arsenal,France,Premier League,Wide Playmaker
+13,Jadon Mitoma,LW,Real Madrid,Georgia,La Liga,Winger
+14,Gabriel Gakpo,LW,Monaco,Japan,Ligue 1,Wide Playmaker
+15,Marcus Mbappe,LW,Napoli,Brazil,Serie A,Winger
+16,Nico Gakpo,LW,Napoli,Japan,Serie A,Inside Forward
+17,Harvey Junior,LW,Monaco,Germany,Ligue 1,Winger
+18,Jack Junior,LW,Nice,Colombia,Ligue 1,Wide Playmaker
+19,Vinicius Diaz,LW,Real Madrid,Belgium,La Liga,Inside Forward
+20,Cody Mbappe,LW,Chelsea,Germany,Premier League,Winger
+21,Luis Mitoma,LW,Inter Milan,Ivory Coast,Serie A,Wide Playmaker
+22,Nico Leao,LW,Liverpool,South Korea,Premier League,Winger
+23,Son Kvaratskhelia,LW,Manchester United,Brazil,Premier League,Winger
+24,Khvicha Zaha,LW,Athletic Club,Japan,La Liga,Inside Forward
+25,Kaoru Gakpo,LW,Monaco,Georgia,Ligue 1,Wide Playmaker
+26,Mykhailo Mitoma,LW,Aston Villa,England,Premier League,Wide Playmaker
+27,Kingsley Mitoma,LW,Manchester United,Argentina,Premier League,Winger
+28,Rafael Mudryk,LW,Real Betis,Ivory Coast,La Liga,Winger
+29,Alejandro Barnes,LW,Real Madrid,Japan,La Liga,Winger
+30,Mykhailo Mitoma,LW,Marseille,Belgium,Ligue 1,Winger
+31,Son Mbappe,LW,Bayern Munich,Georgia,Bundesliga,Wide Playmaker
+32,Vinicius Heung-min,LW,Juventus,France,Serie A,Wide Playmaker
+33,Gabriel Junior,LW,Brest,Spain,Ligue 1,Wide Playmaker
+34,Ansu Mbappe,LW,RB Leipzig,Germany,Bundesliga,Winger
+35,Kingsley Zaha,LW,Lazio,South Korea,Serie A,Inside Forward
+36,Jack Doku,LW,Lazio,Argentina,Serie A,Winger
+37,Cody Garnacho,LW,Brighton,Ivory Coast,Premier League,Winger
+38,Jadon Martinelli,LW,Lazio,Netherlands,Serie A,Inside Forward
+39,Jadon Martinelli,LW,Manchester United,France,Premier League,Inside Forward
+40,Cody Barnes,LW,Real Betis,Argentina,La Liga,Inside Forward
+41,Jadon Kvaratskhelia,LW,Arsenal,Colombia,Premier League,Wide Playmaker
+42,Mykhailo Sancho,LW,Stuttgart,Colombia,Bundesliga,Inside Forward
+43,Ansu Heung-min,LW,Brest,France,Ligue 1,Wide Playmaker
+44,Gabriel Junior,LW,Real Betis,South Korea,La Liga,Inside Forward
+45,Vinicius Doku,LW,PSG,Ukraine,Ligue 1,Wide Playmaker
+46,Gabriel Mudryk,LW,Chelsea,Germany,Premier League,Winger
+47,Kaoru Doku,LW,Manchester City,Netherlands,Premier League,Winger
+48,Son Coman,LW,Lyon,Brazil,Ligue 1,Wide Playmaker
+49,Rafael Rashford,LW,Real Sociedad,Brazil,La Liga,Wide Playmaker
+50,Cody Heung-min,LW,Monaco,Colombia,Ligue 1,Inside Forward
+51,Mykhailo Fati,LW,Tottenham,France,Premier League,Inside Forward
+52,Cody Barnes,LW,Brest,Portugal,Ligue 1,Wide Playmaker
+53,Nico Rashford,LW,AC Milan,Argentina,Serie A,Wide Playmaker
+54,Kylian Coman,LW,Dortmund,Portugal,Bundesliga,Winger
+55,Jadon Rashford,LW,AC Milan,Portugal,Serie A,Winger
+56,Jack Coman,LW,Dortmund,Brazil,Bundesliga,Winger
+57,Jack Diaz,LW,Girona,France,La Liga,Inside Forward
+58,Luis Coman,LW,Aston Villa,Colombia,Premier League,Winger
+59,Harvey Sancho,LW,Manchester City,Ivory Coast,Premier League,Winger
+60,Vinicius Martinelli,LW,Real Madrid,England,La Liga,Inside Forward
+61,Marcus Zaha,LW,Brest,Georgia,Ligue 1,Winger
+62,Rafael Williams,LW,RB Leipzig,Ukraine,Bundesliga,Inside Forward
+63,Kingsley Doku,LW,Napoli,Germany,Serie A,Inside Forward
+64,Kingsley Williams,LW,Dortmund,South Korea,Bundesliga,Inside Forward
+65,Kingsley Mbappe,LW,AC Milan,France,Serie A,Winger
+66,Cody Heung-min,LW,Monaco,Brazil,Ligue 1,Inside Forward
+67,Jeremy Diaz,LW,Valencia,France,La Liga,Winger
+68,Marcus Garnacho,LW,Napoli,Argentina,Serie A,Winger
+69,Ansu Leao,LW,Nice,England,Ligue 1,Winger
+70,Ansu Kvaratskhelia,LW,Valencia,Germany,La Liga,Winger
+71,Ansu Gakpo,LW,Brighton,Brazil,Premier League,Inside Forward
+72,Kaoru Williams,LW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+73,Marcus Junior,LW,Inter Milan,Brazil,Serie A,Winger
+74,Harvey Gakpo,LW,Napoli,Ukraine,Serie A,Inside Forward
+75,Son Kvaratskhelia,LW,Bayer Leverkusen,England,Bundesliga,Wide Playmaker
+76,Ansu Gakpo,LW,Napoli,South Korea,Serie A,Inside Forward
+77,Cody Grealish,LW,Valencia,Germany,La Liga,Inside Forward
+78,Jadon Garnacho,LW,RB Leipzig,Germany,Bundesliga,Inside Forward
+79,Harvey Kvaratskhelia,LW,PSG,South Korea,Ligue 1,Wide Playmaker
+80,Ansu Leao,LW,Bayer Leverkusen,Ukraine,Bundesliga,Wide Playmaker
+81,Harvey Heung-min,LW,Bologna,South Korea,Serie A,Inside Forward
+82,Kingsley Coman,LW,West Ham,Ukraine,Premier League,Inside Forward
+83,Vinicius Garnacho,LW,Bayern Munich,Colombia,Bundesliga,Wide Playmaker
+84,Gabriel Sancho,LW,Newcastle,Spain,Premier League,Winger
+85,Wilfried Mbappe,LW,Bayern Munich,South Korea,Bundesliga,Winger
+86,Khvicha Junior,LW,Dortmund,Netherlands,Bundesliga,Wide Playmaker
+87,Jack Junior,LW,Dortmund,Ukraine,Bundesliga,Wide Playmaker
+88,Jack Grealish,LW,PSG,Ivory Coast,Ligue 1,Inside Forward
+89,Kaoru Leao,LW,Valencia,Ivory Coast,La Liga,Wide Playmaker
+90,Jeremy Zaha,LW,Marseille,Portugal,Ligue 1,Winger
+91,Mykhailo Rashford,LW,Atletico Madrid,England,La Liga,Winger
+92,Kingsley Martinelli,LW,Brest,Belgium,Ligue 1,Winger
+93,Son Garnacho,LW,PSG,Belgium,Ligue 1,Inside Forward
+94,Cody Mitoma,LW,Newcastle,Ukraine,Premier League,Winger
+95,Rafael Garnacho,LW,Real Betis,France,La Liga,Winger
+96,Kaoru Rashford,LW,Brest,Germany,Ligue 1,Winger
+97,Alejandro Leao,LW,Bayer Leverkusen,Colombia,Bundesliga,Wide Playmaker
+98,Jeremy Grealish,LW,Nice,Argentina,Ligue 1,Inside Forward
+99,Marcus Martinelli,LW,Atletico Madrid,Argentina,La Liga,Inside Forward
+100,Marcus Garnacho,LW,Napoli,South Korea,Serie A,Inside Forward
+101,Kaoru Mbappe,LW,PSG,Georgia,Ligue 1,Winger
+102,Alejandro Mudryk,LW,AS Roma,Colombia,Serie A,Inside Forward
+103,Mykhailo Mbappe,LW,Lille,Brazil,Ligue 1,Winger
+104,Nico Coman,LW,Aston Villa,Ukraine,Premier League,Winger
+105,Harvey Sancho,LW,Bayern Munich,Belgium,Bundesliga,Wide Playmaker
+106,Kingsley Mudryk,LW,AC Milan,Colombia,Serie A,Wide Playmaker
+107,Jack Mitoma,LW,Bayer Leverkusen,Belgium,Bundesliga,Wide Playmaker
+108,Kingsley Martinelli,LW,Lille,Ukraine,Ligue 1,Inside Forward
+109,Mykhailo Junior,LW,AC Milan,Georgia,Serie A,Winger
+110,Luis Rashford,LW,Girona,South Korea,La Liga,Wide Playmaker
+111,Son Sancho,LW,Atletico Madrid,Belgium,La Liga,Wide Playmaker
+112,Marcus Fati,LW,Bologna,South Korea,Serie A,Inside Forward
+113,Son Martinelli,LW,Dortmund,Argentina,Bundesliga,Winger
+114,Mykhailo Coman,LW,PSG,Argentina,Ligue 1,Inside Forward
+115,Rafael Gakpo,LW,PSG,England,Ligue 1,Inside Forward
+116,Gabriel Heung-min,LW,Bayer Leverkusen,Spain,Bundesliga,Winger
+117,Gabriel Mitoma,LW,Atletico Madrid,Brazil,La Liga,Inside Forward
+118,Marcus Coman,LW,Inter Milan,England,Serie A,Wide Playmaker
+119,Khvicha Fati,LW,Arsenal,Netherlands,Premier League,Wide Playmaker
+120,Marcus Martinelli,LW,PSG,Ukraine,Ligue 1,Wide Playmaker
+121,Nico Barnes,LW,Tottenham,Georgia,Premier League,Wide Playmaker
+122,Kylian Martinelli,LW,Real Sociedad,Argentina,La Liga,Wide Playmaker
+123,Mykhailo Heung-min,LW,Juventus,Netherlands,Serie A,Inside Forward
+124,Alejandro Rashford,LW,Liverpool,Colombia,Premier League,Winger
+125,Vinicius Mitoma,LW,Tottenham,Brazil,Premier League,Wide Playmaker
+126,Marcus Kvaratskhelia,LW,Juventus,Colombia,Serie A,Wide Playmaker
+127,Vinicius Rashford,LW,Monaco,Netherlands,Ligue 1,Wide Playmaker
+128,Ansu Mbappe,LW,Juventus,Japan,Serie A,Inside Forward
+129,Mykhailo Barnes,LW,Bayer Leverkusen,Brazil,Bundesliga,Wide Playmaker
+130,Vinicius Grealish,LW,Stuttgart,Belgium,Bundesliga,Wide Playmaker
+131,Wilfried Gakpo,LW,Aston Villa,Germany,Premier League,Wide Playmaker
+132,Jadon Sancho,LW,Dortmund,Japan,Bundesliga,Winger
+133,Khvicha Kvaratskhelia,LW,Nice,Brazil,Ligue 1,Winger
+134,Marcus Mbappe,LW,Bayern Munich,Netherlands,Bundesliga,Wide Playmaker
+135,Cody Mbappe,LW,Monaco,Spain,Ligue 1,Winger
+136,Jadon Mudryk,LW,Real Sociedad,Germany,La Liga,Wide Playmaker
+137,Jack Gakpo,LW,Marseille,Spain,Ligue 1,Inside Forward
+138,Kylian Grealish,LW,Monaco,Belgium,Ligue 1,Wide Playmaker
+139,Alejandro Rashford,LW,Bayer Leverkusen,Ukraine,Bundesliga,Winger
+140,Alejandro Barnes,LW,Lazio,England,Serie A,Inside Forward
+141,Jadon Barnes,LW,Bayer Leverkusen,Japan,Bundesliga,Winger
+142,Khvicha Garnacho,LW,Arsenal,Colombia,Premier League,Wide Playmaker
+143,Jeremy Barnes,LW,PSG,Ivory Coast,Ligue 1,Wide Playmaker
+144,Cody Leao,LW,Frankfurt,Germany,Bundesliga,Inside Forward
+145,Jack Mbappe,LW,Brest,Georgia,Ligue 1,Wide Playmaker
+146,Mykhailo Diaz,LW,Real Madrid,Brazil,La Liga,Wide Playmaker
+147,Kylian Coman,LW,Newcastle,England,Premier League,Wide Playmaker
+148,Kingsley Sancho,LW,Bayern Munich,Japan,Bundesliga,Inside Forward
+149,Nico Doku,LW,AC Milan,Ukraine,Serie A,Wide Playmaker
+150,Rafael Zaha,LW,Valencia,Belgium,La Liga,Inside Forward
+151,Khvicha Heung-min,LW,Girona,France,La Liga,Inside Forward
+152,Jeremy Gakpo,LW,Real Sociedad,Ivory Coast,La Liga,Winger
+153,Alejandro Leao,LW,Nice,Ukraine,Ligue 1,Wide Playmaker
+154,Vinicius Gakpo,LW,PSG,Colombia,Ligue 1,Wide Playmaker
+155,Jack Grealish,LW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+156,Harvey Zaha,LW,Inter Milan,Belgium,Serie A,Inside Forward
+157,Jeremy Williams,LW,Real Sociedad,Netherlands,La Liga,Wide Playmaker
+158,Kaoru Diaz,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+159,Jeremy Garnacho,LW,Bayern Munich,Colombia,Bundesliga,Wide Playmaker
+160,Gabriel Junior,LW,Lyon,Ivory Coast,Ligue 1,Winger
+161,Cody Barnes,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+162,Nico Junior,LW,Bologna,Argentina,Serie A,Inside Forward
+163,Cody Mitoma,LW,Atletico Madrid,France,La Liga,Inside Forward
+164,Jadon Mudryk,LW,Stuttgart,Germany,Bundesliga,Wide Playmaker
+165,Jeremy Williams,LW,Bayer Leverkusen,Japan,Bundesliga,Winger
+166,Ansu Coman,LW,Athletic Club,Belgium,La Liga,Wide Playmaker
+167,Jeremy Kvaratskhelia,LW,Tottenham,Argentina,Premier League,Wide Playmaker
+168,Rafael Mitoma,LW,Lyon,Georgia,Ligue 1,Inside Forward
+169,Cody Rashford,LW,Manchester City,South Korea,Premier League,Inside Forward
+170,Cody Gakpo,LW,Bayern Munich,Ukraine,Bundesliga,Inside Forward
+171,Khvicha Garnacho,LW,AS Roma,England,Serie A,Wide Playmaker
+172,Jack Doku,LW,Newcastle,Germany,Premier League,Wide Playmaker
+173,Jeremy Gakpo,LW,Frankfurt,Spain,Bundesliga,Inside Forward
+174,Wilfried Junior,LW,Dortmund,Netherlands,Bundesliga,Winger
+175,Mykhailo Fati,LW,Arsenal,Ivory Coast,Premier League,Wide Playmaker
+176,Kylian Zaha,LW,Lyon,Brazil,Ligue 1,Inside Forward
+177,Jeremy Diaz,LW,Nice,Germany,Ligue 1,Wide Playmaker
+178,Khvicha Williams,LW,Athletic Club,Belgium,La Liga,Wide Playmaker
+179,Harvey Barnes,LW,RB Leipzig,Ivory Coast,Bundesliga,Inside Forward
+180,Son Doku,LW,Monaco,Germany,Ligue 1,Wide Playmaker
+181,Harvey Williams,LW,Bologna,Germany,Serie A,Wide Playmaker
+182,Vinicius Mitoma,LW,PSG,Colombia,Ligue 1,Wide Playmaker
+183,Marcus Kvaratskhelia,LW,Lazio,Argentina,Serie A,Inside Forward
+184,Jack Mbappe,LW,Juventus,Ivory Coast,Serie A,Winger
+185,Ansu Kvaratskhelia,LW,Real Madrid,Netherlands,La Liga,Winger
+186,Nico Williams,LW,Marseille,South Korea,Ligue 1,Winger
+187,Jack Grealish,LW,RB Leipzig,South Korea,Bundesliga,Wide Playmaker
+188,Jadon Mbappe,LW,PSG,France,Ligue 1,Wide Playmaker
+189,Alejandro Fati,LW,Lazio,South Korea,Serie A,Inside Forward
+190,Kylian Williams,LW,Atletico Madrid,Belgium,La Liga,Winger
+191,Harvey Heung-min,LW,Dortmund,Portugal,Bundesliga,Wide Playmaker
+192,Mykhailo Coman,LW,Monaco,Japan,Ligue 1,Inside Forward
+193,Khvicha Rashford,LW,Atletico Madrid,Georgia,La Liga,Wide Playmaker
+194,Ansu Heung-min,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+195,Gabriel Grealish,LW,Atletico Madrid,Georgia,La Liga,Winger
+196,Ansu Barnes,LW,Napoli,Georgia,Serie A,Wide Playmaker
+197,Kylian Gakpo,LW,Marseille,Netherlands,Ligue 1,Wide Playmaker
+198,Ansu Garnacho,LW,Chelsea,Brazil,Premier League,Inside Forward
+199,Marcus Zaha,LW,Marseille,Colombia,Ligue 1,Winger
+200,Kaoru Leao,LW,Juventus,Netherlands,Serie A,Wide Playmaker
+201,Jack Martinelli,LW,Frankfurt,South Korea,Bundesliga,Inside Forward
+202,Gabriel Diaz,LW,Real Madrid,Belgium,La Liga,Wide Playmaker
+203,Marcus Martinelli,LW,RB Leipzig,Belgium,Bundesliga,Wide Playmaker
+204,Khvicha Sancho,LW,Stuttgart,Japan,Bundesliga,Inside Forward
+205,Harvey Zaha,LW,AS Roma,Georgia,Serie A,Wide Playmaker
+206,Wilfried Mitoma,LW,Dortmund,Colombia,Bundesliga,Wide Playmaker
+207,Gabriel Martinelli,LW,Athletic Club,England,La Liga,Wide Playmaker
+208,Alejandro Grealish,LW,Frankfurt,Japan,Bundesliga,Winger
+209,Luis Rashford,LW,RB Leipzig,Portugal,Bundesliga,Inside Forward
+210,Wilfried Junior,LW,Bologna,Ivory Coast,Serie A,Wide Playmaker
+211,Wilfried Doku,LW,AC Milan,Portugal,Serie A,Inside Forward
+212,Wilfried Sancho,LW,Real Madrid,Germany,La Liga,Inside Forward
+213,Kylian Mbappe,LW,Brest,Portugal,Ligue 1,Wide Playmaker
+214,Harvey Martinelli,LW,Atalanta,Germany,Serie A,Inside Forward
+215,Luis Mitoma,LW,Inter Milan,Japan,Serie A,Wide Playmaker
+216,Khvicha Coman,LW,Real Betis,Argentina,La Liga,Wide Playmaker
+217,Kylian Gakpo,LW,PSG,Portugal,Ligue 1,Wide Playmaker
+218,Kaoru Williams,LW,Bologna,England,Serie A,Wide Playmaker
+219,Harvey Leao,LW,Nice,Belgium,Ligue 1,Wide Playmaker
+220,Nico Kvaratskhelia,LW,Atletico Madrid,Argentina,La Liga,Winger
+221,Jeremy Gakpo,LW,Girona,Portugal,La Liga,Wide Playmaker
+222,Jeremy Williams,LW,Real Betis,Ukraine,La Liga,Inside Forward
+223,Wilfried Mitoma,LW,Lille,South Korea,Ligue 1,Winger
+224,Khvicha Mudryk,LW,Bayern Munich,Portugal,Bundesliga,Wide Playmaker
+225,Khvicha Mudryk,LW,Atletico Madrid,Ukraine,La Liga,Winger
+226,Jadon Sancho,LW,Atletico Madrid,Ivory Coast,La Liga,Inside Forward
+227,Ansu Grealish,LW,Real Sociedad,Germany,La Liga,Winger
+228,Harvey Gakpo,LW,Stuttgart,South Korea,Bundesliga,Inside Forward
+229,Gabriel Coman,LW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+230,Kingsley Martinelli,LW,Lyon,Spain,Ligue 1,Wide Playmaker
+231,Jeremy Mbappe,LW,Arsenal,Ukraine,Premier League,Wide Playmaker
+232,Alejandro Sancho,LW,AC Milan,Brazil,Serie A,Wide Playmaker
+233,Mykhailo Grealish,LW,AC Milan,Netherlands,Serie A,Inside Forward
+234,Vinicius Williams,LW,Nice,Japan,Ligue 1,Winger
+235,Jack Fati,LW,Bayer Leverkusen,Portugal,Bundesliga,Winger
+236,Wilfried Barnes,LW,Brest,Spain,Ligue 1,Winger
+237,Ansu Zaha,LW,Nice,Belgium,Ligue 1,Wide Playmaker
+238,Mykhailo Mudryk,LW,Juventus,Germany,Serie A,Inside Forward
+239,Nico Coman,LW,Monaco,Netherlands,Ligue 1,Winger
+240,Kaoru Heung-min,LW,Athletic Club,Ukraine,La Liga,Wide Playmaker
+241,Mykhailo Coman,LW,Atalanta,South Korea,Serie A,Wide Playmaker
+242,Jadon Sancho,LW,Frankfurt,Spain,Bundesliga,Inside Forward
+243,Vinicius Heung-min,LW,Lazio,England,Serie A,Wide Playmaker
+244,Rafael Grealish,LW,Lille,Netherlands,Ligue 1,Winger
+245,Luis Martinelli,LW,Real Betis,France,La Liga,Inside Forward
+246,Kylian Junior,LW,Real Betis,Argentina,La Liga,Wide Playmaker
+247,Kaoru Rashford,LW,Aston Villa,Ukraine,Premier League,Wide Playmaker
+248,Kylian Rashford,LW,Barcelona,Ivory Coast,La Liga,Wide Playmaker
+249,Rafael Mbappe,LW,Inter Milan,Brazil,Serie A,Inside Forward
+250,Kingsley Leao,LW,AC Milan,Brazil,Serie A,Wide Playmaker
+251,Alejandro Barnes,LW,Barcelona,Ukraine,La Liga,Winger
+252,Jeremy Sancho,LW,Brest,Brazil,Ligue 1,Wide Playmaker
+253,Vinicius Mbappe,LW,Bologna,Germany,Serie A,Winger
+254,Khvicha Mbappe,LW,Inter Milan,South Korea,Serie A,Inside Forward
+255,Kingsley Mbappe,LW,Marseille,Japan,Ligue 1,Inside Forward
+256,Vinicius Barnes,LW,Atletico Madrid,Germany,La Liga,Winger
+257,Vinicius Diaz,LW,Nice,South Korea,Ligue 1,Wide Playmaker
+258,Ansu Gakpo,LW,Valencia,Brazil,La Liga,Wide Playmaker
+259,Cody Junior,LW,Brest,Spain,Ligue 1,Wide Playmaker
+260,Jadon Heung-min,LW,Real Betis,Spain,La Liga,Winger
+261,Khvicha Martinelli,LW,Real Sociedad,Portugal,La Liga,Wide Playmaker
+262,Kylian Heung-min,LW,Real Madrid,Japan,La Liga,Inside Forward
+263,Wilfried Garnacho,LW,Brest,Spain,Ligue 1,Winger
+264,Nico Mudryk,LW,Manchester City,Spain,Premier League,Wide Playmaker
+265,Nico Garnacho,LW,Monaco,South Korea,Ligue 1,Winger
+266,Vinicius Garnacho,LW,Liverpool,England,Premier League,Inside Forward
+267,Mykhailo Sancho,LW,Liverpool,Georgia,Premier League,Winger
+268,Gabriel Martinelli,LW,Athletic Club,Ukraine,La Liga,Winger
+269,Jeremy Gakpo,LW,Bologna,Ukraine,Serie A,Winger
+270,Wilfried Coman,LW,Bayer Leverkusen,South Korea,Bundesliga,Wide Playmaker
+271,Mykhailo Mbappe,LW,Stuttgart,Belgium,Bundesliga,Wide Playmaker
+272,Jeremy Zaha,LW,Real Madrid,Georgia,La Liga,Winger
+273,Kingsley Martinelli,LW,Frankfurt,Georgia,Bundesliga,Wide Playmaker
+274,Jack Leao,LW,Frankfurt,Ukraine,Bundesliga,Wide Playmaker
+275,Cody Garnacho,LW,Manchester City,France,Premier League,Wide Playmaker
+276,Gabriel Rashford,LW,RB Leipzig,Argentina,Bundesliga,Winger
+277,Jeremy Barnes,LW,Dortmund,Ivory Coast,Bundesliga,Wide Playmaker
+278,Luis Coman,LW,Lyon,Netherlands,Ligue 1,Winger
+279,Jeremy Kvaratskhelia,LW,Newcastle,Portugal,Premier League,Winger
+280,Vinicius Williams,LW,Lyon,Germany,Ligue 1,Inside Forward
+281,Jack Rashford,LW,Stuttgart,Ivory Coast,Bundesliga,Wide Playmaker
+282,Rafael Coman,LW,Bologna,Spain,Serie A,Winger
+283,Mykhailo Barnes,LW,Inter Milan,Portugal,Serie A,Inside Forward
+284,Mykhailo Kvaratskhelia,LW,Barcelona,South Korea,La Liga,Wide Playmaker
+285,Khvicha Junior,LW,Newcastle,Brazil,Premier League,Winger
+286,Jeremy Kvaratskhelia,LW,Liverpool,Colombia,Premier League,Inside Forward
+287,Cody Sancho,LW,Manchester United,England,Premier League,Wide Playmaker
+288,Kingsley Sancho,LW,RB Leipzig,Germany,Bundesliga,Inside Forward
+289,Jeremy Kvaratskhelia,LW,Atalanta,Argentina,Serie A,Inside Forward
+290,Khvicha Garnacho,LW,Athletic Club,Georgia,La Liga,Wide Playmaker
+291,Harvey Heung-min,LW,RB Leipzig,Germany,Bundesliga,Winger
+292,Kylian Doku,LW,Dortmund,South Korea,Bundesliga,Inside Forward
+293,Ansu Junior,LW,Bayern Munich,South Korea,Bundesliga,Wide Playmaker
+294,Alejandro Grealish,LW,Aston Villa,South Korea,Premier League,Winger
+295,Kaoru Zaha,LW,Real Madrid,South Korea,La Liga,Inside Forward
+296,Harvey Coman,LW,AC Milan,Netherlands,Serie A,Winger
+297,Cody Junior,LW,Aston Villa,Germany,Premier League,Inside Forward
+298,Kingsley Diaz,LW,Juventus,Brazil,Serie A,Inside Forward
+299,Cody Leao,LW,Chelsea,South Korea,Premier League,Wide Playmaker
+300,Marcus Mudryk,LW,Lazio,Georgia,Serie A,Winger
+301,Mykhailo Kvaratskhelia,LW,Monaco,South Korea,Ligue 1,Winger
+302,Rafael Zaha,LW,Manchester United,Japan,Premier League,Inside Forward
+303,Vinicius Rashford,LW,Stuttgart,Ukraine,Bundesliga,Winger
+304,Harvey Coman,LW,Bayern Munich,Netherlands,Bundesliga,Inside Forward
+305,Khvicha Mudryk,LW,Atalanta,France,Serie A,Inside Forward
+306,Vinicius Coman,LW,Dortmund,Japan,Bundesliga,Inside Forward
+307,Son Martinelli,LW,Stuttgart,Netherlands,Bundesliga,Wide Playmaker
+308,Marcus Williams,LW,Tottenham,Portugal,Premier League,Inside Forward
+309,Jadon Garnacho,LW,PSG,Portugal,Ligue 1,Inside Forward
+310,Kingsley Garnacho,LW,Tottenham,Spain,Premier League,Wide Playmaker
+311,Nico Grealish,LW,AS Roma,Spain,Serie A,Inside Forward
+312,Son Grealish,LW,Athletic Club,Netherlands,La Liga,Wide Playmaker
+313,Luis Fati,LW,Inter Milan,Brazil,Serie A,Winger
+314,Ansu Martinelli,LW,Juventus,Ukraine,Serie A,Inside Forward
+315,Marcus Mitoma,LW,Brighton,South Korea,Premier League,Wide Playmaker
+316,Kaoru Garnacho,LW,Real Betis,Belgium,La Liga,Winger
+317,Jadon Gakpo,LW,Barcelona,South Korea,La Liga,Winger
+318,Jeremy Grealish,LW,Stuttgart,Portugal,Bundesliga,Winger
+319,Alejandro Junior,LW,AC Milan,Ukraine,Serie A,Winger
+320,Ansu Sancho,LW,Marseille,Japan,Ligue 1,Inside Forward
+321,Kylian Mudryk,LW,Dortmund,Spain,Bundesliga,Wide Playmaker
+322,Luis Barnes,LW,Napoli,England,Serie A,Winger
+323,Kingsley Williams,LW,Stuttgart,Ukraine,Bundesliga,Winger
+324,Rafael Barnes,LW,Marseille,Japan,Ligue 1,Winger
+325,Cody Martinelli,LW,Marseille,France,Ligue 1,Inside Forward
+326,Kingsley Mitoma,LW,Brighton,France,Premier League,Winger
+327,Alejandro Mudryk,LW,Real Sociedad,Japan,La Liga,Wide Playmaker
+328,Kylian Fati,LW,RB Leipzig,Germany,Bundesliga,Wide Playmaker
+329,Wilfried Leao,LW,Juventus,Portugal,Serie A,Wide Playmaker
+330,Gabriel Mudryk,LW,Arsenal,South Korea,Premier League,Inside Forward
+331,Vinicius Garnacho,LW,Bayer Leverkusen,Belgium,Bundesliga,Wide Playmaker
+332,Kylian Sancho,LW,Manchester United,Ivory Coast,Premier League,Inside Forward
+333,Gabriel Barnes,LW,Napoli,Portugal,Serie A,Winger
+334,Cody Kvaratskhelia,LW,Real Madrid,Germany,La Liga,Wide Playmaker
+335,Jack Mitoma,LW,Monaco,Portugal,Ligue 1,Winger
+336,Alejandro Mudryk,LW,Marseille,Germany,Ligue 1,Inside Forward
+337,Rafael Mudryk,LW,Girona,Germany,La Liga,Winger
+338,Son Garnacho,LW,Girona,England,La Liga,Wide Playmaker
+339,Jadon Martinelli,LW,Juventus,Colombia,Serie A,Inside Forward
+340,Marcus Heung-min,LW,Brest,South Korea,Ligue 1,Wide Playmaker
+341,Khvicha Diaz,LW,Barcelona,France,La Liga,Winger
+342,Alejandro Garnacho,LW,Manchester City,South Korea,Premier League,Wide Playmaker
+343,Wilfried Sancho,LW,Atalanta,Portugal,Serie A,Inside Forward
+344,Harvey Barnes,LW,PSG,Belgium,Ligue 1,Wide Playmaker
+345,Kylian Diaz,LW,Athletic Club,Spain,La Liga,Wide Playmaker
+346,Mykhailo Mbappe,LW,Juventus,Georgia,Serie A,Inside Forward
+347,Harvey Leao,LW,Stuttgart,Japan,Bundesliga,Wide Playmaker
+348,Gabriel Mbappe,LW,Girona,South Korea,La Liga,Wide Playmaker
+349,Mykhailo Coman,LW,PSG,Georgia,Ligue 1,Inside Forward
+350,Jack Sancho,LW,Valencia,Netherlands,La Liga,Winger
+351,Marcus Doku,LW,Manchester City,Netherlands,Premier League,Inside Forward
+352,Kylian Doku,LW,Lille,England,Ligue 1,Winger
+353,Nico Leao,LW,Bayer Leverkusen,Ivory Coast,Bundesliga,Inside Forward
+354,Jack Martinelli,LW,Inter Milan,Spain,Serie A,Winger
+355,Marcus Zaha,LW,Marseille,Argentina,Ligue 1,Inside Forward
+356,Kingsley Garnacho,LW,Atalanta,Spain,Serie A,Winger
+357,Jeremy Williams,LW,PSG,France,Ligue 1,Winger
+358,Mykhailo Diaz,LW,Athletic Club,Ivory Coast,La Liga,Winger
+359,Wilfried Sancho,LW,Frankfurt,Japan,Bundesliga,Inside Forward
+360,Gabriel Rashford,LW,Lyon,Belgium,Ligue 1,Inside Forward
+361,Wilfried Sancho,LW,Bayer Leverkusen,France,Bundesliga,Winger
+362,Kylian Gakpo,LW,AS Roma,Argentina,Serie A,Inside Forward
+363,Harvey Junior,LW,Girona,South Korea,La Liga,Wide Playmaker
+364,Jack Heung-min,LW,Manchester City,Spain,Premier League,Inside Forward
+365,Mykhailo Gakpo,LW,Valencia,England,La Liga,Wide Playmaker
+366,Gabriel Coman,LW,RB Leipzig,France,Bundesliga,Wide Playmaker
+367,Ansu Doku,LW,AC Milan,Argentina,Serie A,Inside Forward
+368,Wilfried Garnacho,LW,Atalanta,Belgium,Serie A,Inside Forward
+369,Jack Williams,LW,AC Milan,Ukraine,Serie A,Wide Playmaker
+370,Nico Zaha,LW,Bayer Leverkusen,Colombia,Bundesliga,Winger
+371,Alejandro Mudryk,LW,Marseille,Spain,Ligue 1,Inside Forward
+372,Luis Fati,LW,Arsenal,England,Premier League,Wide Playmaker
+373,Gabriel Junior,LW,Atalanta,Spain,Serie A,Wide Playmaker
+374,Ansu Junior,LW,Brest,Argentina,Ligue 1,Inside Forward
+375,Vinicius Rashford,LW,RB Leipzig,Spain,Bundesliga,Inside Forward
+376,Jack Doku,LW,RB Leipzig,Japan,Bundesliga,Wide Playmaker
+377,Vinicius Heung-min,LW,Tottenham,Ukraine,Premier League,Wide Playmaker
+378,Marcus Zaha,LW,PSG,Ivory Coast,Ligue 1,Winger
+379,Son Rashford,LW,Real Madrid,Japan,La Liga,Winger
+380,Jack Zaha,LW,PSG,Portugal,Ligue 1,Inside Forward
+381,Gabriel Kvaratskhelia,LW,Lille,Argentina,Ligue 1,Wide Playmaker
+382,Khvicha Fati,LW,Frankfurt,Colombia,Bundesliga,Wide Playmaker
+383,Luis Kvaratskhelia,LW,Barcelona,Belgium,La Liga,Inside Forward
+384,Khvicha Mitoma,LW,Bologna,Japan,Serie A,Winger
+385,Rafael Coman,LW,Lille,Belgium,Ligue 1,Wide Playmaker
+386,Alejandro Doku,LW,Tottenham,Japan,Premier League,Winger
+387,Kylian Barnes,LW,PSG,Ivory Coast,Ligue 1,Winger
+388,Marcus Mbappe,LW,Frankfurt,Japan,Bundesliga,Wide Playmaker
+389,Jadon Zaha,LW,Manchester United,South Korea,Premier League,Inside Forward
+390,Nico Fati,LW,Tottenham,Portugal,Premier League,Wide Playmaker
+391,Harvey Barnes,LW,AS Roma,Argentina,Serie A,Wide Playmaker
+392,Alejandro Mbappe,LW,Frankfurt,Japan,Bundesliga,Wide Playmaker
+393,Kingsley Martinelli,LW,Bologna,England,Serie A,Winger
+394,Luis Barnes,LW,Frankfurt,Georgia,Bundesliga,Winger
+395,Marcus Mitoma,LW,Nice,Ivory Coast,Ligue 1,Inside Forward
+396,Alejandro Fati,LW,Barcelona,Argentina,La Liga,Wide Playmaker
+397,Wilfried Leao,LW,Manchester City,Colombia,Premier League,Winger
+398,Luis Doku,LW,Juventus,Ukraine,Serie A,Wide Playmaker
+399,Alejandro Leao,LW,Liverpool,Spain,Premier League,Wide Playmaker
+400,Kylian Garnacho,LW,Napoli,Belgium,Serie A,Wide Playmaker
+401,Kingsley Coman,LW,Chelsea,Argentina,Premier League,Winger
+402,Mykhailo Leao,LW,Lyon,Belgium,Ligue 1,Wide Playmaker
+403,Jeremy Fati,LW,Aston Villa,Portugal,Premier League,Wide Playmaker
+404,Kaoru Mudryk,LW,Aston Villa,Ivory Coast,Premier League,Inside Forward
+405,Ansu Barnes,LW,Barcelona,Georgia,La Liga,Wide Playmaker
+406,Kaoru Junior,LW,Lyon,Argentina,Ligue 1,Inside Forward
+407,Wilfried Leao,LW,Tottenham,Ukraine,Premier League,Winger
+408,Alejandro Heung-min,LW,Juventus,South Korea,Serie A,Wide Playmaker
+409,Gabriel Sancho,LW,Real Betis,Spain,La Liga,Inside Forward
+410,Jadon Barnes,LW,Arsenal,France,Premier League,Inside Forward
+411,Harvey Heung-min,LW,Lazio,Ukraine,Serie A,Winger
+412,Kaoru Grealish,LW,Liverpool,South Korea,Premier League,Inside Forward
+413,Kingsley Barnes,LW,Arsenal,South Korea,Premier League,Inside Forward
+414,Kaoru Heung-min,LW,Tottenham,France,Premier League,Wide Playmaker
+415,Khvicha Junior,LW,Stuttgart,France,Bundesliga,Inside Forward
+416,Kingsley Mitoma,LW,Bayern Munich,Germany,Bundesliga,Wide Playmaker
+417,Nico Kvaratskhelia,LW,AS Roma,Japan,Serie A,Wide Playmaker
+418,Ansu Grealish,LW,Inter Milan,France,Serie A,Inside Forward
+419,Gabriel Sancho,LW,Lyon,South Korea,Ligue 1,Inside Forward
+420,Luis Gakpo,LW,Lyon,Germany,Ligue 1,Wide Playmaker
+421,Alejandro Diaz,LW,West Ham,Colombia,Premier League,Inside Forward
+422,Ansu Martinelli,LW,Stuttgart,Argentina,Bundesliga,Wide Playmaker
+423,Vinicius Gakpo,LW,Manchester United,Colombia,Premier League,Inside Forward
+424,Kaoru Zaha,LW,Bayern Munich,Georgia,Bundesliga,Winger
+425,Jack Grealish,LW,Bayer Leverkusen,Ukraine,Bundesliga,Wide Playmaker
+426,Gabriel Kvaratskhelia,LW,Brest,Brazil,Ligue 1,Wide Playmaker
+427,Rafael Heung-min,LW,West Ham,Colombia,Premier League,Winger
+428,Alejandro Williams,LW,Napoli,Germany,Serie A,Wide Playmaker
+429,Jack Sancho,LW,Lille,Germany,Ligue 1,Wide Playmaker
+430,Khvicha Doku,LW,Atalanta,Belgium,Serie A,Wide Playmaker
+431,Khvicha Mbappe,LW,Manchester United,Netherlands,Premier League,Wide Playmaker
+432,Harvey Heung-min,LW,Napoli,Spain,Serie A,Wide Playmaker
+433,Harvey Sancho,LW,Bologna,Ukraine,Serie A,Inside Forward
+434,Kylian Garnacho,LW,Napoli,Spain,Serie A,Winger
+435,Nico Martinelli,LW,Nice,Portugal,Ligue 1,Winger
+436,Ansu Fati,LW,Lyon,Spain,Ligue 1,Winger
+437,Marcus Mudryk,LW,Juventus,Argentina,Serie A,Inside Forward
+438,Gabriel Gakpo,LW,Nice,South Korea,Ligue 1,Winger
+439,Son Grealish,LW,AC Milan,Ukraine,Serie A,Wide Playmaker
+440,Wilfried Martinelli,LW,Monaco,Argentina,Ligue 1,Wide Playmaker
+441,Wilfried Grealish,LW,Athletic Club,Georgia,La Liga,Inside Forward
+442,Jack Sancho,LW,Bologna,Colombia,Serie A,Wide Playmaker
+443,Gabriel Garnacho,LW,Napoli,Georgia,Serie A,Inside Forward
+444,Rafael Sancho,LW,Atalanta,Colombia,Serie A,Wide Playmaker
+445,Kylian Kvaratskhelia,LW,Lyon,Japan,Ligue 1,Inside Forward
+446,Luis Junior,LW,AS Roma,England,Serie A,Winger
+447,Jadon Junior,LW,Girona,Belgium,La Liga,Winger
+448,Cody Coman,LW,Girona,Ivory Coast,La Liga,Winger
+449,Gabriel Garnacho,LW,AC Milan,Colombia,Serie A,Inside Forward
+450,Gabriel Kvaratskhelia,LW,Athletic Club,Germany,La Liga,Inside Forward
+451,Alejandro Rashford,LW,Nice,Georgia,Ligue 1,Winger
+452,Jack Leao,LW,Lazio,England,Serie A,Winger
+453,Alejandro Mbappe,LW,RB Leipzig,Netherlands,Bundesliga,Wide Playmaker
+454,Son Rashford,LW,Monaco,Netherlands,Ligue 1,Inside Forward
+455,Wilfried Leao,LW,Frankfurt,Argentina,Bundesliga,Wide Playmaker
+456,Wilfried Rashford,LW,Dortmund,Spain,Bundesliga,Inside Forward
+457,Mykhailo Sancho,LW,Juventus,Japan,Serie A,Winger
+458,Jack Mbappe,LW,Juventus,Portugal,Serie A,Inside Forward
+459,Kingsley Sancho,LW,West Ham,Brazil,Premier League,Inside Forward
+460,Kingsley Sancho,LW,Lazio,Argentina,Serie A,Winger
+461,Cody Garnacho,LW,Nice,England,Ligue 1,Wide Playmaker
+462,Luis Zaha,LW,Atletico Madrid,Germany,La Liga,Winger
+463,Marcus Mbappe,LW,AS Roma,Colombia,Serie A,Inside Forward
+464,Kaoru Grealish,LW,Barcelona,Japan,La Liga,Inside Forward
+465,Jeremy Diaz,LW,Lyon,Netherlands,Ligue 1,Inside Forward
+466,Kylian Grealish,LW,Monaco,England,Ligue 1,Winger
+467,Rafael Garnacho,LW,RB Leipzig,Brazil,Bundesliga,Wide Playmaker
+468,Jadon Rashford,LW,AS Roma,Belgium,Serie A,Wide Playmaker
+469,Cody Kvaratskhelia,LW,PSG,Georgia,Ligue 1,Inside Forward
+470,Vinicius Mbappe,LW,Bayer Leverkusen,England,Bundesliga,Inside Forward
+471,Khvicha Mbappe,LW,Lille,Portugal,Ligue 1,Wide Playmaker
+472,Mykhailo Fati,LW,Atalanta,Netherlands,Serie A,Wide Playmaker
+473,Jadon Leao,LW,Lyon,Spain,Ligue 1,Wide Playmaker
+474,Jack Barnes,LW,Bayern Munich,Spain,Bundesliga,Wide Playmaker
+475,Rafael Garnacho,LW,Aston Villa,Germany,Premier League,Winger
+476,Son Junior,LW,Real Madrid,Brazil,La Liga,Inside Forward
+477,Jadon Garnacho,LW,Arsenal,Belgium,Premier League,Wide Playmaker
+478,Kylian Mudryk,LW,Dortmund,Ivory Coast,Bundesliga,Winger
+479,Jadon Doku,LW,Inter Milan,South Korea,Serie A,Inside Forward
+480,Jack Heung-min,LW,Bologna,Argentina,Serie A,Inside Forward
+481,Alejandro Garnacho,LW,Atalanta,Argentina,Serie A,Inside Forward
+482,Luis Martinelli,LW,PSG,Brazil,Ligue 1,Wide Playmaker
+483,Cody Grealish,LW,Juventus,South Korea,Serie A,Inside Forward
+484,Marcus Grealish,LW,Newcastle,Ivory Coast,Premier League,Inside Forward
+485,Vinicius Mbappe,LW,Bologna,France,Serie A,Inside Forward
+486,Nico Coman,LW,Bayern Munich,Spain,Bundesliga,Inside Forward
+487,Ansu Sancho,LW,Bologna,Georgia,Serie A,Wide Playmaker
+488,Kylian Zaha,LW,Brighton,England,Premier League,Winger
+489,Harvey Mbappe,LW,PSG,Japan,Ligue 1,Wide Playmaker
+490,Kaoru Kvaratskhelia,LW,Brighton,Colombia,Premier League,Winger
+491,Jadon Mbappe,LW,Aston Villa,Ukraine,Premier League,Inside Forward
+492,Jadon Gakpo,LW,Aston Villa,Japan,Premier League,Inside Forward
+493,Gabriel Williams,LW,Manchester City,Argentina,Premier League,Inside Forward
+494,Kingsley Mudryk,LW,Napoli,Ukraine,Serie A,Winger
+495,Mykhailo Sancho,LW,Barcelona,Germany,La Liga,Inside Forward
+496,Jack Doku,LW,Marseille,Georgia,Ligue 1,Inside Forward
+497,Jack Mitoma,LW,AC Milan,France,Serie A,Winger
+498,Harvey Martinelli,LW,West Ham,Japan,Premier League,Inside Forward
+499,Vinicius Coman,LW,PSG,Japan,Ligue 1,Wide Playmaker
+500,Harvey Zaha,LW,RB Leipzig,England,Bundesliga,Wide Playmaker
+501,Gabriel Junior,LW,AS Roma,South Korea,Serie A,Inside Forward
+502,Kylian Rashford,LW,Tottenham,Ivory Coast,Premier League,Winger
+503,Gabriel Martinelli,LW,Nice,Argentina,Ligue 1,Winger
+504,Marcus Heung-min,LW,Brest,Colombia,Ligue 1,Inside Forward
+505,Harvey Heung-min,LW,Arsenal,Brazil,Premier League,Inside Forward
+506,Son Zaha,LW,Stuttgart,Argentina,Bundesliga,Inside Forward
+507,Gabriel Garnacho,LW,Bayern Munich,Georgia,Bundesliga,Wide Playmaker
+508,Rafael Gakpo,LW,Bayer Leverkusen,Argentina,Bundesliga,Winger
+509,Kylian Rashford,LW,Valencia,Portugal,La Liga,Winger
+510,Marcus Barnes,LW,Inter Milan,Georgia,Serie A,Inside Forward
+511,Cody Heung-min,LW,West Ham,Argentina,Premier League,Winger
+512,Luis Rashford,LW,Monaco,Spain,Ligue 1,Winger
+513,Wilfried Junior,LW,Real Sociedad,England,La Liga,Inside Forward
+514,Vinicius Kvaratskhelia,LW,Liverpool,Georgia,Premier League,Inside Forward
+515,Kingsley Garnacho,LW,Bologna,Argentina,Serie A,Winger
+516,Marcus Gakpo,LW,Liverpool,Spain,Premier League,Inside Forward
+517,Jack Sancho,LW,Brighton,Netherlands,Premier League,Wide Playmaker
+518,Rafael Williams,LW,Brest,Brazil,Ligue 1,Wide Playmaker
+519,Jadon Gakpo,LW,RB Leipzig,Germany,Bundesliga,Inside Forward
+520,Kingsley Mbappe,LW,Stuttgart,Colombia,Bundesliga,Winger
+521,Luis Diaz,LW,Manchester United,Netherlands,Premier League,Wide Playmaker
+522,Harvey Martinelli,LW,Real Betis,England,La Liga,Wide Playmaker
+523,Harvey Martinelli,LW,RB Leipzig,France,Bundesliga,Winger
+524,Ansu Gakpo,LW,Marseille,Germany,Ligue 1,Wide Playmaker
+525,Jadon Mudryk,LW,Atletico Madrid,Portugal,La Liga,Winger
+526,Son Williams,LW,RB Leipzig,Georgia,Bundesliga,Winger
+527,Jadon Leao,LW,Dortmund,Japan,Bundesliga,Winger
+528,Wilfried Heung-min,LW,Nice,Belgium,Ligue 1,Wide Playmaker
+529,Gabriel Diaz,LW,Brest,South Korea,Ligue 1,Inside Forward
+530,Marcus Sancho,LW,Atletico Madrid,Ukraine,La Liga,Winger
+531,Vinicius Heung-min,LW,Manchester City,Spain,Premier League,Inside Forward
+532,Son Diaz,LW,Marseille,Portugal,Ligue 1,Wide Playmaker
+533,Harvey Barnes,LW,AC Milan,Brazil,Serie A,Winger
+534,Mykhailo Sancho,LW,Inter Milan,Portugal,Serie A,Inside Forward
+535,Kaoru Coman,LW,Atalanta,Georgia,Serie A,Wide Playmaker
+536,Nico Doku,LW,Bayer Leverkusen,Ivory Coast,Bundesliga,Wide Playmaker
+537,Vinicius Barnes,LW,Real Betis,Germany,La Liga,Inside Forward
+538,Marcus Zaha,LW,Frankfurt,Portugal,Bundesliga,Winger
+539,Marcus Diaz,LW,Barcelona,Portugal,La Liga,Inside Forward
+540,Khvicha Fati,LW,Real Madrid,Argentina,La Liga,Winger
+541,Jadon Coman,LW,Marseille,Portugal,Ligue 1,Wide Playmaker
+542,Rafael Diaz,LW,PSG,Japan,Ligue 1,Wide Playmaker
+543,Marcus Fati,LW,Chelsea,Ukraine,Premier League,Winger
+544,Gabriel Zaha,LW,Chelsea,England,Premier League,Wide Playmaker
+545,Jeremy Gakpo,LW,Brighton,England,Premier League,Winger
+546,Jadon Williams,LW,AC Milan,Spain,Serie A,Inside Forward
+547,Luis Mudryk,LW,Frankfurt,Argentina,Bundesliga,Inside Forward
+548,Khvicha Barnes,LW,Tottenham,Ukraine,Premier League,Inside Forward
+549,Cody Junior,LW,Marseille,South Korea,Ligue 1,Inside Forward
+550,Kylian Coman,LW,Lyon,Germany,Ligue 1,Inside Forward
+551,Kaoru Rashford,LW,Valencia,Ukraine,La Liga,Inside Forward
+552,Rafael Junior,LW,Brest,Brazil,Ligue 1,Inside Forward
+553,Marcus Barnes,LW,Napoli,Germany,Serie A,Inside Forward
+554,Jadon Kvaratskhelia,LW,Girona,England,La Liga,Wide Playmaker
+555,Luis Kvaratskhelia,LW,Aston Villa,Belgium,Premier League,Winger
+556,Wilfried Gakpo,LW,AS Roma,Germany,Serie A,Winger
+557,Luis Zaha,LW,Real Sociedad,Spain,La Liga,Winger
+558,Jadon Garnacho,LW,Athletic Club,Georgia,La Liga,Inside Forward
+559,Wilfried Grealish,LW,RB Leipzig,Germany,Bundesliga,Winger
+560,Ansu Doku,LW,PSG,Ivory Coast,Ligue 1,Winger
+561,Jeremy Rashford,LW,Bayern Munich,Germany,Bundesliga,Wide Playmaker
+562,Wilfried Doku,LW,Bayern Munich,Brazil,Bundesliga,Winger
+563,Harvey Gakpo,LW,Real Betis,Portugal,La Liga,Wide Playmaker
+564,Alejandro Kvaratskhelia,LW,PSG,Colombia,Ligue 1,Inside Forward
+565,Luis Heung-min,LW,Brest,South Korea,Ligue 1,Inside Forward
+566,Kylian Sancho,LW,Napoli,South Korea,Serie A,Inside Forward
+567,Gabriel Sancho,LW,RB Leipzig,France,Bundesliga,Inside Forward
+568,Kaoru Grealish,LW,Real Betis,Ivory Coast,La Liga,Wide Playmaker
+569,Vinicius Mudryk,LW,Atletico Madrid,Colombia,La Liga,Winger
+570,Gabriel Grealish,LW,Lille,Brazil,Ligue 1,Wide Playmaker
+571,Harvey Grealish,LW,Liverpool,Portugal,Premier League,Winger
+572,Khvicha Leao,LW,Newcastle,Ivory Coast,Premier League,Winger
+573,Marcus Garnacho,LW,Athletic Club,Spain,La Liga,Inside Forward
+574,Son Gakpo,LW,Manchester City,Germany,Premier League,Winger
+575,Harvey Kvaratskhelia,LW,Girona,Brazil,La Liga,Inside Forward
+576,Nico Williams,LW,Atletico Madrid,Ukraine,La Liga,Wide Playmaker
+577,Gabriel Leao,LW,Real Betis,Ivory Coast,La Liga,Inside Forward
+578,Jeremy Rashford,LW,Dortmund,Brazil,Bundesliga,Winger
+579,Marcus Kvaratskhelia,LW,Napoli,Brazil,Serie A,Wide Playmaker
+580,Ansu Mbappe,LW,Barcelona,Brazil,La Liga,Winger
+581,Nico Mbappe,LW,Barcelona,Netherlands,La Liga,Inside Forward
+582,Rafael Williams,LW,Real Madrid,Argentina,La Liga,Inside Forward
+583,Kaoru Heung-min,LW,Bologna,Portugal,Serie A,Winger
+584,Ansu Mudryk,LW,Brest,France,Ligue 1,Wide Playmaker
+585,Rafael Mbappe,LW,Manchester United,Germany,Premier League,Inside Forward
+586,Alejandro Junior,LW,Lyon,Belgium,Ligue 1,Winger
+587,Jeremy Mitoma,LW,PSG,Brazil,Ligue 1,Wide Playmaker
+588,Alejandro Gakpo,LW,AS Roma,Georgia,Serie A,Inside Forward
+589,Wilfried Junior,LW,Lazio,France,Serie A,Winger
+590,Gabriel Grealish,LW,Frankfurt,Ukraine,Bundesliga,Winger
+591,Wilfried Zaha,LW,Barcelona,Spain,La Liga,Winger
+592,Cody Junior,LW,Lyon,South Korea,Ligue 1,Inside Forward
+593,Mykhailo Doku,LW,Napoli,Spain,Serie A,Wide Playmaker
+594,Son Garnacho,LW,Valencia,France,La Liga,Wide Playmaker
+595,Jeremy Fati,LW,Arsenal,Spain,Premier League,Winger
+596,Kylian Williams,LW,Lille,Ukraine,Ligue 1,Inside Forward
+597,Jeremy Rashford,LW,Real Madrid,Spain,La Liga,Winger
+598,Kylian Junior,LW,Bayer Leverkusen,Germany,Bundesliga,Inside Forward
+599,Wilfried Mbappe,LW,Stuttgart,Georgia,Bundesliga,Winger
+600,Jeremy Fati,LW,PSG,Ivory Coast,Ligue 1,Inside Forward
+601,Wilfried Diaz,LW,Lyon,Argentina,Ligue 1,Wide Playmaker
+602,Harvey Williams,LW,Bayern Munich,Netherlands,Bundesliga,Winger
+603,Mykhailo Fati,LW,Athletic Club,Georgia,La Liga,Inside Forward
+604,Kylian Junior,LW,AS Roma,Ukraine,Serie A,Wide Playmaker
+605,Nico Junior,LW,Marseille,South Korea,Ligue 1,Wide Playmaker
+606,Harvey Kvaratskhelia,LW,RB Leipzig,South Korea,Bundesliga,Inside Forward
+607,Gabriel Sancho,LW,Inter Milan,Portugal,Serie A,Inside Forward
+608,Mykhailo Doku,LW,Arsenal,Colombia,Premier League,Inside Forward
+609,Cody Grealish,LW,Nice,Belgium,Ligue 1,Inside Forward
+610,Ansu Gakpo,LW,Brighton,Ivory Coast,Premier League,Wide Playmaker
+611,Nico Garnacho,LW,Stuttgart,South Korea,Bundesliga,Wide Playmaker
+612,Marcus Mitoma,LW,Bayern Munich,Belgium,Bundesliga,Wide Playmaker
+613,Khvicha Mudryk,LW,AS Roma,France,Serie A,Inside Forward
+614,Alejandro Doku,LW,Juventus,Georgia,Serie A,Winger
+615,Wilfried Fati,LW,Marseille,Belgium,Ligue 1,Wide Playmaker
+616,Rafael Fati,LW,RB Leipzig,Colombia,Bundesliga,Wide Playmaker
+617,Marcus Fati,LW,Napoli,Portugal,Serie A,Inside Forward
+618,Jadon Coman,LW,Nice,Japan,Ligue 1,Inside Forward
+619,Nico Diaz,LW,Nice,Colombia,Ligue 1,Winger
+620,Son Williams,LW,Chelsea,Spain,Premier League,Inside Forward
+621,Alejandro Williams,LW,Bayer Leverkusen,Portugal,Bundesliga,Winger
+622,Kaoru Garnacho,LW,Juventus,Colombia,Serie A,Wide Playmaker
+623,Kaoru Rashford,LW,Real Betis,Ivory Coast,La Liga,Wide Playmaker
+624,Wilfried Martinelli,LW,Real Madrid,England,La Liga,Inside Forward
+625,Kaoru Sancho,LW,Real Betis,Brazil,La Liga,Winger
+626,Alejandro Gakpo,LW,Girona,England,La Liga,Wide Playmaker
+627,Nico Grealish,LW,RB Leipzig,Ivory Coast,Bundesliga,Inside Forward
+628,Harvey Fati,LW,Lazio,England,Serie A,Inside Forward
+629,Ansu Leao,LW,Inter Milan,Japan,Serie A,Wide Playmaker
+630,Cody Grealish,LW,Atletico Madrid,Ivory Coast,La Liga,Wide Playmaker
+631,Harvey Fati,LW,Valencia,Argentina,La Liga,Winger
+632,Kingsley Barnes,LW,Atalanta,Portugal,Serie A,Wide Playmaker
+633,Ansu Gakpo,LW,Bayern Munich,Netherlands,Bundesliga,Wide Playmaker
+634,Mykhailo Zaha,LW,RB Leipzig,Georgia,Bundesliga,Wide Playmaker
+635,Kylian Junior,LW,Lille,Brazil,Ligue 1,Wide Playmaker
+636,Gabriel Gakpo,LW,Inter Milan,Germany,Serie A,Winger
+637,Kaoru Gakpo,LW,Newcastle,Georgia,Premier League,Inside Forward
+638,Mykhailo Fati,LW,Bayern Munich,Japan,Bundesliga,Winger
+639,Khvicha Junior,LW,Stuttgart,Brazil,Bundesliga,Winger
+640,Wilfried Diaz,LW,Lazio,Ukraine,Serie A,Winger
+641,Harvey Grealish,LW,Valencia,South Korea,La Liga,Winger
+642,Jeremy Diaz,LW,AC Milan,Japan,Serie A,Wide Playmaker
+643,Cody Coman,LW,Brighton,Ukraine,Premier League,Wide Playmaker
+644,Vinicius Martinelli,LW,Stuttgart,Colombia,Bundesliga,Inside Forward
+645,Luis Leao,LW,Real Betis,Japan,La Liga,Winger
+646,Rafael Mbappe,LW,Barcelona,Portugal,La Liga,Winger
+647,Ansu Mitoma,LW,Brighton,Brazil,Premier League,Wide Playmaker
+648,Kaoru Sancho,LW,AC Milan,Belgium,Serie A,Inside Forward
+649,Ansu Mitoma,LW,Atalanta,Brazil,Serie A,Wide Playmaker
+650,Kaoru Garnacho,LW,Manchester City,Japan,Premier League,Winger
+651,Rafael Junior,LW,Brest,France,Ligue 1,Winger
+652,Jadon Rashford,LW,Marseille,Spain,Ligue 1,Winger
+653,Rafael Mitoma,LW,Athletic Club,England,La Liga,Wide Playmaker
+654,Rafael Mudryk,LW,Bayern Munich,Belgium,Bundesliga,Inside Forward
+655,Mykhailo Garnacho,LW,Brest,Netherlands,Ligue 1,Inside Forward
+656,Gabriel Gakpo,LW,Bayern Munich,Netherlands,Bundesliga,Inside Forward
+657,Marcus Fati,LW,Stuttgart,Ivory Coast,Bundesliga,Wide Playmaker
+658,Alejandro Martinelli,LW,Stuttgart,Georgia,Bundesliga,Winger
+659,Luis Garnacho,LW,Frankfurt,Spain,Bundesliga,Inside Forward
+660,Cody Barnes,LW,Athletic Club,Germany,La Liga,Wide Playmaker
+661,Wilfried Sancho,LW,Bologna,Argentina,Serie A,Inside Forward
+662,Vinicius Doku,LW,Lille,South Korea,Ligue 1,Inside Forward
+663,Jadon Grealish,LW,Aston Villa,England,Premier League,Wide Playmaker
+664,Alejandro Barnes,LW,AS Roma,Japan,Serie A,Winger
+665,Harvey Heung-min,LW,Juventus,Colombia,Serie A,Winger
+666,Jeremy Mitoma,LW,Lyon,Ukraine,Ligue 1,Winger
+667,Cody Rashford,LW,Real Sociedad,South Korea,La Liga,Inside Forward
+668,Nico Heung-min,LW,Juventus,France,Serie A,Wide Playmaker
+669,Marcus Mbappe,LW,Bayer Leverkusen,Germany,Bundesliga,Wide Playmaker
+670,Mykhailo Doku,LW,Girona,Netherlands,La Liga,Winger
+671,Kaoru Sancho,LW,AS Roma,Ivory Coast,Serie A,Inside Forward
+672,Vinicius Heung-min,LW,Real Betis,South Korea,La Liga,Winger
+673,Vinicius Garnacho,LW,RB Leipzig,Japan,Bundesliga,Winger
+674,Alejandro Mbappe,LW,Real Sociedad,Portugal,La Liga,Inside Forward
+675,Son Williams,LW,Napoli,South Korea,Serie A,Inside Forward
+676,Kaoru Grealish,LW,PSG,Japan,Ligue 1,Inside Forward
+677,Harvey Mudryk,LW,Liverpool,South Korea,Premier League,Inside Forward
+678,Nico Coman,LW,Stuttgart,South Korea,Bundesliga,Inside Forward
+679,Khvicha Rashford,LW,Chelsea,Japan,Premier League,Inside Forward
+680,Kaoru Junior,LW,PSG,Spain,Ligue 1,Wide Playmaker
+681,Ansu Zaha,LW,Atalanta,Ukraine,Serie A,Wide Playmaker
+682,Ansu Grealish,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+683,Khvicha Heung-min,LW,Atletico Madrid,Spain,La Liga,Wide Playmaker
+684,Gabriel Rashford,LW,Lyon,Portugal,Ligue 1,Inside Forward
+685,Ansu Doku,LW,AC Milan,Portugal,Serie A,Winger
+686,Kingsley Coman,LW,Stuttgart,Japan,Bundesliga,Wide Playmaker
+687,Ansu Garnacho,LW,Frankfurt,Ukraine,Bundesliga,Inside Forward
+688,Luis Mitoma,LW,Marseille,South Korea,Ligue 1,Wide Playmaker
+689,Wilfried Mitoma,LW,AC Milan,Belgium,Serie A,Winger
+690,Vinicius Martinelli,LW,Bayer Leverkusen,Spain,Bundesliga,Wide Playmaker
+691,Nico Mbappe,LW,Brest,South Korea,Ligue 1,Winger
+692,Wilfried Mitoma,LW,Monaco,Belgium,Ligue 1,Winger
+693,Gabriel Coman,LW,Dortmund,Netherlands,Bundesliga,Wide Playmaker
+694,Jadon Diaz,LW,Bologna,Argentina,Serie A,Inside Forward
+695,Harvey Grealish,LW,Newcastle,Portugal,Premier League,Inside Forward
+696,Gabriel Martinelli,LW,Aston Villa,South Korea,Premier League,Inside Forward
+697,Cody Zaha,LW,Aston Villa,Argentina,Premier League,Wide Playmaker
+698,Marcus Sancho,LW,Dortmund,Georgia,Bundesliga,Wide Playmaker
+699,Luis Fati,LW,Real Betis,England,La Liga,Wide Playmaker
+700,Kylian Heung-min,LW,Aston Villa,Belgium,Premier League,Wide Playmaker
+701,Son Rashford,LW,Nice,Ivory Coast,Ligue 1,Winger
+702,Mykhailo Barnes,LW,Brest,Japan,Ligue 1,Wide Playmaker
+703,Vinicius Doku,LW,Manchester United,Spain,Premier League,Inside Forward
+704,Cody Leao,LW,Stuttgart,Spain,Bundesliga,Winger
+705,Harvey Mbappe,LW,Frankfurt,Colombia,Bundesliga,Winger
+706,Son Barnes,LW,Aston Villa,Germany,Premier League,Wide Playmaker
+707,Vinicius Kvaratskhelia,LW,Valencia,England,La Liga,Inside Forward
+708,Mykhailo Mudryk,LW,West Ham,England,Premier League,Inside Forward
+709,Rafael Mbappe,LW,Athletic Club,Germany,La Liga,Inside Forward
+710,Jadon Mudryk,LW,Frankfurt,Netherlands,Bundesliga,Wide Playmaker
+711,Mykhailo Mudryk,LW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+712,Son Coman,LW,Bayern Munich,Spain,Bundesliga,Wide Playmaker
+713,Vinicius Fati,LW,Juventus,Ukraine,Serie A,Winger
+714,Nico Diaz,LW,Arsenal,South Korea,Premier League,Winger
+715,Marcus Junior,LW,Monaco,Netherlands,Ligue 1,Winger
+716,Vinicius Diaz,LW,Dortmund,Georgia,Bundesliga,Wide Playmaker
+717,Jack Zaha,LW,Dortmund,Colombia,Bundesliga,Wide Playmaker
+718,Jack Junior,LW,Lyon,Georgia,Ligue 1,Winger
+719,Vinicius Kvaratskhelia,LW,Brest,Spain,Ligue 1,Wide Playmaker
+720,Luis Mudryk,LW,Monaco,Ukraine,Ligue 1,Wide Playmaker
+721,Gabriel Mbappe,LW,PSG,France,Ligue 1,Inside Forward
+722,Vinicius Williams,LW,Chelsea,Spain,Premier League,Inside Forward
+723,Marcus Garnacho,LW,AC Milan,Japan,Serie A,Winger
+724,Vinicius Doku,LW,AC Milan,England,Serie A,Wide Playmaker
+725,Rafael Barnes,LW,Bayern Munich,Argentina,Bundesliga,Wide Playmaker
+726,Kaoru Mbappe,LW,AS Roma,Netherlands,Serie A,Inside Forward
+727,Jeremy Williams,LW,Frankfurt,Netherlands,Bundesliga,Inside Forward
+728,Marcus Barnes,LW,Real Betis,Argentina,La Liga,Winger
+729,Kingsley Grealish,LW,Lazio,Brazil,Serie A,Wide Playmaker
+730,Son Diaz,LW,Inter Milan,South Korea,Serie A,Inside Forward
+731,Kylian Diaz,LW,Lille,Ivory Coast,Ligue 1,Winger
+732,Kaoru Grealish,LW,Tottenham,Colombia,Premier League,Wide Playmaker
+733,Ansu Mitoma,LW,Bayer Leverkusen,Belgium,Bundesliga,Winger
+734,Jeremy Mudryk,LW,Arsenal,Spain,Premier League,Winger
+735,Luis Mbappe,LW,Lazio,Georgia,Serie A,Inside Forward
+736,Luis Zaha,LW,Real Betis,Colombia,La Liga,Winger
+737,Cody Fati,LW,Barcelona,Georgia,La Liga,Winger
+738,Jadon Zaha,LW,Atletico Madrid,Japan,La Liga,Wide Playmaker
+739,Wilfried Fati,LW,Frankfurt,Spain,Bundesliga,Winger
+740,Kaoru Williams,LW,Marseille,Colombia,Ligue 1,Wide Playmaker
+741,Ansu Grealish,LW,Liverpool,Japan,Premier League,Inside Forward
+742,Vinicius Williams,LW,Valencia,South Korea,La Liga,Wide Playmaker
+743,Son Mbappe,LW,Nice,South Korea,Ligue 1,Inside Forward
+744,Kaoru Mbappe,LW,Aston Villa,Netherlands,Premier League,Winger
+745,Gabriel Williams,LW,Real Betis,Belgium,La Liga,Inside Forward
+746,Son Leao,LW,Marseille,England,Ligue 1,Inside Forward
+747,Jeremy Kvaratskhelia,LW,Arsenal,Germany,Premier League,Winger
+748,Jack Junior,LW,Manchester United,Ukraine,Premier League,Wide Playmaker
+749,Jack Doku,LW,Lille,Portugal,Ligue 1,Inside Forward
+750,Gabriel Grealish,LW,Bologna,Belgium,Serie A,Winger
+751,Wilfried Doku,LW,Real Sociedad,South Korea,La Liga,Winger
+752,Marcus Diaz,LW,Inter Milan,Brazil,Serie A,Winger
+753,Cody Grealish,LW,Atletico Madrid,Ivory Coast,La Liga,Winger
+754,Jack Williams,LW,Newcastle,Georgia,Premier League,Wide Playmaker
+755,Alejandro Sancho,LW,Barcelona,Spain,La Liga,Winger
+756,Gabriel Doku,LW,Dortmund,Japan,Bundesliga,Wide Playmaker
+757,Kylian Fati,LW,Atletico Madrid,Netherlands,La Liga,Winger
+758,Wilfried Junior,LW,Valencia,Belgium,La Liga,Wide Playmaker
+759,Nico Gakpo,LW,Athletic Club,Brazil,La Liga,Winger
+760,Marcus Mitoma,LW,Chelsea,Portugal,Premier League,Wide Playmaker
+761,Khvicha Garnacho,LW,Brest,Germany,Ligue 1,Winger
+762,Gabriel Heung-min,LW,Brest,Colombia,Ligue 1,Inside Forward
+763,Jadon Diaz,LW,Juventus,Argentina,Serie A,Inside Forward
+764,Son Heung-min,LW,Valencia,Colombia,La Liga,Inside Forward
+765,Kaoru Zaha,LW,Liverpool,Colombia,Premier League,Wide Playmaker
+766,Jadon Grealish,LW,Newcastle,France,Premier League,Winger
+767,Son Zaha,LW,Lazio,Ivory Coast,Serie A,Inside Forward
+768,Marcus Leao,LW,Chelsea,Brazil,Premier League,Inside Forward
+769,Rafael Grealish,LW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+770,Jeremy Heung-min,LW,AC Milan,Argentina,Serie A,Inside Forward
+771,Alejandro Sancho,LW,Girona,Argentina,La Liga,Wide Playmaker
+772,Rafael Kvaratskhelia,LW,Girona,Germany,La Liga,Wide Playmaker
+773,Ansu Junior,LW,Real Betis,France,La Liga,Winger
+774,Gabriel Fati,LW,West Ham,England,Premier League,Winger
+775,Vinicius Grealish,LW,Tottenham,Ukraine,Premier League,Inside Forward
+776,Cody Barnes,LW,Juventus,Germany,Serie A,Inside Forward
+777,Alejandro Zaha,LW,Real Sociedad,Spain,La Liga,Inside Forward
+778,Jadon Mitoma,LW,Chelsea,Argentina,Premier League,Inside Forward
+779,Marcus Barnes,LW,Juventus,Netherlands,Serie A,Wide Playmaker
+780,Harvey Williams,LW,Inter Milan,Ivory Coast,Serie A,Inside Forward
+781,Kaoru Diaz,LW,Brest,Germany,Ligue 1,Winger
+782,Luis Heung-min,LW,Atalanta,Germany,Serie A,Winger
+783,Wilfried Williams,LW,Bologna,England,Serie A,Wide Playmaker
+784,Mykhailo Coman,LW,Arsenal,Netherlands,Premier League,Inside Forward
+785,Luis Mbappe,LW,Dortmund,Colombia,Bundesliga,Inside Forward
+786,Kaoru Zaha,LW,Liverpool,Netherlands,Premier League,Winger
+787,Marcus Garnacho,LW,Marseille,Colombia,Ligue 1,Wide Playmaker
+788,Kaoru Martinelli,LW,Manchester United,Japan,Premier League,Wide Playmaker
+789,Jack Mbappe,LW,Bayer Leverkusen,France,Bundesliga,Inside Forward
+790,Kingsley Sancho,LW,Atalanta,Colombia,Serie A,Wide Playmaker
+791,Ansu Grealish,LW,Girona,Colombia,La Liga,Winger
+792,Wilfried Kvaratskhelia,LW,Lazio,France,Serie A,Wide Playmaker
+793,Rafael Mudryk,LW,Nice,Argentina,Ligue 1,Wide Playmaker
+794,Kaoru Diaz,LW,AS Roma,Georgia,Serie A,Wide Playmaker
+795,Kingsley Kvaratskhelia,LW,Inter Milan,Netherlands,Serie A,Wide Playmaker
+796,Vinicius Mudryk,LW,Atalanta,South Korea,Serie A,Wide Playmaker
+797,Kaoru Martinelli,LW,Monaco,Belgium,Ligue 1,Winger
+798,Nico Mitoma,LW,PSG,South Korea,Ligue 1,Inside Forward
+799,Alejandro Williams,LW,Athletic Club,Portugal,La Liga,Winger
+800,Rafael Grealish,LW,Napoli,Georgia,Serie A,Winger
+801,Gabriel Junior,LW,Inter Milan,England,Serie A,Winger
+802,Wilfried Rashford,LW,Newcastle,England,Premier League,Winger
+803,Wilfried Barnes,LW,Real Betis,Portugal,La Liga,Wide Playmaker
+804,Gabriel Diaz,LW,Manchester City,Brazil,Premier League,Wide Playmaker
+805,Harvey Mbappe,LW,Manchester City,Portugal,Premier League,Winger
+806,Nico Doku,LW,Dortmund,Georgia,Bundesliga,Wide Playmaker
+807,Son Garnacho,LW,Marseille,Brazil,Ligue 1,Wide Playmaker
+808,Marcus Garnacho,LW,Lille,Germany,Ligue 1,Inside Forward
+809,Harvey Coman,LW,Monaco,England,Ligue 1,Inside Forward
+810,Nico Williams,LW,Monaco,England,Ligue 1,Winger
+811,Son Gakpo,LW,Dortmund,Netherlands,Bundesliga,Inside Forward
+812,Cody Barnes,LW,Tottenham,Portugal,Premier League,Inside Forward
+813,Marcus Gakpo,LW,Bayer Leverkusen,Colombia,Bundesliga,Inside Forward
+814,Kylian Fati,LW,Lille,Netherlands,Ligue 1,Winger
+815,Son Martinelli,LW,Manchester City,Netherlands,Premier League,Wide Playmaker
+816,Jeremy Leao,LW,Manchester City,Ukraine,Premier League,Wide Playmaker
+817,Mykhailo Leao,LW,Chelsea,Ivory Coast,Premier League,Wide Playmaker
+818,Ansu Doku,LW,Napoli,South Korea,Serie A,Winger
+819,Jadon Garnacho,LW,Arsenal,Ivory Coast,Premier League,Wide Playmaker
+820,Vinicius Gakpo,LW,Real Madrid,Brazil,La Liga,Wide Playmaker
+821,Son Mitoma,LW,Lazio,Argentina,Serie A,Winger
+822,Son Coman,LW,Valencia,France,La Liga,Winger
+823,Khvicha Doku,LW,Marseille,Portugal,Ligue 1,Wide Playmaker
+824,Kylian Mitoma,LW,Girona,South Korea,La Liga,Wide Playmaker
+825,Kylian Kvaratskhelia,LW,Juventus,Colombia,Serie A,Winger
+826,Mykhailo Grealish,LW,Tottenham,Germany,Premier League,Wide Playmaker
+827,Wilfried Heung-min,LW,Manchester United,Ivory Coast,Premier League,Inside Forward
+828,Wilfried Kvaratskhelia,LW,Juventus,Spain,Serie A,Wide Playmaker
+829,Ansu Diaz,LW,Bayer Leverkusen,Spain,Bundesliga,Winger
+830,Luis Coman,LW,West Ham,South Korea,Premier League,Inside Forward
+831,Mykhailo Junior,LW,Bayern Munich,Portugal,Bundesliga,Inside Forward
+832,Mykhailo Sancho,LW,Brighton,Ivory Coast,Premier League,Winger
+833,Marcus Zaha,LW,Atalanta,Belgium,Serie A,Inside Forward
+834,Jadon Barnes,LW,AS Roma,Colombia,Serie A,Winger
+835,Khvicha Coman,LW,Chelsea,Ivory Coast,Premier League,Wide Playmaker
+836,Vinicius Leao,LW,Manchester United,Ukraine,Premier League,Winger
+837,Harvey Barnes,LW,Frankfurt,Netherlands,Bundesliga,Wide Playmaker
+838,Cody Mudryk,LW,Brest,Portugal,Ligue 1,Wide Playmaker
+839,Harvey Kvaratskhelia,LW,Marseille,Georgia,Ligue 1,Inside Forward
+840,Jadon Barnes,LW,Atletico Madrid,Germany,La Liga,Inside Forward
+841,Jadon Gakpo,LW,PSG,South Korea,Ligue 1,Winger
+842,Vinicius Rashford,LW,Atletico Madrid,France,La Liga,Winger
+843,Marcus Rashford,LW,Chelsea,Argentina,Premier League,Wide Playmaker
+844,Kaoru Rashford,LW,AS Roma,Ivory Coast,Serie A,Inside Forward
+845,Gabriel Williams,LW,Athletic Club,Argentina,La Liga,Wide Playmaker
+846,Marcus Barnes,LW,AC Milan,England,Serie A,Inside Forward
+847,Kingsley Doku,LW,AC Milan,Spain,Serie A,Inside Forward
+848,Vinicius Mitoma,LW,Tottenham,Germany,Premier League,Wide Playmaker
+849,Nico Zaha,LW,Lille,Ivory Coast,Ligue 1,Wide Playmaker
+850,Jadon Kvaratskhelia,LW,Chelsea,England,Premier League,Inside Forward
+851,Rafael Diaz,LW,AS Roma,Ivory Coast,Serie A,Wide Playmaker
+852,Alejandro Rashford,LW,Chelsea,Germany,Premier League,Winger
+853,Kylian Martinelli,LW,Chelsea,Portugal,Premier League,Wide Playmaker
+854,Gabriel Leao,LW,PSG,Netherlands,Ligue 1,Wide Playmaker
+855,Son Zaha,LW,Atletico Madrid,Argentina,La Liga,Inside Forward
+856,Rafael Garnacho,LW,Arsenal,Spain,Premier League,Inside Forward
+857,Vinicius Junior,LW,Chelsea,South Korea,Premier League,Wide Playmaker
+858,Rafael Rashford,LW,Monaco,Ukraine,Ligue 1,Wide Playmaker
+859,Wilfried Leao,LW,Girona,Netherlands,La Liga,Wide Playmaker
+860,Alejandro Mudryk,LW,West Ham,Georgia,Premier League,Wide Playmaker
+861,Mykhailo Zaha,LW,Nice,Japan,Ligue 1,Winger
+862,Ansu Diaz,LW,Real Sociedad,Belgium,La Liga,Winger
+863,Harvey Sancho,LW,Girona,Japan,La Liga,Wide Playmaker
+864,Marcus Barnes,LW,Frankfurt,Portugal,Bundesliga,Inside Forward
+865,Kaoru Kvaratskhelia,LW,Dortmund,Spain,Bundesliga,Inside Forward
+866,Kaoru Gakpo,LW,Arsenal,Spain,Premier League,Winger
+867,Khvicha Sancho,LW,Marseille,Belgium,Ligue 1,Inside Forward
+868,Jadon Mbappe,LW,Athletic Club,Germany,La Liga,Winger
+869,Vinicius Rashford,LW,Arsenal,Netherlands,Premier League,Inside Forward
+870,Jadon Williams,LW,Liverpool,Japan,Premier League,Winger
+871,Kingsley Heung-min,LW,Monaco,Argentina,Ligue 1,Wide Playmaker
+872,Kylian Junior,LW,Stuttgart,Spain,Bundesliga,Inside Forward
+873,Jack Mbappe,LW,Nice,Japan,Ligue 1,Wide Playmaker
+874,Rafael Mbappe,LW,Atalanta,Spain,Serie A,Inside Forward
+875,Jeremy Mudryk,LW,Bayern Munich,Argentina,Bundesliga,Wide Playmaker
+876,Gabriel Mbappe,LW,Monaco,South Korea,Ligue 1,Inside Forward
+877,Alejandro Mitoma,LW,Chelsea,Argentina,Premier League,Winger
+878,Jack Gakpo,LW,Dortmund,Netherlands,Bundesliga,Wide Playmaker
+879,Rafael Martinelli,LW,PSG,Argentina,Ligue 1,Inside Forward
+880,Khvicha Zaha,LW,Lazio,England,Serie A,Winger
+881,Ansu Grealish,LW,Athletic Club,Portugal,La Liga,Inside Forward
+882,Ansu Kvaratskhelia,LW,Atalanta,Ivory Coast,Serie A,Inside Forward
+883,Mykhailo Barnes,LW,Chelsea,Portugal,Premier League,Winger
+884,Jack Rashford,LW,Tottenham,Brazil,Premier League,Winger
+885,Marcus Mbappe,LW,Valencia,Colombia,La Liga,Wide Playmaker
+886,Ansu Zaha,LW,Atalanta,Belgium,Serie A,Winger
+887,Wilfried Mitoma,LW,West Ham,Spain,Premier League,Winger
+888,Luis Mitoma,LW,Dortmund,Germany,Bundesliga,Wide Playmaker
+889,Rafael Mitoma,LW,Juventus,South Korea,Serie A,Winger
+890,Kylian Leao,LW,Newcastle,Spain,Premier League,Wide Playmaker
+891,Kylian Zaha,LW,Arsenal,Ukraine,Premier League,Wide Playmaker
+892,Rafael Mitoma,LW,Inter Milan,Brazil,Serie A,Wide Playmaker
+893,Cody Grealish,LW,PSG,Colombia,Ligue 1,Inside Forward
+894,Kaoru Diaz,LW,Aston Villa,France,Premier League,Winger
+895,Alejandro Rashford,LW,AS Roma,South Korea,Serie A,Winger
+896,Kingsley Leao,LW,Girona,England,La Liga,Wide Playmaker
+897,Vinicius Doku,LW,Real Sociedad,Japan,La Liga,Inside Forward
+898,Marcus Heung-min,LW,Lille,Belgium,Ligue 1,Winger
+899,Marcus Grealish,LW,AC Milan,Brazil,Serie A,Wide Playmaker
+900,Alejandro Mudryk,LW,Manchester United,South Korea,Premier League,Inside Forward
+901,Jadon Fati,LW,RB Leipzig,Argentina,Bundesliga,Inside Forward
+902,Jadon Diaz,LW,Atletico Madrid,South Korea,La Liga,Inside Forward
+903,Nico Leao,LW,West Ham,Georgia,Premier League,Winger
+904,Cody Junior,LW,Girona,Colombia,La Liga,Inside Forward
+905,Jack Fati,LW,Atalanta,Japan,Serie A,Wide Playmaker
+906,Khvicha Coman,LW,Juventus,Ukraine,Serie A,Wide Playmaker
+907,Jack Diaz,LW,Nice,South Korea,Ligue 1,Wide Playmaker
+908,Son Mbappe,LW,Lyon,Germany,Ligue 1,Wide Playmaker
+909,Marcus Fati,LW,West Ham,Ivory Coast,Premier League,Inside Forward
+910,Kaoru Zaha,LW,Atletico Madrid,Germany,La Liga,Wide Playmaker
+911,Ansu Rashford,LW,Valencia,South Korea,La Liga,Inside Forward
+912,Son Mudryk,LW,RB Leipzig,England,Bundesliga,Winger
+913,Jack Williams,LW,Napoli,Netherlands,Serie A,Inside Forward
+914,Jeremy Leao,LW,Newcastle,Colombia,Premier League,Winger
+915,Kaoru Diaz,LW,Real Betis,Brazil,La Liga,Winger
+916,Khvicha Martinelli,LW,Real Madrid,Georgia,La Liga,Wide Playmaker
+917,Kylian Leao,LW,Inter Milan,Spain,Serie A,Inside Forward
+918,Alejandro Junior,LW,Aston Villa,Ukraine,Premier League,Winger
+919,Mykhailo Coman,LW,Bayer Leverkusen,Germany,Bundesliga,Inside Forward
+920,Alejandro Gakpo,LW,Inter Milan,France,Serie A,Inside Forward
+921,Khvicha Zaha,LW,Chelsea,South Korea,Premier League,Inside Forward
+922,Jadon Leao,LW,Marseille,South Korea,Ligue 1,Wide Playmaker
+923,Jack Gakpo,LW,Atletico Madrid,Japan,La Liga,Winger
+924,Kylian Coman,LW,Nice,Germany,Ligue 1,Inside Forward
+925,Kaoru Mudryk,LW,Brest,Belgium,Ligue 1,Inside Forward
+926,Nico Sancho,LW,RB Leipzig,Colombia,Bundesliga,Winger
+927,Mykhailo Grealish,LW,Bayern Munich,Netherlands,Bundesliga,Inside Forward
+928,Jack Gakpo,LW,Barcelona,Germany,La Liga,Inside Forward
+929,Kylian Garnacho,LW,Lille,England,Ligue 1,Wide Playmaker
+930,Marcus Kvaratskhelia,LW,Real Betis,South Korea,La Liga,Winger
+931,Wilfried Sancho,LW,Napoli,Ukraine,Serie A,Winger
+932,Ansu Garnacho,LW,Girona,England,La Liga,Inside Forward
+933,Rafael Kvaratskhelia,LW,Liverpool,South Korea,Premier League,Inside Forward
+934,Mykhailo Mitoma,LW,Atletico Madrid,Ukraine,La Liga,Wide Playmaker
+935,Vinicius Gakpo,LW,RB Leipzig,France,Bundesliga,Inside Forward
+936,Jack Williams,LW,Marseille,Argentina,Ligue 1,Inside Forward
+937,Khvicha Fati,LW,Valencia,South Korea,La Liga,Winger
+938,Vinicius Grealish,LW,Lyon,Germany,Ligue 1,Wide Playmaker
+939,Kylian Heung-min,LW,Stuttgart,England,Bundesliga,Wide Playmaker
+940,Gabriel Sancho,LW,Valencia,South Korea,La Liga,Winger
+941,Son Fati,LW,Frankfurt,Colombia,Bundesliga,Winger
+942,Wilfried Kvaratskhelia,LW,Manchester City,Ivory Coast,Premier League,Inside Forward
+943,Cody Gakpo,LW,Frankfurt,Germany,Bundesliga,Inside Forward
+944,Cody Doku,LW,Bologna,France,Serie A,Inside Forward
+945,Nico Leao,LW,PSG,Belgium,Ligue 1,Winger
+946,Kylian Mudryk,LW,Girona,Argentina,La Liga,Winger
+947,Marcus Mudryk,LW,Nice,Brazil,Ligue 1,Inside Forward
+948,Kingsley Garnacho,LW,AC Milan,Netherlands,Serie A,Winger
+949,Cody Coman,LW,Brest,Georgia,Ligue 1,Inside Forward
+950,Kingsley Mbappe,LW,West Ham,South Korea,Premier League,Winger
+951,Mykhailo Heung-min,LW,Girona,Japan,La Liga,Winger
+952,Kaoru Kvaratskhelia,LW,Real Sociedad,Germany,La Liga,Wide Playmaker
+953,Wilfried Fati,LW,Lazio,Colombia,Serie A,Winger
+954,Harvey Fati,LW,Brighton,Japan,Premier League,Winger
+955,Kaoru Gakpo,LW,Barcelona,Georgia,La Liga,Inside Forward
+956,Kaoru Mudryk,LW,Bologna,Colombia,Serie A,Wide Playmaker
+957,Kylian Coman,LW,Real Madrid,Germany,La Liga,Winger
+958,Son Junior,LW,Stuttgart,Spain,Bundesliga,Winger
+959,Rafael Grealish,LW,Bologna,Netherlands,Serie A,Inside Forward
+960,Luis Junior,LW,RB Leipzig,Colombia,Bundesliga,Wide Playmaker
+961,Kaoru Williams,LW,Frankfurt,Georgia,Bundesliga,Inside Forward
+962,Marcus Kvaratskhelia,LW,Bayer Leverkusen,Japan,Bundesliga,Wide Playmaker
+963,Rafael Coman,LW,Manchester United,France,Premier League,Winger
+964,Vinicius Diaz,LW,Brest,Brazil,Ligue 1,Winger
+965,Luis Mudryk,LW,Lazio,England,Serie A,Wide Playmaker
+966,Cody Kvaratskhelia,LW,Brest,Belgium,Ligue 1,Wide Playmaker
+967,Ansu Junior,LW,AC Milan,Ukraine,Serie A,Wide Playmaker
+968,Khvicha Zaha,LW,Lazio,Belgium,Serie A,Inside Forward
+969,Gabriel Leao,LW,Lazio,Ukraine,Serie A,Wide Playmaker
+970,Mykhailo Fati,LW,Athletic Club,South Korea,La Liga,Winger
+971,Wilfried Mitoma,LW,Dortmund,Belgium,Bundesliga,Winger
+972,Rafael Coman,LW,Real Sociedad,Belgium,La Liga,Winger
+973,Vinicius Garnacho,LW,Aston Villa,Ukraine,Premier League,Inside Forward
+974,Kingsley Doku,LW,AS Roma,Japan,Serie A,Inside Forward
+975,Rafael Junior,LW,Athletic Club,Ukraine,La Liga,Winger
+976,Gabriel Doku,LW,Chelsea,England,Premier League,Inside Forward
+977,Luis Mitoma,LW,PSG,Spain,Ligue 1,Winger
+978,Marcus Diaz,LW,Marseille,England,Ligue 1,Wide Playmaker
+979,Kingsley Zaha,LW,AC Milan,France,Serie A,Inside Forward
+980,Alejandro Barnes,LW,Bologna,Brazil,Serie A,Winger
+981,Jack Grealish,LW,Napoli,Colombia,Serie A,Inside Forward
+982,Kylian Garnacho,LW,Bologna,France,Serie A,Inside Forward
+983,Ansu Barnes,LW,Manchester City,Argentina,Premier League,Wide Playmaker
+984,Nico Fati,LW,Nice,Portugal,Ligue 1,Inside Forward
+985,Jeremy Doku,LW,Lyon,Spain,Ligue 1,Winger
+986,Gabriel Diaz,LW,Dortmund,Ivory Coast,Bundesliga,Inside Forward
+987,Rafael Mbappe,LW,Brest,France,Ligue 1,Winger
+988,Kaoru Gakpo,LW,Valencia,England,La Liga,Wide Playmaker
+989,Gabriel Leao,LW,Dortmund,Ivory Coast,Bundesliga,Wide Playmaker
+990,Alejandro Diaz,LW,AC Milan,Portugal,Serie A,Winger
+991,Jadon Barnes,LW,Bayer Leverkusen,France,Bundesliga,Inside Forward
+992,Kaoru Mitoma,LW,Lyon,Colombia,Ligue 1,Wide Playmaker
+993,Son Kvaratskhelia,LW,Arsenal,South Korea,Premier League,Inside Forward
+994,Harvey Diaz,LW,Atletico Madrid,France,La Liga,Wide Playmaker
+995,Khvicha Rashford,LW,Dortmund,Portugal,Bundesliga,Winger
+996,Kingsley Coman,LW,Brest,Brazil,Ligue 1,Inside Forward
+997,Jack Rashford,LW,Frankfurt,Spain,Bundesliga,Wide Playmaker
+998,Cody Williams,LW,Aston Villa,Netherlands,Premier League,Wide Playmaker
+999,Kingsley Mitoma,LW,Barcelona,Spain,La Liga,Wide Playmaker
+1000,Alejandro Sancho,LW,Real Sociedad,Spain,La Liga,Inside Forward
+1001,Rafael Mudryk,LW,Bayer Leverkusen,Ivory Coast,Bundesliga,Inside Forward
+1002,Rafael Martinelli,LW,Nice,Netherlands,Ligue 1,Winger
+1003,Kaoru Sancho,LW,Bologna,Colombia,Serie A,Wide Playmaker
+1004,Harvey Mudryk,LW,Valencia,Portugal,La Liga,Wide Playmaker
+1005,Luis Junior,LW,Brighton,Argentina,Premier League,Inside Forward
+1006,Kylian Junior,LW,Manchester City,Colombia,Premier League,Winger
+1007,Jack Coman,LW,Real Betis,Colombia,La Liga,Winger
+1008,Cody Junior,LW,Inter Milan,Japan,Serie A,Inside Forward
+1009,Marcus Fati,LW,Brighton,Belgium,Premier League,Winger
+1010,Alejandro Mbappe,LW,Frankfurt,Colombia,Bundesliga,Inside Forward
+1011,Vinicius Zaha,LW,Nice,Netherlands,Ligue 1,Winger
+1012,Jeremy Mudryk,LW,Real Sociedad,Portugal,La Liga,Winger
+1013,Cody Heung-min,LW,Real Sociedad,Brazil,La Liga,Inside Forward
+1014,Nico Martinelli,LW,Bologna,Georgia,Serie A,Wide Playmaker
+1015,Jack Mudryk,LW,Inter Milan,England,Serie A,Inside Forward
+1016,Khvicha Martinelli,LW,Manchester United,South Korea,Premier League,Wide Playmaker
+1017,Son Diaz,LW,Dortmund,England,Bundesliga,Inside Forward
+1018,Son Garnacho,LW,PSG,Brazil,Ligue 1,Winger
+1019,Kaoru Junior,LW,Arsenal,Georgia,Premier League,Winger
+1020,Son Diaz,LW,Frankfurt,Ukraine,Bundesliga,Inside Forward
+1021,Vinicius Fati,LW,West Ham,Japan,Premier League,Wide Playmaker
+1022,Khvicha Leao,LW,Manchester United,France,Premier League,Wide Playmaker
+1023,Khvicha Mitoma,LW,Atalanta,Spain,Serie A,Inside Forward
+1024,Vinicius Garnacho,LW,Liverpool,Portugal,Premier League,Wide Playmaker
+1025,Harvey Diaz,LW,AS Roma,Georgia,Serie A,Winger
+1026,Jack Martinelli,LW,Marseille,Argentina,Ligue 1,Inside Forward
+1027,Vinicius Barnes,LW,Tottenham,Argentina,Premier League,Inside Forward
+1028,Khvicha Diaz,LW,Real Sociedad,Georgia,La Liga,Inside Forward
+1029,Jeremy Diaz,LW,Juventus,Germany,Serie A,Wide Playmaker
+1030,Khvicha Grealish,LW,Tottenham,Spain,Premier League,Winger
+1031,Marcus Mudryk,LW,Brest,France,Ligue 1,Inside Forward
+1032,Kylian Rashford,LW,Athletic Club,Ukraine,La Liga,Wide Playmaker
+1033,Rafael Junior,LW,Brest,England,Ligue 1,Wide Playmaker
+1034,Gabriel Barnes,LW,Bayern Munich,Brazil,Bundesliga,Inside Forward
+1035,Jack Sancho,LW,Girona,Georgia,La Liga,Inside Forward
+1036,Son Martinelli,LW,Chelsea,Spain,Premier League,Winger
+1037,Kaoru Grealish,LW,Liverpool,England,Premier League,Wide Playmaker
+1038,Luis Rashford,LW,Lyon,Brazil,Ligue 1,Winger
+1039,Mykhailo Barnes,LW,Real Betis,Germany,La Liga,Winger
+1040,Jeremy Gakpo,LW,Barcelona,Argentina,La Liga,Wide Playmaker
+1041,Gabriel Garnacho,LW,AC Milan,Georgia,Serie A,Winger
+1042,Kylian Martinelli,LW,Dortmund,Germany,Bundesliga,Wide Playmaker
+1043,Jadon Martinelli,LW,PSG,Colombia,Ligue 1,Inside Forward
+1044,Mykhailo Junior,LW,Real Madrid,England,La Liga,Winger
+1045,Harvey Kvaratskhelia,LW,Valencia,Portugal,La Liga,Wide Playmaker
+1046,Vinicius Mbappe,LW,Lazio,Colombia,Serie A,Wide Playmaker
+1047,Ansu Garnacho,LW,Lyon,Ivory Coast,Ligue 1,Wide Playmaker
+1048,Jadon Zaha,LW,Tottenham,Brazil,Premier League,Wide Playmaker
+1049,Jadon Martinelli,LW,AS Roma,South Korea,Serie A,Winger
+1050,Nico Rashford,LW,Stuttgart,Portugal,Bundesliga,Winger
+1051,Rafael Coman,LW,Brest,Argentina,Ligue 1,Winger
+1052,Gabriel Zaha,LW,West Ham,Colombia,Premier League,Winger
+1053,Jadon Leao,LW,Juventus,South Korea,Serie A,Inside Forward
+1054,Son Williams,LW,Bologna,Portugal,Serie A,Wide Playmaker
+1055,Wilfried Sancho,LW,Arsenal,South Korea,Premier League,Inside Forward
+1056,Marcus Grealish,LW,Tottenham,Netherlands,Premier League,Inside Forward
+1057,Kingsley Barnes,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+1058,Gabriel Mbappe,LW,Juventus,Portugal,Serie A,Wide Playmaker
+1059,Marcus Heung-min,LW,Dortmund,South Korea,Bundesliga,Inside Forward
+1060,Alejandro Doku,LW,Bayern Munich,Colombia,Bundesliga,Inside Forward
+1061,Wilfried Garnacho,LW,Monaco,France,Ligue 1,Winger
+1062,Gabriel Doku,LW,Newcastle,Belgium,Premier League,Wide Playmaker
+1063,Vinicius Coman,LW,Stuttgart,France,Bundesliga,Inside Forward
+1064,Vinicius Doku,LW,Frankfurt,Ukraine,Bundesliga,Winger
+1065,Jadon Barnes,LW,AS Roma,Netherlands,Serie A,Wide Playmaker
+1066,Son Leao,LW,Frankfurt,South Korea,Bundesliga,Winger
+1067,Mykhailo Zaha,LW,AS Roma,Japan,Serie A,Inside Forward
+1068,Jeremy Williams,LW,Tottenham,Ivory Coast,Premier League,Inside Forward
+1069,Ansu Gakpo,LW,Inter Milan,Ivory Coast,Serie A,Winger
+1070,Kingsley Junior,LW,Juventus,Belgium,Serie A,Wide Playmaker
+1071,Cody Fati,LW,Brest,Netherlands,Ligue 1,Winger
+1072,Ansu Mudryk,LW,Lazio,Spain,Serie A,Wide Playmaker
+1073,Wilfried Leao,LW,Bayern Munich,Belgium,Bundesliga,Wide Playmaker
+1074,Gabriel Coman,LW,Bologna,Colombia,Serie A,Winger
+1075,Jack Kvaratskhelia,LW,Manchester United,England,Premier League,Winger
+1076,Khvicha Leao,LW,Atletico Madrid,Ukraine,La Liga,Winger
+1077,Nico Garnacho,LW,Manchester United,Brazil,Premier League,Winger
+1078,Kingsley Zaha,LW,Frankfurt,Argentina,Bundesliga,Inside Forward
+1079,Nico Heung-min,LW,Monaco,Brazil,Ligue 1,Winger
+1080,Wilfried Martinelli,LW,Lille,Argentina,Ligue 1,Wide Playmaker
+1081,Luis Mbappe,LW,PSG,Colombia,Ligue 1,Inside Forward
+1082,Kylian Fati,LW,Frankfurt,South Korea,Bundesliga,Wide Playmaker
+1083,Jadon Doku,LW,Lille,Georgia,Ligue 1,Inside Forward
+1084,Harvey Sancho,LW,Athletic Club,Colombia,La Liga,Wide Playmaker
+1085,Gabriel Martinelli,LW,Newcastle,Colombia,Premier League,Inside Forward
+1086,Harvey Kvaratskhelia,LW,Marseille,Belgium,Ligue 1,Inside Forward
+1087,Vinicius Williams,LW,Real Madrid,Colombia,La Liga,Inside Forward
+1088,Jack Williams,LW,Aston Villa,Georgia,Premier League,Wide Playmaker
+1089,Son Barnes,LW,Newcastle,Argentina,Premier League,Inside Forward
+1090,Nico Barnes,LW,Valencia,Georgia,La Liga,Winger
+1091,Marcus Martinelli,LW,Barcelona,France,La Liga,Winger
+1092,Rafael Gakpo,LW,Atletico Madrid,Japan,La Liga,Wide Playmaker
+1093,Luis Garnacho,LW,AS Roma,France,Serie A,Inside Forward
+1094,Luis Williams,LW,Marseille,Georgia,Ligue 1,Wide Playmaker
+1095,Rafael Martinelli,LW,Stuttgart,Ukraine,Bundesliga,Wide Playmaker
+1096,Kingsley Martinelli,LW,AS Roma,Brazil,Serie A,Winger
+1097,Mykhailo Mbappe,LW,Manchester United,Japan,Premier League,Wide Playmaker
+1098,Jeremy Gakpo,LW,PSG,Japan,Ligue 1,Inside Forward
+1099,Kingsley Sancho,LW,AC Milan,Colombia,Serie A,Inside Forward
+1100,Khvicha Fati,LW,Athletic Club,France,La Liga,Winger
+1101,Jeremy Zaha,LW,Newcastle,Colombia,Premier League,Winger
+1102,Mykhailo Mudryk,LW,RB Leipzig,Argentina,Bundesliga,Winger
+1103,Kaoru Heung-min,LW,Nice,Georgia,Ligue 1,Inside Forward
+1104,Kylian Gakpo,LW,Lille,Ivory Coast,Ligue 1,Winger
+1105,Jack Diaz,LW,Atletico Madrid,Brazil,La Liga,Inside Forward
+1106,Jadon Mudryk,LW,Frankfurt,Ukraine,Bundesliga,Wide Playmaker
+1107,Cody Junior,LW,Stuttgart,Belgium,Bundesliga,Wide Playmaker
+1108,Jadon Heung-min,LW,AS Roma,Brazil,Serie A,Inside Forward
+1109,Mykhailo Mudryk,LW,Newcastle,Argentina,Premier League,Winger
+1110,Mykhailo Leao,LW,Juventus,Georgia,Serie A,Winger
+1111,Kylian Williams,LW,Athletic Club,France,La Liga,Wide Playmaker
+1112,Cody Doku,LW,Lyon,Belgium,Ligue 1,Winger
+1113,Mykhailo Leao,LW,Brighton,Belgium,Premier League,Winger
+1114,Gabriel Gakpo,LW,Brighton,Belgium,Premier League,Winger
+1115,Nico Garnacho,LW,RB Leipzig,Germany,Bundesliga,Winger
+1116,Jeremy Garnacho,LW,PSG,Georgia,Ligue 1,Wide Playmaker
+1117,Kaoru Gakpo,LW,Newcastle,Netherlands,Premier League,Winger
+1118,Harvey Mudryk,LW,Real Betis,England,La Liga,Winger
+1119,Vinicius Coman,LW,Athletic Club,Georgia,La Liga,Winger
+1120,Wilfried Rashford,LW,Inter Milan,Brazil,Serie A,Winger
+1121,Luis Heung-min,LW,Juventus,Ivory Coast,Serie A,Wide Playmaker
+1122,Ansu Coman,LW,Monaco,Argentina,Ligue 1,Wide Playmaker
+1123,Cody Sancho,LW,Stuttgart,Spain,Bundesliga,Inside Forward
+1124,Harvey Mudryk,LW,Lazio,Spain,Serie A,Winger
+1125,Kylian Barnes,LW,Brest,Portugal,Ligue 1,Wide Playmaker
+1126,Kylian Fati,LW,Napoli,Netherlands,Serie A,Inside Forward
+1127,Nico Gakpo,LW,Manchester City,Germany,Premier League,Inside Forward
+1128,Harvey Mitoma,LW,Lille,France,Ligue 1,Winger
+1129,Khvicha Martinelli,LW,Real Madrid,England,La Liga,Inside Forward
+1130,Nico Diaz,LW,Liverpool,France,Premier League,Winger
+1131,Marcus Grealish,LW,Real Sociedad,Brazil,La Liga,Winger
+1132,Luis Leao,LW,Chelsea,Colombia,Premier League,Wide Playmaker
+1133,Son Gakpo,LW,Bologna,South Korea,Serie A,Wide Playmaker
+1134,Ansu Barnes,LW,Nice,England,Ligue 1,Winger
+1135,Ansu Junior,LW,Real Betis,Germany,La Liga,Inside Forward
+1136,Harvey Garnacho,LW,Barcelona,Ivory Coast,La Liga,Wide Playmaker
+1137,Mykhailo Sancho,LW,Real Betis,Brazil,La Liga,Inside Forward
+1138,Jack Junior,LW,Marseille,Japan,Ligue 1,Inside Forward
+1139,Marcus Sancho,LW,Barcelona,Japan,La Liga,Winger
+1140,Vinicius Rashford,LW,RB Leipzig,Netherlands,Bundesliga,Winger
+1141,Nico Grealish,LW,Manchester United,Brazil,Premier League,Wide Playmaker
+1142,Rafael Mudryk,LW,Real Betis,Spain,La Liga,Inside Forward
+1143,Nico Martinelli,LW,Bayern Munich,Ivory Coast,Bundesliga,Wide Playmaker
+1144,Ansu Barnes,LW,Girona,Japan,La Liga,Wide Playmaker
+1145,Jeremy Garnacho,LW,Real Madrid,France,La Liga,Inside Forward
+1146,Khvicha Diaz,LW,West Ham,Netherlands,Premier League,Wide Playmaker
+1147,Jack Doku,LW,Arsenal,Ivory Coast,Premier League,Inside Forward
+1148,Khvicha Diaz,LW,Athletic Club,England,La Liga,Inside Forward
+1149,Vinicius Coman,LW,Chelsea,Colombia,Premier League,Winger
+1150,Cody Martinelli,LW,Bayern Munich,Japan,Bundesliga,Winger
+1151,Harvey Mudryk,LW,AC Milan,Ukraine,Serie A,Winger
+1152,Alejandro Heung-min,LW,Monaco,Netherlands,Ligue 1,Winger
+1153,Cody Grealish,LW,Nice,Brazil,Ligue 1,Winger
+1154,Luis Mudryk,LW,Arsenal,Colombia,Premier League,Winger
+1155,Kylian Mitoma,LW,Bayern Munich,Spain,Bundesliga,Inside Forward
+1156,Ansu Sancho,LW,Real Betis,Ukraine,La Liga,Inside Forward
+1157,Alejandro Junior,LW,Monaco,Brazil,Ligue 1,Wide Playmaker
+1158,Jeremy Leao,LW,Dortmund,Portugal,Bundesliga,Inside Forward
+1159,Ansu Gakpo,LW,Barcelona,Netherlands,La Liga,Wide Playmaker
+1160,Luis Kvaratskhelia,LW,Napoli,France,Serie A,Inside Forward
+1161,Son Fati,LW,Valencia,Japan,La Liga,Winger
+1162,Jeremy Diaz,LW,Atletico Madrid,Georgia,La Liga,Inside Forward
+1163,Luis Sancho,LW,Real Sociedad,Georgia,La Liga,Inside Forward
+1164,Ansu Williams,LW,Stuttgart,Ukraine,Bundesliga,Wide Playmaker
+1165,Wilfried Doku,LW,Tottenham,Ivory Coast,Premier League,Inside Forward
+1166,Jeremy Barnes,LW,Napoli,France,Serie A,Wide Playmaker
+1167,Mykhailo Grealish,LW,AC Milan,Argentina,Serie A,Winger
+1168,Rafael Junior,LW,Nice,England,Ligue 1,Winger
+1169,Jadon Gakpo,LW,Frankfurt,Argentina,Bundesliga,Wide Playmaker
+1170,Jeremy Mbappe,LW,Arsenal,England,Premier League,Winger
+1171,Harvey Fati,LW,Dortmund,Brazil,Bundesliga,Winger
+1172,Harvey Sancho,LW,Atletico Madrid,Argentina,La Liga,Inside Forward
+1173,Nico Mbappe,LW,Bologna,Ukraine,Serie A,Inside Forward
+1174,Son Barnes,LW,Lyon,Ukraine,Ligue 1,Wide Playmaker
+1175,Son Leao,LW,Stuttgart,Ukraine,Bundesliga,Winger
+1176,Khvicha Coman,LW,Bayern Munich,Colombia,Bundesliga,Wide Playmaker
+1177,Khvicha Fati,LW,Lyon,Spain,Ligue 1,Inside Forward
+1178,Kaoru Mitoma,LW,Real Sociedad,England,La Liga,Winger
+1179,Kylian Barnes,LW,Athletic Club,South Korea,La Liga,Inside Forward
+1180,Jack Leao,LW,AS Roma,England,Serie A,Wide Playmaker
+1181,Son Coman,LW,Manchester City,Colombia,Premier League,Wide Playmaker
+1182,Gabriel Grealish,LW,Tottenham,Georgia,Premier League,Wide Playmaker
+1183,Jadon Garnacho,LW,RB Leipzig,Ivory Coast,Bundesliga,Inside Forward
+1184,Khvicha Barnes,LW,Manchester United,Ukraine,Premier League,Winger
+1185,Son Mudryk,LW,AC Milan,South Korea,Serie A,Winger
+1186,Khvicha Grealish,LW,Newcastle,Japan,Premier League,Inside Forward
+1187,Jack Williams,LW,Nice,Belgium,Ligue 1,Winger
+1188,Gabriel Mbappe,LW,West Ham,Georgia,Premier League,Wide Playmaker
+1189,Jadon Mbappe,LW,Frankfurt,Netherlands,Bundesliga,Inside Forward
+1190,Wilfried Junior,LW,Marseille,Germany,Ligue 1,Wide Playmaker
+1191,Alejandro Garnacho,LW,Bologna,Spain,Serie A,Inside Forward
+1192,Jadon Grealish,LW,Marseille,France,Ligue 1,Winger
+1193,Gabriel Heung-min,LW,AC Milan,Brazil,Serie A,Wide Playmaker
+1194,Gabriel Doku,LW,Atalanta,Germany,Serie A,Wide Playmaker
+1195,Kingsley Kvaratskhelia,LW,Stuttgart,Netherlands,Bundesliga,Inside Forward
+1196,Jeremy Mbappe,LW,Real Sociedad,Belgium,La Liga,Wide Playmaker
+1197,Gabriel Diaz,LW,Brighton,South Korea,Premier League,Inside Forward
+1198,Alejandro Gakpo,LW,Nice,Netherlands,Ligue 1,Inside Forward
+1199,Mykhailo Gakpo,LW,Bayer Leverkusen,France,Bundesliga,Wide Playmaker
+1200,Son Grealish,LW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+1201,Khvicha Kvaratskhelia,LW,Tottenham,Colombia,Premier League,Inside Forward
+1202,Nico Williams,LW,RB Leipzig,France,Bundesliga,Winger
+1203,Jadon Zaha,LW,Inter Milan,Netherlands,Serie A,Inside Forward
+1204,Vinicius Diaz,LW,Brest,Colombia,Ligue 1,Inside Forward
+1205,Luis Gakpo,LW,Napoli,Spain,Serie A,Winger
+1206,Wilfried Mbappe,LW,Barcelona,Germany,La Liga,Wide Playmaker
+1207,Kingsley Grealish,LW,Stuttgart,Argentina,Bundesliga,Winger
+1208,Khvicha Doku,LW,Valencia,South Korea,La Liga,Inside Forward
+1209,Gabriel Diaz,LW,Juventus,Portugal,Serie A,Inside Forward
+1210,Mykhailo Gakpo,LW,Brighton,South Korea,Premier League,Winger
+1211,Kylian Rashford,LW,Nice,Ivory Coast,Ligue 1,Inside Forward
+1212,Son Martinelli,LW,Real Sociedad,Argentina,La Liga,Inside Forward
+1213,Kingsley Barnes,LW,Juventus,Ukraine,Serie A,Inside Forward
+1214,Jadon Coman,LW,Lyon,Japan,Ligue 1,Wide Playmaker
+1215,Vinicius Sancho,LW,Bayern Munich,England,Bundesliga,Winger
+1216,Jadon Gakpo,LW,Lyon,Portugal,Ligue 1,Inside Forward
+1217,Vinicius Doku,LW,Brest,Japan,Ligue 1,Winger
+1218,Harvey Heung-min,LW,Aston Villa,South Korea,Premier League,Winger
+1219,Ansu Sancho,LW,Monaco,Ivory Coast,Ligue 1,Inside Forward
+1220,Kylian Grealish,LW,RB Leipzig,Argentina,Bundesliga,Inside Forward
+1221,Jadon Sancho,LW,AS Roma,Japan,Serie A,Inside Forward
+1222,Ansu Barnes,LW,West Ham,South Korea,Premier League,Inside Forward
+1223,Marcus Mudryk,LW,Stuttgart,Colombia,Bundesliga,Winger
+1224,Harvey Zaha,LW,Stuttgart,Brazil,Bundesliga,Inside Forward
+1225,Cody Barnes,LW,Lille,Netherlands,Ligue 1,Inside Forward
+1226,Jack Martinelli,LW,West Ham,South Korea,Premier League,Inside Forward
+1227,Son Rashford,LW,Atletico Madrid,England,La Liga,Winger
+1228,Jadon Mbappe,LW,Lille,Colombia,Ligue 1,Inside Forward
+1229,Alejandro Zaha,LW,Juventus,Argentina,Serie A,Wide Playmaker
+1230,Nico Mitoma,LW,Manchester United,Netherlands,Premier League,Inside Forward
+1231,Harvey Williams,LW,Juventus,Belgium,Serie A,Wide Playmaker
+1232,Alejandro Heung-min,LW,Newcastle,Spain,Premier League,Inside Forward
+1233,Kaoru Coman,LW,Real Betis,Belgium,La Liga,Wide Playmaker
+1234,Jadon Rashford,LW,Frankfurt,Ivory Coast,Bundesliga,Wide Playmaker
+1235,Kylian Gakpo,LW,Arsenal,Belgium,Premier League,Winger
+1236,Kylian Mudryk,LW,Manchester City,Ukraine,Premier League,Inside Forward
+1237,Alejandro Doku,LW,Inter Milan,South Korea,Serie A,Winger
+1238,Marcus Sancho,LW,Frankfurt,South Korea,Bundesliga,Winger
+1239,Rafael Junior,LW,Real Sociedad,Japan,La Liga,Winger
+1240,Kylian Diaz,LW,Real Betis,Netherlands,La Liga,Inside Forward
+1241,Jadon Gakpo,LW,Valencia,South Korea,La Liga,Wide Playmaker
+1242,Alejandro Diaz,LW,Athletic Club,South Korea,La Liga,Wide Playmaker
+1243,Alejandro Diaz,LW,Stuttgart,Argentina,Bundesliga,Winger
+1244,Khvicha Garnacho,LW,Nice,South Korea,Ligue 1,Wide Playmaker
+1245,Nico Mudryk,LW,Stuttgart,Ivory Coast,Bundesliga,Inside Forward
+1246,Rafael Mudryk,LW,Nice,Netherlands,Ligue 1,Inside Forward
+1247,Nico Sancho,LW,Brighton,Portugal,Premier League,Inside Forward
+1248,Kylian Mitoma,LW,Marseille,France,Ligue 1,Wide Playmaker
+1249,Nico Martinelli,LW,RB Leipzig,Netherlands,Bundesliga,Winger
+1250,Mykhailo Barnes,LW,Real Madrid,Portugal,La Liga,Winger
+1251,Wilfried Diaz,LW,PSG,Ukraine,Ligue 1,Wide Playmaker
+1252,Luis Leao,LW,RB Leipzig,Brazil,Bundesliga,Inside Forward
+1253,Kaoru Coman,LW,Marseille,Argentina,Ligue 1,Wide Playmaker
+1254,Jack Williams,LW,Frankfurt,Spain,Bundesliga,Wide Playmaker
+1255,Gabriel Heung-min,LW,Stuttgart,Ivory Coast,Bundesliga,Winger
+1256,Vinicius Garnacho,LW,Barcelona,South Korea,La Liga,Winger
+1257,Gabriel Garnacho,LW,Chelsea,France,Premier League,Wide Playmaker
+1258,Jack Coman,LW,AC Milan,Brazil,Serie A,Winger
+1259,Wilfried Zaha,LW,Juventus,Japan,Serie A,Inside Forward
+1260,Nico Gakpo,LW,Lille,Netherlands,Ligue 1,Inside Forward
+1261,Marcus Coman,LW,Valencia,Belgium,La Liga,Inside Forward
+1262,Jack Kvaratskhelia,LW,Bologna,Germany,Serie A,Winger
+1263,Jack Sancho,LW,Napoli,Spain,Serie A,Wide Playmaker
+1264,Kaoru Williams,LW,Valencia,Netherlands,La Liga,Inside Forward
+1265,Kylian Barnes,LW,AS Roma,Japan,Serie A,Wide Playmaker
+1266,Luis Doku,LW,West Ham,Georgia,Premier League,Winger
+1267,Marcus Mbappe,LW,West Ham,Portugal,Premier League,Wide Playmaker
+1268,Kingsley Williams,LW,Aston Villa,Spain,Premier League,Wide Playmaker
+1269,Cody Diaz,LW,Real Sociedad,Georgia,La Liga,Inside Forward
+1270,Jeremy Mbappe,LW,Atletico Madrid,England,La Liga,Wide Playmaker
+1271,Kaoru Heung-min,LW,Real Madrid,Georgia,La Liga,Wide Playmaker
+1272,Rafael Mbappe,LW,Brest,Ukraine,Ligue 1,Winger
+1273,Rafael Coman,LW,Brest,Argentina,Ligue 1,Inside Forward
+1274,Rafael Doku,LW,Bayern Munich,Japan,Bundesliga,Inside Forward
+1275,Kylian Heung-min,LW,Arsenal,Georgia,Premier League,Inside Forward
+1276,Wilfried Doku,LW,Liverpool,Japan,Premier League,Winger
+1277,Cody Martinelli,LW,Bayer Leverkusen,Argentina,Bundesliga,Wide Playmaker
+1278,Gabriel Williams,LW,Brest,Argentina,Ligue 1,Wide Playmaker
+1279,Jeremy Gakpo,LW,Manchester City,Brazil,Premier League,Inside Forward
+1280,Kaoru Junior,LW,Newcastle,Ukraine,Premier League,Winger
+1281,Luis Kvaratskhelia,LW,Stuttgart,Argentina,Bundesliga,Wide Playmaker
+1282,Cody Mbappe,LW,Brighton,Portugal,Premier League,Winger
+1283,Jadon Williams,LW,Real Madrid,Ivory Coast,La Liga,Winger
+1284,Jeremy Barnes,LW,Barcelona,Germany,La Liga,Inside Forward
+1285,Son Barnes,LW,Atalanta,Netherlands,Serie A,Inside Forward
+1286,Luis Fati,LW,Girona,Germany,La Liga,Inside Forward
+1287,Vinicius Coman,LW,Brest,Spain,Ligue 1,Winger
+1288,Jadon Martinelli,LW,Manchester City,Japan,Premier League,Winger
+1289,Kaoru Leao,LW,Marseille,South Korea,Ligue 1,Inside Forward
+1290,Jeremy Kvaratskhelia,LW,Real Betis,Argentina,La Liga,Winger
+1291,Alejandro Doku,LW,Brighton,Ukraine,Premier League,Winger
+1292,Rafael Fati,LW,Lazio,Brazil,Serie A,Inside Forward
+1293,Gabriel Grealish,LW,Bayer Leverkusen,Ukraine,Bundesliga,Inside Forward
+1294,Vinicius Sancho,LW,Atletico Madrid,England,La Liga,Winger
+1295,Marcus Fati,LW,Atletico Madrid,France,La Liga,Winger
+1296,Kylian Mudryk,LW,Napoli,Germany,Serie A,Winger
+1297,Kaoru Williams,LW,Lyon,Georgia,Ligue 1,Inside Forward
+1298,Luis Sancho,LW,RB Leipzig,Japan,Bundesliga,Inside Forward
+1299,Luis Mitoma,LW,Bologna,Colombia,Serie A,Wide Playmaker
+1300,Son Leao,LW,Athletic Club,Spain,La Liga,Winger
+1301,Son Mitoma,LW,Atletico Madrid,Ivory Coast,La Liga,Inside Forward
+1302,Harvey Mitoma,LW,Lille,Germany,Ligue 1,Inside Forward
+1303,Cody Leao,LW,Athletic Club,Netherlands,La Liga,Winger
+1304,Jeremy Mbappe,LW,Girona,Brazil,La Liga,Wide Playmaker
+1305,Vinicius Zaha,LW,Lazio,England,Serie A,Winger
+1306,Kylian Coman,LW,AC Milan,South Korea,Serie A,Wide Playmaker
+1307,Khvicha Martinelli,LW,Marseille,Colombia,Ligue 1,Winger
+1308,Jeremy Kvaratskhelia,LW,Lille,France,Ligue 1,Inside Forward
+1309,Ansu Mudryk,LW,Brest,France,Ligue 1,Wide Playmaker
+1310,Mykhailo Martinelli,LW,Brest,Belgium,Ligue 1,Inside Forward
+1311,Khvicha Junior,LW,Frankfurt,Netherlands,Bundesliga,Inside Forward
+1312,Mykhailo Heung-min,LW,Newcastle,Spain,Premier League,Inside Forward
+1313,Wilfried Leao,LW,Newcastle,Georgia,Premier League,Wide Playmaker
+1314,Luis Mitoma,LW,Inter Milan,Netherlands,Serie A,Wide Playmaker
+1315,Wilfried Junior,LW,Tottenham,France,Premier League,Inside Forward
+1316,Kingsley Junior,LW,Dortmund,Argentina,Bundesliga,Winger
+1317,Kylian Junior,LW,AS Roma,Spain,Serie A,Winger
+1318,Nico Martinelli,LW,Lazio,France,Serie A,Winger
+1319,Jadon Williams,LW,Frankfurt,Argentina,Bundesliga,Winger
+1320,Jeremy Coman,LW,Lazio,South Korea,Serie A,Inside Forward
+1321,Mykhailo Barnes,LW,Lazio,Portugal,Serie A,Inside Forward
+1322,Mykhailo Gakpo,LW,Girona,Argentina,La Liga,Winger
+1323,Jeremy Mitoma,LW,Stuttgart,Ukraine,Bundesliga,Winger
+1324,Nico Mbappe,LW,PSG,Belgium,Ligue 1,Wide Playmaker
+1325,Son Rashford,LW,Bologna,Japan,Serie A,Winger
+1326,Wilfried Barnes,LW,Stuttgart,Portugal,Bundesliga,Wide Playmaker
+1327,Vinicius Williams,LW,PSG,Argentina,Ligue 1,Wide Playmaker
+1328,Jeremy Doku,LW,RB Leipzig,Argentina,Bundesliga,Winger
+1329,Son Garnacho,LW,Monaco,Argentina,Ligue 1,Inside Forward
+1330,Kylian Diaz,LW,Nice,South Korea,Ligue 1,Wide Playmaker
+1331,Mykhailo Rashford,LW,Brighton,Netherlands,Premier League,Winger
+1332,Kingsley Rashford,LW,Brest,Georgia,Ligue 1,Inside Forward
+1333,Gabriel Barnes,LW,Real Sociedad,Germany,La Liga,Winger
+1334,Jack Mitoma,LW,Brighton,Brazil,Premier League,Inside Forward
+1335,Jeremy Williams,LW,Arsenal,Belgium,Premier League,Inside Forward
+1336,Kylian Grealish,LW,Aston Villa,Ivory Coast,Premier League,Inside Forward
+1337,Harvey Diaz,LW,Barcelona,South Korea,La Liga,Winger
+1338,Kaoru Kvaratskhelia,LW,Newcastle,Colombia,Premier League,Winger
+1339,Ansu Junior,LW,Inter Milan,Belgium,Serie A,Wide Playmaker
+1340,Nico Mbappe,LW,Atletico Madrid,Ivory Coast,La Liga,Winger
+1341,Nico Kvaratskhelia,LW,Monaco,Colombia,Ligue 1,Wide Playmaker
+1342,Vinicius Gakpo,LW,Manchester United,Ukraine,Premier League,Inside Forward
+1343,Jadon Gakpo,LW,Bayern Munich,England,Bundesliga,Winger
+1344,Luis Diaz,LW,PSG,England,Ligue 1,Inside Forward
+1345,Alejandro Grealish,LW,Inter Milan,England,Serie A,Wide Playmaker
+1346,Kylian Coman,LW,PSG,England,Ligue 1,Winger
+1347,Cody Grealish,LW,Real Madrid,Belgium,La Liga,Winger
+1348,Jadon Grealish,LW,Lyon,Belgium,Ligue 1,Inside Forward
+1349,Wilfried Martinelli,LW,Aston Villa,Spain,Premier League,Wide Playmaker
+1350,Cody Zaha,LW,Nice,England,Ligue 1,Inside Forward
+1351,Harvey Sancho,LW,Atalanta,Belgium,Serie A,Inside Forward
+1352,Alejandro Mbappe,LW,Tottenham,England,Premier League,Winger
+1353,Rafael Heung-min,LW,Marseille,Colombia,Ligue 1,Winger
+1354,Gabriel Fati,LW,Girona,Portugal,La Liga,Inside Forward
+1355,Ansu Doku,LW,Liverpool,Belgium,Premier League,Inside Forward
+1356,Cody Williams,LW,Manchester United,Portugal,Premier League,Winger
+1357,Kaoru Martinelli,LW,Brest,Belgium,Ligue 1,Inside Forward
+1358,Ansu Gakpo,LW,Lazio,France,Serie A,Inside Forward
+1359,Alejandro Mbappe,LW,AC Milan,Argentina,Serie A,Winger
+1360,Khvicha Fati,LW,Real Betis,Argentina,La Liga,Wide Playmaker
+1361,Rafael Mudryk,LW,Manchester City,Brazil,Premier League,Winger
+1362,Jack Gakpo,LW,Newcastle,Colombia,Premier League,Winger
+1363,Kaoru Garnacho,LW,RB Leipzig,Colombia,Bundesliga,Wide Playmaker
+1364,Luis Mitoma,LW,Atalanta,Brazil,Serie A,Wide Playmaker
+1365,Marcus Doku,LW,Marseille,Colombia,Ligue 1,Inside Forward
+1366,Jack Junior,LW,Tottenham,Brazil,Premier League,Wide Playmaker
+1367,Kingsley Zaha,LW,Girona,Netherlands,La Liga,Wide Playmaker
+1368,Marcus Grealish,LW,Inter Milan,Germany,Serie A,Wide Playmaker
+1369,Luis Leao,LW,Tottenham,Belgium,Premier League,Wide Playmaker
+1370,Ansu Doku,LW,Brest,Belgium,Ligue 1,Winger
+1371,Harvey Mudryk,LW,AC Milan,Spain,Serie A,Winger
+1372,Luis Junior,LW,AC Milan,France,Serie A,Wide Playmaker
+1373,Wilfried Garnacho,LW,Liverpool,France,Premier League,Wide Playmaker
+1374,Kingsley Barnes,LW,Bologna,Spain,Serie A,Inside Forward
+1375,Jadon Zaha,LW,Lille,Ukraine,Ligue 1,Inside Forward
+1376,Kingsley Mitoma,LW,Brest,Brazil,Ligue 1,Inside Forward
+1377,Marcus Garnacho,LW,Nice,Colombia,Ligue 1,Winger
+1378,Vinicius Mbappe,LW,Lyon,Netherlands,Ligue 1,Inside Forward
+1379,Jack Grealish,LW,Manchester City,Ivory Coast,Premier League,Inside Forward
+1380,Harvey Mitoma,LW,Aston Villa,England,Premier League,Wide Playmaker
+1381,Wilfried Grealish,LW,Monaco,Belgium,Ligue 1,Winger
+1382,Khvicha Doku,LW,PSG,Brazil,Ligue 1,Winger
+1383,Son Garnacho,LW,Bayern Munich,Spain,Bundesliga,Winger
+1384,Alejandro Garnacho,LW,Frankfurt,Japan,Bundesliga,Winger
+1385,Wilfried Grealish,LW,West Ham,South Korea,Premier League,Inside Forward
+1386,Jadon Sancho,LW,Marseille,France,Ligue 1,Inside Forward
+1387,Rafael Fati,LW,Napoli,Spain,Serie A,Inside Forward
+1388,Wilfried Garnacho,LW,Brest,South Korea,Ligue 1,Inside Forward
+1389,Rafael Zaha,LW,RB Leipzig,Colombia,Bundesliga,Wide Playmaker
+1390,Kingsley Kvaratskhelia,LW,Aston Villa,France,Premier League,Wide Playmaker
+1391,Vinicius Garnacho,LW,Athletic Club,Spain,La Liga,Wide Playmaker
+1392,Luis Leao,LW,PSG,Ivory Coast,Ligue 1,Winger
+1393,Khvicha Grealish,LW,Brighton,Netherlands,Premier League,Wide Playmaker
+1394,Kylian Williams,LW,Brighton,Belgium,Premier League,Inside Forward
+1395,Luis Gakpo,LW,Tottenham,Georgia,Premier League,Wide Playmaker
+1396,Alejandro Heung-min,LW,Brest,Argentina,Ligue 1,Wide Playmaker
+1397,Jadon Fati,LW,Inter Milan,Colombia,Serie A,Winger
+1398,Jadon Zaha,LW,Frankfurt,Japan,Bundesliga,Wide Playmaker
+1399,Wilfried Mitoma,LW,Liverpool,Netherlands,Premier League,Wide Playmaker
+1400,Rafael Gakpo,LW,Manchester City,Portugal,Premier League,Wide Playmaker
+1401,Gabriel Diaz,LW,Manchester City,Ivory Coast,Premier League,Wide Playmaker
+1402,Ansu Garnacho,LW,Dortmund,Brazil,Bundesliga,Inside Forward
+1403,Wilfried Rashford,LW,AS Roma,France,Serie A,Inside Forward
+1404,Harvey Gakpo,LW,Real Betis,France,La Liga,Inside Forward
+1405,Nico Leao,LW,Manchester City,Belgium,Premier League,Inside Forward
+1406,Vinicius Fati,LW,Bayer Leverkusen,Belgium,Bundesliga,Wide Playmaker
+1407,Nico Fati,LW,Nice,Netherlands,Ligue 1,Winger
+1408,Jack Barnes,LW,Bayern Munich,Belgium,Bundesliga,Inside Forward
+1409,Rafael Doku,LW,Brest,Spain,Ligue 1,Wide Playmaker
+1410,Cody Williams,LW,Nice,Belgium,Ligue 1,Winger
+1411,Wilfried Coman,LW,Stuttgart,England,Bundesliga,Wide Playmaker
+1412,Cody Junior,LW,Bayer Leverkusen,Georgia,Bundesliga,Wide Playmaker
+1413,Wilfried Fati,LW,Atalanta,Colombia,Serie A,Winger
+1414,Marcus Barnes,LW,Liverpool,France,Premier League,Wide Playmaker
+1415,Wilfried Grealish,LW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+1416,Kylian Zaha,LW,Tottenham,Belgium,Premier League,Winger
+1417,Gabriel Barnes,LW,Lazio,Belgium,Serie A,Winger
+1418,Wilfried Mitoma,LW,Barcelona,Japan,La Liga,Wide Playmaker
+1419,Son Heung-min,LW,Chelsea,England,Premier League,Wide Playmaker
+1420,Son Junior,LW,Atletico Madrid,Ivory Coast,La Liga,Winger
+1421,Jeremy Garnacho,LW,AC Milan,France,Serie A,Wide Playmaker
+1422,Jadon Barnes,LW,Stuttgart,Georgia,Bundesliga,Wide Playmaker
+1423,Jeremy Gakpo,LW,Juventus,Colombia,Serie A,Inside Forward
+1424,Cody Fati,LW,Monaco,Japan,Ligue 1,Winger
+1425,Ansu Fati,LW,Barcelona,Ivory Coast,La Liga,Inside Forward
+1426,Ansu Barnes,LW,Nice,Ivory Coast,Ligue 1,Inside Forward
+1427,Marcus Diaz,LW,Newcastle,Argentina,Premier League,Winger
+1428,Harvey Martinelli,LW,Atalanta,Argentina,Serie A,Inside Forward
+1429,Vinicius Fati,LW,Manchester City,Colombia,Premier League,Wide Playmaker
+1430,Jadon Sancho,LW,Liverpool,Netherlands,Premier League,Winger
+1431,Jeremy Coman,LW,Frankfurt,Argentina,Bundesliga,Winger
+1432,Alejandro Kvaratskhelia,LW,Newcastle,Japan,Premier League,Winger
+1433,Wilfried Mudryk,LW,Arsenal,Brazil,Premier League,Wide Playmaker
+1434,Jadon Diaz,LW,Atletico Madrid,Japan,La Liga,Inside Forward
+1435,Alejandro Coman,LW,Dortmund,South Korea,Bundesliga,Wide Playmaker
+1436,Vinicius Garnacho,LW,Athletic Club,Brazil,La Liga,Winger
+1437,Jadon Grealish,LW,Girona,England,La Liga,Inside Forward
+1438,Cody Zaha,LW,Stuttgart,England,Bundesliga,Wide Playmaker
+1439,Luis Williams,LW,RB Leipzig,Netherlands,Bundesliga,Wide Playmaker
+1440,Kaoru Doku,LW,Real Madrid,South Korea,La Liga,Inside Forward
+1441,Jack Mudryk,LW,Monaco,Netherlands,Ligue 1,Wide Playmaker
+1442,Kingsley Mitoma,LW,Bayer Leverkusen,Japan,Bundesliga,Inside Forward
+1443,Kingsley Martinelli,LW,Brest,France,Ligue 1,Winger
+1444,Ansu Mbappe,LW,Aston Villa,Germany,Premier League,Inside Forward
+1445,Jadon Kvaratskhelia,LW,Real Sociedad,South Korea,La Liga,Wide Playmaker
+1446,Kylian Kvaratskhelia,LW,Monaco,Germany,Ligue 1,Wide Playmaker
+1447,Khvicha Zaha,LW,AS Roma,Japan,Serie A,Inside Forward
+1448,Cody Grealish,LW,Monaco,South Korea,Ligue 1,Wide Playmaker
+1449,Gabriel Mbappe,LW,Atalanta,South Korea,Serie A,Inside Forward
+1450,Wilfried Kvaratskhelia,LW,Brighton,Portugal,Premier League,Winger
+1451,Jack Heung-min,LW,Lille,Argentina,Ligue 1,Wide Playmaker
+1452,Alejandro Mbappe,LW,Newcastle,England,Premier League,Wide Playmaker
+1453,Nico Sancho,LW,West Ham,South Korea,Premier League,Wide Playmaker
+1454,Nico Diaz,LW,Real Sociedad,Georgia,La Liga,Winger
+1455,Jack Grealish,LW,Girona,Belgium,La Liga,Wide Playmaker
+1456,Kaoru Coman,LW,Aston Villa,Germany,Premier League,Winger
+1457,Harvey Doku,LW,Dortmund,Ivory Coast,Bundesliga,Winger
+1458,Alejandro Rashford,LW,Arsenal,England,Premier League,Inside Forward
+1459,Ansu Heung-min,LW,Lazio,Belgium,Serie A,Winger
+1460,Rafael Leao,LW,AC Milan,Georgia,Serie A,Inside Forward
+1461,Luis Rashford,LW,PSG,Japan,Ligue 1,Winger
+1462,Jack Barnes,LW,Dortmund,Ivory Coast,Bundesliga,Inside Forward
+1463,Vinicius Williams,LW,Atletico Madrid,England,La Liga,Wide Playmaker
+1464,Cody Barnes,LW,Barcelona,Argentina,La Liga,Inside Forward
+1465,Kingsley Garnacho,LW,Manchester United,Belgium,Premier League,Winger
+1466,Jack Fati,LW,Dortmund,Ivory Coast,Bundesliga,Winger
+1467,Rafael Sancho,LW,Napoli,Brazil,Serie A,Winger
+1468,Alejandro Mitoma,LW,AC Milan,South Korea,Serie A,Wide Playmaker
+1469,Vinicius Mudryk,LW,Dortmund,Ukraine,Bundesliga,Inside Forward
+1470,Gabriel Coman,LW,Nice,Ivory Coast,Ligue 1,Wide Playmaker
+1471,Kingsley Mitoma,LW,Real Sociedad,Georgia,La Liga,Inside Forward
+1472,Rafael Leao,LW,RB Leipzig,Spain,Bundesliga,Winger
+1473,Khvicha Leao,LW,PSG,Brazil,Ligue 1,Wide Playmaker
+1474,Mykhailo Heung-min,LW,Atletico Madrid,South Korea,La Liga,Inside Forward
+1475,Jack Diaz,LW,Manchester United,England,Premier League,Wide Playmaker
+1476,Kaoru Mbappe,LW,Lille,Germany,Ligue 1,Inside Forward
+1477,Gabriel Diaz,LW,Girona,Ukraine,La Liga,Wide Playmaker
+1478,Jack Gakpo,LW,AC Milan,Japan,Serie A,Inside Forward
+1479,Kylian Junior,LW,Girona,Portugal,La Liga,Inside Forward
+1480,Jack Mitoma,LW,Valencia,Portugal,La Liga,Winger
+1481,Kaoru Diaz,LW,Brighton,France,Premier League,Wide Playmaker
+1482,Cody Heung-min,LW,Bologna,Georgia,Serie A,Winger
+1483,Gabriel Junior,LW,Lyon,Portugal,Ligue 1,Inside Forward
+1484,Son Fati,LW,Newcastle,England,Premier League,Winger
+1485,Son Grealish,LW,Aston Villa,Argentina,Premier League,Wide Playmaker
+1486,Jack Diaz,LW,Marseille,Brazil,Ligue 1,Winger
+1487,Khvicha Gakpo,LW,Marseille,Netherlands,Ligue 1,Wide Playmaker
+1488,Jadon Leao,LW,Real Madrid,South Korea,La Liga,Inside Forward
+1489,Alejandro Coman,LW,West Ham,Ivory Coast,Premier League,Winger
+1490,Gabriel Fati,LW,Arsenal,Portugal,Premier League,Inside Forward
+1491,Mykhailo Gakpo,LW,PSG,Colombia,Ligue 1,Inside Forward
+1492,Kaoru Junior,LW,Monaco,Belgium,Ligue 1,Inside Forward
+1493,Marcus Mbappe,LW,Brighton,South Korea,Premier League,Inside Forward
+1494,Khvicha Rashford,LW,Bayer Leverkusen,South Korea,Bundesliga,Inside Forward
+1495,Ansu Rashford,LW,Valencia,Germany,La Liga,Inside Forward
+1496,Alejandro Barnes,LW,Frankfurt,Argentina,Bundesliga,Winger
+1497,Harvey Coman,LW,Lazio,Ivory Coast,Serie A,Wide Playmaker
+1498,Mykhailo Martinelli,LW,Lazio,England,Serie A,Winger
+1499,Wilfried Mitoma,LW,Barcelona,Colombia,La Liga,Wide Playmaker
+1500,Marcus Grealish,LW,Athletic Club,Spain,La Liga,Inside Forward

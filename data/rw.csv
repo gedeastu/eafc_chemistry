@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Michael Pulisic,RW,Atletico Madrid,Brazil,La Liga,Winger
+2,Nicolas Kulusevski,RW,Frankfurt,France,Bundesliga,Wide Playmaker
+3,Angel Gnabry,RW,Napoli,Egypt,Serie A,Winger
+4,Christian Bailey,RW,Bayer Leverkusen,Egypt,Bundesliga,Winger
+5,Leroy Sane,RW,Lazio,Spain,Serie A,Wide Playmaker
+6,Nicolas Pulisic,RW,Newcastle,Germany,Premier League,Inside Forward
+7,Federico Berardi,RW,PSG,Japan,Ligue 1,Wide Playmaker
+8,Jarrod Goes,RW,Valencia,France,La Liga,Winger
+9,Bukayo Salah,RW,Lille,Sweden,Ligue 1,Winger
+10,Dejan Di Maria,RW,Atalanta,Japan,Serie A,Winger
+11,Serge Bailey,RW,Girona,Italy,La Liga,Inside Forward
+12,Jarrod Gnabry,RW,Newcastle,Brazil,Premier League,Wide Playmaker
+13,Rodrygo Chiesa,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+14,Domenico Asensio,RW,Atalanta,Argentina,Serie A,Wide Playmaker
+15,Bukayo Olise,RW,Brighton,Egypt,Premier League,Wide Playmaker
+16,Rodrygo Mbeumo,RW,Athletic Club,Brazil,La Liga,Winger
+17,Raphinha Di Maria,RW,Bayern Munich,Germany,Bundesliga,Winger
+18,Leroy Raphinha,RW,Real Sociedad,Italy,La Liga,Wide Playmaker
+19,Federico Sane,RW,Stuttgart,France,Bundesliga,Wide Playmaker
+20,Nicolas Bailey,RW,Bayern Munich,Italy,Bundesliga,Inside Forward
+21,Federico Saka,RW,Barcelona,Germany,La Liga,Wide Playmaker
+22,Dejan Dembele,RW,AC Milan,Cameroon,Serie A,Wide Playmaker
+23,Michael Gnabry,RW,Lille,Cameroon,Ligue 1,Inside Forward
+24,Christian Sane,RW,West Ham,England,Premier League,Winger
+25,Nicolas Bailey,RW,Bayern Munich,Ivory Coast,Bundesliga,Winger
+26,Dejan Mbeumo,RW,PSG,Egypt,Ligue 1,Inside Forward
+27,Federico Asensio,RW,PSG,USA,Ligue 1,Winger
+28,Leon Berardi,RW,Napoli,Sweden,Serie A,Wide Playmaker
+29,Federico Olise,RW,Bayer Leverkusen,Germany,Bundesliga,Winger
+30,Bukayo Dembele,RW,Bayern Munich,Cameroon,Bundesliga,Winger
+31,Angel Gnabry,RW,Dortmund,Italy,Bundesliga,Wide Playmaker
+32,Jarrod Pino,RW,PSG,Egypt,Ligue 1,Inside Forward
+33,Rodrygo Sane,RW,Chelsea,France,Premier League,Wide Playmaker
+34,Marco Dembele,RW,Bologna,Cameroon,Serie A,Winger
+35,Leon Raphinha,RW,Juventus,Egypt,Serie A,Wide Playmaker
+36,Yeremy Salah,RW,PSG,Ivory Coast,Ligue 1,Inside Forward
+37,Dejan Di Maria,RW,Brest,Japan,Ligue 1,Inside Forward
+38,Nicolas Asensio,RW,Juventus,France,Serie A,Winger
+39,Takefusa Pino,RW,Valencia,Egypt,La Liga,Winger
+40,Yeremy Sane,RW,Stuttgart,Italy,Bundesliga,Wide Playmaker
+41,Yeremy Dembele,RW,RB Leipzig,Germany,Bundesliga,Wide Playmaker
+42,Michael Saka,RW,Atalanta,Jamaica,Serie A,Winger
+43,Yeremy Di Maria,RW,Valencia,Ivory Coast,La Liga,Inside Forward
+44,Marco Bowen,RW,Barcelona,USA,La Liga,Inside Forward
+45,Rodrygo Sane,RW,Aston Villa,Germany,Premier League,Winger
+46,Christian Mbeumo,RW,Brest,Sweden,Ligue 1,Wide Playmaker
+47,Serge Olise,RW,Bologna,USA,Serie A,Winger
+48,Leon Raphinha,RW,Real Sociedad,Italy,La Liga,Winger
+49,Marco Asensio,RW,Real Madrid,Ivory Coast,La Liga,Wide Playmaker
+50,Marco Mbeumo,RW,Tottenham,England,Premier League,Inside Forward
+51,Bukayo Bowen,RW,Manchester City,France,Premier League,Inside Forward
+52,Angel Kubo,RW,Lille,Cameroon,Ligue 1,Inside Forward
+53,Christian Raphinha,RW,Newcastle,Argentina,Premier League,Winger
+54,Raphinha Asensio,RW,Atletico Madrid,Argentina,La Liga,Wide Playmaker
+55,Takefusa Berardi,RW,AC Milan,Cameroon,Serie A,Inside Forward
+56,Jarrod Gnabry,RW,AC Milan,Egypt,Serie A,Inside Forward
+57,Leroy Saka,RW,RB Leipzig,Jamaica,Bundesliga,Inside Forward
+58,Bryan Goes,RW,PSG,England,Ligue 1,Inside Forward
+59,Yeremy Kulusevski,RW,Girona,Italy,La Liga,Wide Playmaker
+60,Bukayo Dembele,RW,Liverpool,Cameroon,Premier League,Inside Forward
+61,Yeremy Olise,RW,Real Madrid,Spain,La Liga,Winger
+62,Michael Gnabry,RW,Real Betis,Germany,La Liga,Winger
+63,Leroy Dembele,RW,Brighton,Italy,Premier League,Inside Forward
+64,Christian Raphinha,RW,Girona,France,La Liga,Wide Playmaker
+65,Mohamed Gonzalez,RW,Atalanta,Italy,Serie A,Inside Forward
+66,Christian Sane,RW,Arsenal,Germany,Premier League,Inside Forward
+67,Raphinha Salah,RW,Lyon,Ivory Coast,Ligue 1,Winger
+68,Takefusa Pino,RW,Lazio,Ivory Coast,Serie A,Winger
+69,Jarrod Asensio,RW,Manchester United,Spain,Premier League,Wide Playmaker
+70,Mohamed Saka,RW,Bologna,USA,Serie A,Inside Forward
+71,Christian Di Maria,RW,Real Betis,Spain,La Liga,Inside Forward
+72,Nicolas Gnabry,RW,Manchester United,Argentina,Premier League,Inside Forward
+73,Bukayo Mbeumo,RW,AS Roma,Italy,Serie A,Winger
+74,Marco Sane,RW,Girona,Egypt,La Liga,Winger
+75,Leon Pino,RW,Stuttgart,Cameroon,Bundesliga,Wide Playmaker
+76,Serge Gnabry,RW,Frankfurt,Sweden,Bundesliga,Wide Playmaker
+77,Jarrod Saka,RW,Athletic Club,Germany,La Liga,Wide Playmaker
+78,Angel Pulisic,RW,Arsenal,Italy,Premier League,Wide Playmaker
+79,Yeremy Berardi,RW,Real Sociedad,Jamaica,La Liga,Wide Playmaker
+80,Rodrygo Pulisic,RW,Inter Milan,Jamaica,Serie A,Winger
+81,Christian Gnabry,RW,Nice,Jamaica,Ligue 1,Winger
+82,Raphinha Chiesa,RW,Athletic Club,England,La Liga,Wide Playmaker
+83,Serge Dembele,RW,Chelsea,Brazil,Premier League,Winger
+84,Raphinha Gonzalez,RW,Athletic Club,Ivory Coast,La Liga,Wide Playmaker
+85,Rodrygo Pino,RW,Stuttgart,Sweden,Bundesliga,Wide Playmaker
+86,Mohamed Pino,RW,Brest,Argentina,Ligue 1,Winger
+87,Michael Pino,RW,Real Madrid,Japan,La Liga,Winger
+88,Takefusa Raphinha,RW,Real Madrid,England,La Liga,Wide Playmaker
+89,Bukayo Kulusevski,RW,Athletic Club,Jamaica,La Liga,Wide Playmaker
+90,Marco Kulusevski,RW,PSG,Spain,Ligue 1,Inside Forward
+91,Domenico Mbeumo,RW,Bologna,Italy,Serie A,Wide Playmaker
+92,Yeremy Goes,RW,Dortmund,Japan,Bundesliga,Wide Playmaker
+93,Bryan Kubo,RW,Real Sociedad,Argentina,La Liga,Wide Playmaker
+94,Yeremy Berardi,RW,AC Milan,Sweden,Serie A,Inside Forward
+95,Michael Mbeumo,RW,Stuttgart,Germany,Bundesliga,Winger
+96,Christian Di Maria,RW,Real Betis,Cameroon,La Liga,Winger
+97,Takefusa Pulisic,RW,Bayern Munich,Germany,Bundesliga,Winger
+98,Mohamed Kubo,RW,Frankfurt,Sweden,Bundesliga,Wide Playmaker
+99,Domenico Pulisic,RW,Lazio,Italy,Serie A,Winger
+100,Marco Asensio,RW,Atletico Madrid,USA,La Liga,Wide Playmaker
+101,Takefusa Dembele,RW,Monaco,France,Ligue 1,Winger
+102,Ousmane Pino,RW,Tottenham,Jamaica,Premier League,Inside Forward
+103,Jarrod Olise,RW,Bayern Munich,France,Bundesliga,Wide Playmaker
+104,Marco Olise,RW,RB Leipzig,Sweden,Bundesliga,Wide Playmaker
+105,Raphinha Goes,RW,Inter Milan,Ivory Coast,Serie A,Winger
+106,Yeremy Sane,RW,Manchester City,France,Premier League,Wide Playmaker
+107,Jarrod Kulusevski,RW,Stuttgart,England,Bundesliga,Inside Forward
+108,Bryan Berardi,RW,Liverpool,Spain,Premier League,Inside Forward
+109,Jarrod Chiesa,RW,Athletic Club,Cameroon,La Liga,Inside Forward
+110,Rodrygo Bowen,RW,Manchester City,France,Premier League,Wide Playmaker
+111,Yeremy Pino,RW,Napoli,Cameroon,Serie A,Inside Forward
+112,Marco Olise,RW,Brighton,Italy,Premier League,Wide Playmaker
+113,Leon Gnabry,RW,Inter Milan,Germany,Serie A,Winger
+114,Bukayo Gonzalez,RW,Stuttgart,Spain,Bundesliga,Winger
+115,Ousmane Sane,RW,Girona,England,La Liga,Inside Forward
+116,Takefusa Mbeumo,RW,Barcelona,Ivory Coast,La Liga,Inside Forward
+117,Serge Olise,RW,Frankfurt,Brazil,Bundesliga,Inside Forward
+118,Serge Saka,RW,Real Betis,Sweden,La Liga,Inside Forward
+119,Jarrod Gonzalez,RW,Monaco,Japan,Ligue 1,Inside Forward
+120,Mohamed Goes,RW,Bayer Leverkusen,Italy,Bundesliga,Winger
+121,Takefusa Gonzalez,RW,Manchester United,England,Premier League,Winger
+122,Marco Sane,RW,Stuttgart,Cameroon,Bundesliga,Inside Forward
+123,Bukayo Kulusevski,RW,Frankfurt,Spain,Bundesliga,Winger
+124,Jarrod Kubo,RW,Manchester United,England,Premier League,Winger
+125,Rodrygo Kulusevski,RW,Nice,France,Ligue 1,Winger
+126,Bryan Di Maria,RW,Barcelona,Egypt,La Liga,Wide Playmaker
+127,Christian Salah,RW,Brighton,Jamaica,Premier League,Inside Forward
+128,Jarrod Kulusevski,RW,Brest,Cameroon,Ligue 1,Inside Forward
+129,Federico Gnabry,RW,Real Sociedad,Spain,La Liga,Winger
+130,Rodrygo Pulisic,RW,Manchester United,Spain,Premier League,Inside Forward
+131,Rodrygo Kulusevski,RW,Manchester City,Sweden,Premier League,Inside Forward
+132,Yeremy Mbeumo,RW,PSG,Cameroon,Ligue 1,Inside Forward
+133,Michael Kulusevski,RW,Valencia,Germany,La Liga,Winger
+134,Bukayo Mbeumo,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Inside Forward
+135,Christian Pino,RW,Lazio,France,Serie A,Inside Forward
+136,Bukayo Sane,RW,Inter Milan,Italy,Serie A,Winger
+137,Yeremy Salah,RW,Nice,England,Ligue 1,Wide Playmaker
+138,Michael Gnabry,RW,Dortmund,England,Bundesliga,Wide Playmaker
+139,Mohamed Berardi,RW,Stuttgart,Egypt,Bundesliga,Inside Forward
+140,Yeremy Sane,RW,Girona,Jamaica,La Liga,Wide Playmaker
+141,Christian Saka,RW,Manchester United,Japan,Premier League,Winger
+142,Federico Gnabry,RW,Atletico Madrid,Ivory Coast,La Liga,Wide Playmaker
+143,Angel Bowen,RW,Marseille,England,Ligue 1,Wide Playmaker
+144,Takefusa Chiesa,RW,Real Madrid,Germany,La Liga,Wide Playmaker
+145,Domenico Gnabry,RW,West Ham,England,Premier League,Inside Forward
+146,Dejan Gnabry,RW,Valencia,Spain,La Liga,Winger
+147,Mohamed Dembele,RW,Athletic Club,Argentina,La Liga,Inside Forward
+148,Michael Olise,RW,Monaco,France,Ligue 1,Inside Forward
+149,Christian Sane,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+150,Christian Gnabry,RW,West Ham,Jamaica,Premier League,Inside Forward
+151,Leon Berardi,RW,Juventus,Spain,Serie A,Winger
+152,Mohamed Pino,RW,PSG,Argentina,Ligue 1,Inside Forward
+153,Leroy Asensio,RW,AC Milan,Japan,Serie A,Wide Playmaker
+154,Bukayo Salah,RW,Newcastle,Sweden,Premier League,Wide Playmaker
+155,Ousmane Gnabry,RW,Atalanta,Sweden,Serie A,Inside Forward
+156,Takefusa Mbeumo,RW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+157,Domenico Bailey,RW,Bayern Munich,Egypt,Bundesliga,Winger
+158,Takefusa Bailey,RW,Bologna,Cameroon,Serie A,Winger
+159,Bryan Saka,RW,Real Madrid,England,La Liga,Inside Forward
+160,Michael Mbeumo,RW,Dortmund,Cameroon,Bundesliga,Inside Forward
+161,Bryan Bailey,RW,Monaco,England,Ligue 1,Wide Playmaker
+162,Bryan Bowen,RW,Nice,England,Ligue 1,Winger
+163,Takefusa Kubo,RW,Monaco,Argentina,Ligue 1,Inside Forward
+164,Leroy Saka,RW,Lille,Italy,Ligue 1,Winger
+165,Marco Mbeumo,RW,Bologna,Argentina,Serie A,Inside Forward
+166,Christian Sane,RW,Manchester United,France,Premier League,Inside Forward
+167,Nicolas Olise,RW,Frankfurt,France,Bundesliga,Wide Playmaker
+168,Michael Chiesa,RW,Athletic Club,Argentina,La Liga,Inside Forward
+169,Ousmane Asensio,RW,Stuttgart,Japan,Bundesliga,Winger
+170,Domenico Bowen,RW,Stuttgart,Spain,Bundesliga,Inside Forward
+171,Bukayo Pulisic,RW,Atalanta,Egypt,Serie A,Inside Forward
+172,Takefusa Raphinha,RW,Bayern Munich,Brazil,Bundesliga,Wide Playmaker
+173,Serge Pino,RW,West Ham,France,Premier League,Wide Playmaker
+174,Michael Gnabry,RW,Valencia,Germany,La Liga,Winger
+175,Jarrod Kubo,RW,PSG,Brazil,Ligue 1,Wide Playmaker
+176,Domenico Mbeumo,RW,Lazio,Argentina,Serie A,Winger
+177,Angel Sane,RW,Stuttgart,Ivory Coast,Bundesliga,Winger
+178,Jarrod Berardi,RW,Nice,Japan,Ligue 1,Wide Playmaker
+179,Jarrod Mbeumo,RW,Atletico Madrid,Sweden,La Liga,Inside Forward
+180,Bryan Pino,RW,Frankfurt,Italy,Bundesliga,Winger
+181,Christian Kulusevski,RW,Marseille,Japan,Ligue 1,Winger
+182,Serge Bailey,RW,Bayern Munich,Argentina,Bundesliga,Winger
+183,Leroy Asensio,RW,Lyon,France,Ligue 1,Inside Forward
+184,Bryan Bowen,RW,RB Leipzig,Ivory Coast,Bundesliga,Winger
+185,Marco Raphinha,RW,Real Madrid,USA,La Liga,Inside Forward
+186,Ousmane Gonzalez,RW,Athletic Club,Spain,La Liga,Wide Playmaker
+187,Raphinha Chiesa,RW,RB Leipzig,Ivory Coast,Bundesliga,Wide Playmaker
+188,Marco Bailey,RW,Arsenal,Cameroon,Premier League,Inside Forward
+189,Leroy Salah,RW,Brest,Germany,Ligue 1,Wide Playmaker
+190,Michael Saka,RW,Bayer Leverkusen,Germany,Bundesliga,Inside Forward
+191,Dejan Asensio,RW,Inter Milan,Ivory Coast,Serie A,Winger
+192,Serge Chiesa,RW,Brighton,Japan,Premier League,Winger
+193,Angel Goes,RW,Atletico Madrid,Egypt,La Liga,Winger
+194,Christian Goes,RW,Newcastle,Jamaica,Premier League,Inside Forward
+195,Christian Pulisic,RW,Tottenham,Ivory Coast,Premier League,Wide Playmaker
+196,Federico Mbeumo,RW,Stuttgart,Brazil,Bundesliga,Inside Forward
+197,Jarrod Pulisic,RW,Real Madrid,Germany,La Liga,Wide Playmaker
+198,Leon Gnabry,RW,Lyon,Cameroon,Ligue 1,Inside Forward
+199,Leroy Goes,RW,Athletic Club,Cameroon,La Liga,Winger
+200,Takefusa Gonzalez,RW,Atalanta,France,Serie A,Wide Playmaker
+201,Takefusa Kubo,RW,Manchester City,Japan,Premier League,Wide Playmaker
+202,Dejan Raphinha,RW,Dortmund,Germany,Bundesliga,Wide Playmaker
+203,Mohamed Sane,RW,AS Roma,France,Serie A,Wide Playmaker
+204,Yeremy Kulusevski,RW,AS Roma,Italy,Serie A,Wide Playmaker
+205,Dejan Chiesa,RW,Bayern Munich,England,Bundesliga,Inside Forward
+206,Takefusa Di Maria,RW,Atletico Madrid,Spain,La Liga,Wide Playmaker
+207,Ousmane Sane,RW,Valencia,Sweden,La Liga,Winger
+208,Yeremy Saka,RW,Juventus,USA,Serie A,Winger
+209,Takefusa Goes,RW,Stuttgart,Argentina,Bundesliga,Winger
+210,Domenico Bowen,RW,AC Milan,France,Serie A,Inside Forward
+211,Nicolas Raphinha,RW,Manchester United,France,Premier League,Inside Forward
+212,Nicolas Goes,RW,Tottenham,Jamaica,Premier League,Wide Playmaker
+213,Bryan Bowen,RW,Lazio,Spain,Serie A,Winger
+214,Raphinha Goes,RW,Bologna,Jamaica,Serie A,Winger
+215,Nicolas Pulisic,RW,Valencia,England,La Liga,Inside Forward
+216,Rodrygo Pino,RW,Brest,Spain,Ligue 1,Inside Forward
+217,Marco Gonzalez,RW,Real Sociedad,England,La Liga,Wide Playmaker
+218,Christian Mbeumo,RW,Aston Villa,Spain,Premier League,Wide Playmaker
+219,Leroy Kubo,RW,Valencia,Japan,La Liga,Winger
+220,Bryan Olise,RW,AS Roma,Egypt,Serie A,Wide Playmaker
+221,Domenico Saka,RW,Monaco,Argentina,Ligue 1,Wide Playmaker
+222,Leon Pino,RW,Chelsea,Brazil,Premier League,Inside Forward
+223,Dejan Bailey,RW,Bologna,Ivory Coast,Serie A,Wide Playmaker
+224,Bukayo Pulisic,RW,Brighton,Sweden,Premier League,Inside Forward
+225,Marco Bailey,RW,Nice,Sweden,Ligue 1,Winger
+226,Jarrod Raphinha,RW,Stuttgart,Brazil,Bundesliga,Inside Forward
+227,Rodrygo Chiesa,RW,Girona,Italy,La Liga,Wide Playmaker
+228,Christian Pulisic,RW,Marseille,Japan,Ligue 1,Inside Forward
+229,Domenico Gnabry,RW,Nice,Jamaica,Ligue 1,Wide Playmaker
+230,Bryan Bowen,RW,Manchester City,Ivory Coast,Premier League,Inside Forward
+231,Ousmane Saka,RW,West Ham,Brazil,Premier League,Winger
+232,Domenico Dembele,RW,Manchester United,Italy,Premier League,Winger
+233,Bryan Gnabry,RW,Dortmund,Cameroon,Bundesliga,Wide Playmaker
+234,Angel Kubo,RW,Nice,Argentina,Ligue 1,Inside Forward
+235,Leon Kulusevski,RW,Juventus,Jamaica,Serie A,Wide Playmaker
+236,Domenico Bowen,RW,AS Roma,Sweden,Serie A,Winger
+237,Jarrod Dembele,RW,Real Madrid,Sweden,La Liga,Inside Forward
+238,Dejan Kubo,RW,Frankfurt,Brazil,Bundesliga,Winger
+239,Nicolas Sane,RW,AS Roma,Italy,Serie A,Winger
+240,Bukayo Pulisic,RW,Real Sociedad,Jamaica,La Liga,Wide Playmaker
+241,Serge Goes,RW,Bologna,Italy,Serie A,Wide Playmaker
+242,Mohamed Pino,RW,Lyon,France,Ligue 1,Winger
+243,Takefusa Dembele,RW,Napoli,Japan,Serie A,Inside Forward
+244,Raphinha Gonzalez,RW,AS Roma,Cameroon,Serie A,Winger
+245,Takefusa Olise,RW,Real Madrid,Germany,La Liga,Wide Playmaker
+246,Takefusa Sane,RW,Inter Milan,Italy,Serie A,Wide Playmaker
+247,Ousmane Raphinha,RW,Liverpool,Ivory Coast,Premier League,Wide Playmaker
+248,Raphinha Kubo,RW,Marseille,Jamaica,Ligue 1,Wide Playmaker
+249,Marco Pino,RW,Brighton,Germany,Premier League,Inside Forward
+250,Dejan Kulusevski,RW,AS Roma,Jamaica,Serie A,Inside Forward
+251,Ousmane Goes,RW,PSG,Ivory Coast,Ligue 1,Wide Playmaker
+252,Jarrod Berardi,RW,AC Milan,Brazil,Serie A,Inside Forward
+253,Rodrygo Di Maria,RW,West Ham,France,Premier League,Inside Forward
+254,Serge Asensio,RW,Lille,France,Ligue 1,Inside Forward
+255,Mohamed Gnabry,RW,Real Betis,Germany,La Liga,Wide Playmaker
+256,Bukayo Goes,RW,Arsenal,USA,Premier League,Wide Playmaker
+257,Nicolas Pino,RW,Bayern Munich,Jamaica,Bundesliga,Wide Playmaker
+258,Michael Pulisic,RW,Real Sociedad,England,La Liga,Inside Forward
+259,Angel Pulisic,RW,Newcastle,Ivory Coast,Premier League,Winger
+260,Angel Di Maria,RW,Real Sociedad,Germany,La Liga,Winger
+261,Rodrygo Pulisic,RW,PSG,USA,Ligue 1,Inside Forward
+262,Federico Kubo,RW,Athletic Club,Germany,La Liga,Winger
+263,Bukayo Saka,RW,Tottenham,Spain,Premier League,Winger
+264,Leon Asensio,RW,Bayer Leverkusen,Jamaica,Bundesliga,Wide Playmaker
+265,Marco Mbeumo,RW,Lazio,Sweden,Serie A,Inside Forward
+266,Jarrod Salah,RW,Lazio,USA,Serie A,Wide Playmaker
+267,Ousmane Gnabry,RW,Atletico Madrid,Argentina,La Liga,Winger
+268,Leroy Kubo,RW,Lazio,Cameroon,Serie A,Inside Forward
+269,Takefusa Gonzalez,RW,Atletico Madrid,Spain,La Liga,Inside Forward
+270,Bukayo Bailey,RW,Monaco,France,Ligue 1,Wide Playmaker
+271,Federico Raphinha,RW,Atalanta,USA,Serie A,Inside Forward
+272,Dejan Kubo,RW,Real Madrid,France,La Liga,Inside Forward
+273,Takefusa Gnabry,RW,Bayern Munich,Jamaica,Bundesliga,Wide Playmaker
+274,Marco Asensio,RW,Aston Villa,Jamaica,Premier League,Inside Forward
+275,Christian Di Maria,RW,Marseille,Cameroon,Ligue 1,Winger
+276,Takefusa Mbeumo,RW,Juventus,Egypt,Serie A,Inside Forward
+277,Angel Raphinha,RW,AS Roma,Sweden,Serie A,Inside Forward
+278,Mohamed Di Maria,RW,Arsenal,Ivory Coast,Premier League,Wide Playmaker
+279,Marco Gonzalez,RW,Manchester United,England,Premier League,Wide Playmaker
+280,Serge Pino,RW,Bayer Leverkusen,Japan,Bundesliga,Inside Forward
+281,Leon Kulusevski,RW,Liverpool,Brazil,Premier League,Wide Playmaker
+282,Christian Pulisic,RW,Atalanta,Argentina,Serie A,Inside Forward
+283,Ousmane Berardi,RW,Real Sociedad,France,La Liga,Winger
+284,Bryan Raphinha,RW,Real Madrid,Jamaica,La Liga,Wide Playmaker
+285,Takefusa Berardi,RW,Lille,Germany,Ligue 1,Winger
+286,Leon Salah,RW,Bologna,France,Serie A,Inside Forward
+287,Leon Bailey,RW,Manchester United,Brazil,Premier League,Inside Forward
+288,Dejan Kulusevski,RW,Bayer Leverkusen,Brazil,Bundesliga,Winger
+289,Takefusa Gonzalez,RW,Real Betis,Germany,La Liga,Wide Playmaker
+290,Domenico Kubo,RW,Nice,Spain,Ligue 1,Wide Playmaker
+291,Leroy Pulisic,RW,Lille,Italy,Ligue 1,Wide Playmaker
+292,Marco Pino,RW,Frankfurt,Egypt,Bundesliga,Wide Playmaker
+293,Ousmane Goes,RW,RB Leipzig,Japan,Bundesliga,Wide Playmaker
+294,Nicolas Asensio,RW,Manchester City,Spain,Premier League,Winger
+295,Dejan Mbeumo,RW,Newcastle,Jamaica,Premier League,Wide Playmaker
+296,Jarrod Sane,RW,Brest,Cameroon,Ligue 1,Winger
+297,Rodrygo Sane,RW,Juventus,England,Serie A,Inside Forward
+298,Nicolas Olise,RW,Girona,Argentina,La Liga,Winger
+299,Jarrod Mbeumo,RW,Bologna,England,Serie A,Winger
+300,Domenico Chiesa,RW,Marseille,Argentina,Ligue 1,Wide Playmaker
+301,Jarrod Mbeumo,RW,Bayern Munich,Germany,Bundesliga,Wide Playmaker
+302,Leroy Saka,RW,AC Milan,France,Serie A,Wide Playmaker
+303,Nicolas Mbeumo,RW,Atletico Madrid,Germany,La Liga,Inside Forward
+304,Bukayo Bowen,RW,Aston Villa,Argentina,Premier League,Wide Playmaker
+305,Rodrygo Pino,RW,AC Milan,England,Serie A,Inside Forward
+306,Raphinha Kubo,RW,Tottenham,Germany,Premier League,Winger
+307,Leon Berardi,RW,Brest,Italy,Ligue 1,Winger
+308,Mohamed Di Maria,RW,Real Betis,England,La Liga,Winger
+309,Angel Goes,RW,Monaco,Japan,Ligue 1,Wide Playmaker
+310,Michael Sane,RW,Bayern Munich,England,Bundesliga,Winger
+311,Leon Pulisic,RW,Real Sociedad,Cameroon,La Liga,Winger
+312,Domenico Bailey,RW,Lyon,France,Ligue 1,Inside Forward
+313,Angel Gonzalez,RW,Liverpool,Brazil,Premier League,Wide Playmaker
+314,Raphinha Kubo,RW,Aston Villa,Jamaica,Premier League,Winger
+315,Nicolas Gonzalez,RW,Monaco,Ivory Coast,Ligue 1,Winger
+316,Federico Pino,RW,Lazio,Sweden,Serie A,Winger
+317,Bukayo Sane,RW,Marseille,Spain,Ligue 1,Inside Forward
+318,Jarrod Berardi,RW,Brighton,England,Premier League,Winger
+319,Domenico Pulisic,RW,Bologna,Spain,Serie A,Winger
+320,Marco Kubo,RW,Lazio,France,Serie A,Wide Playmaker
+321,Michael Di Maria,RW,Monaco,USA,Ligue 1,Winger
+322,Jarrod Sane,RW,Frankfurt,Sweden,Bundesliga,Winger
+323,Serge Kulusevski,RW,Manchester City,Germany,Premier League,Inside Forward
+324,Christian Salah,RW,Lille,Japan,Ligue 1,Inside Forward
+325,Ousmane Chiesa,RW,Girona,Egypt,La Liga,Winger
+326,Rodrygo Olise,RW,Chelsea,Spain,Premier League,Inside Forward
+327,Mohamed Berardi,RW,Newcastle,Jamaica,Premier League,Winger
+328,Leroy Gnabry,RW,Nice,Brazil,Ligue 1,Winger
+329,Nicolas Kulusevski,RW,Inter Milan,Ivory Coast,Serie A,Winger
+330,Marco Asensio,RW,Atletico Madrid,Cameroon,La Liga,Wide Playmaker
+331,Ousmane Olise,RW,Girona,Argentina,La Liga,Winger
+332,Serge Asensio,RW,Atletico Madrid,England,La Liga,Inside Forward
+333,Serge Kubo,RW,Atalanta,France,Serie A,Inside Forward
+334,Nicolas Olise,RW,AS Roma,Spain,Serie A,Inside Forward
+335,Leroy Dembele,RW,Barcelona,Japan,La Liga,Inside Forward
+336,Takefusa Asensio,RW,Bayer Leverkusen,Cameroon,Bundesliga,Wide Playmaker
+337,Bryan Pulisic,RW,Dortmund,Japan,Bundesliga,Winger
+338,Christian Pino,RW,Marseille,Cameroon,Ligue 1,Wide Playmaker
+339,Nicolas Bailey,RW,Napoli,Jamaica,Serie A,Winger
+340,Leroy Olise,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+341,Mohamed Raphinha,RW,Bayern Munich,France,Bundesliga,Inside Forward
+342,Marco Gonzalez,RW,West Ham,Cameroon,Premier League,Winger
+343,Mohamed Pulisic,RW,Aston Villa,Germany,Premier League,Winger
+344,Michael Saka,RW,Barcelona,Sweden,La Liga,Inside Forward
+345,Bukayo Sane,RW,Real Madrid,Japan,La Liga,Winger
+346,Takefusa Olise,RW,RB Leipzig,Cameroon,Bundesliga,Wide Playmaker
+347,Federico Goes,RW,Bologna,Spain,Serie A,Inside Forward
+348,Jarrod Saka,RW,Chelsea,Italy,Premier League,Winger
+349,Raphinha Asensio,RW,Bologna,Japan,Serie A,Wide Playmaker
+350,Rodrygo Salah,RW,Aston Villa,Sweden,Premier League,Inside Forward
+351,Serge Bailey,RW,Bayern Munich,Ivory Coast,Bundesliga,Winger
+352,Yeremy Bailey,RW,AS Roma,Italy,Serie A,Winger
+353,Bryan Sane,RW,RB Leipzig,Cameroon,Bundesliga,Inside Forward
+354,Bryan Pulisic,RW,Liverpool,Argentina,Premier League,Winger
+355,Bryan Kulusevski,RW,Real Madrid,Japan,La Liga,Inside Forward
+356,Domenico Pulisic,RW,AS Roma,Jamaica,Serie A,Wide Playmaker
+357,Takefusa Pulisic,RW,Bologna,England,Serie A,Wide Playmaker
+358,Domenico Asensio,RW,Lille,Italy,Ligue 1,Wide Playmaker
+359,Nicolas Goes,RW,Brest,Japan,Ligue 1,Winger
+360,Leon Asensio,RW,Atletico Madrid,Argentina,La Liga,Wide Playmaker
+361,Mohamed Chiesa,RW,Real Madrid,Egypt,La Liga,Winger
+362,Marco Olise,RW,Brest,Sweden,Ligue 1,Winger
+363,Bryan Bailey,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+364,Ousmane Di Maria,RW,Atletico Madrid,Sweden,La Liga,Inside Forward
+365,Jarrod Raphinha,RW,RB Leipzig,Ivory Coast,Bundesliga,Inside Forward
+366,Christian Pulisic,RW,Aston Villa,Argentina,Premier League,Wide Playmaker
+367,Mohamed Di Maria,RW,Napoli,Germany,Serie A,Winger
+368,Angel Sane,RW,Girona,Egypt,La Liga,Winger
+369,Domenico Salah,RW,Valencia,Argentina,La Liga,Inside Forward
+370,Ousmane Dembele,RW,Real Madrid,Germany,La Liga,Inside Forward
+371,Takefusa Gnabry,RW,Aston Villa,Spain,Premier League,Wide Playmaker
+372,Christian Bowen,RW,Stuttgart,Germany,Bundesliga,Wide Playmaker
+373,Bryan Gonzalez,RW,Brest,England,Ligue 1,Wide Playmaker
+374,Leroy Gonzalez,RW,Athletic Club,England,La Liga,Wide Playmaker
+375,Leroy Asensio,RW,Manchester City,Italy,Premier League,Winger
+376,Ousmane Olise,RW,Stuttgart,Egypt,Bundesliga,Inside Forward
+377,Christian Saka,RW,Frankfurt,Cameroon,Bundesliga,Winger
+378,Domenico Pulisic,RW,Stuttgart,Italy,Bundesliga,Inside Forward
+379,Jarrod Pino,RW,Bayer Leverkusen,Egypt,Bundesliga,Wide Playmaker
+380,Takefusa Gnabry,RW,Stuttgart,England,Bundesliga,Winger
+381,Ousmane Salah,RW,Atalanta,Egypt,Serie A,Inside Forward
+382,Nicolas Kubo,RW,RB Leipzig,Argentina,Bundesliga,Wide Playmaker
+383,Ousmane Olise,RW,Lazio,Egypt,Serie A,Inside Forward
+384,Nicolas Asensio,RW,Nice,France,Ligue 1,Inside Forward
+385,Michael Berardi,RW,Juventus,Ivory Coast,Serie A,Inside Forward
+386,Leon Kulusevski,RW,Bayer Leverkusen,Argentina,Bundesliga,Wide Playmaker
+387,Leroy Pulisic,RW,Monaco,USA,Ligue 1,Inside Forward
+388,Leroy Berardi,RW,Marseille,USA,Ligue 1,Wide Playmaker
+389,Federico Raphinha,RW,PSG,Italy,Ligue 1,Inside Forward
+390,Serge Bailey,RW,Bayern Munich,Jamaica,Bundesliga,Inside Forward
+391,Takefusa Bailey,RW,Brest,Italy,Ligue 1,Wide Playmaker
+392,Ousmane Berardi,RW,Inter Milan,England,Serie A,Wide Playmaker
+393,Leroy Pulisic,RW,Lyon,Cameroon,Ligue 1,Wide Playmaker
+394,Serge Pulisic,RW,AC Milan,Cameroon,Serie A,Wide Playmaker
+395,Raphinha Pino,RW,Girona,Italy,La Liga,Winger
+396,Angel Saka,RW,Dortmund,Cameroon,Bundesliga,Winger
+397,Nicolas Bowen,RW,Manchester City,Italy,Premier League,Winger
+398,Domenico Salah,RW,Bayer Leverkusen,Italy,Bundesliga,Winger
+399,Angel Gnabry,RW,Stuttgart,USA,Bundesliga,Inside Forward
+400,Angel Asensio,RW,Bayer Leverkusen,England,Bundesliga,Winger
+401,Angel Bowen,RW,Lazio,France,Serie A,Winger
+402,Ousmane Kubo,RW,Aston Villa,Egypt,Premier League,Wide Playmaker
+403,Bryan Bowen,RW,Lille,Brazil,Ligue 1,Wide Playmaker
+404,Takefusa Sane,RW,Real Betis,Cameroon,La Liga,Wide Playmaker
+405,Jarrod Kubo,RW,AS Roma,Cameroon,Serie A,Winger
+406,Federico Pino,RW,Lyon,Argentina,Ligue 1,Inside Forward
+407,Christian Goes,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Wide Playmaker
+408,Takefusa Gonzalez,RW,AC Milan,England,Serie A,Winger
+409,Takefusa Olise,RW,Athletic Club,Cameroon,La Liga,Wide Playmaker
+410,Angel Berardi,RW,RB Leipzig,Cameroon,Bundesliga,Inside Forward
+411,Angel Dembele,RW,Nice,Egypt,Ligue 1,Wide Playmaker
+412,Bukayo Sane,RW,Bayern Munich,England,Bundesliga,Inside Forward
+413,Leroy Berardi,RW,PSG,Germany,Ligue 1,Winger
+414,Serge Pulisic,RW,Liverpool,Spain,Premier League,Wide Playmaker
+415,Leroy Goes,RW,Atalanta,USA,Serie A,Wide Playmaker
+416,Christian Di Maria,RW,Atletico Madrid,Jamaica,La Liga,Winger
+417,Christian Salah,RW,Manchester City,Argentina,Premier League,Winger
+418,Marco Di Maria,RW,Atletico Madrid,Cameroon,La Liga,Inside Forward
+419,Federico Gonzalez,RW,Manchester United,England,Premier League,Inside Forward
+420,Rodrygo Berardi,RW,Real Madrid,USA,La Liga,Winger
+421,Jarrod Salah,RW,Liverpool,Germany,Premier League,Inside Forward
+422,Bukayo Kubo,RW,Lyon,France,Ligue 1,Wide Playmaker
+423,Nicolas Saka,RW,Frankfurt,Cameroon,Bundesliga,Inside Forward
+424,Bryan Dembele,RW,Lyon,Cameroon,Ligue 1,Winger
+425,Leroy Gnabry,RW,Lyon,Italy,Ligue 1,Wide Playmaker
+426,Christian Asensio,RW,Bayer Leverkusen,USA,Bundesliga,Inside Forward
+427,Leroy Pulisic,RW,Atletico Madrid,Jamaica,La Liga,Inside Forward
+428,Bukayo Pino,RW,Atletico Madrid,Japan,La Liga,Winger
+429,Nicolas Kulusevski,RW,Lazio,England,Serie A,Wide Playmaker
+430,Leon Chiesa,RW,AS Roma,USA,Serie A,Inside Forward
+431,Yeremy Mbeumo,RW,Brest,England,Ligue 1,Inside Forward
+432,Christian Raphinha,RW,Bologna,Sweden,Serie A,Winger
+433,Takefusa Kulusevski,RW,Real Madrid,Brazil,La Liga,Winger
+434,Takefusa Salah,RW,PSG,Argentina,Ligue 1,Wide Playmaker
+435,Yeremy Di Maria,RW,Chelsea,Jamaica,Premier League,Winger
+436,Angel Di Maria,RW,Liverpool,England,Premier League,Winger
+437,Yeremy Sane,RW,Juventus,Jamaica,Serie A,Wide Playmaker
+438,Nicolas Olise,RW,Bayern Munich,Spain,Bundesliga,Inside Forward
+439,Mohamed Raphinha,RW,Arsenal,England,Premier League,Winger
+440,Jarrod Mbeumo,RW,Brighton,Japan,Premier League,Inside Forward
+441,Domenico Pulisic,RW,Barcelona,Cameroon,La Liga,Winger
+442,Leon Asensio,RW,Valencia,Spain,La Liga,Wide Playmaker
+443,Marco Dembele,RW,Real Madrid,Argentina,La Liga,Wide Playmaker
+444,Raphinha Gonzalez,RW,Frankfurt,France,Bundesliga,Wide Playmaker
+445,Dejan Kulusevski,RW,Girona,Cameroon,La Liga,Winger
+446,Leroy Asensio,RW,West Ham,USA,Premier League,Inside Forward
+447,Mohamed Mbeumo,RW,Brighton,Brazil,Premier League,Inside Forward
+448,Bryan Pino,RW,Newcastle,Cameroon,Premier League,Inside Forward
+449,Dejan Pulisic,RW,Valencia,Japan,La Liga,Winger
+450,Nicolas Raphinha,RW,Manchester United,Cameroon,Premier League,Wide Playmaker
+451,Domenico Saka,RW,Lyon,France,Ligue 1,Wide Playmaker
+452,Takefusa Di Maria,RW,Bayer Leverkusen,USA,Bundesliga,Inside Forward
+453,Christian Chiesa,RW,West Ham,Sweden,Premier League,Winger
+454,Rodrygo Goes,RW,Bologna,Spain,Serie A,Inside Forward
+455,Ousmane Kulusevski,RW,Frankfurt,Egypt,Bundesliga,Wide Playmaker
+456,Yeremy Chiesa,RW,Manchester United,England,Premier League,Wide Playmaker
+457,Nicolas Pino,RW,Lazio,England,Serie A,Winger
+458,Federico Goes,RW,Lille,Brazil,Ligue 1,Wide Playmaker
+459,Jarrod Salah,RW,Atalanta,Cameroon,Serie A,Winger
+460,Dejan Sane,RW,Bologna,Egypt,Serie A,Inside Forward
+461,Yeremy Bowen,RW,Bayer Leverkusen,Brazil,Bundesliga,Winger
+462,Dejan Bowen,RW,Girona,USA,La Liga,Winger
+463,Raphinha Bailey,RW,Monaco,Brazil,Ligue 1,Wide Playmaker
+464,Dejan Salah,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+465,Bryan Dembele,RW,Juventus,Egypt,Serie A,Wide Playmaker
+466,Yeremy Gonzalez,RW,Inter Milan,Ivory Coast,Serie A,Winger
+467,Rodrygo Kulusevski,RW,Manchester United,Brazil,Premier League,Wide Playmaker
+468,Dejan Olise,RW,Lyon,Jamaica,Ligue 1,Inside Forward
+469,Rodrygo Sane,RW,Stuttgart,Spain,Bundesliga,Wide Playmaker
+470,Domenico Raphinha,RW,Napoli,Germany,Serie A,Winger
+471,Raphinha Goes,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+472,Jarrod Asensio,RW,PSG,USA,Ligue 1,Inside Forward
+473,Takefusa Mbeumo,RW,Monaco,Sweden,Ligue 1,Wide Playmaker
+474,Bryan Raphinha,RW,Dortmund,England,Bundesliga,Inside Forward
+475,Nicolas Gnabry,RW,Tottenham,Egypt,Premier League,Wide Playmaker
+476,Ousmane Saka,RW,Atalanta,Japan,Serie A,Wide Playmaker
+477,Rodrygo Kulusevski,RW,Atletico Madrid,Ivory Coast,La Liga,Winger
+478,Marco Mbeumo,RW,Girona,Jamaica,La Liga,Inside Forward
+479,Angel Di Maria,RW,Atalanta,England,Serie A,Wide Playmaker
+480,Yeremy Kulusevski,RW,Girona,Cameroon,La Liga,Wide Playmaker
+481,Angel Asensio,RW,Brest,England,Ligue 1,Inside Forward
+482,Domenico Saka,RW,Marseille,Sweden,Ligue 1,Winger
+483,Raphinha Berardi,RW,Chelsea,England,Premier League,Inside Forward
+484,Angel Mbeumo,RW,Real Madrid,Argentina,La Liga,Wide Playmaker
+485,Mohamed Salah,RW,Lazio,England,Serie A,Winger
+486,Leon Salah,RW,Atalanta,Italy,Serie A,Inside Forward
+487,Michael Pino,RW,Valencia,Ivory Coast,La Liga,Inside Forward
+488,Serge Kubo,RW,Girona,Brazil,La Liga,Inside Forward
+489,Yeremy Salah,RW,Dortmund,France,Bundesliga,Inside Forward
+490,Bryan Kubo,RW,Valencia,USA,La Liga,Inside Forward
+491,Takefusa Berardi,RW,PSG,USA,Ligue 1,Winger
+492,Dejan Pulisic,RW,PSG,France,Ligue 1,Wide Playmaker
+493,Domenico Bowen,RW,Lyon,Brazil,Ligue 1,Inside Forward
+494,Yeremy Di Maria,RW,AC Milan,USA,Serie A,Winger
+495,Angel Pino,RW,Real Sociedad,Jamaica,La Liga,Inside Forward
+496,Michael Kulusevski,RW,Real Sociedad,Spain,La Liga,Winger
+497,Christian Saka,RW,Liverpool,Italy,Premier League,Wide Playmaker
+498,Jarrod Chiesa,RW,Real Madrid,USA,La Liga,Winger
+499,Raphinha Saka,RW,Lyon,Cameroon,Ligue 1,Wide Playmaker
+500,Rodrygo Berardi,RW,Manchester United,Japan,Premier League,Wide Playmaker
+501,Mohamed Mbeumo,RW,Brighton,Spain,Premier League,Inside Forward
+502,Bryan Goes,RW,Barcelona,England,La Liga,Inside Forward
+503,Jarrod Sane,RW,Marseille,Japan,Ligue 1,Wide Playmaker
+504,Mohamed Mbeumo,RW,Chelsea,Egypt,Premier League,Wide Playmaker
+505,Christian Pulisic,RW,Aston Villa,Egypt,Premier League,Winger
+506,Ousmane Berardi,RW,Lazio,Italy,Serie A,Winger
+507,Federico Dembele,RW,AC Milan,Ivory Coast,Serie A,Wide Playmaker
+508,Domenico Goes,RW,Bayer Leverkusen,Brazil,Bundesliga,Wide Playmaker
+509,Jarrod Di Maria,RW,Atletico Madrid,Germany,La Liga,Wide Playmaker
+510,Nicolas Dembele,RW,Manchester City,Brazil,Premier League,Winger
+511,Federico Pino,RW,Stuttgart,Japan,Bundesliga,Winger
+512,Bukayo Saka,RW,Chelsea,England,Premier League,Inside Forward
+513,Nicolas Kulusevski,RW,Real Sociedad,Spain,La Liga,Wide Playmaker
+514,Marco Asensio,RW,Brighton,Ivory Coast,Premier League,Winger
+515,Rodrygo Kubo,RW,PSG,Spain,Ligue 1,Winger
+516,Rodrygo Dembele,RW,Lyon,USA,Ligue 1,Inside Forward
+517,Raphinha Pulisic,RW,Manchester United,Spain,Premier League,Inside Forward
+518,Dejan Raphinha,RW,Bayer Leverkusen,France,Bundesliga,Wide Playmaker
+519,Federico Olise,RW,Inter Milan,Italy,Serie A,Inside Forward
+520,Domenico Bowen,RW,AS Roma,Cameroon,Serie A,Wide Playmaker
+521,Marco Kulusevski,RW,PSG,France,Ligue 1,Inside Forward
+522,Angel Pino,RW,Liverpool,USA,Premier League,Winger
+523,Jarrod Salah,RW,Lyon,Ivory Coast,Ligue 1,Wide Playmaker
+524,Leroy Saka,RW,West Ham,Sweden,Premier League,Winger
+525,Marco Mbeumo,RW,Dortmund,Japan,Bundesliga,Inside Forward
+526,Leroy Kulusevski,RW,Nice,France,Ligue 1,Winger
+527,Leroy Gnabry,RW,Real Sociedad,Argentina,La Liga,Wide Playmaker
+528,Domenico Olise,RW,Barcelona,France,La Liga,Winger
+529,Leon Raphinha,RW,Dortmund,France,Bundesliga,Wide Playmaker
+530,Federico Bailey,RW,Barcelona,Sweden,La Liga,Wide Playmaker
+531,Dejan Bowen,RW,Frankfurt,Spain,Bundesliga,Inside Forward
+532,Mohamed Bowen,RW,Tottenham,Argentina,Premier League,Winger
+533,Serge Olise,RW,Manchester United,Argentina,Premier League,Wide Playmaker
+534,Bukayo Bowen,RW,Lyon,USA,Ligue 1,Wide Playmaker
+535,Marco Saka,RW,Nice,Sweden,Ligue 1,Inside Forward
+536,Takefusa Di Maria,RW,Brighton,Spain,Premier League,Winger
+537,Christian Bailey,RW,Chelsea,Italy,Premier League,Wide Playmaker
+538,Nicolas Di Maria,RW,Dortmund,Cameroon,Bundesliga,Inside Forward
+539,Takefusa Chiesa,RW,Atalanta,Cameroon,Serie A,Wide Playmaker
+540,Christian Gonzalez,RW,PSG,USA,Ligue 1,Inside Forward
+541,Marco Goes,RW,Dortmund,England,Bundesliga,Inside Forward
+542,Raphinha Goes,RW,Monaco,Italy,Ligue 1,Winger
+543,Leon Kubo,RW,Nice,England,Ligue 1,Winger
+544,Bryan Raphinha,RW,AC Milan,England,Serie A,Inside Forward
+545,Jarrod Olise,RW,Stuttgart,Egypt,Bundesliga,Winger
+546,Bryan Asensio,RW,Bologna,Argentina,Serie A,Inside Forward
+547,Leon Gonzalez,RW,Athletic Club,Cameroon,La Liga,Inside Forward
+548,Domenico Bailey,RW,West Ham,France,Premier League,Winger
+549,Serge Kubo,RW,Lille,Brazil,Ligue 1,Inside Forward
+550,Bryan Bowen,RW,Atletico Madrid,Cameroon,La Liga,Wide Playmaker
+551,Domenico Gonzalez,RW,Inter Milan,Argentina,Serie A,Wide Playmaker
+552,Mohamed Mbeumo,RW,Athletic Club,Spain,La Liga,Inside Forward
+553,Mohamed Pulisic,RW,Manchester City,Japan,Premier League,Wide Playmaker
+554,Leroy Gnabry,RW,Real Betis,Brazil,La Liga,Winger
+555,Federico Gonzalez,RW,Brest,Jamaica,Ligue 1,Wide Playmaker
+556,Takefusa Saka,RW,Arsenal,Egypt,Premier League,Wide Playmaker
+557,Leroy Saka,RW,Napoli,Japan,Serie A,Winger
+558,Leroy Dembele,RW,Stuttgart,France,Bundesliga,Wide Playmaker
+559,Angel Raphinha,RW,Liverpool,Sweden,Premier League,Inside Forward
+560,Nicolas Bailey,RW,Bayern Munich,France,Bundesliga,Winger
+561,Ousmane Saka,RW,Napoli,Sweden,Serie A,Wide Playmaker
+562,Federico Kubo,RW,Stuttgart,Germany,Bundesliga,Inside Forward
+563,Yeremy Raphinha,RW,Barcelona,Spain,La Liga,Wide Playmaker
+564,Takefusa Sane,RW,Real Madrid,Jamaica,La Liga,Inside Forward
+565,Leon Bowen,RW,Atletico Madrid,Jamaica,La Liga,Inside Forward
+566,Marco Pulisic,RW,Lille,Ivory Coast,Ligue 1,Winger
+567,Rodrygo Gnabry,RW,Bologna,Cameroon,Serie A,Wide Playmaker
+568,Leroy Bowen,RW,PSG,Italy,Ligue 1,Wide Playmaker
+569,Jarrod Kulusevski,RW,Lazio,France,Serie A,Wide Playmaker
+570,Federico Chiesa,RW,Lille,Argentina,Ligue 1,Winger
+571,Domenico Gnabry,RW,Valencia,Ivory Coast,La Liga,Inside Forward
+572,Bukayo Bailey,RW,Lazio,Germany,Serie A,Inside Forward
+573,Marco Kulusevski,RW,Chelsea,Egypt,Premier League,Winger
+574,Bryan Bowen,RW,Newcastle,England,Premier League,Winger
+575,Takefusa Asensio,RW,West Ham,Brazil,Premier League,Winger
+576,Domenico Kubo,RW,AC Milan,Germany,Serie A,Inside Forward
+577,Leroy Salah,RW,Inter Milan,Japan,Serie A,Wide Playmaker
+578,Nicolas Asensio,RW,Manchester United,England,Premier League,Winger
+579,Nicolas Mbeumo,RW,Nice,Sweden,Ligue 1,Winger
+580,Dejan Olise,RW,Napoli,Germany,Serie A,Winger
+581,Yeremy Gnabry,RW,AC Milan,Cameroon,Serie A,Winger
+582,Bryan Salah,RW,Inter Milan,Japan,Serie A,Inside Forward
+583,Domenico Dembele,RW,Dortmund,USA,Bundesliga,Wide Playmaker
+584,Christian Pulisic,RW,Inter Milan,Egypt,Serie A,Inside Forward
+585,Serge Dembele,RW,Brest,England,Ligue 1,Winger
+586,Yeremy Sane,RW,Chelsea,Brazil,Premier League,Winger
+587,Angel Goes,RW,Brighton,Germany,Premier League,Winger
+588,Dejan Gnabry,RW,West Ham,USA,Premier League,Winger
+589,Yeremy Mbeumo,RW,Monaco,England,Ligue 1,Inside Forward
+590,Jarrod Mbeumo,RW,Dortmund,Argentina,Bundesliga,Winger
+591,Takefusa Kubo,RW,RB Leipzig,Ivory Coast,Bundesliga,Inside Forward
+592,Takefusa Olise,RW,Girona,Jamaica,La Liga,Winger
+593,Leon Bailey,RW,Lille,Germany,Ligue 1,Inside Forward
+594,Serge Dembele,RW,Lyon,USA,Ligue 1,Inside Forward
+595,Mohamed Kubo,RW,Atletico Madrid,England,La Liga,Winger
+596,Mohamed Pulisic,RW,Frankfurt,Sweden,Bundesliga,Wide Playmaker
+597,Nicolas Gnabry,RW,Arsenal,England,Premier League,Wide Playmaker
+598,Rodrygo Olise,RW,Bayer Leverkusen,Cameroon,Bundesliga,Wide Playmaker
+599,Marco Di Maria,RW,Chelsea,Jamaica,Premier League,Inside Forward
+600,Rodrygo Kulusevski,RW,Liverpool,Italy,Premier League,Inside Forward
+601,Domenico Gonzalez,RW,Arsenal,Ivory Coast,Premier League,Winger
+602,Nicolas Berardi,RW,Atletico Madrid,Italy,La Liga,Wide Playmaker
+603,Serge Gnabry,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+604,Serge Mbeumo,RW,Real Sociedad,England,La Liga,Inside Forward
+605,Bukayo Chiesa,RW,RB Leipzig,Cameroon,Bundesliga,Wide Playmaker
+606,Takefusa Kubo,RW,RB Leipzig,France,Bundesliga,Winger
+607,Domenico Bailey,RW,Barcelona,Jamaica,La Liga,Winger
+608,Yeremy Saka,RW,Nice,Japan,Ligue 1,Winger
+609,Bryan Di Maria,RW,West Ham,Brazil,Premier League,Inside Forward
+610,Federico Berardi,RW,Stuttgart,England,Bundesliga,Wide Playmaker
+611,Christian Bailey,RW,Tottenham,Italy,Premier League,Inside Forward
+612,Leon Di Maria,RW,AS Roma,USA,Serie A,Inside Forward
+613,Dejan Bowen,RW,Inter Milan,Cameroon,Serie A,Winger
+614,Domenico Berardi,RW,West Ham,Germany,Premier League,Winger
+615,Leon Di Maria,RW,Barcelona,England,La Liga,Wide Playmaker
+616,Raphinha Salah,RW,Inter Milan,Italy,Serie A,Winger
+617,Serge Berardi,RW,Valencia,Jamaica,La Liga,Inside Forward
+618,Nicolas Olise,RW,Girona,Jamaica,La Liga,Winger
+619,Jarrod Asensio,RW,Nice,Ivory Coast,Ligue 1,Wide Playmaker
+620,Mohamed Kubo,RW,Girona,Egypt,La Liga,Wide Playmaker
+621,Ousmane Gonzalez,RW,Brighton,England,Premier League,Wide Playmaker
+622,Christian Dembele,RW,Arsenal,Germany,Premier League,Winger
+623,Leon Saka,RW,Lille,Italy,Ligue 1,Wide Playmaker
+624,Federico Salah,RW,Atalanta,Egypt,Serie A,Wide Playmaker
+625,Bukayo Pino,RW,Lyon,Spain,Ligue 1,Inside Forward
+626,Bukayo Olise,RW,Girona,USA,La Liga,Winger
+627,Serge Gnabry,RW,Nice,Brazil,Ligue 1,Wide Playmaker
+628,Nicolas Gonzalez,RW,Stuttgart,Ivory Coast,Bundesliga,Winger
+629,Yeremy Dembele,RW,Chelsea,Cameroon,Premier League,Winger
+630,Leroy Bailey,RW,Valencia,Ivory Coast,La Liga,Wide Playmaker
+631,Bukayo Berardi,RW,Brest,Ivory Coast,Ligue 1,Inside Forward
+632,Leon Asensio,RW,Bologna,USA,Serie A,Winger
+633,Ousmane Bailey,RW,Newcastle,Ivory Coast,Premier League,Inside Forward
+634,Angel Sane,RW,Frankfurt,Cameroon,Bundesliga,Winger
+635,Domenico Pino,RW,Monaco,Germany,Ligue 1,Inside Forward
+636,Marco Bowen,RW,Lazio,USA,Serie A,Winger
+637,Mohamed Berardi,RW,Brest,France,Ligue 1,Wide Playmaker
+638,Takefusa Chiesa,RW,Stuttgart,Jamaica,Bundesliga,Inside Forward
+639,Leroy Gonzalez,RW,Manchester United,Jamaica,Premier League,Inside Forward
+640,Domenico Gonzalez,RW,Stuttgart,Cameroon,Bundesliga,Wide Playmaker
+641,Nicolas Salah,RW,West Ham,Ivory Coast,Premier League,Wide Playmaker
+642,Christian Olise,RW,Marseille,England,Ligue 1,Winger
+643,Jarrod Mbeumo,RW,Bayer Leverkusen,USA,Bundesliga,Winger
+644,Bukayo Kubo,RW,West Ham,Brazil,Premier League,Wide Playmaker
+645,Christian Pino,RW,Brest,Cameroon,Ligue 1,Wide Playmaker
+646,Leon Mbeumo,RW,Bayern Munich,England,Bundesliga,Wide Playmaker
+647,Domenico Chiesa,RW,Bayern Munich,Egypt,Bundesliga,Winger
+648,Jarrod Kubo,RW,AS Roma,Cameroon,Serie A,Winger
+649,Federico Pino,RW,PSG,Egypt,Ligue 1,Wide Playmaker
+650,Marco Chiesa,RW,Lille,Ivory Coast,Ligue 1,Winger
+651,Leroy Olise,RW,AS Roma,Japan,Serie A,Winger
+652,Mohamed Gnabry,RW,Nice,Spain,Ligue 1,Winger
+653,Marco Kubo,RW,Valencia,Japan,La Liga,Inside Forward
+654,Federico Pino,RW,Marseille,Ivory Coast,Ligue 1,Wide Playmaker
+655,Yeremy Kulusevski,RW,Valencia,Germany,La Liga,Winger
+656,Bukayo Di Maria,RW,West Ham,Italy,Premier League,Wide Playmaker
+657,Angel Raphinha,RW,Newcastle,Cameroon,Premier League,Winger
+658,Michael Pino,RW,AS Roma,England,Serie A,Inside Forward
+659,Ousmane Gnabry,RW,Inter Milan,England,Serie A,Inside Forward
+660,Leon Bowen,RW,West Ham,USA,Premier League,Winger
+661,Rodrygo Mbeumo,RW,Real Sociedad,Cameroon,La Liga,Inside Forward
+662,Serge Kulusevski,RW,Brighton,Ivory Coast,Premier League,Wide Playmaker
+663,Federico Di Maria,RW,Real Madrid,Germany,La Liga,Wide Playmaker
+664,Marco Gonzalez,RW,Real Sociedad,Sweden,La Liga,Winger
+665,Leroy Sane,RW,Atalanta,Spain,Serie A,Inside Forward
+666,Mohamed Mbeumo,RW,Tottenham,England,Premier League,Winger
+667,Yeremy Gonzalez,RW,Bayer Leverkusen,Germany,Bundesliga,Inside Forward
+668,Nicolas Gonzalez,RW,Dortmund,Ivory Coast,Bundesliga,Inside Forward
+669,Bukayo Gnabry,RW,Atalanta,Spain,Serie A,Wide Playmaker
+670,Mohamed Sane,RW,Arsenal,Italy,Premier League,Inside Forward
+671,Raphinha Asensio,RW,Barcelona,Egypt,La Liga,Inside Forward
+672,Federico Kulusevski,RW,Nice,France,Ligue 1,Inside Forward
+673,Takefusa Di Maria,RW,Valencia,Argentina,La Liga,Winger
+674,Yeremy Pulisic,RW,Monaco,England,Ligue 1,Inside Forward
+675,Federico Berardi,RW,Valencia,Brazil,La Liga,Inside Forward
+676,Nicolas Pulisic,RW,Marseille,Sweden,Ligue 1,Wide Playmaker
+677,Angel Salah,RW,RB Leipzig,Italy,Bundesliga,Wide Playmaker
+678,Ousmane Berardi,RW,Stuttgart,Jamaica,Bundesliga,Winger
+679,Mohamed Kulusevski,RW,Aston Villa,Argentina,Premier League,Winger
+680,Bukayo Gonzalez,RW,Arsenal,Ivory Coast,Premier League,Inside Forward
+681,Federico Sane,RW,Chelsea,Ivory Coast,Premier League,Wide Playmaker
+682,Domenico Saka,RW,Bologna,England,Serie A,Winger
+683,Serge Salah,RW,Barcelona,Brazil,La Liga,Wide Playmaker
+684,Yeremy Chiesa,RW,Barcelona,Sweden,La Liga,Wide Playmaker
+685,Rodrygo Kulusevski,RW,Lyon,Japan,Ligue 1,Inside Forward
+686,Angel Bowen,RW,RB Leipzig,Brazil,Bundesliga,Winger
+687,Leon Kubo,RW,Frankfurt,Ivory Coast,Bundesliga,Inside Forward
+688,Marco Goes,RW,Atletico Madrid,Germany,La Liga,Winger
+689,Takefusa Di Maria,RW,Stuttgart,Germany,Bundesliga,Wide Playmaker
+690,Nicolas Gnabry,RW,Real Sociedad,Sweden,La Liga,Winger
+691,Michael Raphinha,RW,Brighton,Brazil,Premier League,Winger
+692,Michael Kulusevski,RW,Marseille,Brazil,Ligue 1,Wide Playmaker
+693,Angel Gnabry,RW,PSG,USA,Ligue 1,Wide Playmaker
+694,Christian Gnabry,RW,Arsenal,Japan,Premier League,Wide Playmaker
+695,Michael Chiesa,RW,Liverpool,Ivory Coast,Premier League,Winger
+696,Leroy Gonzalez,RW,Napoli,USA,Serie A,Inside Forward
+697,Leroy Pulisic,RW,Napoli,Brazil,Serie A,Winger
+698,Jarrod Saka,RW,Marseille,Japan,Ligue 1,Inside Forward
+699,Bukayo Kulusevski,RW,Napoli,Cameroon,Serie A,Inside Forward
+700,Dejan Di Maria,RW,RB Leipzig,Ivory Coast,Bundesliga,Wide Playmaker
+701,Christian Kulusevski,RW,Stuttgart,Ivory Coast,Bundesliga,Wide Playmaker
+702,Yeremy Gonzalez,RW,Valencia,Argentina,La Liga,Winger
+703,Leon Mbeumo,RW,Aston Villa,Jamaica,Premier League,Winger
+704,Yeremy Salah,RW,Bayern Munich,Jamaica,Bundesliga,Wide Playmaker
+705,Yeremy Sane,RW,Manchester United,Spain,Premier League,Inside Forward
+706,Yeremy Dembele,RW,Real Madrid,Cameroon,La Liga,Wide Playmaker
+707,Yeremy Bailey,RW,Manchester City,Argentina,Premier League,Inside Forward
+708,Michael Salah,RW,Aston Villa,Germany,Premier League,Wide Playmaker
+709,Rodrygo Kulusevski,RW,Valencia,England,La Liga,Wide Playmaker
+710,Nicolas Kubo,RW,Frankfurt,England,Bundesliga,Wide Playmaker
+711,Domenico Raphinha,RW,Arsenal,Argentina,Premier League,Winger
+712,Bryan Bailey,RW,AS Roma,France,Serie A,Winger
+713,Domenico Sane,RW,Girona,Japan,La Liga,Inside Forward
+714,Ousmane Olise,RW,Athletic Club,USA,La Liga,Inside Forward
+715,Nicolas Di Maria,RW,AC Milan,Egypt,Serie A,Inside Forward
+716,Nicolas Olise,RW,Brest,Sweden,Ligue 1,Inside Forward
+717,Marco Gnabry,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Winger
+718,Rodrygo Bailey,RW,Nice,Cameroon,Ligue 1,Inside Forward
+719,Angel Gnabry,RW,Lazio,Argentina,Serie A,Winger
+720,Serge Gnabry,RW,Inter Milan,Spain,Serie A,Winger
+721,Marco Kubo,RW,Stuttgart,Germany,Bundesliga,Winger
+722,Christian Goes,RW,Bologna,England,Serie A,Wide Playmaker
+723,Serge Asensio,RW,Bayern Munich,Sweden,Bundesliga,Wide Playmaker
+724,Leroy Salah,RW,Lyon,Sweden,Ligue 1,Wide Playmaker
+725,Christian Asensio,RW,West Ham,Brazil,Premier League,Winger
+726,Federico Pino,RW,Newcastle,Japan,Premier League,Wide Playmaker
+727,Marco Olise,RW,Real Madrid,Germany,La Liga,Wide Playmaker
+728,Takefusa Bowen,RW,Marseille,Ivory Coast,Ligue 1,Inside Forward
+729,Bryan Sane,RW,Tottenham,France,Premier League,Winger
+730,Marco Goes,RW,Nice,Cameroon,Ligue 1,Wide Playmaker
+731,Yeremy Mbeumo,RW,West Ham,Ivory Coast,Premier League,Wide Playmaker
+732,Bukayo Saka,RW,Tottenham,Cameroon,Premier League,Wide Playmaker
+733,Domenico Berardi,RW,Brighton,Spain,Premier League,Inside Forward
+734,Domenico Olise,RW,Lille,Italy,Ligue 1,Inside Forward
+735,Bukayo Gnabry,RW,Brest,USA,Ligue 1,Inside Forward
+736,Nicolas Saka,RW,Monaco,USA,Ligue 1,Wide Playmaker
+737,Domenico Kubo,RW,Aston Villa,Egypt,Premier League,Wide Playmaker
+738,Bryan Kulusevski,RW,Monaco,Spain,Ligue 1,Winger
+739,Jarrod Dembele,RW,Tottenham,Ivory Coast,Premier League,Inside Forward
+740,Leroy Chiesa,RW,Manchester United,Sweden,Premier League,Winger
+741,Serge Asensio,RW,RB Leipzig,Ivory Coast,Bundesliga,Winger
+742,Ousmane Di Maria,RW,West Ham,Spain,Premier League,Winger
+743,Dejan Bailey,RW,Liverpool,Jamaica,Premier League,Winger
+744,Raphinha Chiesa,RW,Valencia,Spain,La Liga,Inside Forward
+745,Bukayo Asensio,RW,Frankfurt,Spain,Bundesliga,Inside Forward
+746,Christian Berardi,RW,Monaco,Cameroon,Ligue 1,Winger
+747,Ousmane Bailey,RW,Barcelona,England,La Liga,Inside Forward
+748,Domenico Asensio,RW,AS Roma,Sweden,Serie A,Wide Playmaker
+749,Serge Goes,RW,AC Milan,Egypt,Serie A,Winger
+750,Yeremy Dembele,RW,AS Roma,Sweden,Serie A,Inside Forward
+751,Raphinha Kubo,RW,Bayern Munich,Jamaica,Bundesliga,Wide Playmaker
+752,Serge Kulusevski,RW,Barcelona,France,La Liga,Wide Playmaker
+753,Michael Kulusevski,RW,Napoli,Ivory Coast,Serie A,Inside Forward
+754,Takefusa Sane,RW,Lyon,Egypt,Ligue 1,Wide Playmaker
+755,Takefusa Berardi,RW,Juventus,Cameroon,Serie A,Inside Forward
+756,Raphinha Bailey,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+757,Ousmane Salah,RW,AC Milan,Germany,Serie A,Inside Forward
+758,Bukayo Goes,RW,Frankfurt,Jamaica,Bundesliga,Inside Forward
+759,Federico Di Maria,RW,Barcelona,Italy,La Liga,Winger
+760,Federico Di Maria,RW,RB Leipzig,Japan,Bundesliga,Inside Forward
+761,Nicolas Sane,RW,Brighton,Italy,Premier League,Winger
+762,Jarrod Salah,RW,Lille,France,Ligue 1,Winger
+763,Yeremy Chiesa,RW,Nice,Cameroon,Ligue 1,Inside Forward
+764,Leon Goes,RW,Atalanta,Sweden,Serie A,Winger
+765,Federico Raphinha,RW,Stuttgart,USA,Bundesliga,Winger
+766,Takefusa Kubo,RW,Frankfurt,Spain,Bundesliga,Inside Forward
+767,Yeremy Raphinha,RW,Atletico Madrid,England,La Liga,Winger
+768,Domenico Chiesa,RW,Arsenal,Egypt,Premier League,Winger
+769,Ousmane Asensio,RW,Dortmund,England,Bundesliga,Inside Forward
+770,Rodrygo Gonzalez,RW,AC Milan,Spain,Serie A,Inside Forward
+771,Michael Gnabry,RW,RB Leipzig,Argentina,Bundesliga,Winger
+772,Christian Sane,RW,Barcelona,Brazil,La Liga,Winger
+773,Mohamed Chiesa,RW,Marseille,Italy,Ligue 1,Winger
+774,Ousmane Raphinha,RW,West Ham,Jamaica,Premier League,Winger
+775,Domenico Mbeumo,RW,Tottenham,Jamaica,Premier League,Winger
+776,Serge Chiesa,RW,AS Roma,Sweden,Serie A,Winger
+777,Rodrygo Berardi,RW,Dortmund,England,Bundesliga,Inside Forward
+778,Serge Di Maria,RW,West Ham,Egypt,Premier League,Wide Playmaker
+779,Christian Bowen,RW,Dortmund,Italy,Bundesliga,Inside Forward
+780,Raphinha Salah,RW,Stuttgart,France,Bundesliga,Wide Playmaker
+781,Federico Olise,RW,Newcastle,Egypt,Premier League,Wide Playmaker
+782,Dejan Berardi,RW,PSG,Egypt,Ligue 1,Inside Forward
+783,Bukayo Mbeumo,RW,AC Milan,Japan,Serie A,Winger
+784,Yeremy Bailey,RW,RB Leipzig,Italy,Bundesliga,Inside Forward
+785,Domenico Gonzalez,RW,Athletic Club,Japan,La Liga,Wide Playmaker
+786,Federico Pino,RW,Dortmund,Germany,Bundesliga,Wide Playmaker
+787,Rodrygo Pulisic,RW,Lille,Sweden,Ligue 1,Winger
+788,Ousmane Raphinha,RW,AC Milan,Germany,Serie A,Wide Playmaker
+789,Domenico Berardi,RW,Valencia,England,La Liga,Winger
+790,Mohamed Bailey,RW,Girona,France,La Liga,Wide Playmaker
+791,Serge Goes,RW,Dortmund,Egypt,Bundesliga,Wide Playmaker
+792,Marco Sane,RW,Liverpool,Japan,Premier League,Inside Forward
+793,Angel Kubo,RW,Liverpool,Germany,Premier League,Wide Playmaker
+794,Bryan Bowen,RW,Lille,USA,Ligue 1,Inside Forward
+795,Leon Kulusevski,RW,Bayern Munich,Argentina,Bundesliga,Winger
+796,Ousmane Kubo,RW,Lille,Italy,Ligue 1,Winger
+797,Mohamed Chiesa,RW,Valencia,England,La Liga,Wide Playmaker
+798,Leon Gonzalez,RW,Girona,Cameroon,La Liga,Wide Playmaker
+799,Marco Kulusevski,RW,Brighton,France,Premier League,Inside Forward
+800,Rodrygo Kubo,RW,Atalanta,Argentina,Serie A,Winger
+801,Mohamed Goes,RW,Lille,Germany,Ligue 1,Wide Playmaker
+802,Jarrod Dembele,RW,PSG,Italy,Ligue 1,Wide Playmaker
+803,Bukayo Pulisic,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+804,Bukayo Saka,RW,Real Sociedad,England,La Liga,Wide Playmaker
+805,Leroy Berardi,RW,Marseille,Brazil,Ligue 1,Winger
+806,Michael Kubo,RW,Napoli,Brazil,Serie A,Wide Playmaker
+807,Dejan Salah,RW,Newcastle,Italy,Premier League,Inside Forward
+808,Nicolas Bailey,RW,Frankfurt,Egypt,Bundesliga,Inside Forward
+809,Jarrod Olise,RW,Girona,Cameroon,La Liga,Winger
+810,Jarrod Raphinha,RW,Dortmund,Argentina,Bundesliga,Wide Playmaker
+811,Marco Dembele,RW,Napoli,Cameroon,Serie A,Winger
+812,Christian Bowen,RW,Brighton,Sweden,Premier League,Winger
+813,Mohamed Bailey,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+814,Christian Kulusevski,RW,Girona,France,La Liga,Inside Forward
+815,Marco Bailey,RW,Lazio,Brazil,Serie A,Inside Forward
+816,Bryan Bowen,RW,Brighton,Cameroon,Premier League,Inside Forward
+817,Dejan Olise,RW,AC Milan,Ivory Coast,Serie A,Inside Forward
+818,Christian Sane,RW,Dortmund,England,Bundesliga,Wide Playmaker
+819,Serge Kulusevski,RW,Arsenal,Japan,Premier League,Wide Playmaker
+820,Christian Goes,RW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+821,Serge Salah,RW,Monaco,Germany,Ligue 1,Inside Forward
+822,Federico Dembele,RW,Inter Milan,Argentina,Serie A,Wide Playmaker
+823,Bryan Bailey,RW,Valencia,Germany,La Liga,Winger
+824,Jarrod Pino,RW,Lazio,Brazil,Serie A,Winger
+825,Raphinha Chiesa,RW,Liverpool,Germany,Premier League,Wide Playmaker
+826,Angel Pulisic,RW,Bologna,Sweden,Serie A,Winger
+827,Christian Gnabry,RW,Liverpool,Jamaica,Premier League,Wide Playmaker
+828,Federico Saka,RW,Brighton,USA,Premier League,Inside Forward
+829,Marco Kulusevski,RW,Atletico Madrid,Argentina,La Liga,Inside Forward
+830,Mohamed Bowen,RW,PSG,Argentina,Ligue 1,Wide Playmaker
+831,Dejan Salah,RW,Athletic Club,Egypt,La Liga,Inside Forward
+832,Michael Dembele,RW,Bologna,France,Serie A,Wide Playmaker
+833,Bryan Sane,RW,Frankfurt,Egypt,Bundesliga,Wide Playmaker
+834,Ousmane Saka,RW,Atletico Madrid,Jamaica,La Liga,Wide Playmaker
+835,Bryan Chiesa,RW,Lyon,Argentina,Ligue 1,Wide Playmaker
+836,Federico Kubo,RW,Bayern Munich,Italy,Bundesliga,Wide Playmaker
+837,Mohamed Berardi,RW,Barcelona,Germany,La Liga,Inside Forward
+838,Takefusa Olise,RW,Dortmund,Japan,Bundesliga,Winger
+839,Dejan Asensio,RW,Bayer Leverkusen,Brazil,Bundesliga,Inside Forward
+840,Ousmane Asensio,RW,Lazio,Brazil,Serie A,Winger
+841,Yeremy Goes,RW,Girona,Jamaica,La Liga,Inside Forward
+842,Michael Bailey,RW,Lazio,Spain,Serie A,Wide Playmaker
+843,Federico Di Maria,RW,Bayer Leverkusen,Argentina,Bundesliga,Inside Forward
+844,Leon Bailey,RW,PSG,France,Ligue 1,Inside Forward
+845,Michael Saka,RW,Frankfurt,Sweden,Bundesliga,Inside Forward
+846,Bryan Bowen,RW,Lille,Germany,Ligue 1,Winger
+847,Dejan Olise,RW,Girona,Argentina,La Liga,Inside Forward
+848,Takefusa Gonzalez,RW,Bologna,USA,Serie A,Wide Playmaker
+849,Marco Bowen,RW,Lyon,Spain,Ligue 1,Inside Forward
+850,Rodrygo Gonzalez,RW,AS Roma,France,Serie A,Inside Forward
+851,Leon Bowen,RW,Athletic Club,Ivory Coast,La Liga,Winger
+852,Yeremy Pulisic,RW,Atalanta,Cameroon,Serie A,Inside Forward
+853,Raphinha Saka,RW,Stuttgart,Egypt,Bundesliga,Wide Playmaker
+854,Mohamed Pulisic,RW,Lille,Egypt,Ligue 1,Inside Forward
+855,Leon Berardi,RW,Juventus,England,Serie A,Winger
+856,Mohamed Goes,RW,Real Betis,Ivory Coast,La Liga,Inside Forward
+857,Raphinha Pulisic,RW,Tottenham,Argentina,Premier League,Wide Playmaker
+858,Angel Raphinha,RW,Tottenham,Sweden,Premier League,Winger
+859,Leon Saka,RW,Brest,Sweden,Ligue 1,Inside Forward
+860,Dejan Dembele,RW,Barcelona,France,La Liga,Inside Forward
+861,Takefusa Dembele,RW,RB Leipzig,Italy,Bundesliga,Winger
+862,Angel Sane,RW,AC Milan,Cameroon,Serie A,Inside Forward
+863,Raphinha Mbeumo,RW,Aston Villa,USA,Premier League,Inside Forward
+864,Federico Asensio,RW,Marseille,Spain,Ligue 1,Winger
+865,Bukayo Olise,RW,RB Leipzig,Sweden,Bundesliga,Inside Forward
+866,Christian Kubo,RW,Nice,Spain,Ligue 1,Winger
+867,Domenico Saka,RW,Napoli,England,Serie A,Inside Forward
+868,Jarrod Mbeumo,RW,Real Betis,Spain,La Liga,Inside Forward
+869,Nicolas Pulisic,RW,Monaco,Sweden,Ligue 1,Inside Forward
+870,Raphinha Dembele,RW,Nice,Jamaica,Ligue 1,Wide Playmaker
+871,Takefusa Goes,RW,Inter Milan,Cameroon,Serie A,Wide Playmaker
+872,Takefusa Chiesa,RW,Aston Villa,Argentina,Premier League,Wide Playmaker
+873,Serge Kubo,RW,Arsenal,Sweden,Premier League,Wide Playmaker
+874,Michael Raphinha,RW,Arsenal,Cameroon,Premier League,Inside Forward
+875,Rodrygo Pino,RW,Frankfurt,Egypt,Bundesliga,Winger
+876,Yeremy Dembele,RW,Brest,Argentina,Ligue 1,Wide Playmaker
+877,Bukayo Bowen,RW,Dortmund,Ivory Coast,Bundesliga,Winger
+878,Rodrygo Di Maria,RW,Barcelona,Brazil,La Liga,Inside Forward
+879,Leroy Salah,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Winger
+880,Dejan Salah,RW,Napoli,Cameroon,Serie A,Wide Playmaker
+881,Serge Sane,RW,Nice,Germany,Ligue 1,Inside Forward
+882,Bukayo Salah,RW,Brest,England,Ligue 1,Inside Forward
+883,Takefusa Saka,RW,Bologna,Italy,Serie A,Wide Playmaker
+884,Marco Goes,RW,Inter Milan,Ivory Coast,Serie A,Winger
+885,Dejan Bowen,RW,AC Milan,Spain,Serie A,Inside Forward
+886,Angel Gnabry,RW,Lazio,Cameroon,Serie A,Inside Forward
+887,Mohamed Kubo,RW,Girona,USA,La Liga,Winger
+888,Domenico Pulisic,RW,Atletico Madrid,France,La Liga,Inside Forward
+889,Nicolas Saka,RW,Tottenham,Spain,Premier League,Wide Playmaker
+890,Christian Salah,RW,Nice,Sweden,Ligue 1,Winger
+891,Jarrod Mbeumo,RW,AS Roma,USA,Serie A,Winger
+892,Christian Asensio,RW,Bayer Leverkusen,France,Bundesliga,Inside Forward
+893,Raphinha Kubo,RW,Juventus,England,Serie A,Winger
+894,Angel Gonzalez,RW,Brighton,Brazil,Premier League,Wide Playmaker
+895,Raphinha Raphinha,RW,Bologna,Jamaica,Serie A,Wide Playmaker
+896,Dejan Pulisic,RW,Newcastle,Japan,Premier League,Wide Playmaker
+897,Michael Chiesa,RW,Chelsea,Argentina,Premier League,Winger
+898,Yeremy Saka,RW,Inter Milan,Cameroon,Serie A,Wide Playmaker
+899,Jarrod Sane,RW,AC Milan,Sweden,Serie A,Inside Forward
+900,Christian Kulusevski,RW,Stuttgart,Sweden,Bundesliga,Inside Forward
+901,Leroy Kubo,RW,PSG,Jamaica,Ligue 1,Wide Playmaker
+902,Dejan Sane,RW,Lazio,Japan,Serie A,Wide Playmaker
+903,Angel Chiesa,RW,Bayern Munich,Japan,Bundesliga,Winger
+904,Christian Kubo,RW,Barcelona,USA,La Liga,Wide Playmaker
+905,Bukayo Salah,RW,Real Madrid,Cameroon,La Liga,Winger
+906,Ousmane Raphinha,RW,Brighton,Japan,Premier League,Inside Forward
+907,Ousmane Goes,RW,Barcelona,England,La Liga,Winger
+908,Nicolas Raphinha,RW,Atletico Madrid,Germany,La Liga,Winger
+909,Ousmane Gnabry,RW,Inter Milan,Brazil,Serie A,Winger
+910,Yeremy Goes,RW,Dortmund,Germany,Bundesliga,Inside Forward
+911,Jarrod Kubo,RW,Aston Villa,Ivory Coast,Premier League,Winger
+912,Michael Raphinha,RW,PSG,Egypt,Ligue 1,Inside Forward
+913,Takefusa Kubo,RW,AS Roma,Argentina,Serie A,Winger
+914,Marco Di Maria,RW,Bologna,USA,Serie A,Inside Forward
+915,Jarrod Berardi,RW,Atalanta,Japan,Serie A,Winger
+916,Nicolas Goes,RW,Manchester United,Japan,Premier League,Wide Playmaker
+917,Marco Bailey,RW,Monaco,Egypt,Ligue 1,Wide Playmaker
+918,Yeremy Raphinha,RW,Liverpool,Ivory Coast,Premier League,Winger
+919,Ousmane Pino,RW,RB Leipzig,Italy,Bundesliga,Winger
+920,Angel Pulisic,RW,Barcelona,Argentina,La Liga,Inside Forward
+921,Marco Pino,RW,Marseille,Egypt,Ligue 1,Winger
+922,Marco Berardi,RW,Atletico Madrid,Ivory Coast,La Liga,Inside Forward
+923,Bryan Raphinha,RW,Lyon,Italy,Ligue 1,Winger
+924,Raphinha Pino,RW,Frankfurt,Ivory Coast,Bundesliga,Wide Playmaker
+925,Mohamed Kulusevski,RW,Newcastle,Spain,Premier League,Inside Forward
+926,Takefusa Bailey,RW,Barcelona,Cameroon,La Liga,Wide Playmaker
+927,Yeremy Mbeumo,RW,Lille,Egypt,Ligue 1,Inside Forward
+928,Leroy Berardi,RW,Real Sociedad,Argentina,La Liga,Inside Forward
+929,Jarrod Olise,RW,Athletic Club,Japan,La Liga,Inside Forward
+930,Yeremy Goes,RW,Juventus,Brazil,Serie A,Wide Playmaker
+931,Serge Olise,RW,Girona,Italy,La Liga,Wide Playmaker
+932,Raphinha Di Maria,RW,AS Roma,Sweden,Serie A,Winger
+933,Angel Dembele,RW,Atalanta,Italy,Serie A,Winger
+934,Angel Pino,RW,Lille,Egypt,Ligue 1,Inside Forward
+935,Angel Gnabry,RW,Lyon,Brazil,Ligue 1,Wide Playmaker
+936,Marco Asensio,RW,Manchester United,Japan,Premier League,Inside Forward
+937,Angel Chiesa,RW,AC Milan,Sweden,Serie A,Wide Playmaker
+938,Angel Olise,RW,Atletico Madrid,Egypt,La Liga,Winger
+939,Mohamed Asensio,RW,Lyon,England,Ligue 1,Winger
+940,Marco Gnabry,RW,Atletico Madrid,England,La Liga,Inside Forward
+941,Domenico Pulisic,RW,AC Milan,Sweden,Serie A,Wide Playmaker
+942,Leon Pino,RW,Bayer Leverkusen,Spain,Bundesliga,Winger
+943,Michael Salah,RW,Barcelona,Brazil,La Liga,Wide Playmaker
+944,Yeremy Saka,RW,Brighton,Sweden,Premier League,Winger
+945,Ousmane Bailey,RW,Barcelona,Argentina,La Liga,Wide Playmaker
+946,Angel Pulisic,RW,Bayer Leverkusen,Japan,Bundesliga,Winger
+947,Takefusa Kubo,RW,RB Leipzig,Ivory Coast,Bundesliga,Wide Playmaker
+948,Raphinha Salah,RW,Stuttgart,Italy,Bundesliga,Winger
+949,Angel Kubo,RW,Frankfurt,USA,Bundesliga,Inside Forward
+950,Takefusa Raphinha,RW,Real Sociedad,Italy,La Liga,Inside Forward
+951,Domenico Salah,RW,Napoli,Italy,Serie A,Inside Forward
+952,Bryan Salah,RW,Dortmund,Italy,Bundesliga,Wide Playmaker
+953,Angel Pino,RW,Atletico Madrid,USA,La Liga,Inside Forward
+954,Dejan Sane,RW,Real Sociedad,USA,La Liga,Wide Playmaker
+955,Leroy Chiesa,RW,Monaco,USA,Ligue 1,Inside Forward
+956,Nicolas Raphinha,RW,PSG,Cameroon,Ligue 1,Inside Forward
+957,Serge Raphinha,RW,Real Sociedad,Germany,La Liga,Wide Playmaker
+958,Ousmane Sane,RW,Liverpool,Cameroon,Premier League,Inside Forward
+959,Leroy Pino,RW,Real Sociedad,Egypt,La Liga,Inside Forward
+960,Yeremy Gonzalez,RW,Napoli,Ivory Coast,Serie A,Winger
+961,Marco Bowen,RW,Atalanta,Japan,Serie A,Inside Forward
+962,Christian Kulusevski,RW,Valencia,Brazil,La Liga,Wide Playmaker
+963,Bukayo Kubo,RW,Liverpool,Jamaica,Premier League,Wide Playmaker
+964,Leroy Pulisic,RW,West Ham,England,Premier League,Inside Forward
+965,Bukayo Olise,RW,Manchester City,Egypt,Premier League,Wide Playmaker
+966,Christian Chiesa,RW,Atletico Madrid,Spain,La Liga,Winger
+967,Takefusa Dembele,RW,Atalanta,Cameroon,Serie A,Inside Forward
+968,Christian Goes,RW,Bologna,England,Serie A,Wide Playmaker
+969,Federico Kubo,RW,Liverpool,Ivory Coast,Premier League,Inside Forward
+970,Leroy Sane,RW,PSG,Argentina,Ligue 1,Winger
+971,Federico Olise,RW,Girona,Jamaica,La Liga,Inside Forward
+972,Bryan Raphinha,RW,Manchester City,Italy,Premier League,Wide Playmaker
+973,Michael Sane,RW,Chelsea,Germany,Premier League,Winger
+974,Angel Dembele,RW,Bologna,Japan,Serie A,Winger
+975,Dejan Salah,RW,Dortmund,Ivory Coast,Bundesliga,Inside Forward
+976,Michael Gonzalez,RW,Bayer Leverkusen,Germany,Bundesliga,Inside Forward
+977,Michael Chiesa,RW,Chelsea,Germany,Premier League,Winger
+978,Leon Goes,RW,Chelsea,Egypt,Premier League,Inside Forward
+979,Christian Pulisic,RW,Nice,England,Ligue 1,Wide Playmaker
+980,Yeremy Raphinha,RW,West Ham,Sweden,Premier League,Wide Playmaker
+981,Leon Raphinha,RW,RB Leipzig,Ivory Coast,Bundesliga,Winger
+982,Leon Raphinha,RW,Lyon,Spain,Ligue 1,Inside Forward
+983,Nicolas Bailey,RW,Bologna,England,Serie A,Inside Forward
+984,Federico Goes,RW,Real Madrid,Japan,La Liga,Wide Playmaker
+985,Bukayo Asensio,RW,Athletic Club,USA,La Liga,Wide Playmaker
+986,Christian Pulisic,RW,Nice,Egypt,Ligue 1,Wide Playmaker
+987,Marco Dembele,RW,Manchester City,England,Premier League,Inside Forward
+988,Marco Goes,RW,Manchester City,Jamaica,Premier League,Inside Forward
+989,Bukayo Bailey,RW,Nice,Cameroon,Ligue 1,Inside Forward
+990,Raphinha Raphinha,RW,West Ham,Brazil,Premier League,Winger
+991,Michael Olise,RW,RB Leipzig,Germany,Bundesliga,Winger
+992,Jarrod Berardi,RW,Frankfurt,USA,Bundesliga,Winger
+993,Angel Raphinha,RW,Athletic Club,Brazil,La Liga,Wide Playmaker
+994,Angel Asensio,RW,Lille,Italy,Ligue 1,Inside Forward
+995,Jarrod Bailey,RW,Arsenal,Argentina,Premier League,Inside Forward
+996,Yeremy Kulusevski,RW,Tottenham,Argentina,Premier League,Winger
+997,Rodrygo Salah,RW,Bayer Leverkusen,USA,Bundesliga,Wide Playmaker
+998,Raphinha Asensio,RW,Aston Villa,Germany,Premier League,Winger
+999,Leon Olise,RW,Lyon,England,Ligue 1,Wide Playmaker
+1000,Raphinha Kulusevski,RW,Real Madrid,Japan,La Liga,Inside Forward
+1001,Federico Goes,RW,Dortmund,USA,Bundesliga,Inside Forward
+1002,Jarrod Goes,RW,RB Leipzig,Sweden,Bundesliga,Inside Forward
+1003,Angel Kulusevski,RW,Arsenal,Japan,Premier League,Winger
+1004,Leroy Pino,RW,Lille,Spain,Ligue 1,Inside Forward
+1005,Leon Olise,RW,Lyon,France,Ligue 1,Wide Playmaker
+1006,Angel Salah,RW,Lille,Japan,Ligue 1,Winger
+1007,Christian Bowen,RW,AC Milan,Egypt,Serie A,Wide Playmaker
+1008,Raphinha Goes,RW,Brest,Japan,Ligue 1,Winger
+1009,Takefusa Gonzalez,RW,Real Sociedad,Italy,La Liga,Winger
+1010,Raphinha Sane,RW,AS Roma,Argentina,Serie A,Inside Forward
+1011,Michael Dembele,RW,Valencia,Jamaica,La Liga,Inside Forward
+1012,Rodrygo Gonzalez,RW,Real Betis,Brazil,La Liga,Inside Forward
+1013,Leroy Kubo,RW,Atletico Madrid,Ivory Coast,La Liga,Wide Playmaker
+1014,Nicolas Pino,RW,Lyon,USA,Ligue 1,Winger
+1015,Nicolas Gnabry,RW,Bologna,Sweden,Serie A,Inside Forward
+1016,Rodrygo Salah,RW,Bayern Munich,Italy,Bundesliga,Inside Forward
+1017,Raphinha Gnabry,RW,Girona,France,La Liga,Winger
+1018,Raphinha Salah,RW,Tottenham,Sweden,Premier League,Inside Forward
+1019,Yeremy Pulisic,RW,Juventus,Spain,Serie A,Wide Playmaker
+1020,Bryan Mbeumo,RW,Bayern Munich,USA,Bundesliga,Winger
+1021,Yeremy Saka,RW,Nice,England,Ligue 1,Winger
+1022,Mohamed Kubo,RW,Real Betis,Brazil,La Liga,Wide Playmaker
+1023,Rodrygo Saka,RW,Dortmund,Jamaica,Bundesliga,Inside Forward
+1024,Mohamed Bailey,RW,Atalanta,Spain,Serie A,Winger
+1025,Takefusa Gnabry,RW,Liverpool,Argentina,Premier League,Wide Playmaker
+1026,Domenico Asensio,RW,Lyon,Argentina,Ligue 1,Winger
+1027,Leroy Saka,RW,Real Betis,Cameroon,La Liga,Inside Forward
+1028,Bukayo Kubo,RW,Aston Villa,France,Premier League,Winger
+1029,Leon Bailey,RW,Real Betis,England,La Liga,Winger
+1030,Domenico Chiesa,RW,Stuttgart,Sweden,Bundesliga,Inside Forward
+1031,Serge Pulisic,RW,Real Madrid,Jamaica,La Liga,Winger
+1032,Rodrygo Goes,RW,Brighton,Italy,Premier League,Inside Forward
+1033,Bryan Pino,RW,Bayern Munich,Japan,Bundesliga,Winger
+1034,Serge Asensio,RW,Marseille,USA,Ligue 1,Inside Forward
+1035,Serge Gonzalez,RW,Bayern Munich,Argentina,Bundesliga,Inside Forward
+1036,Michael Di Maria,RW,Bologna,Ivory Coast,Serie A,Inside Forward
+1037,Ousmane Bowen,RW,Barcelona,Ivory Coast,La Liga,Wide Playmaker
+1038,Angel Pulisic,RW,Marseille,Spain,Ligue 1,Winger
+1039,Dejan Dembele,RW,Stuttgart,Spain,Bundesliga,Inside Forward
+1040,Michael Berardi,RW,Aston Villa,Germany,Premier League,Inside Forward
+1041,Serge Goes,RW,Lazio,Egypt,Serie A,Wide Playmaker
+1042,Christian Di Maria,RW,Barcelona,Jamaica,La Liga,Wide Playmaker
+1043,Angel Pino,RW,Stuttgart,USA,Bundesliga,Wide Playmaker
+1044,Domenico Bailey,RW,Atletico Madrid,Egypt,La Liga,Inside Forward
+1045,Bukayo Mbeumo,RW,Barcelona,Sweden,La Liga,Inside Forward
+1046,Dejan Sane,RW,Valencia,Japan,La Liga,Winger
+1047,Leroy Berardi,RW,Real Sociedad,Germany,La Liga,Inside Forward
+1048,Domenico Pulisic,RW,AC Milan,Egypt,Serie A,Wide Playmaker
+1049,Angel Salah,RW,Lyon,Cameroon,Ligue 1,Wide Playmaker
+1050,Bryan Dembele,RW,Atletico Madrid,Jamaica,La Liga,Inside Forward
+1051,Nicolas Dembele,RW,Brighton,Egypt,Premier League,Winger
+1052,Serge Bailey,RW,Manchester United,Cameroon,Premier League,Wide Playmaker
+1053,Mohamed Salah,RW,Marseille,USA,Ligue 1,Winger
+1054,Rodrygo Gnabry,RW,Bayern Munich,Germany,Bundesliga,Inside Forward
+1055,Angel Sane,RW,Monaco,Italy,Ligue 1,Wide Playmaker
+1056,Christian Bailey,RW,Atalanta,Jamaica,Serie A,Inside Forward
+1057,Ousmane Saka,RW,Inter Milan,USA,Serie A,Inside Forward
+1058,Raphinha Chiesa,RW,Brighton,Spain,Premier League,Wide Playmaker
+1059,Federico Pulisic,RW,Bayer Leverkusen,Cameroon,Bundesliga,Inside Forward
+1060,Mohamed Berardi,RW,Napoli,Spain,Serie A,Winger
+1061,Bryan Dembele,RW,RB Leipzig,France,Bundesliga,Inside Forward
+1062,Dejan Dembele,RW,Atletico Madrid,England,La Liga,Winger
+1063,Jarrod Pino,RW,Bayer Leverkusen,Italy,Bundesliga,Winger
+1064,Mohamed Kubo,RW,Real Madrid,USA,La Liga,Winger
+1065,Dejan Salah,RW,Chelsea,Egypt,Premier League,Inside Forward
+1066,Bukayo Chiesa,RW,Manchester City,Italy,Premier League,Inside Forward
+1067,Leon Pino,RW,AS Roma,Spain,Serie A,Winger
+1068,Rodrygo Pino,RW,RB Leipzig,Japan,Bundesliga,Wide Playmaker
+1069,Jarrod Berardi,RW,Dortmund,Japan,Bundesliga,Winger
+1070,Nicolas Goes,RW,Napoli,USA,Serie A,Inside Forward
+1071,Leroy Chiesa,RW,Lazio,Germany,Serie A,Wide Playmaker
+1072,Serge Pino,RW,Brighton,England,Premier League,Winger
+1073,Yeremy Saka,RW,AS Roma,Germany,Serie A,Inside Forward
+1074,Marco Dembele,RW,Lille,France,Ligue 1,Winger
+1075,Christian Saka,RW,Barcelona,Italy,La Liga,Winger
+1076,Leon Berardi,RW,Girona,Italy,La Liga,Wide Playmaker
+1077,Takefusa Berardi,RW,Manchester United,France,Premier League,Inside Forward
+1078,Yeremy Kubo,RW,Brighton,Jamaica,Premier League,Inside Forward
+1079,Leon Pino,RW,Stuttgart,England,Bundesliga,Inside Forward
+1080,Leon Goes,RW,Frankfurt,USA,Bundesliga,Wide Playmaker
+1081,Leroy Raphinha,RW,Lazio,Ivory Coast,Serie A,Winger
+1082,Ousmane Di Maria,RW,Napoli,Argentina,Serie A,Wide Playmaker
+1083,Domenico Berardi,RW,Stuttgart,Brazil,Bundesliga,Inside Forward
+1084,Serge Dembele,RW,Liverpool,Brazil,Premier League,Winger
+1085,Rodrygo Berardi,RW,Barcelona,Sweden,La Liga,Inside Forward
+1086,Jarrod Chiesa,RW,Atletico Madrid,France,La Liga,Wide Playmaker
+1087,Christian Raphinha,RW,Marseille,Brazil,Ligue 1,Inside Forward
+1088,Dejan Bowen,RW,Brest,England,Ligue 1,Winger
+1089,Mohamed Salah,RW,Frankfurt,Cameroon,Bundesliga,Winger
+1090,Federico Chiesa,RW,Real Sociedad,Jamaica,La Liga,Wide Playmaker
+1091,Raphinha Sane,RW,Lazio,France,Serie A,Wide Playmaker
+1092,Jarrod Bailey,RW,AS Roma,England,Serie A,Inside Forward
+1093,Leroy Goes,RW,Dortmund,Italy,Bundesliga,Inside Forward
+1094,Leon Kulusevski,RW,Bayern Munich,Germany,Bundesliga,Inside Forward
+1095,Angel Salah,RW,Chelsea,Egypt,Premier League,Inside Forward
+1096,Domenico Saka,RW,Barcelona,England,La Liga,Winger
+1097,Dejan Gonzalez,RW,Real Sociedad,Italy,La Liga,Wide Playmaker
+1098,Ousmane Bailey,RW,RB Leipzig,Japan,Bundesliga,Inside Forward
+1099,Yeremy Berardi,RW,AS Roma,Jamaica,Serie A,Winger
+1100,Christian Raphinha,RW,Nice,Jamaica,Ligue 1,Winger
+1101,Dejan Olise,RW,Tottenham,Japan,Premier League,Wide Playmaker
+1102,Mohamed Olise,RW,Nice,Germany,Ligue 1,Wide Playmaker
+1103,Serge Asensio,RW,Lyon,France,Ligue 1,Winger
+1104,Ousmane Bowen,RW,Lazio,Spain,Serie A,Winger
+1105,Rodrygo Berardi,RW,Brest,Sweden,Ligue 1,Inside Forward
+1106,Leon Di Maria,RW,Juventus,Sweden,Serie A,Wide Playmaker
+1107,Angel Berardi,RW,Lazio,Ivory Coast,Serie A,Inside Forward
+1108,Marco Gnabry,RW,AC Milan,Spain,Serie A,Wide Playmaker
+1109,Ousmane Sane,RW,West Ham,Brazil,Premier League,Winger
+1110,Bryan Pulisic,RW,AS Roma,Jamaica,Serie A,Winger
+1111,Leon Kulusevski,RW,Nice,Japan,Ligue 1,Wide Playmaker
+1112,Federico Gnabry,RW,Inter Milan,USA,Serie A,Wide Playmaker
+1113,Takefusa Kubo,RW,Atalanta,Cameroon,Serie A,Wide Playmaker
+1114,Christian Dembele,RW,Real Sociedad,France,La Liga,Winger
+1115,Raphinha Salah,RW,Frankfurt,Spain,Bundesliga,Wide Playmaker
+1116,Marco Berardi,RW,Lyon,USA,Ligue 1,Inside Forward
+1117,Bukayo Kubo,RW,Frankfurt,Ivory Coast,Bundesliga,Winger
+1118,Christian Di Maria,RW,Atalanta,Egypt,Serie A,Wide Playmaker
+1119,Nicolas Kulusevski,RW,Bayern Munich,England,Bundesliga,Inside Forward
+1120,Jarrod Olise,RW,PSG,Germany,Ligue 1,Wide Playmaker
+1121,Leroy Mbeumo,RW,Manchester City,Cameroon,Premier League,Wide Playmaker
+1122,Yeremy Sane,RW,Bayer Leverkusen,Brazil,Bundesliga,Wide Playmaker
+1123,Nicolas Bailey,RW,Stuttgart,Italy,Bundesliga,Wide Playmaker
+1124,Nicolas Pino,RW,Liverpool,Argentina,Premier League,Wide Playmaker
+1125,Bukayo Bowen,RW,Arsenal,Germany,Premier League,Winger
+1126,Bukayo Salah,RW,Lyon,Ivory Coast,Ligue 1,Wide Playmaker
+1127,Rodrygo Pulisic,RW,Nice,Italy,Ligue 1,Winger
+1128,Domenico Berardi,RW,Frankfurt,Ivory Coast,Bundesliga,Inside Forward
+1129,Federico Pulisic,RW,Dortmund,Italy,Bundesliga,Inside Forward
+1130,Bukayo Berardi,RW,Lille,Cameroon,Ligue 1,Inside Forward
+1131,Leon Berardi,RW,Arsenal,Jamaica,Premier League,Inside Forward
+1132,Dejan Saka,RW,Real Betis,Cameroon,La Liga,Wide Playmaker
+1133,Serge Berardi,RW,RB Leipzig,Japan,Bundesliga,Inside Forward
+1134,Leon Kubo,RW,Brest,Spain,Ligue 1,Winger
+1135,Nicolas Di Maria,RW,Stuttgart,Germany,Bundesliga,Wide Playmaker
+1136,Angel Asensio,RW,Brest,France,Ligue 1,Inside Forward
+1137,Leon Pulisic,RW,Athletic Club,Egypt,La Liga,Wide Playmaker
+1138,Domenico Di Maria,RW,Lyon,France,Ligue 1,Wide Playmaker
+1139,Mohamed Sane,RW,Stuttgart,England,Bundesliga,Wide Playmaker
+1140,Jarrod Saka,RW,Atletico Madrid,Japan,La Liga,Wide Playmaker
+1141,Mohamed Asensio,RW,Bayer Leverkusen,Sweden,Bundesliga,Wide Playmaker
+1142,Ousmane Gnabry,RW,Nice,Cameroon,Ligue 1,Wide Playmaker
+1143,Christian Di Maria,RW,Dortmund,England,Bundesliga,Wide Playmaker
+1144,Serge Asensio,RW,Frankfurt,Brazil,Bundesliga,Winger
+1145,Mohamed Sane,RW,Juventus,England,Serie A,Wide Playmaker
+1146,Serge Olise,RW,Stuttgart,Ivory Coast,Bundesliga,Inside Forward
+1147,Leon Olise,RW,Bayern Munich,Jamaica,Bundesliga,Wide Playmaker
+1148,Leroy Salah,RW,Girona,Spain,La Liga,Inside Forward
+1149,Ousmane Saka,RW,Atletico Madrid,England,La Liga,Inside Forward
+1150,Rodrygo Berardi,RW,Manchester City,USA,Premier League,Winger
+1151,Raphinha Gnabry,RW,Juventus,Spain,Serie A,Inside Forward
+1152,Rodrygo Gnabry,RW,Arsenal,Spain,Premier League,Winger
+1153,Christian Berardi,RW,Atletico Madrid,Ivory Coast,La Liga,Inside Forward
+1154,Bryan Bailey,RW,Bayern Munich,Italy,Bundesliga,Winger
+1155,Dejan Kubo,RW,Inter Milan,Brazil,Serie A,Winger
+1156,Bryan Gnabry,RW,Frankfurt,Jamaica,Bundesliga,Winger
+1157,Ousmane Raphinha,RW,Valencia,Jamaica,La Liga,Wide Playmaker
+1158,Leroy Kubo,RW,Liverpool,Spain,Premier League,Winger
+1159,Raphinha Mbeumo,RW,Aston Villa,Jamaica,Premier League,Wide Playmaker
+1160,Bryan Asensio,RW,Bologna,Germany,Serie A,Winger
+1161,Dejan Salah,RW,Liverpool,Brazil,Premier League,Winger
+1162,Rodrygo Mbeumo,RW,Atletico Madrid,Italy,La Liga,Wide Playmaker
+1163,Marco Raphinha,RW,West Ham,England,Premier League,Inside Forward
+1164,Rodrygo Chiesa,RW,Manchester United,USA,Premier League,Inside Forward
+1165,Serge Berardi,RW,Nice,Egypt,Ligue 1,Inside Forward
+1166,Marco Gonzalez,RW,Valencia,Cameroon,La Liga,Wide Playmaker
+1167,Takefusa Bailey,RW,Juventus,England,Serie A,Wide Playmaker
+1168,Takefusa Raphinha,RW,Stuttgart,Egypt,Bundesliga,Inside Forward
+1169,Michael Bailey,RW,Real Madrid,Italy,La Liga,Wide Playmaker
+1170,Federico Dembele,RW,Frankfurt,Egypt,Bundesliga,Winger
+1171,Raphinha Di Maria,RW,Manchester City,Sweden,Premier League,Inside Forward
+1172,Dejan Asensio,RW,Bayer Leverkusen,Spain,Bundesliga,Inside Forward
+1173,Bryan Chiesa,RW,Tottenham,Spain,Premier League,Inside Forward
+1174,Domenico Berardi,RW,Tottenham,Sweden,Premier League,Inside Forward
+1175,Mohamed Chiesa,RW,Lyon,Jamaica,Ligue 1,Wide Playmaker
+1176,Mohamed Chiesa,RW,Real Betis,Egypt,La Liga,Inside Forward
+1177,Jarrod Asensio,RW,Frankfurt,Ivory Coast,Bundesliga,Inside Forward
+1178,Leon Pulisic,RW,RB Leipzig,Jamaica,Bundesliga,Winger
+1179,Bukayo Pulisic,RW,Newcastle,Cameroon,Premier League,Winger
+1180,Leroy Sane,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Wide Playmaker
+1181,Angel Chiesa,RW,Lyon,Egypt,Ligue 1,Inside Forward
+1182,Yeremy Asensio,RW,Lille,Spain,Ligue 1,Winger
+1183,Dejan Raphinha,RW,Juventus,Ivory Coast,Serie A,Winger
+1184,Domenico Gnabry,RW,Tottenham,Japan,Premier League,Wide Playmaker
+1185,Christian Raphinha,RW,AC Milan,Egypt,Serie A,Inside Forward
+1186,Leroy Pino,RW,Dortmund,Egypt,Bundesliga,Inside Forward
+1187,Angel Kulusevski,RW,Brest,Brazil,Ligue 1,Inside Forward
+1188,Mohamed Salah,RW,Monaco,USA,Ligue 1,Inside Forward
+1189,Federico Pino,RW,Aston Villa,Spain,Premier League,Winger
+1190,Serge Saka,RW,Aston Villa,Japan,Premier League,Wide Playmaker
+1191,Bukayo Sane,RW,Frankfurt,Ivory Coast,Bundesliga,Wide Playmaker
+1192,Rodrygo Kubo,RW,Brighton,Egypt,Premier League,Inside Forward
+1193,Jarrod Di Maria,RW,Manchester City,Egypt,Premier League,Inside Forward
+1194,Christian Kubo,RW,Real Madrid,Japan,La Liga,Wide Playmaker
+1195,Bukayo Bailey,RW,Chelsea,Jamaica,Premier League,Wide Playmaker
+1196,Raphinha Gonzalez,RW,Real Betis,USA,La Liga,Inside Forward
+1197,Dejan Salah,RW,Arsenal,Germany,Premier League,Inside Forward
+1198,Domenico Pino,RW,Manchester United,Ivory Coast,Premier League,Inside Forward
+1199,Yeremy Sane,RW,Brest,England,Ligue 1,Inside Forward
+1200,Yeremy Saka,RW,Real Betis,Jamaica,La Liga,Winger
+1201,Mohamed Asensio,RW,Bayer Leverkusen,Ivory Coast,Bundesliga,Inside Forward
+1202,Angel Sane,RW,Juventus,Brazil,Serie A,Wide Playmaker
+1203,Nicolas Bowen,RW,Juventus,Jamaica,Serie A,Wide Playmaker
+1204,Federico Bowen,RW,Atletico Madrid,Germany,La Liga,Winger
+1205,Domenico Kulusevski,RW,Nice,Sweden,Ligue 1,Winger
+1206,Raphinha Sane,RW,Bayer Leverkusen,England,Bundesliga,Wide Playmaker
+1207,Ousmane Olise,RW,RB Leipzig,Italy,Bundesliga,Winger
+1208,Jarrod Kubo,RW,AC Milan,Cameroon,Serie A,Wide Playmaker
+1209,Domenico Bailey,RW,Athletic Club,Spain,La Liga,Wide Playmaker
+1210,Federico Gnabry,RW,AS Roma,USA,Serie A,Wide Playmaker
+1211,Takefusa Olise,RW,Atletico Madrid,Italy,La Liga,Winger
+1212,Jarrod Kulusevski,RW,AS Roma,Egypt,Serie A,Wide Playmaker
+1213,Raphinha Saka,RW,Atalanta,Italy,Serie A,Winger
+1214,Domenico Olise,RW,Real Sociedad,Germany,La Liga,Winger
+1215,Federico Kubo,RW,Brighton,Sweden,Premier League,Inside Forward
+1216,Raphinha Bailey,RW,Bayern Munich,Ivory Coast,Bundesliga,Inside Forward
+1217,Mohamed Chiesa,RW,Stuttgart,England,Bundesliga,Winger
+1218,Rodrygo Sane,RW,Bayer Leverkusen,USA,Bundesliga,Winger
+1219,Serge Asensio,RW,Atletico Madrid,Italy,La Liga,Wide Playmaker
+1220,Yeremy Goes,RW,AS Roma,Ivory Coast,Serie A,Inside Forward
+1221,Federico Pino,RW,Newcastle,Italy,Premier League,Winger
+1222,Federico Salah,RW,Dortmund,Argentina,Bundesliga,Inside Forward
+1223,Bryan Bailey,RW,Atalanta,Italy,Serie A,Winger
+1224,Federico Saka,RW,Aston Villa,Japan,Premier League,Inside Forward
+1225,Dejan Bowen,RW,PSG,Argentina,Ligue 1,Inside Forward
+1226,Federico Kulusevski,RW,Brighton,USA,Premier League,Wide Playmaker
+1227,Domenico Mbeumo,RW,Marseille,Brazil,Ligue 1,Wide Playmaker
+1228,Dejan Raphinha,RW,Napoli,Spain,Serie A,Wide Playmaker
+1229,Marco Asensio,RW,Manchester United,Egypt,Premier League,Inside Forward
+1230,Domenico Goes,RW,Newcastle,Brazil,Premier League,Winger
+1231,Dejan Bowen,RW,Monaco,Egypt,Ligue 1,Wide Playmaker
+1232,Federico Asensio,RW,Brighton,Cameroon,Premier League,Wide Playmaker
+1233,Michael Goes,RW,Bologna,Italy,Serie A,Wide Playmaker
+1234,Takefusa Saka,RW,AS Roma,Italy,Serie A,Winger
+1235,Mohamed Raphinha,RW,Inter Milan,Japan,Serie A,Winger
+1236,Yeremy Pino,RW,PSG,Ivory Coast,Ligue 1,Wide Playmaker
+1237,Michael Raphinha,RW,Monaco,Argentina,Ligue 1,Inside Forward
+1238,Raphinha Kulusevski,RW,Marseille,Argentina,Ligue 1,Winger
+1239,Dejan Chiesa,RW,AS Roma,Cameroon,Serie A,Wide Playmaker
+1240,Leroy Asensio,RW,Juventus,USA,Serie A,Wide Playmaker
+1241,Jarrod Di Maria,RW,Dortmund,Japan,Bundesliga,Wide Playmaker
+1242,Bukayo Salah,RW,Liverpool,Italy,Premier League,Wide Playmaker
+1243,Michael Olise,RW,Marseille,Argentina,Ligue 1,Wide Playmaker
+1244,Nicolas Gonzalez,RW,Athletic Club,Italy,La Liga,Inside Forward
+1245,Leroy Asensio,RW,Manchester City,USA,Premier League,Wide Playmaker
+1246,Federico Pino,RW,Valencia,England,La Liga,Winger
+1247,Serge Mbeumo,RW,Real Sociedad,Egypt,La Liga,Wide Playmaker
+1248,Dejan Sane,RW,PSG,Germany,Ligue 1,Winger
+1249,Angel Pulisic,RW,Inter Milan,Cameroon,Serie A,Inside Forward
+1250,Dejan Raphinha,RW,Lyon,Ivory Coast,Ligue 1,Winger
+1251,Yeremy Pino,RW,RB Leipzig,USA,Bundesliga,Winger
+1252,Bukayo Sane,RW,Manchester City,Egypt,Premier League,Wide Playmaker
+1253,Raphinha Sane,RW,PSG,Ivory Coast,Ligue 1,Winger
+1254,Mohamed Dembele,RW,Bologna,Argentina,Serie A,Inside Forward
+1255,Dejan Bailey,RW,Bayern Munich,USA,Bundesliga,Winger
+1256,Raphinha Kubo,RW,PSG,Sweden,Ligue 1,Inside Forward
+1257,Bukayo Di Maria,RW,Aston Villa,Jamaica,Premier League,Inside Forward
+1258,Federico Gnabry,RW,West Ham,Cameroon,Premier League,Winger
+1259,Leon Kulusevski,RW,Real Sociedad,USA,La Liga,Wide Playmaker
+1260,Yeremy Berardi,RW,Lille,Sweden,Ligue 1,Inside Forward
+1261,Serge Kubo,RW,Brighton,Ivory Coast,Premier League,Wide Playmaker
+1262,Angel Bowen,RW,Girona,Sweden,La Liga,Inside Forward
+1263,Mohamed Salah,RW,Marseille,Germany,Ligue 1,Winger
+1264,Leon Raphinha,RW,Bayer Leverkusen,Cameroon,Bundesliga,Wide Playmaker
+1265,Christian Saka,RW,Bologna,Ivory Coast,Serie A,Wide Playmaker
+1266,Ousmane Pino,RW,Liverpool,Cameroon,Premier League,Wide Playmaker
+1267,Dejan Asensio,RW,Atalanta,USA,Serie A,Wide Playmaker
+1268,Leon Saka,RW,Brest,Egypt,Ligue 1,Winger
+1269,Nicolas Di Maria,RW,Valencia,Germany,La Liga,Inside Forward
+1270,Christian Sane,RW,Lille,France,Ligue 1,Inside Forward
+1271,Domenico Gonzalez,RW,Athletic Club,Brazil,La Liga,Inside Forward
+1272,Rodrygo Bowen,RW,Juventus,Sweden,Serie A,Winger
+1273,Dejan Saka,RW,Lille,France,Ligue 1,Wide Playmaker
+1274,Rodrygo Pulisic,RW,Brighton,Italy,Premier League,Inside Forward
+1275,Yeremy Salah,RW,Tottenham,Jamaica,Premier League,Wide Playmaker
+1276,Leroy Di Maria,RW,Nice,Cameroon,Ligue 1,Wide Playmaker
+1277,Marco Mbeumo,RW,Dortmund,Sweden,Bundesliga,Wide Playmaker
+1278,Leon Dembele,RW,RB Leipzig,Germany,Bundesliga,Wide Playmaker
+1279,Serge Bowen,RW,Juventus,Argentina,Serie A,Inside Forward
+1280,Leroy Bailey,RW,Athletic Club,Cameroon,La Liga,Inside Forward
+1281,Rodrygo Pulisic,RW,Atalanta,USA,Serie A,Inside Forward
+1282,Michael Saka,RW,Lazio,England,Serie A,Inside Forward
+1283,Jarrod Pino,RW,AC Milan,Japan,Serie A,Inside Forward
+1284,Leroy Bowen,RW,Lazio,Germany,Serie A,Winger
+1285,Nicolas Gnabry,RW,Barcelona,Japan,La Liga,Winger
+1286,Serge Salah,RW,Bayer Leverkusen,Italy,Bundesliga,Winger
+1287,Leon Dembele,RW,Marseille,Egypt,Ligue 1,Wide Playmaker
+1288,Ousmane Asensio,RW,Newcastle,Italy,Premier League,Winger
+1289,Leon Asensio,RW,Real Betis,Italy,La Liga,Winger
+1290,Mohamed Olise,RW,Lazio,Argentina,Serie A,Inside Forward
+1291,Bukayo Pulisic,RW,West Ham,Argentina,Premier League,Inside Forward
+1292,Serge Dembele,RW,Athletic Club,Brazil,La Liga,Wide Playmaker
+1293,Michael Bowen,RW,Aston Villa,Jamaica,Premier League,Winger
+1294,Michael Pino,RW,Bayer Leverkusen,Egypt,Bundesliga,Inside Forward
+1295,Leroy Bowen,RW,Inter Milan,Argentina,Serie A,Inside Forward
+1296,Michael Di Maria,RW,Bayern Munich,Sweden,Bundesliga,Inside Forward
+1297,Raphinha Pulisic,RW,Manchester United,Spain,Premier League,Inside Forward
+1298,Christian Kulusevski,RW,RB Leipzig,USA,Bundesliga,Wide Playmaker
+1299,Mohamed Chiesa,RW,Nice,Germany,Ligue 1,Inside Forward
+1300,Domenico Bowen,RW,Bayer Leverkusen,Sweden,Bundesliga,Wide Playmaker
+1301,Marco Olise,RW,West Ham,Jamaica,Premier League,Wide Playmaker
+1302,Marco Bowen,RW,Girona,Egypt,La Liga,Wide Playmaker
+1303,Bukayo Olise,RW,Lyon,Italy,Ligue 1,Inside Forward
+1304,Michael Pino,RW,Tottenham,France,Premier League,Wide Playmaker
+1305,Michael Sane,RW,Real Betis,USA,La Liga,Wide Playmaker
+1306,Marco Gnabry,RW,Napoli,Italy,Serie A,Wide Playmaker
+1307,Michael Gnabry,RW,Napoli,USA,Serie A,Winger
+1308,Michael Pino,RW,Stuttgart,Germany,Bundesliga,Inside Forward
+1309,Leon Pino,RW,Real Madrid,England,La Liga,Winger
+1310,Ousmane Saka,RW,Manchester City,Brazil,Premier League,Winger
+1311,Michael Raphinha,RW,Bayer Leverkusen,Italy,Bundesliga,Wide Playmaker
+1312,Yeremy Kulusevski,RW,Brighton,Egypt,Premier League,Inside Forward
+1313,Jarrod Olise,RW,Manchester City,Germany,Premier League,Inside Forward
+1314,Raphinha Olise,RW,Athletic Club,Italy,La Liga,Inside Forward
+1315,Leroy Raphinha,RW,RB Leipzig,Argentina,Bundesliga,Winger
+1316,Leroy Goes,RW,Tottenham,Argentina,Premier League,Winger
+1317,Marco Olise,RW,Atalanta,Argentina,Serie A,Wide Playmaker
+1318,Raphinha Gonzalez,RW,Lazio,England,Serie A,Wide Playmaker
+1319,Raphinha Bowen,RW,Napoli,France,Serie A,Winger
+1320,Marco Raphinha,RW,Nice,Spain,Ligue 1,Winger
+1321,Domenico Kubo,RW,Atletico Madrid,Jamaica,La Liga,Winger
+1322,Yeremy Kubo,RW,Manchester United,Italy,Premier League,Winger
+1323,Rodrygo Asensio,RW,Dortmund,Cameroon,Bundesliga,Winger
+1324,Leon Mbeumo,RW,Girona,Egypt,La Liga,Wide Playmaker
+1325,Domenico Asensio,RW,Napoli,Cameroon,Serie A,Wide Playmaker
+1326,Takefusa Berardi,RW,Brest,France,Ligue 1,Wide Playmaker
+1327,Yeremy Sane,RW,Real Betis,Sweden,La Liga,Winger
+1328,Dejan Kulusevski,RW,Lazio,Cameroon,Serie A,Inside Forward
+1329,Christian Asensio,RW,Bayern Munich,Germany,Bundesliga,Winger
+1330,Leon Sane,RW,Real Madrid,Italy,La Liga,Wide Playmaker
+1331,Yeremy Asensio,RW,Bayern Munich,Brazil,Bundesliga,Wide Playmaker
+1332,Serge Salah,RW,Brest,Brazil,Ligue 1,Wide Playmaker
+1333,Leon Pulisic,RW,Napoli,Sweden,Serie A,Wide Playmaker
+1334,Jarrod Gonzalez,RW,Girona,Germany,La Liga,Wide Playmaker
+1335,Marco Kubo,RW,Dortmund,Spain,Bundesliga,Inside Forward
+1336,Marco Raphinha,RW,Inter Milan,Jamaica,Serie A,Inside Forward
+1337,Bryan Bailey,RW,PSG,USA,Ligue 1,Wide Playmaker
+1338,Raphinha Chiesa,RW,Atalanta,England,Serie A,Inside Forward
+1339,Nicolas Pulisic,RW,Tottenham,Japan,Premier League,Wide Playmaker
+1340,Raphinha Salah,RW,Lazio,England,Serie A,Inside Forward
+1341,Leon Olise,RW,Frankfurt,Cameroon,Bundesliga,Inside Forward
+1342,Domenico Gnabry,RW,Brighton,USA,Premier League,Winger
+1343,Nicolas Raphinha,RW,Arsenal,Cameroon,Premier League,Wide Playmaker
+1344,Leroy Chiesa,RW,Bologna,Cameroon,Serie A,Wide Playmaker
+1345,Domenico Pulisic,RW,Frankfurt,England,Bundesliga,Wide Playmaker
+1346,Bukayo Bowen,RW,Real Madrid,Japan,La Liga,Winger
+1347,Jarrod Di Maria,RW,Manchester City,Spain,Premier League,Wide Playmaker
+1348,Federico Kulusevski,RW,Frankfurt,Italy,Bundesliga,Wide Playmaker
+1349,Leon Olise,RW,Manchester United,Italy,Premier League,Inside Forward
+1350,Mohamed Olise,RW,Manchester United,Italy,Premier League,Wide Playmaker
+1351,Ousmane Gnabry,RW,Arsenal,Jamaica,Premier League,Wide Playmaker
+1352,Leroy Pino,RW,Real Sociedad,Germany,La Liga,Inside Forward
+1353,Christian Pino,RW,Stuttgart,France,Bundesliga,Wide Playmaker
+1354,Bukayo Asensio,RW,Lyon,Brazil,Ligue 1,Inside Forward
+1355,Yeremy Goes,RW,RB Leipzig,Spain,Bundesliga,Wide Playmaker
+1356,Federico Gnabry,RW,Manchester United,Germany,Premier League,Winger
+1357,Serge Gonzalez,RW,Real Madrid,Argentina,La Liga,Winger
+1358,Dejan Chiesa,RW,Nice,England,Ligue 1,Inside Forward
+1359,Rodrygo Gnabry,RW,RB Leipzig,France,Bundesliga,Wide Playmaker
+1360,Domenico Salah,RW,Brighton,Sweden,Premier League,Inside Forward
+1361,Federico Asensio,RW,Atletico Madrid,Sweden,La Liga,Wide Playmaker
+1362,Bukayo Sane,RW,Dortmund,Italy,Bundesliga,Wide Playmaker
+1363,Takefusa Goes,RW,Juventus,Argentina,Serie A,Wide Playmaker
+1364,Rodrygo Asensio,RW,Girona,Ivory Coast,La Liga,Inside Forward
+1365,Serge Bowen,RW,AC Milan,Cameroon,Serie A,Wide Playmaker
+1366,Rodrygo Olise,RW,Manchester City,Sweden,Premier League,Winger
+1367,Ousmane Gnabry,RW,Bayer Leverkusen,France,Bundesliga,Winger
+1368,Domenico Mbeumo,RW,AC Milan,Brazil,Serie A,Wide Playmaker
+1369,Federico Mbeumo,RW,Valencia,Brazil,La Liga,Wide Playmaker
+1370,Takefusa Bowen,RW,Frankfurt,Argentina,Bundesliga,Inside Forward
+1371,Marco Pino,RW,Lyon,Spain,Ligue 1,Wide Playmaker
+1372,Dejan Berardi,RW,Aston Villa,Brazil,Premier League,Inside Forward
+1373,Ousmane Raphinha,RW,AC Milan,USA,Serie A,Inside Forward
+1374,Michael Mbeumo,RW,Chelsea,Egypt,Premier League,Winger
+1375,Angel Goes,RW,Real Madrid,Italy,La Liga,Wide Playmaker
+1376,Jarrod Bowen,RW,Atalanta,France,Serie A,Winger
+1377,Angel Pino,RW,Dortmund,Japan,Bundesliga,Winger
+1378,Dejan Asensio,RW,Napoli,Ivory Coast,Serie A,Inside Forward
+1379,Dejan Gnabry,RW,Newcastle,France,Premier League,Inside Forward
+1380,Bukayo Goes,RW,RB Leipzig,Italy,Bundesliga,Wide Playmaker
+1381,Marco Goes,RW,Bayer Leverkusen,Italy,Bundesliga,Winger
+1382,Serge Dembele,RW,Manchester United,England,Premier League,Inside Forward
+1383,Domenico Pulisic,RW,Atletico Madrid,USA,La Liga,Winger
+1384,Raphinha Pulisic,RW,Lyon,Japan,Ligue 1,Winger
+1385,Marco Salah,RW,Nice,Jamaica,Ligue 1,Winger
+1386,Michael Dembele,RW,Bologna,Italy,Serie A,Winger
+1387,Dejan Bowen,RW,Bologna,England,Serie A,Wide Playmaker
+1388,Takefusa Gnabry,RW,PSG,Germany,Ligue 1,Inside Forward
+1389,Michael Kulusevski,RW,Stuttgart,Italy,Bundesliga,Inside Forward
+1390,Raphinha Berardi,RW,Lyon,Argentina,Ligue 1,Winger
+1391,Raphinha Kubo,RW,PSG,Italy,Ligue 1,Inside Forward
+1392,Leroy Pulisic,RW,AC Milan,Egypt,Serie A,Wide Playmaker
+1393,Raphinha Saka,RW,Napoli,Sweden,Serie A,Winger
+1394,Domenico Goes,RW,Manchester United,Argentina,Premier League,Winger
+1395,Raphinha Berardi,RW,Lille,Argentina,Ligue 1,Wide Playmaker
+1396,Leroy Asensio,RW,Bayern Munich,Argentina,Bundesliga,Inside Forward
+1397,Christian Salah,RW,Bayer Leverkusen,England,Bundesliga,Inside Forward
+1398,Federico Mbeumo,RW,Juventus,Germany,Serie A,Inside Forward
+1399,Yeremy Bowen,RW,Atalanta,Cameroon,Serie A,Inside Forward
+1400,Christian Gnabry,RW,AS Roma,Japan,Serie A,Winger
+1401,Raphinha Asensio,RW,Newcastle,Jamaica,Premier League,Wide Playmaker
+1402,Jarrod Bailey,RW,AS Roma,Germany,Serie A,Wide Playmaker
+1403,Dejan Raphinha,RW,Marseille,Ivory Coast,Ligue 1,Inside Forward
+1404,Leroy Olise,RW,Lyon,Brazil,Ligue 1,Winger
+1405,Dejan Bailey,RW,Valencia,Jamaica,La Liga,Wide Playmaker
+1406,Takefusa Sane,RW,Athletic Club,England,La Liga,Wide Playmaker
+1407,Raphinha Bailey,RW,Atletico Madrid,Brazil,La Liga,Inside Forward
+1408,Domenico Dembele,RW,Bayern Munich,USA,Bundesliga,Winger
+1409,Ousmane Gonzalez,RW,Bologna,Germany,Serie A,Inside Forward
+1410,Jarrod Chiesa,RW,PSG,Egypt,Ligue 1,Inside Forward
+1411,Jarrod Olise,RW,Brest,Jamaica,Ligue 1,Inside Forward
+1412,Angel Salah,RW,Stuttgart,England,Bundesliga,Inside Forward
+1413,Nicolas Mbeumo,RW,Manchester United,Spain,Premier League,Inside Forward
+1414,Leon Chiesa,RW,Lyon,Brazil,Ligue 1,Winger
+1415,Rodrygo Gonzalez,RW,RB Leipzig,Argentina,Bundesliga,Inside Forward
+1416,Jarrod Gonzalez,RW,Lille,Italy,Ligue 1,Inside Forward
+1417,Nicolas Sane,RW,Lille,Ivory Coast,Ligue 1,Winger
+1418,Leon Gonzalez,RW,Stuttgart,England,Bundesliga,Wide Playmaker
+1419,Leroy Berardi,RW,Real Madrid,France,La Liga,Wide Playmaker
+1420,Dejan Goes,RW,Brighton,Italy,Premier League,Winger
+1421,Domenico Goes,RW,Aston Villa,England,Premier League,Winger
+1422,Mohamed Gonzalez,RW,Atletico Madrid,USA,La Liga,Winger
+1423,Bryan Kulusevski,RW,Brest,Argentina,Ligue 1,Inside Forward
+1424,Serge Kubo,RW,Aston Villa,USA,Premier League,Inside Forward
+1425,Serge Gnabry,RW,Girona,Italy,La Liga,Winger
+1426,Jarrod Sane,RW,Lille,Jamaica,Ligue 1,Wide Playmaker
+1427,Takefusa Kulusevski,RW,Lyon,Sweden,Ligue 1,Winger
+1428,Leroy Chiesa,RW,Atletico Madrid,Germany,La Liga,Winger
+1429,Yeremy Berardi,RW,AS Roma,France,Serie A,Inside Forward
+1430,Leon Berardi,RW,PSG,Ivory Coast,Ligue 1,Inside Forward
+1431,Leon Pulisic,RW,Newcastle,Ivory Coast,Premier League,Wide Playmaker
+1432,Ousmane Olise,RW,Brest,England,Ligue 1,Winger
+1433,Michael Gnabry,RW,Brest,Jamaica,Ligue 1,Winger
+1434,Rodrygo Salah,RW,Barcelona,Argentina,La Liga,Winger
+1435,Rodrygo Dembele,RW,Juventus,England,Serie A,Inside Forward
+1436,Leroy Kulusevski,RW,Dortmund,Egypt,Bundesliga,Wide Playmaker
+1437,Dejan Di Maria,RW,Barcelona,Sweden,La Liga,Inside Forward
+1438,Michael Salah,RW,Inter Milan,France,Serie A,Wide Playmaker
+1439,Bryan Kubo,RW,Barcelona,Germany,La Liga,Winger
+1440,Federico Goes,RW,Nice,Egypt,Ligue 1,Wide Playmaker
+1441,Serge Di Maria,RW,Girona,England,La Liga,Winger
+1442,Leon Asensio,RW,Dortmund,Egypt,Bundesliga,Wide Playmaker
+1443,Raphinha Kulusevski,RW,Frankfurt,Egypt,Bundesliga,Inside Forward
+1444,Takefusa Pulisic,RW,Dortmund,Spain,Bundesliga,Inside Forward
+1445,Ousmane Chiesa,RW,Monaco,England,Ligue 1,Inside Forward
+1446,Takefusa Raphinha,RW,Bayern Munich,Sweden,Bundesliga,Wide Playmaker
+1447,Marco Dembele,RW,Stuttgart,Sweden,Bundesliga,Winger
+1448,Federico Asensio,RW,PSG,Sweden,Ligue 1,Wide Playmaker
+1449,Leroy Saka,RW,RB Leipzig,Cameroon,Bundesliga,Wide Playmaker
+1450,Christian Raphinha,RW,Atalanta,Cameroon,Serie A,Inside Forward
+1451,Leon Saka,RW,Brest,Sweden,Ligue 1,Inside Forward
+1452,Angel Gnabry,RW,AS Roma,Spain,Serie A,Wide Playmaker
+1453,Bukayo Gonzalez,RW,Lyon,Germany,Ligue 1,Inside Forward
+1454,Christian Bowen,RW,Real Sociedad,Japan,La Liga,Inside Forward
+1455,Dejan Gonzalez,RW,Bologna,Jamaica,Serie A,Winger
+1456,Ousmane Gonzalez,RW,Stuttgart,Egypt,Bundesliga,Inside Forward
+1457,Rodrygo Chiesa,RW,Atalanta,USA,Serie A,Winger
+1458,Serge Chiesa,RW,Atalanta,Germany,Serie A,Wide Playmaker
+1459,Nicolas Berardi,RW,Real Madrid,England,La Liga,Wide Playmaker
+1460,Domenico Berardi,RW,Newcastle,Japan,Premier League,Winger
+1461,Rodrygo Olise,RW,Real Madrid,Argentina,La Liga,Winger
+1462,Dejan Bailey,RW,Liverpool,Germany,Premier League,Wide Playmaker
+1463,Raphinha Kulusevski,RW,AS Roma,Cameroon,Serie A,Winger
+1464,Leroy Bowen,RW,Atalanta,England,Serie A,Inside Forward
+1465,Michael Pino,RW,Lille,England,Ligue 1,Inside Forward
+1466,Takefusa Gonzalez,RW,Bayern Munich,Jamaica,Bundesliga,Inside Forward
+1467,Michael Kubo,RW,Girona,Sweden,La Liga,Wide Playmaker
+1468,Angel Sane,RW,Napoli,Germany,Serie A,Inside Forward
+1469,Mohamed Berardi,RW,Bayer Leverkusen,Argentina,Bundesliga,Winger
+1470,Marco Saka,RW,Tottenham,France,Premier League,Winger
+1471,Nicolas Raphinha,RW,AS Roma,France,Serie A,Inside Forward
+1472,Raphinha Kulusevski,RW,Lyon,Ivory Coast,Ligue 1,Wide Playmaker
+1473,Ousmane Mbeumo,RW,Atalanta,Italy,Serie A,Wide Playmaker
+1474,Jarrod Kulusevski,RW,Valencia,Italy,La Liga,Winger
+1475,Michael Di Maria,RW,Tottenham,Sweden,Premier League,Inside Forward
+1476,Marco Gonzalez,RW,AS Roma,France,Serie A,Wide Playmaker
+1477,Federico Kubo,RW,Bayern Munich,England,Bundesliga,Winger
+1478,Federico Asensio,RW,Real Betis,Italy,La Liga,Wide Playmaker
+1479,Leon Asensio,RW,Valencia,England,La Liga,Wide Playmaker
+1480,Jarrod Pino,RW,AS Roma,Japan,Serie A,Wide Playmaker
+1481,Mohamed Saka,RW,Barcelona,Argentina,La Liga,Winger
+1482,Rodrygo Saka,RW,Dortmund,Italy,Bundesliga,Wide Playmaker
+1483,Marco Chiesa,RW,Lyon,Ivory Coast,Ligue 1,Winger
+1484,Raphinha Chiesa,RW,Girona,Argentina,La Liga,Wide Playmaker
+1485,Serge Olise,RW,Real Sociedad,Italy,La Liga,Wide Playmaker
+1486,Leroy Asensio,RW,RB Leipzig,Ivory Coast,Bundesliga,Wide Playmaker
+1487,Leon Mbeumo,RW,Lille,Japan,Ligue 1,Inside Forward
+1488,Domenico Sane,RW,Real Madrid,France,La Liga,Wide Playmaker
+1489,Angel Asensio,RW,Chelsea,Ivory Coast,Premier League,Wide Playmaker
+1490,Leroy Di Maria,RW,Brighton,Jamaica,Premier League,Wide Playmaker
+1491,Michael Raphinha,RW,Lyon,USA,Ligue 1,Winger
+1492,Leon Kulusevski,RW,Dortmund,Sweden,Bundesliga,Wide Playmaker
+1493,Bryan Pulisic,RW,PSG,Jamaica,Ligue 1,Inside Forward
+1494,Takefusa Sane,RW,AC Milan,Egypt,Serie A,Wide Playmaker
+1495,Mohamed Raphinha,RW,Lyon,Japan,Ligue 1,Wide Playmaker
+1496,Domenico Pino,RW,Inter Milan,Jamaica,Serie A,Winger
+1497,Leroy Olise,RW,RB Leipzig,Ivory Coast,Bundesliga,Wide Playmaker
+1498,Raphinha Sane,RW,Athletic Club,Italy,La Liga,Inside Forward
+1499,Takefusa Mbeumo,RW,PSG,Cameroon,Ligue 1,Inside Forward
+1500,Domenico Salah,RW,Juventus,Spain,Serie A,Inside Forward

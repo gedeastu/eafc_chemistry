@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Joshua Caicedo,CDM,Juventus,Morocco,Serie A,Deep Lying Playmaker
+2,Declan Palhinha,CDM,AC Milan,France,Serie A,Deep Lying Playmaker
+3,Sofyan Palhinha,CDM,Stuttgart,Spain,Bundesliga,Centre Half
+4,Denis Hojbjerg,CDM,Valencia,Germany,La Liga,Holding
+5,Boubacar Lavia,CDM,Tottenham,Mexico,Premier League,Centre Half
+6,Rodri Zakaria,CDM,Nice,Ghana,Ligue 1,Centre Half
+7,Pierre-Emile Bissouma,CDM,Chelsea,Mali,Premier League,Centre Half
+8,Denis Hojbjerg,CDM,Napoli,Mali,Serie A,Centre Half
+9,Fabinho Guimaraes,CDM,Real Madrid,Germany,La Liga,Centre Half
+10,Sofyan Kimmich,CDM,Real Sociedad,Mali,La Liga,Centre Half
+11,Stefan Hernandez,CDM,Frankfurt,Morocco,Bundesliga,Holding
+12,Manuel Guimaraes,CDM,PSG,Morocco,Ligue 1,Holding
+13,Denis Onana,CDM,Real Sociedad,Morocco,La Liga,Centre Half
+14,Casemiro Tchouameni,CDM,Inter Milan,Switzerland,Serie A,Holding
+15,Pierre-Emile Lavia,CDM,Newcastle,Belgium,Premier League,Centre Half
+16,Manuel Tavares,CDM,Brest,Belgium,Ligue 1,Holding
+17,Bruno Hernandez,CDM,Nice,Mali,Ligue 1,Centre Half
+18,Stefan Zakaria,CDM,West Ham,Denmark,Premier League,Centre Half
+19,Edson Kamara,CDM,Bologna,England,Serie A,Deep Lying Playmaker
+20,Joshua Casemiro,CDM,Juventus,Germany,Serie A,Holding
+21,Sofyan Tavares,CDM,Real Betis,Mexico,La Liga,Centre Half
+22,Edson Amrabat,CDM,RB Leipzig,Morocco,Bundesliga,Centre Half
+23,Moises Bissouma,CDM,Chelsea,England,Premier League,Holding
+24,Joshua Bajcetic,CDM,Dortmund,Germany,Bundesliga,Centre Half
+25,Declan Casemiro,CDM,Dortmund,Mexico,Bundesliga,Centre Half
+26,Edson Alvarez,CDM,Stuttgart,Mali,Bundesliga,Deep Lying Playmaker
+27,Moises Bissouma,CDM,AS Roma,France,Serie A,Deep Lying Playmaker
+28,Yves Hernandez,CDM,Barcelona,Germany,La Liga,Deep Lying Playmaker
+29,Joao Hernandez,CDM,Marseille,Ghana,Ligue 1,Centre Half
+30,Denis Rice,CDM,Aston Villa,Brazil,Premier League,Centre Half
+31,Manuel Alvarez,CDM,Napoli,Spain,Serie A,Holding
+32,Edson Bissouma,CDM,Monaco,Mexico,Ligue 1,Holding
+33,Yves Zakaria,CDM,Atletico Madrid,Brazil,La Liga,Centre Half
+34,Aurelien Onana,CDM,Frankfurt,Uruguay,Bundesliga,Holding
+35,Aurelien Palhinha,CDM,Manchester United,Switzerland,Premier League,Centre Half
+36,Manuel Ugarte,CDM,Manchester City,Mali,Premier League,Deep Lying Playmaker
+37,Manuel Onana,CDM,Manchester United,Denmark,Premier League,Deep Lying Playmaker
+38,Joshua Hernandez,CDM,Newcastle,Morocco,Premier League,Deep Lying Playmaker
+39,Rodri Kimmich,CDM,Real Madrid,Ecuador,La Liga,Deep Lying Playmaker
+40,Manuel Hernandez,CDM,Manchester United,Morocco,Premier League,Deep Lying Playmaker
+41,Joshua Tchouameni,CDM,AS Roma,France,Serie A,Deep Lying Playmaker
+42,Aurelien Amrabat,CDM,Frankfurt,Morocco,Bundesliga,Deep Lying Playmaker
+43,Manuel Alvarez,CDM,Inter Milan,Ghana,Serie A,Holding
+44,Yves Palhinha,CDM,Newcastle,Morocco,Premier League,Deep Lying Playmaker
+45,Stefan Amrabat,CDM,Manchester United,Ghana,Premier League,Deep Lying Playmaker
+46,Declan Palhinha,CDM,Bayern Munich,England,Bundesliga,Holding
+47,Bruno Tavares,CDM,Barcelona,Spain,La Liga,Deep Lying Playmaker
+48,Romeo Kamara,CDM,Napoli,Switzerland,Serie A,Deep Lying Playmaker
+49,Boubacar Palhinha,CDM,Real Sociedad,Switzerland,La Liga,Deep Lying Playmaker
+50,Joshua Bissouma,CDM,Athletic Club,Germany,La Liga,Deep Lying Playmaker
+51,Stefan Partey,CDM,Brest,Serbia,Ligue 1,Centre Half
+52,Romeo Amrabat,CDM,Arsenal,Ghana,Premier League,Centre Half
+53,Boubacar Hojbjerg,CDM,Nice,Mali,Ligue 1,Deep Lying Playmaker
+54,Bruno Kamara,CDM,AC Milan,Brazil,Serie A,Centre Half
+55,Denis Rice,CDM,Stuttgart,England,Bundesliga,Deep Lying Playmaker
+56,Moises Amrabat,CDM,Marseille,Mali,Ligue 1,Deep Lying Playmaker
+57,Edson Bajcetic,CDM,RB Leipzig,Portugal,Bundesliga,Holding
+58,Denis Amrabat,CDM,Real Madrid,Ecuador,La Liga,Centre Half
+59,Thomas Palhinha,CDM,Stuttgart,Mali,Bundesliga,Deep Lying Playmaker
+60,Thomas Casemiro,CDM,Chelsea,Mali,Premier League,Centre Half
+61,Aurelien Tchouameni,CDM,Newcastle,Portugal,Premier League,Centre Half
+62,Boubacar Zakaria,CDM,Lazio,Mali,Serie A,Deep Lying Playmaker
+63,Boubacar Bissouma,CDM,Juventus,Mali,Serie A,Centre Half
+64,Casemiro Bajcetic,CDM,Napoli,Denmark,Serie A,Centre Half
+65,Manuel Amrabat,CDM,Stuttgart,Spain,Bundesliga,Deep Lying Playmaker
+66,Joao Palhinha,CDM,Newcastle,Denmark,Premier League,Deep Lying Playmaker
+67,Sofyan Caicedo,CDM,Bayer Leverkusen,Mexico,Bundesliga,Holding
+68,Joshua Amrabat,CDM,Manchester United,Spain,Premier League,Centre Half
+69,Bruno Hojbjerg,CDM,RB Leipzig,Mali,Bundesliga,Deep Lying Playmaker
+70,Edson Amrabat,CDM,Manchester United,France,Premier League,Centre Half
+71,Manuel Kimmich,CDM,Newcastle,Uruguay,Premier League,Centre Half
+72,Amadou Ugarte,CDM,Tottenham,England,Premier League,Deep Lying Playmaker
+73,Joshua Casemiro,CDM,PSG,Denmark,Ligue 1,Holding
+74,Fabinho Lavia,CDM,Frankfurt,Brazil,Bundesliga,Deep Lying Playmaker
+75,Thomas Palhinha,CDM,Brest,Mali,Ligue 1,Centre Half
+76,Fabinho Bajcetic,CDM,Chelsea,Serbia,Premier League,Centre Half
+77,Romeo Alvarez,CDM,Newcastle,Switzerland,Premier League,Deep Lying Playmaker
+78,Boubacar Casemiro,CDM,Lille,Portugal,Ligue 1,Centre Half
+79,Denis Bajcetic,CDM,Newcastle,Uruguay,Premier League,Deep Lying Playmaker
+80,Manuel Zakaria,CDM,Valencia,Spain,La Liga,Deep Lying Playmaker
+81,Yves Hernandez,CDM,Manchester United,Brazil,Premier League,Deep Lying Playmaker
+82,Boubacar Ugarte,CDM,Chelsea,Morocco,Premier League,Holding
+83,Stefan Onana,CDM,Barcelona,Belgium,La Liga,Deep Lying Playmaker
+84,Joshua Alvarez,CDM,Lazio,England,Serie A,Centre Half
+85,Aurelien Alvarez,CDM,Real Sociedad,Brazil,La Liga,Deep Lying Playmaker
+86,Rodri Onana,CDM,Nice,Serbia,Ligue 1,Deep Lying Playmaker
+87,Pierre-Emile Partey,CDM,Girona,Serbia,La Liga,Deep Lying Playmaker
+88,Denis Tavares,CDM,Nice,Uruguay,Ligue 1,Centre Half
+89,Pierre-Emile Amrabat,CDM,Aston Villa,Denmark,Premier League,Holding
+90,Joshua Kamara,CDM,Inter Milan,Spain,Serie A,Deep Lying Playmaker
+91,Rodri Lavia,CDM,Real Madrid,Portugal,La Liga,Holding
+92,Pierre-Emile Rice,CDM,Marseille,England,Ligue 1,Deep Lying Playmaker
+93,Edson Partey,CDM,Lille,Serbia,Ligue 1,Deep Lying Playmaker
+94,Fabinho Ugarte,CDM,Tottenham,Mexico,Premier League,Deep Lying Playmaker
+95,Sofyan Guimaraes,CDM,Bayern Munich,Morocco,Bundesliga,Centre Half
+96,Manuel Bajcetic,CDM,PSG,Denmark,Ligue 1,Centre Half
+97,Stefan Guimaraes,CDM,Arsenal,Mexico,Premier League,Deep Lying Playmaker
+98,Aurelien Tavares,CDM,Napoli,Morocco,Serie A,Holding
+99,Fabinho Tchouameni,CDM,Nice,France,Ligue 1,Deep Lying Playmaker
+100,Denis Tchouameni,CDM,Marseille,Serbia,Ligue 1,Centre Half
+101,Bruno Hernandez,CDM,Aston Villa,Brazil,Premier League,Holding
+102,Denis Tavares,CDM,Brest,Morocco,Ligue 1,Deep Lying Playmaker
+103,Declan Caicedo,CDM,Girona,Serbia,La Liga,Centre Half
+104,Fabinho Kimmich,CDM,Manchester United,Ecuador,Premier League,Centre Half
+105,Boubacar Lavia,CDM,Atalanta,Spain,Serie A,Centre Half
+106,Amadou Kamara,CDM,Atalanta,France,Serie A,Holding
+107,Denis Bissouma,CDM,Dortmund,France,Bundesliga,Holding
+108,Manuel Bajcetic,CDM,Bayern Munich,Brazil,Bundesliga,Deep Lying Playmaker
+109,Rodri Bissouma,CDM,Real Sociedad,Denmark,La Liga,Holding
+110,Manuel Kimmich,CDM,RB Leipzig,Ecuador,Bundesliga,Deep Lying Playmaker
+111,Bruno Kamara,CDM,Real Betis,Ecuador,La Liga,Deep Lying Playmaker
+112,Bruno Caicedo,CDM,West Ham,Switzerland,Premier League,Holding
+113,Rodri Tchouameni,CDM,Lyon,Mali,Ligue 1,Deep Lying Playmaker
+114,Joshua Zakaria,CDM,Lyon,Spain,Ligue 1,Deep Lying Playmaker
+115,Amadou Kimmich,CDM,Dortmund,France,Bundesliga,Centre Half
+116,Sofyan Palhinha,CDM,Girona,England,La Liga,Deep Lying Playmaker
+117,Denis Palhinha,CDM,Atalanta,Ecuador,Serie A,Holding
+118,Moises Bajcetic,CDM,Arsenal,Morocco,Premier League,Deep Lying Playmaker
+119,Pierre-Emile Hernandez,CDM,Real Madrid,Ghana,La Liga,Deep Lying Playmaker
+120,Casemiro Rice,CDM,AC Milan,Spain,Serie A,Deep Lying Playmaker
+121,Thomas Hojbjerg,CDM,Stuttgart,England,Bundesliga,Holding
+122,Yves Kimmich,CDM,Lazio,Ecuador,Serie A,Holding
+123,Amadou Ugarte,CDM,RB Leipzig,Switzerland,Bundesliga,Centre Half
+124,Bruno Bajcetic,CDM,Lyon,Brazil,Ligue 1,Holding
+125,Pierre-Emile Onana,CDM,Marseille,Ghana,Ligue 1,Holding
+126,Romeo Bissouma,CDM,Atalanta,Brazil,Serie A,Holding
+127,Sofyan Tchouameni,CDM,Lyon,Mexico,Ligue 1,Centre Half
+128,Boubacar Palhinha,CDM,Atletico Madrid,Switzerland,La Liga,Holding
+129,Thomas Partey,CDM,Bayern Munich,Brazil,Bundesliga,Holding
+130,Edson Tavares,CDM,Girona,Mali,La Liga,Deep Lying Playmaker
+131,Fabinho Zakaria,CDM,Brest,Mali,Ligue 1,Deep Lying Playmaker
+132,Denis Onana,CDM,Newcastle,Ghana,Premier League,Holding
+133,Aurelien Caicedo,CDM,Bayern Munich,France,Bundesliga,Deep Lying Playmaker
+134,Sofyan Alvarez,CDM,Lyon,France,Ligue 1,Centre Half
+135,Rodri Caicedo,CDM,Napoli,Serbia,Serie A,Centre Half
+136,Bruno Rice,CDM,Chelsea,Brazil,Premier League,Holding
+137,Edson Hojbjerg,CDM,RB Leipzig,Morocco,Bundesliga,Deep Lying Playmaker
+138,Aurelien Palhinha,CDM,PSG,Portugal,Ligue 1,Deep Lying Playmaker
+139,Edson Kimmich,CDM,Manchester City,Ecuador,Premier League,Centre Half
+140,Moises Palhinha,CDM,Atalanta,Mexico,Serie A,Holding
+141,Casemiro Bissouma,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+142,Sofyan Hernandez,CDM,Liverpool,England,Premier League,Holding
+143,Moises Alvarez,CDM,Real Betis,Germany,La Liga,Holding
+144,Edson Tchouameni,CDM,Manchester United,Denmark,Premier League,Deep Lying Playmaker
+145,Stefan Tavares,CDM,Nice,Ecuador,Ligue 1,Centre Half
+146,Bruno Hojbjerg,CDM,Frankfurt,France,Bundesliga,Centre Half
+147,Casemiro Lavia,CDM,Frankfurt,Spain,Bundesliga,Holding
+148,Boubacar Onana,CDM,Monaco,Switzerland,Ligue 1,Holding
+149,Bruno Palhinha,CDM,Brest,Spain,Ligue 1,Holding
+150,Stefan Partey,CDM,PSG,Portugal,Ligue 1,Holding
+151,Moises Rice,CDM,Nice,Uruguay,Ligue 1,Holding
+152,Manuel Hernandez,CDM,Brest,Uruguay,Ligue 1,Holding
+153,Manuel Zakaria,CDM,Frankfurt,Germany,Bundesliga,Deep Lying Playmaker
+154,Bruno Alvarez,CDM,AS Roma,Brazil,Serie A,Holding
+155,Declan Ugarte,CDM,Real Madrid,Mali,La Liga,Centre Half
+156,Stefan Tavares,CDM,Brighton,Brazil,Premier League,Holding
+157,Stefan Rice,CDM,Newcastle,Brazil,Premier League,Centre Half
+158,Aurelien Casemiro,CDM,Chelsea,Spain,Premier League,Holding
+159,Manuel Amrabat,CDM,RB Leipzig,Portugal,Bundesliga,Holding
+160,Declan Guimaraes,CDM,Lille,Belgium,Ligue 1,Holding
+161,Romeo Bissouma,CDM,Barcelona,Denmark,La Liga,Holding
+162,Manuel Hernandez,CDM,AS Roma,Mexico,Serie A,Holding
+163,Aurelien Hernandez,CDM,Lille,England,Ligue 1,Deep Lying Playmaker
+164,Pierre-Emile Zakaria,CDM,PSG,Mexico,Ligue 1,Holding
+165,Bruno Rice,CDM,Athletic Club,Germany,La Liga,Holding
+166,Sofyan Guimaraes,CDM,Brighton,England,Premier League,Deep Lying Playmaker
+167,Sofyan Amrabat,CDM,Lille,Belgium,Ligue 1,Deep Lying Playmaker
+168,Stefan Hojbjerg,CDM,AS Roma,Switzerland,Serie A,Centre Half
+169,Boubacar Alvarez,CDM,West Ham,Serbia,Premier League,Centre Half
+170,Thomas Hernandez,CDM,AC Milan,Portugal,Serie A,Deep Lying Playmaker
+171,Aurelien Zakaria,CDM,Manchester United,Portugal,Premier League,Holding
+172,Joao Lavia,CDM,Bayern Munich,Morocco,Bundesliga,Centre Half
+173,Thomas Partey,CDM,Atletico Madrid,Denmark,La Liga,Centre Half
+174,Casemiro Amrabat,CDM,Real Betis,Mexico,La Liga,Centre Half
+175,Yves Bissouma,CDM,Tottenham,England,Premier League,Centre Half
+176,Sofyan Tchouameni,CDM,Lazio,Germany,Serie A,Deep Lying Playmaker
+177,Yves Tavares,CDM,Arsenal,Uruguay,Premier League,Holding
+178,Denis Palhinha,CDM,Monaco,Mali,Ligue 1,Deep Lying Playmaker
+179,Amadou Caicedo,CDM,Real Betis,England,La Liga,Holding
+180,Aurelien Kamara,CDM,Inter Milan,Belgium,Serie A,Deep Lying Playmaker
+181,Sofyan Amrabat,CDM,AC Milan,Denmark,Serie A,Centre Half
+182,Amadou Hernandez,CDM,Stuttgart,Ecuador,Bundesliga,Holding
+183,Fabinho Tavares,CDM,Newcastle,Ecuador,Premier League,Deep Lying Playmaker
+184,Thomas Palhinha,CDM,Atletico Madrid,Belgium,La Liga,Holding
+185,Sofyan Bajcetic,CDM,Bologna,Ghana,Serie A,Deep Lying Playmaker
+186,Joao Caicedo,CDM,Brighton,France,Premier League,Holding
+187,Amadou Caicedo,CDM,Tottenham,Uruguay,Premier League,Centre Half
+188,Rodri Bajcetic,CDM,Lazio,Spain,Serie A,Deep Lying Playmaker
+189,Romeo Rice,CDM,Athletic Club,Germany,La Liga,Deep Lying Playmaker
+190,Bruno Kamara,CDM,Bologna,Morocco,Serie A,Deep Lying Playmaker
+191,Edson Lavia,CDM,Dortmund,Morocco,Bundesliga,Deep Lying Playmaker
+192,Bruno Hernandez,CDM,Bologna,Denmark,Serie A,Deep Lying Playmaker
+193,Denis Kimmich,CDM,West Ham,Mali,Premier League,Holding
+194,Rodri Rice,CDM,AC Milan,Ghana,Serie A,Deep Lying Playmaker
+195,Edson Lavia,CDM,Real Sociedad,Mexico,La Liga,Centre Half
+196,Romeo Caicedo,CDM,Brest,Morocco,Ligue 1,Deep Lying Playmaker
+197,Rodri Palhinha,CDM,Stuttgart,Mali,Bundesliga,Holding
+198,Declan Guimaraes,CDM,West Ham,Portugal,Premier League,Deep Lying Playmaker
+199,Edson Rice,CDM,Napoli,Ecuador,Serie A,Holding
+200,Joao Partey,CDM,Chelsea,Uruguay,Premier League,Holding
+201,Rodri Casemiro,CDM,Real Madrid,Portugal,La Liga,Holding
+202,Manuel Lavia,CDM,Inter Milan,England,Serie A,Centre Half
+203,Amadou Amrabat,CDM,Brighton,Mali,Premier League,Centre Half
+204,Manuel Bajcetic,CDM,Valencia,Germany,La Liga,Centre Half
+205,Romeo Rice,CDM,Stuttgart,France,Bundesliga,Holding
+206,Joshua Kamara,CDM,Lille,Mali,Ligue 1,Centre Half
+207,Moises Zakaria,CDM,Athletic Club,Morocco,La Liga,Centre Half
+208,Edson Hernandez,CDM,Lille,Denmark,Ligue 1,Centre Half
+209,Manuel Caicedo,CDM,West Ham,Mali,Premier League,Deep Lying Playmaker
+210,Amadou Partey,CDM,Atletico Madrid,Uruguay,La Liga,Deep Lying Playmaker
+211,Aurelien Guimaraes,CDM,Atletico Madrid,Uruguay,La Liga,Holding
+212,Thomas Kimmich,CDM,Girona,Uruguay,La Liga,Deep Lying Playmaker
+213,Declan Zakaria,CDM,Nice,Mexico,Ligue 1,Holding
+214,Casemiro Kamara,CDM,PSG,Belgium,Ligue 1,Deep Lying Playmaker
+215,Bruno Partey,CDM,West Ham,Uruguay,Premier League,Holding
+216,Aurelien Onana,CDM,Marseille,Germany,Ligue 1,Holding
+217,Moises Bissouma,CDM,Frankfurt,Denmark,Bundesliga,Centre Half
+218,Yves Zakaria,CDM,Liverpool,Ghana,Premier League,Holding
+219,Aurelien Palhinha,CDM,RB Leipzig,Mali,Bundesliga,Deep Lying Playmaker
+220,Sofyan Caicedo,CDM,Stuttgart,Denmark,Bundesliga,Deep Lying Playmaker
+221,Denis Caicedo,CDM,Dortmund,Ecuador,Bundesliga,Holding
+222,Boubacar Bajcetic,CDM,Athletic Club,Mali,La Liga,Centre Half
+223,Thomas Partey,CDM,Valencia,Ecuador,La Liga,Holding
+224,Yves Zakaria,CDM,Monaco,Mexico,Ligue 1,Centre Half
+225,Thomas Palhinha,CDM,Atletico Madrid,Denmark,La Liga,Deep Lying Playmaker
+226,Declan Bissouma,CDM,Atletico Madrid,Denmark,La Liga,Holding
+227,Joshua Palhinha,CDM,Juventus,Uruguay,Serie A,Holding
+228,Fabinho Rice,CDM,Athletic Club,Ecuador,La Liga,Holding
+229,Joao Bissouma,CDM,AC Milan,Uruguay,Serie A,Centre Half
+230,Edson Partey,CDM,West Ham,Ghana,Premier League,Holding
+231,Bruno Zakaria,CDM,Manchester City,Belgium,Premier League,Centre Half
+232,Declan Amrabat,CDM,Lille,Mexico,Ligue 1,Deep Lying Playmaker
+233,Romeo Rice,CDM,Brest,Ecuador,Ligue 1,Deep Lying Playmaker
+234,Boubacar Ugarte,CDM,Barcelona,Uruguay,La Liga,Holding
+235,Amadou Tchouameni,CDM,Real Betis,Belgium,La Liga,Centre Half
+236,Stefan Kamara,CDM,Manchester City,England,Premier League,Deep Lying Playmaker
+237,Fabinho Rice,CDM,Bayer Leverkusen,Denmark,Bundesliga,Holding
+238,Rodri Kamara,CDM,Athletic Club,Switzerland,La Liga,Centre Half
+239,Thomas Onana,CDM,AS Roma,Germany,Serie A,Holding
+240,Moises Guimaraes,CDM,Bologna,Uruguay,Serie A,Centre Half
+241,Boubacar Ugarte,CDM,Valencia,Mali,La Liga,Deep Lying Playmaker
+242,Amadou Ugarte,CDM,Inter Milan,Uruguay,Serie A,Centre Half
+243,Boubacar Ugarte,CDM,Lille,Serbia,Ligue 1,Holding
+244,Thomas Casemiro,CDM,Nice,Portugal,Ligue 1,Deep Lying Playmaker
+245,Aurelien Kimmich,CDM,Frankfurt,Mexico,Bundesliga,Deep Lying Playmaker
+246,Boubacar Tavares,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+247,Manuel Casemiro,CDM,AS Roma,Ecuador,Serie A,Centre Half
+248,Thomas Onana,CDM,Atalanta,Portugal,Serie A,Deep Lying Playmaker
+249,Joshua Alvarez,CDM,Real Betis,Ecuador,La Liga,Holding
+250,Aurelien Kimmich,CDM,Lille,Denmark,Ligue 1,Holding
+251,Declan Kimmich,CDM,Stuttgart,Spain,Bundesliga,Holding
+252,Edson Zakaria,CDM,Valencia,Morocco,La Liga,Centre Half
+253,Casemiro Amrabat,CDM,Real Madrid,Mexico,La Liga,Centre Half
+254,Pierre-Emile Alvarez,CDM,Bayer Leverkusen,Uruguay,Bundesliga,Deep Lying Playmaker
+255,Casemiro Palhinha,CDM,Real Madrid,Ecuador,La Liga,Centre Half
+256,Bruno Kimmich,CDM,Lazio,Morocco,Serie A,Deep Lying Playmaker
+257,Pierre-Emile Partey,CDM,RB Leipzig,Denmark,Bundesliga,Deep Lying Playmaker
+258,Pierre-Emile Rice,CDM,Dortmund,Ghana,Bundesliga,Deep Lying Playmaker
+259,Amadou Hernandez,CDM,Real Sociedad,Belgium,La Liga,Holding
+260,Thomas Zakaria,CDM,Lille,Mexico,Ligue 1,Centre Half
+261,Rodri Casemiro,CDM,Chelsea,France,Premier League,Centre Half
+262,Thomas Zakaria,CDM,Frankfurt,Mali,Bundesliga,Deep Lying Playmaker
+263,Amadou Bajcetic,CDM,Lyon,Germany,Ligue 1,Holding
+264,Rodri Lavia,CDM,Real Madrid,Switzerland,La Liga,Centre Half
+265,Joshua Onana,CDM,Girona,Switzerland,La Liga,Deep Lying Playmaker
+266,Fabinho Kamara,CDM,Marseille,Mexico,Ligue 1,Holding
+267,Casemiro Tchouameni,CDM,Brest,Serbia,Ligue 1,Holding
+268,Edson Partey,CDM,Dortmund,England,Bundesliga,Centre Half
+269,Joao Tavares,CDM,Chelsea,Brazil,Premier League,Centre Half
+270,Pierre-Emile Kamara,CDM,Dortmund,Germany,Bundesliga,Deep Lying Playmaker
+271,Joao Ugarte,CDM,Arsenal,Uruguay,Premier League,Centre Half
+272,Rodri Partey,CDM,Lyon,France,Ligue 1,Centre Half
+273,Sofyan Partey,CDM,Brighton,Morocco,Premier League,Deep Lying Playmaker
+274,Pierre-Emile Alvarez,CDM,Marseille,Portugal,Ligue 1,Centre Half
+275,Rodri Caicedo,CDM,RB Leipzig,Spain,Bundesliga,Deep Lying Playmaker
+276,Boubacar Onana,CDM,Bologna,Germany,Serie A,Centre Half
+277,Joshua Ugarte,CDM,Athletic Club,Mali,La Liga,Holding
+278,Bruno Caicedo,CDM,AS Roma,Morocco,Serie A,Holding
+279,Moises Guimaraes,CDM,Lazio,Portugal,Serie A,Deep Lying Playmaker
+280,Casemiro Partey,CDM,Monaco,Mexico,Ligue 1,Deep Lying Playmaker
+281,Aurelien Hernandez,CDM,Frankfurt,Denmark,Bundesliga,Deep Lying Playmaker
+282,Amadou Lavia,CDM,Juventus,Denmark,Serie A,Holding
+283,Aurelien Amrabat,CDM,Nice,Spain,Ligue 1,Centre Half
+284,Romeo Alvarez,CDM,Brest,England,Ligue 1,Deep Lying Playmaker
+285,Joshua Lavia,CDM,Athletic Club,France,La Liga,Deep Lying Playmaker
+286,Yves Tavares,CDM,Lazio,Serbia,Serie A,Centre Half
+287,Sofyan Rice,CDM,Monaco,Spain,Ligue 1,Holding
+288,Declan Kimmich,CDM,Bayern Munich,France,Bundesliga,Centre Half
+289,Aurelien Bissouma,CDM,Real Sociedad,Morocco,La Liga,Centre Half
+290,Thomas Casemiro,CDM,PSG,Spain,Ligue 1,Deep Lying Playmaker
+291,Manuel Ugarte,CDM,Athletic Club,France,La Liga,Holding
+292,Joshua Guimaraes,CDM,Brest,Mali,Ligue 1,Deep Lying Playmaker
+293,Casemiro Zakaria,CDM,Atalanta,France,Serie A,Centre Half
+294,Thomas Tchouameni,CDM,Brest,Germany,Ligue 1,Holding
+295,Bruno Partey,CDM,Stuttgart,Portugal,Bundesliga,Centre Half
+296,Casemiro Hernandez,CDM,Barcelona,Mexico,La Liga,Holding
+297,Bruno Caicedo,CDM,Brighton,Ecuador,Premier League,Centre Half
+298,Joshua Onana,CDM,Lyon,England,Ligue 1,Deep Lying Playmaker
+299,Aurelien Hernandez,CDM,Lyon,Spain,Ligue 1,Deep Lying Playmaker
+300,Joshua Ugarte,CDM,Barcelona,Mali,La Liga,Centre Half
+301,Yves Hojbjerg,CDM,Lazio,Serbia,Serie A,Deep Lying Playmaker
+302,Boubacar Amrabat,CDM,Marseille,Switzerland,Ligue 1,Deep Lying Playmaker
+303,Romeo Amrabat,CDM,Lyon,Mali,Ligue 1,Deep Lying Playmaker
+304,Sofyan Partey,CDM,Barcelona,Germany,La Liga,Deep Lying Playmaker
+305,Denis Kimmich,CDM,Marseille,Ecuador,Ligue 1,Holding
+306,Denis Partey,CDM,Barcelona,Mali,La Liga,Centre Half
+307,Moises Rice,CDM,Arsenal,Ecuador,Premier League,Centre Half
+308,Yves Tchouameni,CDM,Manchester United,Spain,Premier League,Deep Lying Playmaker
+309,Declan Tavares,CDM,Bologna,Denmark,Serie A,Deep Lying Playmaker
+310,Yves Ugarte,CDM,Stuttgart,Portugal,Bundesliga,Deep Lying Playmaker
+311,Boubacar Palhinha,CDM,PSG,Mexico,Ligue 1,Centre Half
+312,Boubacar Zakaria,CDM,Bayern Munich,Morocco,Bundesliga,Holding
+313,Casemiro Caicedo,CDM,Chelsea,Mali,Premier League,Holding
+314,Denis Amrabat,CDM,Atletico Madrid,Germany,La Liga,Holding
+315,Yves Kamara,CDM,Frankfurt,Mali,Bundesliga,Centre Half
+316,Romeo Kamara,CDM,Lazio,Germany,Serie A,Centre Half
+317,Rodri Guimaraes,CDM,Atletico Madrid,England,La Liga,Holding
+318,Boubacar Palhinha,CDM,PSG,Morocco,Ligue 1,Centre Half
+319,Joshua Lavia,CDM,Atletico Madrid,Spain,La Liga,Deep Lying Playmaker
+320,Casemiro Casemiro,CDM,Manchester City,Portugal,Premier League,Deep Lying Playmaker
+321,Sofyan Onana,CDM,Nice,Spain,Ligue 1,Deep Lying Playmaker
+322,Pierre-Emile Amrabat,CDM,Bologna,Uruguay,Serie A,Deep Lying Playmaker
+323,Boubacar Hernandez,CDM,Dortmund,Portugal,Bundesliga,Centre Half
+324,Yves Zakaria,CDM,Valencia,Brazil,La Liga,Centre Half
+325,Casemiro Partey,CDM,Atalanta,England,Serie A,Deep Lying Playmaker
+326,Thomas Partey,CDM,Manchester United,Morocco,Premier League,Deep Lying Playmaker
+327,Casemiro Guimaraes,CDM,Tottenham,Brazil,Premier League,Deep Lying Playmaker
+328,Pierre-Emile Rice,CDM,Atalanta,Denmark,Serie A,Centre Half
+329,Declan Casemiro,CDM,Liverpool,Denmark,Premier League,Deep Lying Playmaker
+330,Rodri Caicedo,CDM,Dortmund,Belgium,Bundesliga,Deep Lying Playmaker
+331,Declan Casemiro,CDM,Real Madrid,Brazil,La Liga,Holding
+332,Amadou Lavia,CDM,Real Madrid,Morocco,La Liga,Centre Half
+333,Romeo Guimaraes,CDM,Napoli,Germany,Serie A,Deep Lying Playmaker
+334,Thomas Zakaria,CDM,Dortmund,Switzerland,Bundesliga,Holding
+335,Manuel Alvarez,CDM,Lille,Mexico,Ligue 1,Deep Lying Playmaker
+336,Aurelien Partey,CDM,Bayern Munich,Brazil,Bundesliga,Deep Lying Playmaker
+337,Boubacar Rice,CDM,Lyon,Serbia,Ligue 1,Holding
+338,Fabinho Partey,CDM,Bayern Munich,Mali,Bundesliga,Centre Half
+339,Fabinho Tavares,CDM,Monaco,Spain,Ligue 1,Centre Half
+340,Sofyan Hernandez,CDM,Marseille,Uruguay,Ligue 1,Deep Lying Playmaker
+341,Edson Partey,CDM,Girona,Mali,La Liga,Deep Lying Playmaker
+342,Joao Hernandez,CDM,Aston Villa,Ghana,Premier League,Holding
+343,Casemiro Partey,CDM,Real Sociedad,France,La Liga,Centre Half
+344,Romeo Rice,CDM,Tottenham,Denmark,Premier League,Holding
+345,Sofyan Hojbjerg,CDM,PSG,France,Ligue 1,Deep Lying Playmaker
+346,Casemiro Tchouameni,CDM,Real Betis,Germany,La Liga,Deep Lying Playmaker
+347,Stefan Guimaraes,CDM,RB Leipzig,Switzerland,Bundesliga,Holding
+348,Sofyan Casemiro,CDM,RB Leipzig,England,Bundesliga,Holding
+349,Declan Partey,CDM,AS Roma,Belgium,Serie A,Deep Lying Playmaker
+350,Joshua Lavia,CDM,Brest,Portugal,Ligue 1,Centre Half
+351,Romeo Zakaria,CDM,Girona,Mali,La Liga,Deep Lying Playmaker
+352,Rodri Casemiro,CDM,Atletico Madrid,Mexico,La Liga,Centre Half
+353,Casemiro Bissouma,CDM,Brighton,Germany,Premier League,Holding
+354,Denis Palhinha,CDM,Stuttgart,Ecuador,Bundesliga,Deep Lying Playmaker
+355,Bruno Hernandez,CDM,Manchester City,Uruguay,Premier League,Holding
+356,Joao Zakaria,CDM,Tottenham,Denmark,Premier League,Holding
+357,Casemiro Tavares,CDM,Atalanta,Portugal,Serie A,Centre Half
+358,Amadou Rice,CDM,Valencia,Portugal,La Liga,Holding
+359,Sofyan Alvarez,CDM,Real Sociedad,Denmark,La Liga,Deep Lying Playmaker
+360,Joao Kimmich,CDM,Manchester United,Ecuador,Premier League,Deep Lying Playmaker
+361,Fabinho Caicedo,CDM,Lyon,England,Ligue 1,Centre Half
+362,Joshua Rice,CDM,Valencia,Brazil,La Liga,Deep Lying Playmaker
+363,Thomas Tchouameni,CDM,RB Leipzig,Uruguay,Bundesliga,Holding
+364,Romeo Zakaria,CDM,Real Betis,England,La Liga,Holding
+365,Edson Ugarte,CDM,Brighton,Serbia,Premier League,Centre Half
+366,Rodri Bajcetic,CDM,AS Roma,Ecuador,Serie A,Deep Lying Playmaker
+367,Boubacar Alvarez,CDM,AC Milan,Uruguay,Serie A,Holding
+368,Fabinho Zakaria,CDM,Real Sociedad,Denmark,La Liga,Holding
+369,Joao Palhinha,CDM,Real Betis,Germany,La Liga,Centre Half
+370,Moises Bajcetic,CDM,West Ham,England,Premier League,Centre Half
+371,Boubacar Lavia,CDM,Brest,Ecuador,Ligue 1,Deep Lying Playmaker
+372,Thomas Amrabat,CDM,Arsenal,Serbia,Premier League,Deep Lying Playmaker
+373,Casemiro Bissouma,CDM,Manchester United,England,Premier League,Holding
+374,Joshua Zakaria,CDM,Barcelona,France,La Liga,Deep Lying Playmaker
+375,Declan Lavia,CDM,Brighton,Mali,Premier League,Deep Lying Playmaker
+376,Pierre-Emile Ugarte,CDM,Bologna,Morocco,Serie A,Centre Half
+377,Amadou Lavia,CDM,Dortmund,Portugal,Bundesliga,Centre Half
+378,Boubacar Hernandez,CDM,Nice,Mexico,Ligue 1,Holding
+379,Aurelien Kimmich,CDM,Girona,Mexico,La Liga,Centre Half
+380,Sofyan Palhinha,CDM,AS Roma,Belgium,Serie A,Holding
+381,Casemiro Bissouma,CDM,Brest,Mali,Ligue 1,Holding
+382,Stefan Kimmich,CDM,Brest,Mexico,Ligue 1,Centre Half
+383,Yves Ugarte,CDM,AS Roma,Mexico,Serie A,Holding
+384,Edson Caicedo,CDM,Marseille,Mali,Ligue 1,Holding
+385,Joshua Partey,CDM,Dortmund,Morocco,Bundesliga,Deep Lying Playmaker
+386,Rodri Hojbjerg,CDM,RB Leipzig,Portugal,Bundesliga,Centre Half
+387,Declan Ugarte,CDM,Valencia,Morocco,La Liga,Centre Half
+388,Sofyan Bajcetic,CDM,Lille,Ghana,Ligue 1,Holding
+389,Joshua Bissouma,CDM,AS Roma,Brazil,Serie A,Deep Lying Playmaker
+390,Casemiro Lavia,CDM,Brighton,Ecuador,Premier League,Deep Lying Playmaker
+391,Amadou Ugarte,CDM,RB Leipzig,Mexico,Bundesliga,Centre Half
+392,Amadou Kamara,CDM,Monaco,Germany,Ligue 1,Holding
+393,Declan Alvarez,CDM,Lille,Morocco,Ligue 1,Holding
+394,Bruno Palhinha,CDM,Bayer Leverkusen,Ghana,Bundesliga,Centre Half
+395,Amadou Amrabat,CDM,Inter Milan,France,Serie A,Holding
+396,Stefan Caicedo,CDM,Valencia,Ecuador,La Liga,Centre Half
+397,Manuel Palhinha,CDM,Frankfurt,Uruguay,Bundesliga,Centre Half
+398,Casemiro Casemiro,CDM,Juventus,Serbia,Serie A,Deep Lying Playmaker
+399,Fabinho Rice,CDM,Bologna,Switzerland,Serie A,Centre Half
+400,Moises Guimaraes,CDM,Nice,Morocco,Ligue 1,Holding
+401,Stefan Lavia,CDM,Lille,Portugal,Ligue 1,Deep Lying Playmaker
+402,Manuel Tchouameni,CDM,Atalanta,Switzerland,Serie A,Holding
+403,Romeo Kimmich,CDM,Stuttgart,Ghana,Bundesliga,Holding
+404,Stefan Amrabat,CDM,Brighton,Brazil,Premier League,Deep Lying Playmaker
+405,Joshua Tchouameni,CDM,Atletico Madrid,Ghana,La Liga,Centre Half
+406,Thomas Hojbjerg,CDM,Frankfurt,England,Bundesliga,Deep Lying Playmaker
+407,Boubacar Palhinha,CDM,Stuttgart,Uruguay,Bundesliga,Holding
+408,Casemiro Tchouameni,CDM,Atalanta,Morocco,Serie A,Centre Half
+409,Declan Guimaraes,CDM,Atletico Madrid,England,La Liga,Holding
+410,Casemiro Caicedo,CDM,Real Sociedad,Spain,La Liga,Centre Half
+411,Joshua Alvarez,CDM,RB Leipzig,Portugal,Bundesliga,Holding
+412,Fabinho Bissouma,CDM,Dortmund,Switzerland,Bundesliga,Centre Half
+413,Joao Casemiro,CDM,Newcastle,Switzerland,Premier League,Deep Lying Playmaker
+414,Manuel Kimmich,CDM,Monaco,Uruguay,Ligue 1,Deep Lying Playmaker
+415,Amadou Palhinha,CDM,AC Milan,Mali,Serie A,Holding
+416,Amadou Onana,CDM,Nice,England,Ligue 1,Centre Half
+417,Stefan Hojbjerg,CDM,Lyon,Denmark,Ligue 1,Holding
+418,Edson Guimaraes,CDM,Chelsea,Ecuador,Premier League,Deep Lying Playmaker
+419,Rodri Hojbjerg,CDM,Monaco,Spain,Ligue 1,Centre Half
+420,Rodri Casemiro,CDM,Juventus,Uruguay,Serie A,Deep Lying Playmaker
+421,Denis Ugarte,CDM,Girona,Morocco,La Liga,Centre Half
+422,Joshua Kamara,CDM,Real Sociedad,Denmark,La Liga,Holding
+423,Pierre-Emile Amrabat,CDM,Frankfurt,Ghana,Bundesliga,Centre Half
+424,Casemiro Caicedo,CDM,Athletic Club,Brazil,La Liga,Centre Half
+425,Declan Ugarte,CDM,Lazio,France,Serie A,Holding
+426,Edson Palhinha,CDM,Real Sociedad,England,La Liga,Centre Half
+427,Declan Hernandez,CDM,Lazio,Serbia,Serie A,Holding
+428,Sofyan Caicedo,CDM,Nice,Uruguay,Ligue 1,Holding
+429,Edson Amrabat,CDM,West Ham,Germany,Premier League,Centre Half
+430,Thomas Alvarez,CDM,PSG,Mexico,Ligue 1,Centre Half
+431,Boubacar Alvarez,CDM,Monaco,Uruguay,Ligue 1,Deep Lying Playmaker
+432,Stefan Tchouameni,CDM,Nice,Spain,Ligue 1,Deep Lying Playmaker
+433,Yves Tchouameni,CDM,Brest,Brazil,Ligue 1,Deep Lying Playmaker
+434,Boubacar Rice,CDM,Monaco,Denmark,Ligue 1,Centre Half
+435,Rodri Amrabat,CDM,Girona,Mexico,La Liga,Deep Lying Playmaker
+436,Declan Onana,CDM,RB Leipzig,France,Bundesliga,Holding
+437,Declan Zakaria,CDM,Lazio,Mali,Serie A,Deep Lying Playmaker
+438,Edson Kamara,CDM,Lyon,Germany,Ligue 1,Centre Half
+439,Boubacar Hojbjerg,CDM,Valencia,Belgium,La Liga,Holding
+440,Edson Alvarez,CDM,Manchester United,England,Premier League,Centre Half
+441,Yves Tchouameni,CDM,Valencia,France,La Liga,Centre Half
+442,Pierre-Emile Ugarte,CDM,Atalanta,Brazil,Serie A,Holding
+443,Rodri Casemiro,CDM,Real Sociedad,Mali,La Liga,Deep Lying Playmaker
+444,Stefan Caicedo,CDM,Napoli,Ghana,Serie A,Deep Lying Playmaker
+445,Declan Onana,CDM,Girona,Belgium,La Liga,Centre Half
+446,Boubacar Zakaria,CDM,Brest,Spain,Ligue 1,Holding
+447,Moises Onana,CDM,Real Betis,Uruguay,La Liga,Holding
+448,Joao Amrabat,CDM,Lille,Germany,Ligue 1,Deep Lying Playmaker
+449,Edson Kimmich,CDM,Manchester City,Morocco,Premier League,Centre Half
+450,Stefan Onana,CDM,Marseille,Ecuador,Ligue 1,Deep Lying Playmaker
+451,Stefan Kimmich,CDM,Lyon,Germany,Ligue 1,Deep Lying Playmaker
+452,Thomas Caicedo,CDM,Brest,France,Ligue 1,Deep Lying Playmaker
+453,Pierre-Emile Alvarez,CDM,Girona,Spain,La Liga,Holding
+454,Yves Alvarez,CDM,Monaco,Ecuador,Ligue 1,Deep Lying Playmaker
+455,Aurelien Casemiro,CDM,Real Betis,Ecuador,La Liga,Holding
+456,Pierre-Emile Onana,CDM,RB Leipzig,Germany,Bundesliga,Centre Half
+457,Thomas Alvarez,CDM,Inter Milan,Ecuador,Serie A,Centre Half
+458,Aurelien Palhinha,CDM,Bayern Munich,Germany,Bundesliga,Deep Lying Playmaker
+459,Bruno Onana,CDM,Bologna,France,Serie A,Deep Lying Playmaker
+460,Thomas Hojbjerg,CDM,Lille,England,Ligue 1,Deep Lying Playmaker
+461,Declan Bissouma,CDM,Inter Milan,Denmark,Serie A,Deep Lying Playmaker
+462,Thomas Amrabat,CDM,Chelsea,Spain,Premier League,Holding
+463,Aurelien Bissouma,CDM,Napoli,Morocco,Serie A,Holding
+464,Stefan Casemiro,CDM,Liverpool,France,Premier League,Centre Half
+465,Edson Ugarte,CDM,Real Madrid,Ecuador,La Liga,Deep Lying Playmaker
+466,Fabinho Hernandez,CDM,Liverpool,Uruguay,Premier League,Centre Half
+467,Edson Ugarte,CDM,Marseille,France,Ligue 1,Deep Lying Playmaker
+468,Rodri Partey,CDM,Real Sociedad,Mexico,La Liga,Centre Half
+469,Bruno Casemiro,CDM,Chelsea,Serbia,Premier League,Deep Lying Playmaker
+470,Declan Ugarte,CDM,Girona,Uruguay,La Liga,Holding
+471,Bruno Caicedo,CDM,Monaco,Germany,Ligue 1,Holding
+472,Romeo Tchouameni,CDM,Real Betis,Mali,La Liga,Deep Lying Playmaker
+473,Edson Ugarte,CDM,Real Sociedad,Morocco,La Liga,Deep Lying Playmaker
+474,Declan Ugarte,CDM,Girona,Brazil,La Liga,Centre Half
+475,Stefan Hernandez,CDM,Bologna,England,Serie A,Deep Lying Playmaker
+476,Declan Lavia,CDM,Valencia,Switzerland,La Liga,Centre Half
+477,Amadou Amrabat,CDM,Real Madrid,Uruguay,La Liga,Holding
+478,Moises Amrabat,CDM,Bayern Munich,Denmark,Bundesliga,Deep Lying Playmaker
+479,Stefan Amrabat,CDM,Napoli,Denmark,Serie A,Holding
+480,Sofyan Guimaraes,CDM,Bayer Leverkusen,Spain,Bundesliga,Centre Half
+481,Amadou Bajcetic,CDM,Liverpool,Mexico,Premier League,Centre Half
+482,Stefan Casemiro,CDM,Napoli,Portugal,Serie A,Holding
+483,Fabinho Zakaria,CDM,Atletico Madrid,France,La Liga,Deep Lying Playmaker
+484,Thomas Rice,CDM,Napoli,England,Serie A,Holding
+485,Rodri Alvarez,CDM,Tottenham,Germany,Premier League,Holding
+486,Moises Bajcetic,CDM,AC Milan,Ecuador,Serie A,Centre Half
+487,Declan Kamara,CDM,Liverpool,Ecuador,Premier League,Centre Half
+488,Moises Lavia,CDM,Lazio,France,Serie A,Holding
+489,Rodri Ugarte,CDM,Juventus,England,Serie A,Centre Half
+490,Aurelien Partey,CDM,Athletic Club,Ghana,La Liga,Centre Half
+491,Declan Kimmich,CDM,Atletico Madrid,Switzerland,La Liga,Centre Half
+492,Casemiro Kamara,CDM,Frankfurt,Spain,Bundesliga,Centre Half
+493,Declan Palhinha,CDM,Real Sociedad,Brazil,La Liga,Holding
+494,Boubacar Bissouma,CDM,Marseille,Ghana,Ligue 1,Centre Half
+495,Yves Hojbjerg,CDM,Dortmund,Denmark,Bundesliga,Holding
+496,Joshua Onana,CDM,Inter Milan,Uruguay,Serie A,Centre Half
+497,Romeo Palhinha,CDM,Bologna,Morocco,Serie A,Deep Lying Playmaker
+498,Joao Bajcetic,CDM,Atalanta,France,Serie A,Centre Half
+499,Joao Tavares,CDM,Lazio,Serbia,Serie A,Holding
+500,Romeo Tchouameni,CDM,Juventus,Belgium,Serie A,Deep Lying Playmaker
+501,Declan Amrabat,CDM,Tottenham,Portugal,Premier League,Deep Lying Playmaker
+502,Boubacar Casemiro,CDM,Bayern Munich,Spain,Bundesliga,Deep Lying Playmaker
+503,Bruno Rice,CDM,AC Milan,Ghana,Serie A,Centre Half
+504,Moises Bissouma,CDM,Monaco,Mexico,Ligue 1,Deep Lying Playmaker
+505,Joao Palhinha,CDM,Brest,Ghana,Ligue 1,Holding
+506,Pierre-Emile Guimaraes,CDM,RB Leipzig,Brazil,Bundesliga,Holding
+507,Stefan Onana,CDM,Brest,Germany,Ligue 1,Deep Lying Playmaker
+508,Romeo Hernandez,CDM,Real Sociedad,Spain,La Liga,Deep Lying Playmaker
+509,Romeo Caicedo,CDM,Bayern Munich,Ecuador,Bundesliga,Deep Lying Playmaker
+510,Aurelien Tchouameni,CDM,Nice,Brazil,Ligue 1,Centre Half
+511,Stefan Onana,CDM,Newcastle,Belgium,Premier League,Holding
+512,Edson Amrabat,CDM,Real Betis,Switzerland,La Liga,Holding
+513,Amadou Tavares,CDM,Liverpool,Spain,Premier League,Centre Half
+514,Stefan Onana,CDM,Tottenham,Ecuador,Premier League,Deep Lying Playmaker
+515,Boubacar Tchouameni,CDM,Marseille,France,Ligue 1,Holding
+516,Thomas Bajcetic,CDM,Real Sociedad,Mali,La Liga,Centre Half
+517,Aurelien Onana,CDM,AC Milan,Morocco,Serie A,Deep Lying Playmaker
+518,Edson Hojbjerg,CDM,West Ham,Mali,Premier League,Centre Half
+519,Declan Onana,CDM,Girona,Belgium,La Liga,Centre Half
+520,Joshua Tavares,CDM,RB Leipzig,Portugal,Bundesliga,Centre Half
+521,Edson Casemiro,CDM,PSG,France,Ligue 1,Centre Half
+522,Denis Kamara,CDM,Aston Villa,Serbia,Premier League,Holding
+523,Aurelien Rice,CDM,Athletic Club,Belgium,La Liga,Holding
+524,Thomas Palhinha,CDM,RB Leipzig,Morocco,Bundesliga,Holding
+525,Pierre-Emile Kimmich,CDM,Marseille,Ecuador,Ligue 1,Holding
+526,Thomas Partey,CDM,Brighton,Mali,Premier League,Holding
+527,Stefan Zakaria,CDM,RB Leipzig,Portugal,Bundesliga,Centre Half
+528,Amadou Tchouameni,CDM,Liverpool,Switzerland,Premier League,Centre Half
+529,Denis Partey,CDM,AC Milan,Ecuador,Serie A,Deep Lying Playmaker
+530,Edson Lavia,CDM,Napoli,Brazil,Serie A,Centre Half
+531,Moises Hojbjerg,CDM,Chelsea,Belgium,Premier League,Centre Half
+532,Thomas Hojbjerg,CDM,Bologna,Belgium,Serie A,Holding
+533,Fabinho Lavia,CDM,Juventus,France,Serie A,Holding
+534,Sofyan Kamara,CDM,Bayern Munich,Switzerland,Bundesliga,Holding
+535,Amadou Partey,CDM,Lazio,England,Serie A,Holding
+536,Thomas Kamara,CDM,Juventus,Uruguay,Serie A,Holding
+537,Casemiro Hernandez,CDM,Liverpool,Morocco,Premier League,Deep Lying Playmaker
+538,Edson Lavia,CDM,Lazio,France,Serie A,Deep Lying Playmaker
+539,Declan Amrabat,CDM,Tottenham,Spain,Premier League,Centre Half
+540,Stefan Palhinha,CDM,Aston Villa,Switzerland,Premier League,Holding
+541,Bruno Casemiro,CDM,Bayer Leverkusen,Uruguay,Bundesliga,Deep Lying Playmaker
+542,Manuel Hojbjerg,CDM,Dortmund,Serbia,Bundesliga,Deep Lying Playmaker
+543,Bruno Lavia,CDM,Liverpool,England,Premier League,Centre Half
+544,Fabinho Bajcetic,CDM,Frankfurt,Serbia,Bundesliga,Deep Lying Playmaker
+545,Fabinho Lavia,CDM,Juventus,Morocco,Serie A,Centre Half
+546,Casemiro Onana,CDM,Monaco,Switzerland,Ligue 1,Deep Lying Playmaker
+547,Thomas Tchouameni,CDM,Athletic Club,Uruguay,La Liga,Centre Half
+548,Fabinho Ugarte,CDM,Bologna,Spain,Serie A,Holding
+549,Amadou Rice,CDM,Valencia,Denmark,La Liga,Deep Lying Playmaker
+550,Aurelien Amrabat,CDM,Nice,France,Ligue 1,Holding
+551,Sofyan Tchouameni,CDM,PSG,Ghana,Ligue 1,Centre Half
+552,Pierre-Emile Ugarte,CDM,Nice,Mexico,Ligue 1,Centre Half
+553,Yves Ugarte,CDM,Arsenal,Ghana,Premier League,Deep Lying Playmaker
+554,Aurelien Kamara,CDM,Lille,Portugal,Ligue 1,Deep Lying Playmaker
+555,Stefan Palhinha,CDM,Atalanta,Denmark,Serie A,Holding
+556,Thomas Ugarte,CDM,Athletic Club,Brazil,La Liga,Holding
+557,Yves Partey,CDM,Dortmund,Switzerland,Bundesliga,Deep Lying Playmaker
+558,Rodri Partey,CDM,Juventus,France,Serie A,Centre Half
+559,Moises Alvarez,CDM,Bayer Leverkusen,Morocco,Bundesliga,Centre Half
+560,Amadou Kimmich,CDM,PSG,Serbia,Ligue 1,Deep Lying Playmaker
+561,Bruno Kamara,CDM,Barcelona,Serbia,La Liga,Centre Half
+562,Bruno Kamara,CDM,Real Sociedad,Portugal,La Liga,Deep Lying Playmaker
+563,Aurelien Tavares,CDM,Liverpool,Spain,Premier League,Centre Half
+564,Denis Ugarte,CDM,Atletico Madrid,Portugal,La Liga,Centre Half
+565,Romeo Hojbjerg,CDM,PSG,Germany,Ligue 1,Centre Half
+566,Yves Hernandez,CDM,Real Sociedad,Denmark,La Liga,Centre Half
+567,Rodri Tavares,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+568,Thomas Tchouameni,CDM,Stuttgart,Ghana,Bundesliga,Deep Lying Playmaker
+569,Boubacar Bajcetic,CDM,PSG,Brazil,Ligue 1,Centre Half
+570,Aurelien Tavares,CDM,Bologna,Switzerland,Serie A,Centre Half
+571,Thomas Partey,CDM,Bologna,France,Serie A,Centre Half
+572,Joshua Guimaraes,CDM,Marseille,Morocco,Ligue 1,Centre Half
+573,Sofyan Palhinha,CDM,RB Leipzig,England,Bundesliga,Centre Half
+574,Boubacar Hojbjerg,CDM,Stuttgart,Serbia,Bundesliga,Deep Lying Playmaker
+575,Edson Ugarte,CDM,RB Leipzig,Uruguay,Bundesliga,Deep Lying Playmaker
+576,Pierre-Emile Amrabat,CDM,Nice,Switzerland,Ligue 1,Centre Half
+577,Joao Palhinha,CDM,Atalanta,Brazil,Serie A,Deep Lying Playmaker
+578,Joshua Palhinha,CDM,AS Roma,Serbia,Serie A,Deep Lying Playmaker
+579,Fabinho Zakaria,CDM,Lyon,France,Ligue 1,Deep Lying Playmaker
+580,Sofyan Caicedo,CDM,Real Madrid,Portugal,La Liga,Deep Lying Playmaker
+581,Joshua Caicedo,CDM,Tottenham,Brazil,Premier League,Deep Lying Playmaker
+582,Joao Amrabat,CDM,Girona,England,La Liga,Centre Half
+583,Aurelien Bajcetic,CDM,Chelsea,Uruguay,Premier League,Holding
+584,Pierre-Emile Partey,CDM,Valencia,Uruguay,La Liga,Holding
+585,Bruno Hernandez,CDM,Manchester City,Uruguay,Premier League,Holding
+586,Yves Zakaria,CDM,Arsenal,Switzerland,Premier League,Deep Lying Playmaker
+587,Edson Partey,CDM,AS Roma,Spain,Serie A,Deep Lying Playmaker
+588,Edson Amrabat,CDM,Monaco,Ecuador,Ligue 1,Deep Lying Playmaker
+589,Fabinho Rice,CDM,Atletico Madrid,Ecuador,La Liga,Centre Half
+590,Manuel Bajcetic,CDM,AS Roma,Spain,Serie A,Centre Half
+591,Denis Hernandez,CDM,Lyon,Brazil,Ligue 1,Holding
+592,Sofyan Alvarez,CDM,Lyon,Germany,Ligue 1,Centre Half
+593,Bruno Alvarez,CDM,Frankfurt,Germany,Bundesliga,Centre Half
+594,Yves Hojbjerg,CDM,Newcastle,Uruguay,Premier League,Centre Half
+595,Romeo Ugarte,CDM,Tottenham,Mexico,Premier League,Centre Half
+596,Moises Caicedo,CDM,Lille,Denmark,Ligue 1,Deep Lying Playmaker
+597,Thomas Partey,CDM,Marseille,Portugal,Ligue 1,Holding
+598,Edson Ugarte,CDM,Manchester United,Ecuador,Premier League,Centre Half
+599,Thomas Lavia,CDM,AC Milan,Portugal,Serie A,Deep Lying Playmaker
+600,Romeo Tavares,CDM,Lazio,Spain,Serie A,Centre Half
+601,Stefan Tchouameni,CDM,Newcastle,Morocco,Premier League,Centre Half
+602,Boubacar Bissouma,CDM,Inter Milan,France,Serie A,Centre Half
+603,Edson Guimaraes,CDM,Bayer Leverkusen,Brazil,Bundesliga,Holding
+604,Casemiro Tavares,CDM,Marseille,Brazil,Ligue 1,Holding
+605,Sofyan Hernandez,CDM,Bayern Munich,Switzerland,Bundesliga,Deep Lying Playmaker
+606,Casemiro Ugarte,CDM,Atletico Madrid,Mexico,La Liga,Centre Half
+607,Joshua Kamara,CDM,PSG,Uruguay,Ligue 1,Centre Half
+608,Romeo Hernandez,CDM,Lille,Uruguay,Ligue 1,Deep Lying Playmaker
+609,Moises Hojbjerg,CDM,Lazio,Ecuador,Serie A,Deep Lying Playmaker
+610,Amadou Tchouameni,CDM,Chelsea,Portugal,Premier League,Centre Half
+611,Stefan Hernandez,CDM,Arsenal,Mali,Premier League,Centre Half
+612,Fabinho Partey,CDM,Atletico Madrid,Mexico,La Liga,Centre Half
+613,Thomas Zakaria,CDM,Girona,England,La Liga,Deep Lying Playmaker
+614,Fabinho Bajcetic,CDM,Arsenal,Mexico,Premier League,Holding
+615,Thomas Bajcetic,CDM,Atletico Madrid,Spain,La Liga,Deep Lying Playmaker
+616,Joshua Partey,CDM,West Ham,Serbia,Premier League,Centre Half
+617,Bruno Bissouma,CDM,Stuttgart,Germany,Bundesliga,Deep Lying Playmaker
+618,Bruno Tchouameni,CDM,Lazio,Switzerland,Serie A,Deep Lying Playmaker
+619,Bruno Lavia,CDM,Lille,Ghana,Ligue 1,Deep Lying Playmaker
+620,Amadou Casemiro,CDM,Real Sociedad,Mali,La Liga,Deep Lying Playmaker
+621,Romeo Hernandez,CDM,Girona,Serbia,La Liga,Deep Lying Playmaker
+622,Bruno Casemiro,CDM,Atalanta,Switzerland,Serie A,Deep Lying Playmaker
+623,Aurelien Ugarte,CDM,Dortmund,Morocco,Bundesliga,Deep Lying Playmaker
+624,Amadou Zakaria,CDM,Frankfurt,Mali,Bundesliga,Holding
+625,Casemiro Partey,CDM,Bayern Munich,Spain,Bundesliga,Centre Half
+626,Romeo Guimaraes,CDM,Marseille,Germany,Ligue 1,Holding
+627,Boubacar Hernandez,CDM,Dortmund,Serbia,Bundesliga,Centre Half
+628,Moises Guimaraes,CDM,Manchester United,Uruguay,Premier League,Holding
+629,Casemiro Alvarez,CDM,Bologna,Mali,Serie A,Deep Lying Playmaker
+630,Romeo Onana,CDM,Girona,Ghana,La Liga,Deep Lying Playmaker
+631,Romeo Rice,CDM,Bologna,Portugal,Serie A,Centre Half
+632,Romeo Palhinha,CDM,West Ham,Switzerland,Premier League,Centre Half
+633,Rodri Partey,CDM,Atletico Madrid,England,La Liga,Holding
+634,Joao Ugarte,CDM,Nice,Denmark,Ligue 1,Holding
+635,Aurelien Hojbjerg,CDM,RB Leipzig,Switzerland,Bundesliga,Holding
+636,Yves Kamara,CDM,Nice,Germany,Ligue 1,Deep Lying Playmaker
+637,Thomas Hernandez,CDM,Monaco,Ghana,Ligue 1,Deep Lying Playmaker
+638,Stefan Partey,CDM,Real Sociedad,Belgium,La Liga,Deep Lying Playmaker
+639,Edson Onana,CDM,Liverpool,Switzerland,Premier League,Holding
+640,Declan Kamara,CDM,Nice,Denmark,Ligue 1,Deep Lying Playmaker
+641,Joao Caicedo,CDM,Athletic Club,France,La Liga,Deep Lying Playmaker
+642,Pierre-Emile Guimaraes,CDM,Girona,Serbia,La Liga,Holding
+643,Pierre-Emile Rice,CDM,PSG,Mexico,Ligue 1,Holding
+644,Amadou Kamara,CDM,Juventus,Mexico,Serie A,Centre Half
+645,Rodri Alvarez,CDM,Inter Milan,Denmark,Serie A,Centre Half
+646,Romeo Rice,CDM,RB Leipzig,Portugal,Bundesliga,Deep Lying Playmaker
+647,Yves Bajcetic,CDM,Newcastle,Brazil,Premier League,Deep Lying Playmaker
+648,Romeo Zakaria,CDM,Bayer Leverkusen,England,Bundesliga,Deep Lying Playmaker
+649,Amadou Rice,CDM,Atalanta,Mexico,Serie A,Centre Half
+650,Manuel Zakaria,CDM,Valencia,Morocco,La Liga,Holding
+651,Sofyan Ugarte,CDM,Inter Milan,Mexico,Serie A,Holding
+652,Declan Bajcetic,CDM,Stuttgart,Ghana,Bundesliga,Holding
+653,Romeo Guimaraes,CDM,West Ham,Spain,Premier League,Centre Half
+654,Casemiro Bajcetic,CDM,Atletico Madrid,Brazil,La Liga,Holding
+655,Manuel Rice,CDM,Inter Milan,Portugal,Serie A,Holding
+656,Declan Guimaraes,CDM,West Ham,Mexico,Premier League,Centre Half
+657,Moises Kimmich,CDM,Aston Villa,Uruguay,Premier League,Deep Lying Playmaker
+658,Rodri Casemiro,CDM,Frankfurt,Portugal,Bundesliga,Deep Lying Playmaker
+659,Moises Casemiro,CDM,Inter Milan,Mexico,Serie A,Holding
+660,Amadou Kamara,CDM,Marseille,Spain,Ligue 1,Holding
+661,Bruno Tchouameni,CDM,Marseille,Denmark,Ligue 1,Deep Lying Playmaker
+662,Pierre-Emile Zakaria,CDM,Atletico Madrid,Portugal,La Liga,Holding
+663,Yves Hernandez,CDM,Real Madrid,Uruguay,La Liga,Holding
+664,Boubacar Caicedo,CDM,RB Leipzig,France,Bundesliga,Holding
+665,Stefan Hojbjerg,CDM,Girona,Ecuador,La Liga,Deep Lying Playmaker
+666,Rodri Caicedo,CDM,AS Roma,Denmark,Serie A,Centre Half
+667,Joshua Rice,CDM,Napoli,Uruguay,Serie A,Centre Half
+668,Bruno Casemiro,CDM,Atletico Madrid,Mexico,La Liga,Holding
+669,Manuel Tavares,CDM,Newcastle,Ghana,Premier League,Holding
+670,Moises Bissouma,CDM,Atletico Madrid,Brazil,La Liga,Centre Half
+671,Boubacar Lavia,CDM,Valencia,Germany,La Liga,Holding
+672,Edson Ugarte,CDM,Napoli,Portugal,Serie A,Holding
+673,Casemiro Kimmich,CDM,Marseille,Portugal,Ligue 1,Deep Lying Playmaker
+674,Declan Hernandez,CDM,Barcelona,Denmark,La Liga,Deep Lying Playmaker
+675,Joao Lavia,CDM,Liverpool,Spain,Premier League,Holding
+676,Boubacar Lavia,CDM,Real Madrid,England,La Liga,Holding
+677,Sofyan Casemiro,CDM,Chelsea,Brazil,Premier League,Holding
+678,Romeo Rice,CDM,Lazio,Brazil,Serie A,Holding
+679,Sofyan Casemiro,CDM,Frankfurt,France,Bundesliga,Deep Lying Playmaker
+680,Moises Palhinha,CDM,Marseille,France,Ligue 1,Holding
+681,Fabinho Alvarez,CDM,RB Leipzig,Ecuador,Bundesliga,Deep Lying Playmaker
+682,Edson Caicedo,CDM,Newcastle,Mali,Premier League,Deep Lying Playmaker
+683,Joshua Hojbjerg,CDM,Stuttgart,Mexico,Bundesliga,Centre Half
+684,Casemiro Zakaria,CDM,Girona,France,La Liga,Holding
+685,Rodri Zakaria,CDM,Girona,Denmark,La Liga,Deep Lying Playmaker
+686,Romeo Casemiro,CDM,Atletico Madrid,Uruguay,La Liga,Deep Lying Playmaker
+687,Fabinho Bajcetic,CDM,Bayern Munich,Mali,Bundesliga,Centre Half
+688,Yves Kimmich,CDM,Inter Milan,Spain,Serie A,Holding
+689,Sofyan Hernandez,CDM,Lille,Mexico,Ligue 1,Centre Half
+690,Moises Guimaraes,CDM,West Ham,Denmark,Premier League,Centre Half
+691,Sofyan Tchouameni,CDM,Barcelona,Morocco,La Liga,Holding
+692,Fabinho Hernandez,CDM,Lille,Germany,Ligue 1,Holding
+693,Joao Hojbjerg,CDM,Aston Villa,Ghana,Premier League,Holding
+694,Romeo Amrabat,CDM,Atalanta,Portugal,Serie A,Holding
+695,Joshua Bissouma,CDM,Inter Milan,Mali,Serie A,Centre Half
+696,Edson Partey,CDM,Girona,Mexico,La Liga,Deep Lying Playmaker
+697,Sofyan Tavares,CDM,Athletic Club,Ecuador,La Liga,Holding
+698,Fabinho Hojbjerg,CDM,Stuttgart,Germany,Bundesliga,Centre Half
+699,Casemiro Amrabat,CDM,Frankfurt,Brazil,Bundesliga,Holding
+700,Bruno Rice,CDM,Brighton,England,Premier League,Holding
+701,Bruno Alvarez,CDM,Girona,Mexico,La Liga,Centre Half
+702,Boubacar Onana,CDM,Dortmund,Switzerland,Bundesliga,Holding
+703,Boubacar Ugarte,CDM,Frankfurt,Germany,Bundesliga,Holding
+704,Joao Kimmich,CDM,Dortmund,Mexico,Bundesliga,Centre Half
+705,Denis Bajcetic,CDM,PSG,Switzerland,Ligue 1,Holding
+706,Denis Tavares,CDM,Bayer Leverkusen,Ghana,Bundesliga,Deep Lying Playmaker
+707,Sofyan Bajcetic,CDM,AC Milan,Morocco,Serie A,Holding
+708,Rodri Palhinha,CDM,Marseille,Brazil,Ligue 1,Deep Lying Playmaker
+709,Declan Palhinha,CDM,Frankfurt,Morocco,Bundesliga,Holding
+710,Stefan Ugarte,CDM,Tottenham,Ecuador,Premier League,Deep Lying Playmaker
+711,Joao Partey,CDM,West Ham,Ecuador,Premier League,Centre Half
+712,Stefan Hernandez,CDM,Valencia,Germany,La Liga,Deep Lying Playmaker
+713,Rodri Caicedo,CDM,RB Leipzig,Ghana,Bundesliga,Holding
+714,Amadou Alvarez,CDM,Brighton,Ecuador,Premier League,Centre Half
+715,Edson Hojbjerg,CDM,Barcelona,Switzerland,La Liga,Holding
+716,Casemiro Kimmich,CDM,Manchester United,Brazil,Premier League,Deep Lying Playmaker
+717,Pierre-Emile Onana,CDM,AC Milan,Mexico,Serie A,Deep Lying Playmaker
+718,Bruno Onana,CDM,Newcastle,Portugal,Premier League,Deep Lying Playmaker
+719,Sofyan Partey,CDM,Valencia,Mali,La Liga,Holding
+720,Bruno Bajcetic,CDM,Real Betis,Denmark,La Liga,Deep Lying Playmaker
+721,Amadou Kamara,CDM,Aston Villa,Switzerland,Premier League,Centre Half
+722,Edson Bajcetic,CDM,Bayer Leverkusen,Serbia,Bundesliga,Holding
+723,Declan Bissouma,CDM,Tottenham,Switzerland,Premier League,Holding
+724,Manuel Ugarte,CDM,Brest,Brazil,Ligue 1,Holding
+725,Denis Kamara,CDM,Manchester City,Switzerland,Premier League,Holding
+726,Rodri Guimaraes,CDM,Frankfurt,Germany,Bundesliga,Centre Half
+727,Rodri Zakaria,CDM,West Ham,Germany,Premier League,Centre Half
+728,Edson Tchouameni,CDM,Barcelona,England,La Liga,Centre Half
+729,Casemiro Rice,CDM,Lyon,Mexico,Ligue 1,Deep Lying Playmaker
+730,Declan Hojbjerg,CDM,Nice,Portugal,Ligue 1,Holding
+731,Declan Palhinha,CDM,Monaco,Ghana,Ligue 1,Deep Lying Playmaker
+732,Sofyan Tavares,CDM,AS Roma,Spain,Serie A,Holding
+733,Casemiro Casemiro,CDM,Newcastle,Mexico,Premier League,Centre Half
+734,Boubacar Hernandez,CDM,Brest,Morocco,Ligue 1,Centre Half
+735,Moises Kimmich,CDM,Lazio,Portugal,Serie A,Deep Lying Playmaker
+736,Joao Partey,CDM,Napoli,Belgium,Serie A,Holding
+737,Joao Caicedo,CDM,Lille,England,Ligue 1,Centre Half
+738,Rodri Zakaria,CDM,Juventus,Brazil,Serie A,Deep Lying Playmaker
+739,Sofyan Lavia,CDM,Lyon,Uruguay,Ligue 1,Deep Lying Playmaker
+740,Fabinho Onana,CDM,Frankfurt,Portugal,Bundesliga,Deep Lying Playmaker
+741,Joshua Hernandez,CDM,Barcelona,Uruguay,La Liga,Deep Lying Playmaker
+742,Thomas Bajcetic,CDM,PSG,Serbia,Ligue 1,Centre Half
+743,Fabinho Kimmich,CDM,Real Sociedad,Uruguay,La Liga,Holding
+744,Rodri Tchouameni,CDM,Aston Villa,Mexico,Premier League,Centre Half
+745,Joao Hojbjerg,CDM,AC Milan,Ghana,Serie A,Centre Half
+746,Stefan Palhinha,CDM,Brest,France,Ligue 1,Deep Lying Playmaker
+747,Romeo Guimaraes,CDM,Monaco,Uruguay,Ligue 1,Deep Lying Playmaker
+748,Stefan Partey,CDM,AC Milan,Mexico,Serie A,Holding
+749,Joshua Amrabat,CDM,Lyon,Mali,Ligue 1,Centre Half
+750,Casemiro Palhinha,CDM,Girona,Ghana,La Liga,Centre Half
+751,Pierre-Emile Guimaraes,CDM,RB Leipzig,Mexico,Bundesliga,Holding
+752,Stefan Zakaria,CDM,AS Roma,Germany,Serie A,Holding
+753,Moises Alvarez,CDM,Real Sociedad,France,La Liga,Deep Lying Playmaker
+754,Declan Zakaria,CDM,Arsenal,Germany,Premier League,Deep Lying Playmaker
+755,Boubacar Rice,CDM,Tottenham,Ghana,Premier League,Deep Lying Playmaker
+756,Rodri Ugarte,CDM,Liverpool,Mexico,Premier League,Holding
+757,Sofyan Hernandez,CDM,Bayern Munich,France,Bundesliga,Centre Half
+758,Yves Amrabat,CDM,Real Sociedad,Serbia,La Liga,Deep Lying Playmaker
+759,Joshua Tavares,CDM,Inter Milan,Ecuador,Serie A,Centre Half
+760,Yves Kimmich,CDM,RB Leipzig,Belgium,Bundesliga,Holding
+761,Joao Tchouameni,CDM,Valencia,Germany,La Liga,Deep Lying Playmaker
+762,Manuel Lavia,CDM,Brighton,Mali,Premier League,Holding
+763,Bruno Bajcetic,CDM,Real Betis,Switzerland,La Liga,Holding
+764,Moises Bajcetic,CDM,Barcelona,Ecuador,La Liga,Holding
+765,Aurelien Rice,CDM,Frankfurt,France,Bundesliga,Holding
+766,Amadou Rice,CDM,Bayern Munich,Portugal,Bundesliga,Centre Half
+767,Bruno Palhinha,CDM,Real Betis,Morocco,La Liga,Centre Half
+768,Moises Tchouameni,CDM,Athletic Club,Ecuador,La Liga,Holding
+769,Denis Zakaria,CDM,Girona,England,La Liga,Deep Lying Playmaker
+770,Fabinho Hojbjerg,CDM,Real Madrid,Switzerland,La Liga,Centre Half
+771,Joao Guimaraes,CDM,Real Sociedad,Portugal,La Liga,Holding
+772,Amadou Rice,CDM,Atletico Madrid,Denmark,La Liga,Centre Half
+773,Denis Caicedo,CDM,Marseille,Mali,Ligue 1,Holding
+774,Boubacar Bajcetic,CDM,Lille,France,Ligue 1,Holding
+775,Aurelien Ugarte,CDM,Monaco,Belgium,Ligue 1,Holding
+776,Joao Palhinha,CDM,Real Sociedad,Portugal,La Liga,Centre Half
+777,Manuel Ugarte,CDM,PSG,Germany,Ligue 1,Holding
+778,Manuel Lavia,CDM,Frankfurt,Mexico,Bundesliga,Centre Half
+779,Declan Kamara,CDM,Atletico Madrid,Mali,La Liga,Centre Half
+780,Stefan Bajcetic,CDM,Athletic Club,Ghana,La Liga,Deep Lying Playmaker
+781,Fabinho Bissouma,CDM,Lille,Mali,Ligue 1,Centre Half
+782,Romeo Tavares,CDM,Brest,Mexico,Ligue 1,Holding
+783,Aurelien Lavia,CDM,Newcastle,France,Premier League,Deep Lying Playmaker
+784,Stefan Onana,CDM,Nice,Portugal,Ligue 1,Holding
+785,Casemiro Hernandez,CDM,Manchester City,Mexico,Premier League,Holding
+786,Yves Tchouameni,CDM,Nice,Ghana,Ligue 1,Holding
+787,Moises Casemiro,CDM,Juventus,Portugal,Serie A,Centre Half
+788,Sofyan Casemiro,CDM,Inter Milan,Serbia,Serie A,Centre Half
+789,Denis Lavia,CDM,Bayern Munich,Belgium,Bundesliga,Deep Lying Playmaker
+790,Rodri Kimmich,CDM,Liverpool,Belgium,Premier League,Centre Half
+791,Stefan Palhinha,CDM,Monaco,Morocco,Ligue 1,Centre Half
+792,Denis Tchouameni,CDM,Manchester City,France,Premier League,Deep Lying Playmaker
+793,Fabinho Hernandez,CDM,Monaco,Serbia,Ligue 1,Holding
+794,Moises Casemiro,CDM,Napoli,Mali,Serie A,Centre Half
+795,Pierre-Emile Amrabat,CDM,PSG,Portugal,Ligue 1,Centre Half
+796,Sofyan Palhinha,CDM,Aston Villa,Ghana,Premier League,Centre Half
+797,Boubacar Zakaria,CDM,Brighton,Denmark,Premier League,Deep Lying Playmaker
+798,Denis Casemiro,CDM,Girona,Mexico,La Liga,Holding
+799,Romeo Palhinha,CDM,Bologna,Portugal,Serie A,Centre Half
+800,Bruno Kamara,CDM,Real Sociedad,Morocco,La Liga,Centre Half
+801,Pierre-Emile Rice,CDM,Lazio,Morocco,Serie A,Centre Half
+802,Yves Partey,CDM,Dortmund,Serbia,Bundesliga,Holding
+803,Stefan Bissouma,CDM,Napoli,Germany,Serie A,Centre Half
+804,Aurelien Palhinha,CDM,Dortmund,Ghana,Bundesliga,Holding
+805,Joshua Tchouameni,CDM,PSG,Serbia,Ligue 1,Deep Lying Playmaker
+806,Bruno Ugarte,CDM,Lazio,Mexico,Serie A,Centre Half
+807,Rodri Bajcetic,CDM,RB Leipzig,Morocco,Bundesliga,Deep Lying Playmaker
+808,Joao Tavares,CDM,West Ham,Germany,Premier League,Holding
+809,Rodri Lavia,CDM,Dortmund,Spain,Bundesliga,Centre Half
+810,Thomas Lavia,CDM,PSG,Portugal,Ligue 1,Holding
+811,Casemiro Bissouma,CDM,Bayern Munich,Spain,Bundesliga,Centre Half
+812,Edson Guimaraes,CDM,Napoli,Denmark,Serie A,Centre Half
+813,Joshua Bissouma,CDM,Bologna,Switzerland,Serie A,Holding
+814,Yves Bissouma,CDM,Bologna,Denmark,Serie A,Centre Half
+815,Declan Guimaraes,CDM,Lyon,Ghana,Ligue 1,Holding
+816,Yves Hojbjerg,CDM,Girona,Ghana,La Liga,Centre Half
+817,Denis Casemiro,CDM,Bayer Leverkusen,Brazil,Bundesliga,Holding
+818,Casemiro Bajcetic,CDM,RB Leipzig,Mexico,Bundesliga,Centre Half
+819,Romeo Tavares,CDM,Napoli,Mexico,Serie A,Centre Half
+820,Romeo Palhinha,CDM,Manchester City,Germany,Premier League,Centre Half
+821,Pierre-Emile Hojbjerg,CDM,Inter Milan,Mexico,Serie A,Holding
+822,Pierre-Emile Kimmich,CDM,Lille,Portugal,Ligue 1,Deep Lying Playmaker
+823,Romeo Alvarez,CDM,Manchester United,Mali,Premier League,Deep Lying Playmaker
+824,Joshua Bissouma,CDM,Liverpool,Switzerland,Premier League,Deep Lying Playmaker
+825,Edson Amrabat,CDM,Atalanta,Portugal,Serie A,Holding
+826,Fabinho Onana,CDM,Stuttgart,Mali,Bundesliga,Deep Lying Playmaker
+827,Joshua Alvarez,CDM,Bayern Munich,Uruguay,Bundesliga,Holding
+828,Manuel Hojbjerg,CDM,Marseille,Uruguay,Ligue 1,Deep Lying Playmaker
+829,Joshua Caicedo,CDM,Monaco,Switzerland,Ligue 1,Centre Half
+830,Manuel Casemiro,CDM,Aston Villa,Morocco,Premier League,Centre Half
+831,Edson Lavia,CDM,Napoli,Spain,Serie A,Deep Lying Playmaker
+832,Fabinho Hernandez,CDM,Marseille,Belgium,Ligue 1,Holding
+833,Sofyan Hojbjerg,CDM,Manchester City,Portugal,Premier League,Deep Lying Playmaker
+834,Aurelien Casemiro,CDM,Marseille,Ecuador,Ligue 1,Deep Lying Playmaker
+835,Stefan Partey,CDM,Bayer Leverkusen,Portugal,Bundesliga,Centre Half
+836,Thomas Kamara,CDM,Monaco,France,Ligue 1,Deep Lying Playmaker
+837,Moises Amrabat,CDM,Marseille,Brazil,Ligue 1,Deep Lying Playmaker
+838,Joao Ugarte,CDM,Inter Milan,Brazil,Serie A,Centre Half
+839,Declan Kimmich,CDM,Marseille,Portugal,Ligue 1,Deep Lying Playmaker
+840,Thomas Palhinha,CDM,Napoli,Germany,Serie A,Centre Half
+841,Joao Guimaraes,CDM,Frankfurt,Morocco,Bundesliga,Holding
+842,Thomas Amrabat,CDM,Napoli,Spain,Serie A,Holding
+843,Pierre-Emile Tavares,CDM,West Ham,Uruguay,Premier League,Centre Half
+844,Aurelien Bajcetic,CDM,Valencia,Ghana,La Liga,Centre Half
+845,Denis Palhinha,CDM,AS Roma,Germany,Serie A,Holding
+846,Amadou Bajcetic,CDM,Nice,Denmark,Ligue 1,Deep Lying Playmaker
+847,Amadou Kamara,CDM,Lyon,England,Ligue 1,Holding
+848,Romeo Alvarez,CDM,Brighton,Morocco,Premier League,Centre Half
+849,Bruno Palhinha,CDM,Real Betis,Belgium,La Liga,Deep Lying Playmaker
+850,Edson Kimmich,CDM,Stuttgart,Switzerland,Bundesliga,Deep Lying Playmaker
+851,Manuel Ugarte,CDM,Girona,Denmark,La Liga,Centre Half
+852,Bruno Palhinha,CDM,Brest,Ghana,Ligue 1,Deep Lying Playmaker
+853,Manuel Kamara,CDM,Marseille,Spain,Ligue 1,Deep Lying Playmaker
+854,Stefan Palhinha,CDM,AC Milan,France,Serie A,Centre Half
+855,Amadou Caicedo,CDM,Monaco,Brazil,Ligue 1,Centre Half
+856,Stefan Partey,CDM,Manchester City,Switzerland,Premier League,Centre Half
+857,Bruno Rice,CDM,Lyon,Mexico,Ligue 1,Centre Half
+858,Stefan Rice,CDM,Bayern Munich,Serbia,Bundesliga,Deep Lying Playmaker
+859,Casemiro Casemiro,CDM,Barcelona,Uruguay,La Liga,Holding
+860,Romeo Kamara,CDM,Manchester United,Mexico,Premier League,Holding
+861,Fabinho Casemiro,CDM,Bayern Munich,Mexico,Bundesliga,Centre Half
+862,Moises Rice,CDM,Real Betis,Denmark,La Liga,Deep Lying Playmaker
+863,Stefan Onana,CDM,Lille,Morocco,Ligue 1,Holding
+864,Stefan Amrabat,CDM,Bayer Leverkusen,France,Bundesliga,Holding
+865,Bruno Hernandez,CDM,Newcastle,Mexico,Premier League,Holding
+866,Yves Casemiro,CDM,Barcelona,Belgium,La Liga,Centre Half
+867,Joshua Hojbjerg,CDM,Frankfurt,Denmark,Bundesliga,Deep Lying Playmaker
+868,Bruno Hernandez,CDM,Lazio,Uruguay,Serie A,Holding
+869,Manuel Hernandez,CDM,Aston Villa,Spain,Premier League,Deep Lying Playmaker
+870,Declan Kamara,CDM,Real Sociedad,Portugal,La Liga,Deep Lying Playmaker
+871,Boubacar Tavares,CDM,Newcastle,Denmark,Premier League,Holding
+872,Amadou Tchouameni,CDM,West Ham,Mali,Premier League,Deep Lying Playmaker
+873,Joshua Partey,CDM,Inter Milan,France,Serie A,Centre Half
+874,Yves Kamara,CDM,PSG,Switzerland,Ligue 1,Holding
+875,Edson Tavares,CDM,Manchester United,Ghana,Premier League,Deep Lying Playmaker
+876,Boubacar Amrabat,CDM,Marseille,Serbia,Ligue 1,Centre Half
+877,Stefan Ugarte,CDM,Stuttgart,Switzerland,Bundesliga,Deep Lying Playmaker
+878,Joao Amrabat,CDM,West Ham,Mali,Premier League,Holding
+879,Denis Bissouma,CDM,Brest,Mexico,Ligue 1,Holding
+880,Romeo Partey,CDM,Frankfurt,Uruguay,Bundesliga,Centre Half
+881,Yves Palhinha,CDM,Newcastle,Denmark,Premier League,Centre Half
+882,Romeo Zakaria,CDM,Real Betis,Morocco,La Liga,Deep Lying Playmaker
+883,Bruno Hojbjerg,CDM,Liverpool,Ghana,Premier League,Centre Half
+884,Casemiro Partey,CDM,Lazio,Uruguay,Serie A,Centre Half
+885,Rodri Amrabat,CDM,Juventus,Brazil,Serie A,Deep Lying Playmaker
+886,Casemiro Tavares,CDM,Lyon,France,Ligue 1,Centre Half
+887,Rodri Onana,CDM,Newcastle,Brazil,Premier League,Centre Half
+888,Joshua Kamara,CDM,Athletic Club,Mali,La Liga,Deep Lying Playmaker
+889,Denis Hernandez,CDM,Frankfurt,Switzerland,Bundesliga,Holding
+890,Casemiro Hojbjerg,CDM,Bologna,Switzerland,Serie A,Holding
+891,Joao Hernandez,CDM,Juventus,Mexico,Serie A,Deep Lying Playmaker
+892,Stefan Caicedo,CDM,Valencia,Belgium,La Liga,Holding
+893,Edson Hernandez,CDM,Frankfurt,Morocco,Bundesliga,Deep Lying Playmaker
+894,Sofyan Alvarez,CDM,Bayern Munich,Mexico,Bundesliga,Holding
+895,Manuel Casemiro,CDM,Manchester City,Spain,Premier League,Deep Lying Playmaker
+896,Yves Zakaria,CDM,Brighton,Uruguay,Premier League,Deep Lying Playmaker
+897,Rodri Onana,CDM,Napoli,Belgium,Serie A,Centre Half
+898,Romeo Zakaria,CDM,Real Madrid,Ghana,La Liga,Deep Lying Playmaker
+899,Joshua Hojbjerg,CDM,Girona,Mali,La Liga,Holding
+900,Thomas Kamara,CDM,Marseille,Denmark,Ligue 1,Holding
+901,Edson Kamara,CDM,Real Sociedad,Brazil,La Liga,Holding
+902,Sofyan Ugarte,CDM,Napoli,England,Serie A,Deep Lying Playmaker
+903,Moises Caicedo,CDM,Lyon,Mexico,Ligue 1,Deep Lying Playmaker
+904,Declan Rice,CDM,Dortmund,Denmark,Bundesliga,Centre Half
+905,Amadou Hojbjerg,CDM,Tottenham,Portugal,Premier League,Centre Half
+906,Pierre-Emile Bajcetic,CDM,Tottenham,Serbia,Premier League,Centre Half
+907,Amadou Tchouameni,CDM,Aston Villa,Belgium,Premier League,Deep Lying Playmaker
+908,Casemiro Alvarez,CDM,Dortmund,Denmark,Bundesliga,Holding
+909,Stefan Zakaria,CDM,Bayer Leverkusen,Brazil,Bundesliga,Centre Half
+910,Amadou Tavares,CDM,Inter Milan,Spain,Serie A,Deep Lying Playmaker
+911,Declan Bissouma,CDM,Inter Milan,France,Serie A,Deep Lying Playmaker
+912,Rodri Tchouameni,CDM,Marseille,France,Ligue 1,Holding
+913,Edson Kimmich,CDM,Inter Milan,Portugal,Serie A,Deep Lying Playmaker
+914,Manuel Partey,CDM,Newcastle,Uruguay,Premier League,Deep Lying Playmaker
+915,Joshua Kimmich,CDM,Bayern Munich,Mali,Bundesliga,Holding
+916,Bruno Guimaraes,CDM,Inter Milan,Germany,Serie A,Holding
+917,Joshua Caicedo,CDM,Lyon,Serbia,Ligue 1,Centre Half
+918,Joshua Guimaraes,CDM,Inter Milan,Switzerland,Serie A,Holding
+919,Boubacar Lavia,CDM,Brest,Portugal,Ligue 1,Deep Lying Playmaker
+920,Pierre-Emile Kimmich,CDM,PSG,Morocco,Ligue 1,Centre Half
+921,Amadou Bajcetic,CDM,Liverpool,Ghana,Premier League,Holding
+922,Joshua Ugarte,CDM,Lazio,Brazil,Serie A,Centre Half
+923,Casemiro Bajcetic,CDM,PSG,Switzerland,Ligue 1,Centre Half
+924,Amadou Tavares,CDM,RB Leipzig,Spain,Bundesliga,Centre Half
+925,Rodri Bissouma,CDM,Nice,Uruguay,Ligue 1,Centre Half
+926,Sofyan Hojbjerg,CDM,Inter Milan,Germany,Serie A,Deep Lying Playmaker
+927,Aurelien Palhinha,CDM,Dortmund,Ecuador,Bundesliga,Holding
+928,Joao Zakaria,CDM,Lazio,Uruguay,Serie A,Deep Lying Playmaker
+929,Declan Kamara,CDM,Chelsea,Uruguay,Premier League,Holding
+930,Bruno Zakaria,CDM,Inter Milan,Brazil,Serie A,Deep Lying Playmaker
+931,Romeo Partey,CDM,Stuttgart,Ghana,Bundesliga,Deep Lying Playmaker
+932,Yves Partey,CDM,Dortmund,Belgium,Bundesliga,Centre Half
+933,Declan Palhinha,CDM,Real Sociedad,Portugal,La Liga,Holding
+934,Bruno Kamara,CDM,Brighton,Mexico,Premier League,Holding
+935,Amadou Guimaraes,CDM,Tottenham,Denmark,Premier League,Holding
+936,Denis Guimaraes,CDM,Atalanta,Switzerland,Serie A,Holding
+937,Declan Kamara,CDM,Bayer Leverkusen,Ghana,Bundesliga,Deep Lying Playmaker
+938,Manuel Tchouameni,CDM,Arsenal,Mali,Premier League,Holding
+939,Casemiro Rice,CDM,Manchester United,Switzerland,Premier League,Holding
+940,Aurelien Zakaria,CDM,Monaco,Mexico,Ligue 1,Deep Lying Playmaker
+941,Thomas Partey,CDM,Bologna,Denmark,Serie A,Centre Half
+942,Aurelien Hernandez,CDM,Lyon,England,Ligue 1,Deep Lying Playmaker
+943,Denis Caicedo,CDM,Real Sociedad,Germany,La Liga,Centre Half
+944,Boubacar Partey,CDM,Napoli,Brazil,Serie A,Deep Lying Playmaker
+945,Declan Onana,CDM,Real Madrid,France,La Liga,Holding
+946,Bruno Kimmich,CDM,PSG,Denmark,Ligue 1,Deep Lying Playmaker
+947,Romeo Guimaraes,CDM,Bayern Munich,Germany,Bundesliga,Deep Lying Playmaker
+948,Rodri Hojbjerg,CDM,Girona,Ghana,La Liga,Centre Half
+949,Thomas Caicedo,CDM,Newcastle,Portugal,Premier League,Holding
+950,Fabinho Partey,CDM,Lazio,Ecuador,Serie A,Deep Lying Playmaker
+951,Sofyan Kimmich,CDM,Atalanta,Brazil,Serie A,Deep Lying Playmaker
+952,Pierre-Emile Rice,CDM,West Ham,Mexico,Premier League,Deep Lying Playmaker
+953,Fabinho Lavia,CDM,Dortmund,Spain,Bundesliga,Centre Half
+954,Casemiro Lavia,CDM,Bayer Leverkusen,Serbia,Bundesliga,Centre Half
+955,Denis Zakaria,CDM,Marseille,Portugal,Ligue 1,Centre Half
+956,Joao Rice,CDM,AC Milan,England,Serie A,Centre Half
+957,Joshua Onana,CDM,Brighton,Mali,Premier League,Deep Lying Playmaker
+958,Aurelien Bissouma,CDM,Arsenal,Ghana,Premier League,Holding
+959,Aurelien Guimaraes,CDM,Real Sociedad,Mexico,La Liga,Centre Half
+960,Amadou Onana,CDM,Newcastle,Mali,Premier League,Deep Lying Playmaker
+961,Joao Hernandez,CDM,Real Betis,Portugal,La Liga,Centre Half
+962,Boubacar Amrabat,CDM,Atalanta,Brazil,Serie A,Centre Half
+963,Joao Casemiro,CDM,Real Sociedad,Portugal,La Liga,Deep Lying Playmaker
+964,Bruno Bajcetic,CDM,Lazio,Portugal,Serie A,Centre Half
+965,Aurelien Bajcetic,CDM,Valencia,Morocco,La Liga,Deep Lying Playmaker
+966,Casemiro Kimmich,CDM,Real Sociedad,Brazil,La Liga,Deep Lying Playmaker
+967,Stefan Amrabat,CDM,Arsenal,Denmark,Premier League,Centre Half
+968,Pierre-Emile Onana,CDM,Inter Milan,Uruguay,Serie A,Holding
+969,Moises Lavia,CDM,Juventus,Mali,Serie A,Deep Lying Playmaker
+970,Rodri Tavares,CDM,Real Betis,Belgium,La Liga,Centre Half
+971,Pierre-Emile Lavia,CDM,Juventus,Denmark,Serie A,Centre Half
+972,Yves Guimaraes,CDM,Stuttgart,Denmark,Bundesliga,Centre Half
+973,Fabinho Bissouma,CDM,Real Madrid,Switzerland,La Liga,Deep Lying Playmaker
+974,Declan Kamara,CDM,PSG,England,Ligue 1,Centre Half
+975,Boubacar Amrabat,CDM,Bologna,Mexico,Serie A,Deep Lying Playmaker
+976,Boubacar Alvarez,CDM,Juventus,Serbia,Serie A,Holding
+977,Joshua Onana,CDM,Napoli,Denmark,Serie A,Centre Half
+978,Fabinho Onana,CDM,Nice,Belgium,Ligue 1,Centre Half
+979,Joao Guimaraes,CDM,Brest,Morocco,Ligue 1,Centre Half
+980,Boubacar Kamara,CDM,Brest,Mali,Ligue 1,Deep Lying Playmaker
+981,Denis Bissouma,CDM,Dortmund,Uruguay,Bundesliga,Holding
+982,Thomas Partey,CDM,Bologna,Serbia,Serie A,Centre Half
+983,Aurelien Kamara,CDM,Bologna,Switzerland,Serie A,Deep Lying Playmaker
+984,Romeo Kimmich,CDM,Bayern Munich,Spain,Bundesliga,Centre Half
+985,Casemiro Kimmich,CDM,Athletic Club,Ghana,La Liga,Deep Lying Playmaker
+986,Manuel Tchouameni,CDM,Bologna,Mali,Serie A,Holding
+987,Fabinho Kimmich,CDM,Dortmund,Portugal,Bundesliga,Holding
+988,Bruno Partey,CDM,Bayern Munich,Denmark,Bundesliga,Centre Half
+989,Fabinho Hernandez,CDM,Napoli,Belgium,Serie A,Holding
+990,Amadou Hernandez,CDM,Monaco,Mexico,Ligue 1,Centre Half
+991,Sofyan Hojbjerg,CDM,Bayern Munich,Morocco,Bundesliga,Holding
+992,Pierre-Emile Kamara,CDM,West Ham,Spain,Premier League,Deep Lying Playmaker
+993,Aurelien Guimaraes,CDM,Barcelona,Portugal,La Liga,Holding
+994,Yves Hernandez,CDM,Atletico Madrid,Mexico,La Liga,Deep Lying Playmaker
+995,Manuel Lavia,CDM,Newcastle,England,Premier League,Holding
+996,Joshua Bissouma,CDM,Atletico Madrid,France,La Liga,Holding
+997,Casemiro Hojbjerg,CDM,Barcelona,Switzerland,La Liga,Holding
+998,Stefan Kimmich,CDM,Real Betis,Mexico,La Liga,Centre Half
+999,Joao Ugarte,CDM,Real Betis,Switzerland,La Liga,Holding
+1000,Sofyan Onana,CDM,Marseille,Mali,Ligue 1,Deep Lying Playmaker
+1001,Joshua Guimaraes,CDM,Lyon,Mexico,Ligue 1,Holding
+1002,Thomas Hojbjerg,CDM,Liverpool,France,Premier League,Centre Half
+1003,Edson Hernandez,CDM,Bayern Munich,England,Bundesliga,Deep Lying Playmaker
+1004,Manuel Tchouameni,CDM,Brest,Brazil,Ligue 1,Centre Half
+1005,Sofyan Tchouameni,CDM,Nice,Portugal,Ligue 1,Holding
+1006,Declan Lavia,CDM,Marseille,Serbia,Ligue 1,Centre Half
+1007,Pierre-Emile Onana,CDM,Stuttgart,Morocco,Bundesliga,Holding
+1008,Casemiro Amrabat,CDM,Bayer Leverkusen,Germany,Bundesliga,Centre Half
+1009,Yves Bissouma,CDM,Monaco,England,Ligue 1,Holding
+1010,Fabinho Hernandez,CDM,Valencia,Spain,La Liga,Deep Lying Playmaker
+1011,Amadou Zakaria,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+1012,Stefan Casemiro,CDM,Marseille,Switzerland,Ligue 1,Deep Lying Playmaker
+1013,Pierre-Emile Tchouameni,CDM,AS Roma,Switzerland,Serie A,Centre Half
+1014,Manuel Caicedo,CDM,Juventus,Brazil,Serie A,Holding
+1015,Joao Kimmich,CDM,Real Sociedad,Uruguay,La Liga,Centre Half
+1016,Pierre-Emile Caicedo,CDM,Real Sociedad,Belgium,La Liga,Holding
+1017,Pierre-Emile Onana,CDM,Atletico Madrid,Brazil,La Liga,Centre Half
+1018,Amadou Zakaria,CDM,Liverpool,Brazil,Premier League,Holding
+1019,Denis Palhinha,CDM,Brighton,Morocco,Premier League,Holding
+1020,Declan Alvarez,CDM,Arsenal,Brazil,Premier League,Deep Lying Playmaker
+1021,Joao Lavia,CDM,Newcastle,Mexico,Premier League,Deep Lying Playmaker
+1022,Rodri Lavia,CDM,Dortmund,Denmark,Bundesliga,Centre Half
+1023,Moises Zakaria,CDM,West Ham,Ghana,Premier League,Centre Half
+1024,Rodri Lavia,CDM,Barcelona,Ecuador,La Liga,Deep Lying Playmaker
+1025,Edson Kamara,CDM,Barcelona,Spain,La Liga,Holding
+1026,Joshua Partey,CDM,AS Roma,Portugal,Serie A,Centre Half
+1027,Romeo Rice,CDM,Bayer Leverkusen,Brazil,Bundesliga,Holding
+1028,Boubacar Hojbjerg,CDM,Brighton,Ecuador,Premier League,Centre Half
+1029,Sofyan Zakaria,CDM,Stuttgart,Switzerland,Bundesliga,Deep Lying Playmaker
+1030,Romeo Alvarez,CDM,Brighton,Serbia,Premier League,Holding
+1031,Thomas Caicedo,CDM,Lyon,Ghana,Ligue 1,Holding
+1032,Moises Tchouameni,CDM,Valencia,Germany,La Liga,Centre Half
+1033,Boubacar Hernandez,CDM,Frankfurt,Ghana,Bundesliga,Holding
+1034,Joshua Onana,CDM,Girona,Germany,La Liga,Holding
+1035,Declan Rice,CDM,Arsenal,Mali,Premier League,Deep Lying Playmaker
+1036,Romeo Zakaria,CDM,Lyon,Mexico,Ligue 1,Deep Lying Playmaker
+1037,Sofyan Casemiro,CDM,Nice,Spain,Ligue 1,Centre Half
+1038,Manuel Tavares,CDM,Dortmund,Switzerland,Bundesliga,Centre Half
+1039,Denis Tavares,CDM,Dortmund,Switzerland,Bundesliga,Deep Lying Playmaker
+1040,Manuel Ugarte,CDM,Manchester City,Portugal,Premier League,Holding
+1041,Sofyan Hernandez,CDM,Manchester City,Denmark,Premier League,Centre Half
+1042,Sofyan Caicedo,CDM,Real Sociedad,Switzerland,La Liga,Deep Lying Playmaker
+1043,Amadou Hernandez,CDM,Napoli,Belgium,Serie A,Deep Lying Playmaker
+1044,Manuel Bissouma,CDM,Monaco,Belgium,Ligue 1,Centre Half
+1045,Bruno Ugarte,CDM,Real Madrid,Spain,La Liga,Holding
+1046,Joshua Onana,CDM,Real Betis,Ghana,La Liga,Holding
+1047,Thomas Bissouma,CDM,Barcelona,Denmark,La Liga,Holding
+1048,Bruno Hojbjerg,CDM,Lille,Uruguay,Ligue 1,Holding
+1049,Pierre-Emile Guimaraes,CDM,Inter Milan,Mali,Serie A,Deep Lying Playmaker
+1050,Joshua Bissouma,CDM,Lyon,Brazil,Ligue 1,Centre Half
+1051,Amadou Guimaraes,CDM,Brighton,Morocco,Premier League,Centre Half
+1052,Joshua Bajcetic,CDM,Inter Milan,Portugal,Serie A,Deep Lying Playmaker
+1053,Sofyan Bajcetic,CDM,Chelsea,Ghana,Premier League,Deep Lying Playmaker
+1054,Sofyan Casemiro,CDM,Juventus,Switzerland,Serie A,Deep Lying Playmaker
+1055,Manuel Bajcetic,CDM,Athletic Club,Portugal,La Liga,Deep Lying Playmaker
+1056,Aurelien Zakaria,CDM,Monaco,Switzerland,Ligue 1,Centre Half
+1057,Moises Tavares,CDM,Brighton,England,Premier League,Centre Half
+1058,Joshua Bissouma,CDM,Lille,France,Ligue 1,Holding
+1059,Yves Tchouameni,CDM,Real Betis,Germany,La Liga,Centre Half
+1060,Boubacar Bissouma,CDM,Lazio,Switzerland,Serie A,Centre Half
+1061,Declan Bajcetic,CDM,Juventus,Spain,Serie A,Holding
+1062,Joao Palhinha,CDM,PSG,Germany,Ligue 1,Holding
+1063,Sofyan Bissouma,CDM,Bayer Leverkusen,Mali,Bundesliga,Deep Lying Playmaker
+1064,Casemiro Hojbjerg,CDM,Aston Villa,England,Premier League,Holding
+1065,Casemiro Hernandez,CDM,Arsenal,Brazil,Premier League,Deep Lying Playmaker
+1066,Moises Partey,CDM,Nice,Morocco,Ligue 1,Holding
+1067,Yves Hojbjerg,CDM,Stuttgart,Mexico,Bundesliga,Deep Lying Playmaker
+1068,Thomas Hernandez,CDM,Monaco,Denmark,Ligue 1,Centre Half
+1069,Denis Onana,CDM,Atalanta,Mali,Serie A,Holding
+1070,Stefan Amrabat,CDM,Brighton,Ecuador,Premier League,Deep Lying Playmaker
+1071,Stefan Tchouameni,CDM,Bayer Leverkusen,Denmark,Bundesliga,Deep Lying Playmaker
+1072,Yves Ugarte,CDM,Bayern Munich,England,Bundesliga,Centre Half
+1073,Fabinho Hernandez,CDM,Inter Milan,Mali,Serie A,Holding
+1074,Denis Bajcetic,CDM,Bayern Munich,Spain,Bundesliga,Holding
+1075,Yves Bajcetic,CDM,Manchester United,Brazil,Premier League,Deep Lying Playmaker
+1076,Edson Hernandez,CDM,Tottenham,Belgium,Premier League,Deep Lying Playmaker
+1077,Declan Caicedo,CDM,Marseille,Serbia,Ligue 1,Holding
+1078,Thomas Tchouameni,CDM,Stuttgart,Ghana,Bundesliga,Centre Half
+1079,Casemiro Amrabat,CDM,Real Madrid,Belgium,La Liga,Holding
+1080,Rodri Partey,CDM,Lazio,Ecuador,Serie A,Deep Lying Playmaker
+1081,Casemiro Kamara,CDM,Valencia,Switzerland,La Liga,Holding
+1082,Bruno Ugarte,CDM,Real Betis,Ecuador,La Liga,Holding
+1083,Casemiro Amrabat,CDM,Juventus,England,Serie A,Deep Lying Playmaker
+1084,Manuel Tavares,CDM,Bayer Leverkusen,Mali,Bundesliga,Centre Half
+1085,Rodri Casemiro,CDM,PSG,Uruguay,Ligue 1,Centre Half
+1086,Rodri Palhinha,CDM,Valencia,Serbia,La Liga,Centre Half
+1087,Boubacar Zakaria,CDM,West Ham,Portugal,Premier League,Holding
+1088,Casemiro Bissouma,CDM,Barcelona,France,La Liga,Holding
+1089,Aurelien Hojbjerg,CDM,RB Leipzig,Germany,Bundesliga,Centre Half
+1090,Stefan Lavia,CDM,Brighton,Uruguay,Premier League,Centre Half
+1091,Rodri Amrabat,CDM,Manchester United,Ghana,Premier League,Deep Lying Playmaker
+1092,Manuel Palhinha,CDM,Atletico Madrid,France,La Liga,Holding
+1093,Joshua Partey,CDM,Bayern Munich,Uruguay,Bundesliga,Holding
+1094,Denis Onana,CDM,Barcelona,Ghana,La Liga,Holding
+1095,Declan Bajcetic,CDM,Marseille,Belgium,Ligue 1,Deep Lying Playmaker
+1096,Thomas Amrabat,CDM,Bayer Leverkusen,Switzerland,Bundesliga,Centre Half
+1097,Boubacar Caicedo,CDM,Dortmund,France,Bundesliga,Deep Lying Playmaker
+1098,Romeo Partey,CDM,Brest,Mexico,Ligue 1,Centre Half
+1099,Manuel Tavares,CDM,Atletico Madrid,Germany,La Liga,Holding
+1100,Aurelien Hojbjerg,CDM,Frankfurt,France,Bundesliga,Centre Half
+1101,Moises Bajcetic,CDM,AC Milan,Serbia,Serie A,Deep Lying Playmaker
+1102,Fabinho Alvarez,CDM,Liverpool,Mali,Premier League,Centre Half
+1103,Thomas Guimaraes,CDM,Napoli,Serbia,Serie A,Deep Lying Playmaker
+1104,Fabinho Lavia,CDM,Arsenal,Germany,Premier League,Holding
+1105,Denis Hernandez,CDM,Atletico Madrid,Germany,La Liga,Holding
+1106,Amadou Alvarez,CDM,Athletic Club,Portugal,La Liga,Deep Lying Playmaker
+1107,Fabinho Palhinha,CDM,Bayer Leverkusen,Uruguay,Bundesliga,Centre Half
+1108,Thomas Amrabat,CDM,Tottenham,Brazil,Premier League,Holding
+1109,Declan Partey,CDM,AC Milan,France,Serie A,Holding
+1110,Joshua Palhinha,CDM,Arsenal,Brazil,Premier League,Holding
+1111,Stefan Casemiro,CDM,Newcastle,Ecuador,Premier League,Deep Lying Playmaker
+1112,Edson Bajcetic,CDM,Stuttgart,Morocco,Bundesliga,Centre Half
+1113,Yves Hojbjerg,CDM,Bologna,Ghana,Serie A,Holding
+1114,Joshua Alvarez,CDM,Nice,Brazil,Ligue 1,Centre Half
+1115,Moises Zakaria,CDM,AC Milan,England,Serie A,Deep Lying Playmaker
+1116,Stefan Palhinha,CDM,Atletico Madrid,Uruguay,La Liga,Holding
+1117,Casemiro Tchouameni,CDM,Monaco,France,Ligue 1,Holding
+1118,Stefan Partey,CDM,RB Leipzig,Portugal,Bundesliga,Deep Lying Playmaker
+1119,Manuel Kamara,CDM,Brest,Ghana,Ligue 1,Deep Lying Playmaker
+1120,Denis Kimmich,CDM,Tottenham,France,Premier League,Deep Lying Playmaker
+1121,Romeo Bajcetic,CDM,Brest,England,Ligue 1,Centre Half
+1122,Rodri Onana,CDM,Atalanta,Morocco,Serie A,Deep Lying Playmaker
+1123,Denis Lavia,CDM,Brest,Portugal,Ligue 1,Holding
+1124,Declan Hernandez,CDM,Manchester United,Ghana,Premier League,Centre Half
+1125,Declan Amrabat,CDM,Inter Milan,Ghana,Serie A,Holding
+1126,Denis Hernandez,CDM,Newcastle,Morocco,Premier League,Holding
+1127,Yves Ugarte,CDM,Atalanta,Germany,Serie A,Holding
+1128,Romeo Kamara,CDM,Frankfurt,Serbia,Bundesliga,Centre Half
+1129,Edson Tchouameni,CDM,Bologna,Mali,Serie A,Deep Lying Playmaker
+1130,Edson Ugarte,CDM,Lyon,Brazil,Ligue 1,Centre Half
+1131,Pierre-Emile Bissouma,CDM,PSG,Brazil,Ligue 1,Deep Lying Playmaker
+1132,Aurelien Ugarte,CDM,Napoli,Germany,Serie A,Holding
+1133,Denis Kamara,CDM,Bologna,Morocco,Serie A,Holding
+1134,Rodri Amrabat,CDM,Bayern Munich,Uruguay,Bundesliga,Holding
+1135,Yves Hojbjerg,CDM,Lille,Portugal,Ligue 1,Holding
+1136,Fabinho Casemiro,CDM,Valencia,Uruguay,La Liga,Holding
+1137,Fabinho Lavia,CDM,Inter Milan,Mexico,Serie A,Centre Half
+1138,Stefan Onana,CDM,Bayern Munich,Portugal,Bundesliga,Centre Half
+1139,Edson Bissouma,CDM,Brest,Serbia,Ligue 1,Deep Lying Playmaker
+1140,Boubacar Caicedo,CDM,RB Leipzig,Mexico,Bundesliga,Centre Half
+1141,Yves Hojbjerg,CDM,Lyon,England,Ligue 1,Centre Half
+1142,Rodri Palhinha,CDM,Nice,Germany,Ligue 1,Holding
+1143,Edson Tavares,CDM,Juventus,England,Serie A,Deep Lying Playmaker
+1144,Stefan Casemiro,CDM,Marseille,Uruguay,Ligue 1,Centre Half
+1145,Stefan Hojbjerg,CDM,Juventus,Switzerland,Serie A,Centre Half
+1146,Pierre-Emile Hojbjerg,CDM,Bayer Leverkusen,Mali,Bundesliga,Deep Lying Playmaker
+1147,Thomas Onana,CDM,Stuttgart,Serbia,Bundesliga,Deep Lying Playmaker
+1148,Manuel Kamara,CDM,PSG,Belgium,Ligue 1,Holding
+1149,Thomas Amrabat,CDM,Liverpool,Portugal,Premier League,Centre Half
+1150,Yves Kamara,CDM,Frankfurt,Ghana,Bundesliga,Holding
+1151,Declan Alvarez,CDM,Atalanta,Uruguay,Serie A,Holding
+1152,Stefan Rice,CDM,Marseille,Ghana,Ligue 1,Centre Half
+1153,Rodri Alvarez,CDM,Brest,Germany,Ligue 1,Centre Half
+1154,Sofyan Casemiro,CDM,Inter Milan,Germany,Serie A,Holding
+1155,Amadou Amrabat,CDM,AC Milan,France,Serie A,Deep Lying Playmaker
+1156,Denis Caicedo,CDM,Dortmund,Portugal,Bundesliga,Deep Lying Playmaker
+1157,Rodri Casemiro,CDM,Stuttgart,England,Bundesliga,Centre Half
+1158,Boubacar Tavares,CDM,Stuttgart,Brazil,Bundesliga,Holding
+1159,Stefan Ugarte,CDM,Stuttgart,Ghana,Bundesliga,Centre Half
+1160,Sofyan Rice,CDM,Valencia,Ghana,La Liga,Centre Half
+1161,Rodri Hojbjerg,CDM,Manchester United,Belgium,Premier League,Deep Lying Playmaker
+1162,Bruno Rice,CDM,Brighton,England,Premier League,Deep Lying Playmaker
+1163,Manuel Hojbjerg,CDM,Tottenham,France,Premier League,Centre Half
+1164,Denis Rice,CDM,RB Leipzig,Denmark,Bundesliga,Deep Lying Playmaker
+1165,Fabinho Palhinha,CDM,Lazio,Belgium,Serie A,Holding
+1166,Thomas Tavares,CDM,Stuttgart,Denmark,Bundesliga,Deep Lying Playmaker
+1167,Manuel Zakaria,CDM,Stuttgart,Ecuador,Bundesliga,Centre Half
+1168,Denis Palhinha,CDM,Brighton,Uruguay,Premier League,Centre Half
+1169,Fabinho Ugarte,CDM,AS Roma,Germany,Serie A,Holding
+1170,Thomas Zakaria,CDM,Bayer Leverkusen,Belgium,Bundesliga,Centre Half
+1171,Edson Caicedo,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+1172,Boubacar Casemiro,CDM,Arsenal,Belgium,Premier League,Holding
+1173,Moises Hernandez,CDM,Marseille,Serbia,Ligue 1,Holding
+1174,Stefan Casemiro,CDM,AS Roma,England,Serie A,Centre Half
+1175,Stefan Zakaria,CDM,Frankfurt,Ecuador,Bundesliga,Deep Lying Playmaker
+1176,Romeo Kimmich,CDM,Lazio,Uruguay,Serie A,Holding
+1177,Sofyan Onana,CDM,Aston Villa,Belgium,Premier League,Holding
+1178,Joao Tchouameni,CDM,Manchester United,Germany,Premier League,Centre Half
+1179,Yves Kimmich,CDM,Lazio,Brazil,Serie A,Centre Half
+1180,Aurelien Onana,CDM,PSG,Mali,Ligue 1,Centre Half
+1181,Boubacar Hernandez,CDM,Newcastle,Switzerland,Premier League,Centre Half
+1182,Bruno Kamara,CDM,Lyon,France,Ligue 1,Deep Lying Playmaker
+1183,Pierre-Emile Caicedo,CDM,Atalanta,Mali,Serie A,Holding
+1184,Casemiro Tchouameni,CDM,Real Betis,Brazil,La Liga,Centre Half
+1185,Aurelien Bissouma,CDM,PSG,Serbia,Ligue 1,Centre Half
+1186,Amadou Hojbjerg,CDM,Valencia,Ecuador,La Liga,Holding
+1187,Thomas Guimaraes,CDM,AC Milan,Belgium,Serie A,Holding
+1188,Romeo Alvarez,CDM,Nice,Morocco,Ligue 1,Holding
+1189,Pierre-Emile Bajcetic,CDM,Monaco,Brazil,Ligue 1,Deep Lying Playmaker
+1190,Aurelien Zakaria,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+1191,Casemiro Tavares,CDM,Bologna,Uruguay,Serie A,Centre Half
+1192,Casemiro Guimaraes,CDM,PSG,Ecuador,Ligue 1,Holding
+1193,Joao Lavia,CDM,Stuttgart,Ecuador,Bundesliga,Holding
+1194,Declan Guimaraes,CDM,Napoli,England,Serie A,Deep Lying Playmaker
+1195,Bruno Hojbjerg,CDM,Athletic Club,France,La Liga,Centre Half
+1196,Thomas Tavares,CDM,Valencia,Switzerland,La Liga,Deep Lying Playmaker
+1197,Declan Rice,CDM,Real Sociedad,England,La Liga,Deep Lying Playmaker
+1198,Aurelien Zakaria,CDM,Atalanta,Belgium,Serie A,Holding
+1199,Manuel Hernandez,CDM,Lille,Mali,Ligue 1,Deep Lying Playmaker
+1200,Fabinho Palhinha,CDM,Barcelona,Switzerland,La Liga,Centre Half
+1201,Stefan Tavares,CDM,Brighton,Ecuador,Premier League,Holding
+1202,Stefan Bissouma,CDM,Real Betis,Mali,La Liga,Deep Lying Playmaker
+1203,Moises Caicedo,CDM,Lyon,Ecuador,Ligue 1,Holding
+1204,Joshua Bissouma,CDM,Lazio,Serbia,Serie A,Deep Lying Playmaker
+1205,Joao Bajcetic,CDM,RB Leipzig,Uruguay,Bundesliga,Deep Lying Playmaker
+1206,Moises Partey,CDM,Stuttgart,Ghana,Bundesliga,Holding
+1207,Romeo Rice,CDM,Real Madrid,Portugal,La Liga,Holding
+1208,Yves Guimaraes,CDM,Bologna,Mexico,Serie A,Holding
+1209,Bruno Partey,CDM,Marseille,Uruguay,Ligue 1,Holding
+1210,Declan Tavares,CDM,Frankfurt,Switzerland,Bundesliga,Deep Lying Playmaker
+1211,Sofyan Ugarte,CDM,Atalanta,Morocco,Serie A,Deep Lying Playmaker
+1212,Manuel Alvarez,CDM,AC Milan,Ecuador,Serie A,Centre Half
+1213,Rodri Tavares,CDM,Valencia,Mexico,La Liga,Deep Lying Playmaker
+1214,Yves Palhinha,CDM,Monaco,Serbia,Ligue 1,Deep Lying Playmaker
+1215,Stefan Casemiro,CDM,RB Leipzig,Germany,Bundesliga,Deep Lying Playmaker
+1216,Manuel Rice,CDM,PSG,Germany,Ligue 1,Holding
+1217,Moises Palhinha,CDM,PSG,Germany,Ligue 1,Deep Lying Playmaker
+1218,Casemiro Tavares,CDM,Newcastle,Morocco,Premier League,Centre Half
+1219,Bruno Partey,CDM,AS Roma,Germany,Serie A,Deep Lying Playmaker
+1220,Casemiro Zakaria,CDM,Valencia,Ecuador,La Liga,Deep Lying Playmaker
+1221,Stefan Tavares,CDM,Atletico Madrid,Serbia,La Liga,Centre Half
+1222,Thomas Bajcetic,CDM,Juventus,Brazil,Serie A,Holding
+1223,Edson Tavares,CDM,Frankfurt,England,Bundesliga,Centre Half
+1224,Yves Ugarte,CDM,Nice,Morocco,Ligue 1,Centre Half
+1225,Romeo Tavares,CDM,Bayern Munich,Mali,Bundesliga,Centre Half
+1226,Declan Guimaraes,CDM,Dortmund,Belgium,Bundesliga,Holding
+1227,Rodri Rice,CDM,Nice,Belgium,Ligue 1,Deep Lying Playmaker
+1228,Declan Alvarez,CDM,Manchester City,Brazil,Premier League,Holding
+1229,Rodri Lavia,CDM,Lille,Belgium,Ligue 1,Centre Half
+1230,Denis Casemiro,CDM,Girona,Uruguay,La Liga,Deep Lying Playmaker
+1231,Stefan Ugarte,CDM,Monaco,Morocco,Ligue 1,Deep Lying Playmaker
+1232,Edson Bajcetic,CDM,Real Sociedad,Germany,La Liga,Holding
+1233,Boubacar Hernandez,CDM,PSG,Germany,Ligue 1,Deep Lying Playmaker
+1234,Declan Kimmich,CDM,Arsenal,France,Premier League,Centre Half
+1235,Fabinho Amrabat,CDM,Monaco,Denmark,Ligue 1,Deep Lying Playmaker
+1236,Moises Ugarte,CDM,Monaco,England,Ligue 1,Holding
+1237,Moises Bissouma,CDM,Marseille,Ghana,Ligue 1,Deep Lying Playmaker
+1238,Sofyan Casemiro,CDM,Atletico Madrid,France,La Liga,Holding
+1239,Manuel Palhinha,CDM,AS Roma,Portugal,Serie A,Centre Half
+1240,Bruno Bissouma,CDM,Real Betis,Morocco,La Liga,Deep Lying Playmaker
+1241,Bruno Partey,CDM,Stuttgart,England,Bundesliga,Centre Half
+1242,Romeo Rice,CDM,RB Leipzig,Switzerland,Bundesliga,Holding
+1243,Amadou Onana,CDM,AC Milan,Serbia,Serie A,Centre Half
+1244,Joshua Palhinha,CDM,Stuttgart,Germany,Bundesliga,Deep Lying Playmaker
+1245,Boubacar Guimaraes,CDM,Real Sociedad,Brazil,La Liga,Centre Half
+1246,Denis Hernandez,CDM,Juventus,Ghana,Serie A,Centre Half
+1247,Romeo Ugarte,CDM,AS Roma,England,Serie A,Centre Half
+1248,Yves Kimmich,CDM,Aston Villa,Belgium,Premier League,Centre Half
+1249,Casemiro Alvarez,CDM,Brest,Denmark,Ligue 1,Centre Half
+1250,Joao Caicedo,CDM,Aston Villa,Morocco,Premier League,Centre Half
+1251,Sofyan Kimmich,CDM,West Ham,Portugal,Premier League,Holding
+1252,Rodri Palhinha,CDM,RB Leipzig,Uruguay,Bundesliga,Deep Lying Playmaker
+1253,Rodri Caicedo,CDM,Liverpool,Ghana,Premier League,Holding
+1254,Declan Caicedo,CDM,Bayern Munich,Ghana,Bundesliga,Holding
+1255,Moises Tchouameni,CDM,Monaco,Switzerland,Ligue 1,Centre Half
+1256,Bruno Alvarez,CDM,Barcelona,Spain,La Liga,Centre Half
+1257,Amadou Rice,CDM,Nice,Ecuador,Ligue 1,Holding
+1258,Yves Guimaraes,CDM,Girona,Denmark,La Liga,Deep Lying Playmaker
+1259,Joao Partey,CDM,Girona,Denmark,La Liga,Deep Lying Playmaker
+1260,Joshua Rice,CDM,Bologna,Portugal,Serie A,Holding
+1261,Boubacar Tavares,CDM,Valencia,Belgium,La Liga,Centre Half
+1262,Aurelien Kimmich,CDM,Marseille,Mexico,Ligue 1,Centre Half
+1263,Romeo Partey,CDM,Athletic Club,Mali,La Liga,Deep Lying Playmaker
+1264,Declan Tchouameni,CDM,Frankfurt,Portugal,Bundesliga,Deep Lying Playmaker
+1265,Bruno Rice,CDM,Dortmund,Denmark,Bundesliga,Holding
+1266,Amadou Bajcetic,CDM,Inter Milan,Ecuador,Serie A,Holding
+1267,Thomas Rice,CDM,Marseille,Belgium,Ligue 1,Centre Half
+1268,Denis Bajcetic,CDM,Arsenal,Portugal,Premier League,Deep Lying Playmaker
+1269,Casemiro Caicedo,CDM,Valencia,Belgium,La Liga,Centre Half
+1270,Casemiro Casemiro,CDM,Inter Milan,Germany,Serie A,Centre Half
+1271,Aurelien Bissouma,CDM,Bologna,Mexico,Serie A,Centre Half
+1272,Denis Zakaria,CDM,Bayer Leverkusen,Mexico,Bundesliga,Holding
+1273,Bruno Amrabat,CDM,Bologna,Germany,Serie A,Centre Half
+1274,Manuel Bajcetic,CDM,West Ham,Mali,Premier League,Deep Lying Playmaker
+1275,Joao Casemiro,CDM,Juventus,Uruguay,Serie A,Centre Half
+1276,Edson Palhinha,CDM,Manchester United,Morocco,Premier League,Centre Half
+1277,Casemiro Kamara,CDM,Inter Milan,Mali,Serie A,Centre Half
+1278,Boubacar Rice,CDM,AC Milan,Ghana,Serie A,Deep Lying Playmaker
+1279,Amadou Kamara,CDM,Dortmund,Portugal,Bundesliga,Holding
+1280,Amadou Bissouma,CDM,RB Leipzig,Switzerland,Bundesliga,Deep Lying Playmaker
+1281,Rodri Bajcetic,CDM,Real Sociedad,Portugal,La Liga,Deep Lying Playmaker
+1282,Sofyan Onana,CDM,PSG,Germany,Ligue 1,Centre Half
+1283,Yves Tavares,CDM,RB Leipzig,Serbia,Bundesliga,Centre Half
+1284,Casemiro Guimaraes,CDM,Lille,Brazil,Ligue 1,Holding
+1285,Joshua Casemiro,CDM,Bayern Munich,Serbia,Bundesliga,Centre Half
+1286,Pierre-Emile Partey,CDM,Bologna,England,Serie A,Centre Half
+1287,Moises Tavares,CDM,Aston Villa,Portugal,Premier League,Holding
+1288,Amadou Caicedo,CDM,Stuttgart,Brazil,Bundesliga,Holding
+1289,Joao Bissouma,CDM,Lazio,Belgium,Serie A,Deep Lying Playmaker
+1290,Rodri Palhinha,CDM,Manchester City,Germany,Premier League,Centre Half
+1291,Fabinho Zakaria,CDM,Real Madrid,Morocco,La Liga,Holding
+1292,Thomas Tchouameni,CDM,Stuttgart,Mexico,Bundesliga,Holding
+1293,Thomas Tchouameni,CDM,Napoli,Mali,Serie A,Deep Lying Playmaker
+1294,Stefan Bissouma,CDM,Stuttgart,France,Bundesliga,Centre Half
+1295,Joao Kimmich,CDM,Chelsea,Mali,Premier League,Centre Half
+1296,Yves Alvarez,CDM,Bayer Leverkusen,Ecuador,Bundesliga,Holding
+1297,Manuel Ugarte,CDM,Bayer Leverkusen,Ecuador,Bundesliga,Centre Half
+1298,Joshua Hernandez,CDM,Manchester United,Morocco,Premier League,Deep Lying Playmaker
+1299,Yves Kamara,CDM,Barcelona,England,La Liga,Centre Half
+1300,Yves Caicedo,CDM,Barcelona,Ghana,La Liga,Holding
+1301,Rodri Tavares,CDM,Real Sociedad,Serbia,La Liga,Holding
+1302,Fabinho Hernandez,CDM,Valencia,Ghana,La Liga,Holding
+1303,Joshua Hojbjerg,CDM,Monaco,Ecuador,Ligue 1,Centre Half
+1304,Manuel Bissouma,CDM,Real Betis,France,La Liga,Holding
+1305,Thomas Casemiro,CDM,Lyon,Portugal,Ligue 1,Holding
+1306,Thomas Hojbjerg,CDM,Liverpool,Belgium,Premier League,Centre Half
+1307,Edson Ugarte,CDM,Napoli,France,Serie A,Deep Lying Playmaker
+1308,Stefan Caicedo,CDM,Atalanta,Denmark,Serie A,Centre Half
+1309,Thomas Kimmich,CDM,AC Milan,Portugal,Serie A,Holding
+1310,Joshua Partey,CDM,Lyon,Ghana,Ligue 1,Centre Half
+1311,Stefan Zakaria,CDM,Marseille,England,Ligue 1,Holding
+1312,Bruno Bajcetic,CDM,Liverpool,Brazil,Premier League,Holding
+1313,Moises Rice,CDM,Tottenham,Portugal,Premier League,Centre Half
+1314,Yves Kimmich,CDM,PSG,Spain,Ligue 1,Centre Half
+1315,Bruno Tchouameni,CDM,Lyon,Uruguay,Ligue 1,Centre Half
+1316,Yves Partey,CDM,Dortmund,Morocco,Bundesliga,Centre Half
+1317,Amadou Palhinha,CDM,Lazio,Germany,Serie A,Holding
+1318,Denis Caicedo,CDM,Monaco,Spain,Ligue 1,Holding
+1319,Thomas Ugarte,CDM,Real Betis,England,La Liga,Deep Lying Playmaker
+1320,Moises Bissouma,CDM,Napoli,Germany,Serie A,Deep Lying Playmaker
+1321,Bruno Partey,CDM,AS Roma,Morocco,Serie A,Holding
+1322,Rodri Amrabat,CDM,Valencia,Ghana,La Liga,Deep Lying Playmaker
+1323,Amadou Casemiro,CDM,West Ham,Serbia,Premier League,Deep Lying Playmaker
+1324,Manuel Rice,CDM,Newcastle,Spain,Premier League,Centre Half
+1325,Fabinho Bissouma,CDM,Lazio,Mexico,Serie A,Holding
+1326,Casemiro Zakaria,CDM,Atalanta,Denmark,Serie A,Centre Half
+1327,Stefan Palhinha,CDM,Chelsea,France,Premier League,Deep Lying Playmaker
+1328,Rodri Caicedo,CDM,Juventus,Mali,Serie A,Deep Lying Playmaker
+1329,Bruno Palhinha,CDM,Athletic Club,Mali,La Liga,Deep Lying Playmaker
+1330,Pierre-Emile Guimaraes,CDM,Brest,Mexico,Ligue 1,Holding
+1331,Edson Guimaraes,CDM,Lille,Ecuador,Ligue 1,Holding
+1332,Boubacar Caicedo,CDM,Liverpool,Denmark,Premier League,Centre Half
+1333,Romeo Hojbjerg,CDM,Real Sociedad,Brazil,La Liga,Deep Lying Playmaker
+1334,Boubacar Tchouameni,CDM,Lille,Belgium,Ligue 1,Holding
+1335,Moises Ugarte,CDM,Real Madrid,Switzerland,La Liga,Deep Lying Playmaker
+1336,Boubacar Partey,CDM,Atletico Madrid,Serbia,La Liga,Holding
+1337,Aurelien Hojbjerg,CDM,Real Betis,England,La Liga,Centre Half
+1338,Aurelien Zakaria,CDM,Athletic Club,Portugal,La Liga,Holding
+1339,Thomas Partey,CDM,Lille,Mexico,Ligue 1,Centre Half
+1340,Pierre-Emile Guimaraes,CDM,Liverpool,Uruguay,Premier League,Holding
+1341,Joshua Bajcetic,CDM,Real Sociedad,Portugal,La Liga,Centre Half
+1342,Joshua Alvarez,CDM,Lyon,France,Ligue 1,Holding
+1343,Denis Lavia,CDM,Arsenal,Mexico,Premier League,Holding
+1344,Edson Bissouma,CDM,Bayer Leverkusen,Belgium,Bundesliga,Deep Lying Playmaker
+1345,Sofyan Guimaraes,CDM,Barcelona,England,La Liga,Deep Lying Playmaker
+1346,Joshua Onana,CDM,Bologna,France,Serie A,Deep Lying Playmaker
+1347,Edson Hernandez,CDM,Nice,Brazil,Ligue 1,Holding
+1348,Declan Hernandez,CDM,Lazio,Belgium,Serie A,Holding
+1349,Fabinho Kimmich,CDM,Lazio,Spain,Serie A,Centre Half
+1350,Joshua Hojbjerg,CDM,Manchester City,Denmark,Premier League,Deep Lying Playmaker
+1351,Fabinho Ugarte,CDM,AC Milan,Morocco,Serie A,Holding
+1352,Boubacar Bajcetic,CDM,Arsenal,England,Premier League,Holding
+1353,Casemiro Palhinha,CDM,Manchester United,Belgium,Premier League,Holding
+1354,Yves Tavares,CDM,Monaco,Brazil,Ligue 1,Holding
+1355,Denis Casemiro,CDM,Lyon,England,Ligue 1,Deep Lying Playmaker
+1356,Stefan Ugarte,CDM,Atalanta,Belgium,Serie A,Deep Lying Playmaker
+1357,Pierre-Emile Kimmich,CDM,Newcastle,Spain,Premier League,Centre Half
+1358,Aurelien Tavares,CDM,Inter Milan,Brazil,Serie A,Deep Lying Playmaker
+1359,Fabinho Tavares,CDM,AS Roma,France,Serie A,Holding
+1360,Thomas Bajcetic,CDM,Chelsea,Ghana,Premier League,Deep Lying Playmaker
+1361,Moises Bissouma,CDM,Manchester United,England,Premier League,Holding
+1362,Aurelien Zakaria,CDM,Marseille,Uruguay,Ligue 1,Centre Half
+1363,Sofyan Ugarte,CDM,Lyon,Serbia,Ligue 1,Deep Lying Playmaker
+1364,Fabinho Kimmich,CDM,Monaco,Morocco,Ligue 1,Deep Lying Playmaker
+1365,Declan Kimmich,CDM,Bayer Leverkusen,Mexico,Bundesliga,Deep Lying Playmaker
+1366,Moises Amrabat,CDM,Nice,England,Ligue 1,Holding
+1367,Joshua Caicedo,CDM,Aston Villa,Serbia,Premier League,Deep Lying Playmaker
+1368,Sofyan Tchouameni,CDM,Arsenal,Germany,Premier League,Holding
+1369,Denis Amrabat,CDM,Nice,Serbia,Ligue 1,Deep Lying Playmaker
+1370,Yves Casemiro,CDM,Athletic Club,Morocco,La Liga,Holding
+1371,Joshua Kimmich,CDM,Lyon,Switzerland,Ligue 1,Centre Half
+1372,Stefan Casemiro,CDM,Valencia,Denmark,La Liga,Holding
+1373,Yves Bajcetic,CDM,West Ham,Uruguay,Premier League,Holding
+1374,Rodri Ugarte,CDM,Atalanta,Serbia,Serie A,Deep Lying Playmaker
+1375,Denis Hernandez,CDM,Frankfurt,Mexico,Bundesliga,Deep Lying Playmaker
+1376,Denis Palhinha,CDM,Dortmund,Mexico,Bundesliga,Centre Half
+1377,Yves Zakaria,CDM,Lyon,Serbia,Ligue 1,Deep Lying Playmaker
+1378,Joshua Tavares,CDM,AS Roma,Brazil,Serie A,Centre Half
+1379,Moises Rice,CDM,Frankfurt,Switzerland,Bundesliga,Centre Half
+1380,Amadou Zakaria,CDM,Lille,Brazil,Ligue 1,Deep Lying Playmaker
+1381,Romeo Hojbjerg,CDM,Brighton,England,Premier League,Holding
+1382,Sofyan Lavia,CDM,Lyon,Spain,Ligue 1,Deep Lying Playmaker
+1383,Edson Hojbjerg,CDM,Tottenham,Ecuador,Premier League,Deep Lying Playmaker
+1384,Casemiro Zakaria,CDM,AS Roma,Spain,Serie A,Holding
+1385,Edson Casemiro,CDM,Frankfurt,Belgium,Bundesliga,Centre Half
+1386,Joao Lavia,CDM,Juventus,Mexico,Serie A,Centre Half
+1387,Joshua Partey,CDM,Juventus,Germany,Serie A,Deep Lying Playmaker
+1388,Casemiro Hernandez,CDM,AC Milan,Mali,Serie A,Centre Half
+1389,Manuel Kimmich,CDM,Chelsea,Morocco,Premier League,Centre Half
+1390,Declan Kimmich,CDM,Napoli,Mexico,Serie A,Holding
+1391,Boubacar Ugarte,CDM,Lyon,Germany,Ligue 1,Holding
+1392,Sofyan Kamara,CDM,Valencia,Germany,La Liga,Holding
+1393,Manuel Lavia,CDM,Monaco,Portugal,Ligue 1,Deep Lying Playmaker
+1394,Moises Tavares,CDM,Lazio,Portugal,Serie A,Holding
+1395,Declan Kimmich,CDM,Brest,Denmark,Ligue 1,Centre Half
+1396,Fabinho Lavia,CDM,Newcastle,Germany,Premier League,Holding
+1397,Moises Tchouameni,CDM,Chelsea,Serbia,Premier League,Deep Lying Playmaker
+1398,Joao Lavia,CDM,Marseille,Morocco,Ligue 1,Deep Lying Playmaker
+1399,Joao Partey,CDM,Athletic Club,Ecuador,La Liga,Centre Half
+1400,Sofyan Kamara,CDM,Liverpool,Ecuador,Premier League,Centre Half
+1401,Aurelien Lavia,CDM,PSG,Germany,Ligue 1,Holding
+1402,Joao Ugarte,CDM,Monaco,Spain,Ligue 1,Deep Lying Playmaker
+1403,Joshua Kimmich,CDM,Athletic Club,Mali,La Liga,Centre Half
+1404,Boubacar Casemiro,CDM,Chelsea,Belgium,Premier League,Holding
+1405,Casemiro Bajcetic,CDM,Barcelona,France,La Liga,Deep Lying Playmaker
+1406,Declan Kimmich,CDM,Monaco,Mali,Ligue 1,Centre Half
+1407,Romeo Guimaraes,CDM,AS Roma,Ghana,Serie A,Centre Half
+1408,Aurelien Tchouameni,CDM,Bayern Munich,France,Bundesliga,Holding
+1409,Casemiro Casemiro,CDM,Lille,Ghana,Ligue 1,Holding
+1410,Denis Onana,CDM,Monaco,Switzerland,Ligue 1,Centre Half
+1411,Declan Guimaraes,CDM,Aston Villa,Ghana,Premier League,Holding
+1412,Rodri Caicedo,CDM,Liverpool,Portugal,Premier League,Centre Half
+1413,Joshua Partey,CDM,Brest,Belgium,Ligue 1,Deep Lying Playmaker
+1414,Fabinho Partey,CDM,Lille,Morocco,Ligue 1,Holding
+1415,Joao Zakaria,CDM,Inter Milan,Morocco,Serie A,Deep Lying Playmaker
+1416,Pierre-Emile Rice,CDM,Atalanta,Belgium,Serie A,Centre Half
+1417,Thomas Amrabat,CDM,Atalanta,Morocco,Serie A,Holding
+1418,Rodri Hojbjerg,CDM,Tottenham,Ecuador,Premier League,Centre Half
+1419,Fabinho Tavares,CDM,Stuttgart,Serbia,Bundesliga,Holding
+1420,Fabinho Kimmich,CDM,Atletico Madrid,Morocco,La Liga,Holding
+1421,Joshua Onana,CDM,Lyon,Ecuador,Ligue 1,Centre Half
+1422,Aurelien Onana,CDM,Atletico Madrid,Germany,La Liga,Holding
+1423,Joshua Palhinha,CDM,Arsenal,Spain,Premier League,Centre Half
+1424,Romeo Onana,CDM,Nice,England,Ligue 1,Deep Lying Playmaker
+1425,Aurelien Ugarte,CDM,Aston Villa,Uruguay,Premier League,Deep Lying Playmaker
+1426,Sofyan Hojbjerg,CDM,Bayer Leverkusen,Morocco,Bundesliga,Holding
+1427,Romeo Bajcetic,CDM,Brest,Portugal,Ligue 1,Holding
+1428,Romeo Tavares,CDM,Girona,Mexico,La Liga,Centre Half
+1429,Joao Kamara,CDM,Manchester City,Ecuador,Premier League,Deep Lying Playmaker
+1430,Romeo Partey,CDM,Manchester United,Portugal,Premier League,Holding
+1431,Yves Alvarez,CDM,Valencia,Ghana,La Liga,Centre Half
+1432,Fabinho Casemiro,CDM,AS Roma,France,Serie A,Holding
+1433,Fabinho Tavares,CDM,Brest,Belgium,Ligue 1,Holding
+1434,Denis Tavares,CDM,Bologna,Morocco,Serie A,Holding
+1435,Edson Tchouameni,CDM,Atletico Madrid,Belgium,La Liga,Holding
+1436,Stefan Tchouameni,CDM,Liverpool,Brazil,Premier League,Centre Half
+1437,Denis Caicedo,CDM,RB Leipzig,Denmark,Bundesliga,Holding
+1438,Moises Palhinha,CDM,AS Roma,Denmark,Serie A,Centre Half
+1439,Pierre-Emile Tavares,CDM,Girona,Mexico,La Liga,Holding
+1440,Stefan Lavia,CDM,Dortmund,England,Bundesliga,Centre Half
+1441,Fabinho Casemiro,CDM,Real Betis,Portugal,La Liga,Deep Lying Playmaker
+1442,Declan Partey,CDM,Nice,Spain,Ligue 1,Centre Half
+1443,Casemiro Lavia,CDM,Marseille,Brazil,Ligue 1,Centre Half
+1444,Boubacar Amrabat,CDM,Frankfurt,Morocco,Bundesliga,Centre Half
+1445,Boubacar Bissouma,CDM,Real Betis,Spain,La Liga,Centre Half
+1446,Thomas Ugarte,CDM,Bayer Leverkusen,Denmark,Bundesliga,Holding
+1447,Pierre-Emile Alvarez,CDM,Aston Villa,Denmark,Premier League,Centre Half
+1448,Amadou Zakaria,CDM,Bayer Leverkusen,France,Bundesliga,Holding
+1449,Edson Bajcetic,CDM,Bayer Leverkusen,Belgium,Bundesliga,Deep Lying Playmaker
+1450,Casemiro Amrabat,CDM,Brighton,Mexico,Premier League,Centre Half
+1451,Fabinho Alvarez,CDM,Monaco,Belgium,Ligue 1,Holding
+1452,Rodri Onana,CDM,AS Roma,Denmark,Serie A,Deep Lying Playmaker
+1453,Yves Tchouameni,CDM,RB Leipzig,Morocco,Bundesliga,Holding
+1454,Casemiro Guimaraes,CDM,Bayern Munich,Switzerland,Bundesliga,Centre Half
+1455,Joao Kimmich,CDM,Manchester City,Belgium,Premier League,Deep Lying Playmaker
+1456,Casemiro Bissouma,CDM,Manchester United,Serbia,Premier League,Centre Half
+1457,Manuel Rice,CDM,Bayern Munich,Switzerland,Bundesliga,Deep Lying Playmaker
+1458,Amadou Onana,CDM,PSG,Spain,Ligue 1,Centre Half
+1459,Denis Casemiro,CDM,Real Madrid,Brazil,La Liga,Holding
+1460,Rodri Guimaraes,CDM,Atalanta,Ghana,Serie A,Holding
+1461,Manuel Bissouma,CDM,Liverpool,Ghana,Premier League,Deep Lying Playmaker
+1462,Manuel Bajcetic,CDM,Atletico Madrid,Ecuador,La Liga,Holding
+1463,Romeo Kimmich,CDM,Newcastle,Spain,Premier League,Centre Half
+1464,Casemiro Hernandez,CDM,PSG,Spain,Ligue 1,Centre Half
+1465,Pierre-Emile Tchouameni,CDM,Athletic Club,Switzerland,La Liga,Centre Half
+1466,Aurelien Palhinha,CDM,Real Betis,Denmark,La Liga,Centre Half
+1467,Manuel Palhinha,CDM,Real Sociedad,Mexico,La Liga,Holding
+1468,Joao Onana,CDM,Manchester United,Brazil,Premier League,Centre Half
+1469,Denis Caicedo,CDM,Real Betis,Spain,La Liga,Holding
+1470,Bruno Amrabat,CDM,Bayern Munich,Spain,Bundesliga,Centre Half
+1471,Aurelien Kimmich,CDM,Real Betis,Germany,La Liga,Deep Lying Playmaker
+1472,Casemiro Kimmich,CDM,Atalanta,Uruguay,Serie A,Centre Half
+1473,Joshua Casemiro,CDM,Nice,Mali,Ligue 1,Deep Lying Playmaker
+1474,Casemiro Hojbjerg,CDM,Lyon,Brazil,Ligue 1,Deep Lying Playmaker
+1475,Edson Bajcetic,CDM,Barcelona,Uruguay,La Liga,Deep Lying Playmaker
+1476,Sofyan Tavares,CDM,Real Betis,Belgium,La Liga,Holding
+1477,Thomas Tchouameni,CDM,West Ham,Morocco,Premier League,Deep Lying Playmaker
+1478,Romeo Bissouma,CDM,Bayern Munich,Mali,Bundesliga,Deep Lying Playmaker
+1479,Joshua Hernandez,CDM,West Ham,Serbia,Premier League,Holding
+1480,Fabinho Zakaria,CDM,AS Roma,Morocco,Serie A,Deep Lying Playmaker
+1481,Joshua Bissouma,CDM,Real Madrid,England,La Liga,Deep Lying Playmaker
+1482,Sofyan Ugarte,CDM,Frankfurt,Brazil,Bundesliga,Holding
+1483,Romeo Bissouma,CDM,Newcastle,Mali,Premier League,Centre Half
+1484,Moises Hernandez,CDM,Stuttgart,England,Bundesliga,Holding
+1485,Declan Bajcetic,CDM,Chelsea,Mali,Premier League,Holding
+1486,Pierre-Emile Partey,CDM,Atletico Madrid,Mali,La Liga,Holding
+1487,Aurelien Partey,CDM,Frankfurt,Ghana,Bundesliga,Deep Lying Playmaker
+1488,Manuel Guimaraes,CDM,Brighton,Brazil,Premier League,Centre Half
+1489,Aurelien Hernandez,CDM,Inter Milan,Germany,Serie A,Centre Half
+1490,Thomas Bajcetic,CDM,Real Madrid,Mexico,La Liga,Deep Lying Playmaker
+1491,Pierre-Emile Guimaraes,CDM,Monaco,France,Ligue 1,Deep Lying Playmaker
+1492,Joao Rice,CDM,Liverpool,Serbia,Premier League,Deep Lying Playmaker
+1493,Stefan Ugarte,CDM,Liverpool,Switzerland,Premier League,Deep Lying Playmaker
+1494,Yves Palhinha,CDM,Monaco,Ecuador,Ligue 1,Deep Lying Playmaker
+1495,Manuel Kamara,CDM,Athletic Club,Spain,La Liga,Deep Lying Playmaker
+1496,Sofyan Ugarte,CDM,Real Sociedad,Germany,La Liga,Holding
+1497,Pierre-Emile Kimmich,CDM,Real Sociedad,Serbia,La Liga,Centre Half
+1498,Denis Kamara,CDM,Nice,Denmark,Ligue 1,Centre Half
+1499,Pierre-Emile Kamara,CDM,Napoli,Serbia,Serie A,Deep Lying Playmaker
+1500,Bruno Kimmich,CDM,Barcelona,Morocco,La Liga,Holding

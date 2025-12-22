@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Marquinhos Silva,CB,Barcelona,France,La Liga,Ball Playing Defender
+2,Bremer Bremer,CB,Chelsea,South Korea,Premier League,Ball Playing Defender
+3,Matthijs Silva,CB,AC Milan,England,Serie A,Ball Playing Defender
+4,Pau Araujo,CB,Marseille,Brazil,Ligue 1,Stopper
+5,Ronald Romero,CB,Aston Villa,France,Premier League,Stopper
+6,Ronald Upamecano,CB,Chelsea,Germany,Premier League,Stopper
+7,Dayot Van Dijk,CB,Bayer Leverkusen,Uruguay,Bundesliga,Ball Playing Defender
+8,Ruben Rudiger,CB,Bologna,Netherlands,Serie A,Ball Playing Defender
+9,Pau Militao,CB,Juventus,France,Serie A,Ball Playing Defender
+10,William Torres,CB,Real Madrid,Italy,La Liga,Ball Playing Defender
+11,William Rudiger,CB,PSG,France,Ligue 1,Stopper
+12,Sven Araujo,CB,Bayer Leverkusen,Senegal,Bundesliga,Ball Playing Defender
+13,Kim Silva,CB,Stuttgart,Germany,Bundesliga,Stopper
+14,Bremer Upamecano,CB,Nice,Croatia,Ligue 1,Stopper
+15,Marquinhos Martinez,CB,Bayer Leverkusen,Switzerland,Bundesliga,Stopper
+16,Milan Martinez,CB,Brest,Argentina,Ligue 1,Stopper
+17,Jules Kounde,CB,Frankfurt,Senegal,Bundesliga,Ball Playing Defender
+18,William Magalhaes,CB,Barcelona,Senegal,La Liga,Ball Playing Defender
+19,William Araujo,CB,Nice,Brazil,Ligue 1,Stopper
+20,William Magalhaes,CB,Atalanta,Portugal,Serie A,Ball Playing Defender
+21,Sven Akanji,CB,Lyon,Netherlands,Ligue 1,Ball Playing Defender
+22,Lisandro Dias,CB,RB Leipzig,Netherlands,Bundesliga,Ball Playing Defender
+23,Eder Magalhaes,CB,AC Milan,Belgium,Serie A,Ball Playing Defender
+24,Virgil Bastoni,CB,Real Betis,Germany,La Liga,Ball Playing Defender
+25,Sven Magalhaes,CB,Napoli,Uruguay,Serie A,Stopper
+26,Bremer Van Dijk,CB,Real Sociedad,Brazil,La Liga,Stopper
+27,Sven Konate,CB,Real Madrid,Germany,La Liga,Ball Playing Defender
+28,Sergio Rudiger,CB,Marseille,Switzerland,Ligue 1,Stopper
+29,Pau Skriniar,CB,Brighton,Uruguay,Premier League,Stopper
+30,Lisandro Militao,CB,Girona,Brazil,La Liga,Ball Playing Defender
+31,Virgil Militao,CB,Juventus,Netherlands,Serie A,Ball Playing Defender
+32,Ruben Silva,CB,Frankfurt,Spain,Bundesliga,Stopper
+33,Manuel Botman,CB,Manchester United,Senegal,Premier League,Stopper
+34,Sven Min-jae,CB,Bayern Munich,Spain,Bundesliga,Stopper
+35,Mats Romero,CB,Chelsea,Germany,Premier League,Stopper
+36,Kim Romero,CB,Bayern Munich,Brazil,Bundesliga,Ball Playing Defender
+37,Antonio Torres,CB,RB Leipzig,France,Bundesliga,Stopper
+38,Manuel Martinez,CB,Tottenham,Senegal,Premier League,Ball Playing Defender
+39,Pau De Ligt,CB,Stuttgart,Argentina,Bundesliga,Ball Playing Defender
+40,Sergio Konate,CB,Newcastle,Croatia,Premier League,Stopper
+41,Kim Ramos,CB,Real Betis,Uruguay,La Liga,Stopper
+42,Dayot Araujo,CB,Real Madrid,Uruguay,La Liga,Stopper
+43,Alessandro Araujo,CB,Bayern Munich,Uruguay,Bundesliga,Stopper
+44,Lisandro Magalhaes,CB,Chelsea,Belgium,Premier League,Stopper
+45,Milan Upamecano,CB,RB Leipzig,France,Bundesliga,Ball Playing Defender
+46,Virgil Skriniar,CB,Atalanta,Argentina,Serie A,Stopper
+47,Josko Torres,CB,Liverpool,France,Premier League,Stopper
+48,Kim Van Dijk,CB,Valencia,Belgium,La Liga,Stopper
+49,Gabriel Magalhaes,CB,Manchester City,Argentina,Premier League,Ball Playing Defender
+50,Milan Torres,CB,Stuttgart,South Korea,Bundesliga,Stopper
+51,Matthijs Romero,CB,Manchester United,Spain,Premier League,Ball Playing Defender
+52,Josko Araujo,CB,Bayer Leverkusen,Netherlands,Bundesliga,Stopper
+53,Matthijs Hummels,CB,Lazio,Croatia,Serie A,Stopper
+54,Ibrahima Hummels,CB,Brest,Senegal,Ligue 1,Ball Playing Defender
+55,Antonio Min-jae,CB,Barcelona,Argentina,La Liga,Stopper
+56,Sven Militao,CB,Lazio,England,Serie A,Ball Playing Defender
+57,Virgil Konate,CB,Manchester City,Netherlands,Premier League,Stopper
+58,Gabriel Martinez,CB,Manchester City,Uruguay,Premier League,Stopper
+59,Ronald Gvardiol,CB,Stuttgart,South Korea,Bundesliga,Ball Playing Defender
+60,Ronald Upamecano,CB,Bologna,Senegal,Serie A,Ball Playing Defender
+61,Harry Magalhaes,CB,Bayern Munich,Spain,Bundesliga,Stopper
+62,Virgil Torres,CB,Stuttgart,Spain,Bundesliga,Stopper
+63,Mats Romero,CB,Atalanta,Senegal,Serie A,Stopper
+64,Antonio Araujo,CB,Atletico Madrid,Croatia,La Liga,Stopper
+65,Kim Torres,CB,Real Madrid,Switzerland,La Liga,Stopper
+66,Josko Maguire,CB,Marseille,Portugal,Ligue 1,Ball Playing Defender
+67,Harry Gvardiol,CB,Juventus,Germany,Serie A,Ball Playing Defender
+68,Eder Rudiger,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+69,Manuel Hummels,CB,Atalanta,Italy,Serie A,Ball Playing Defender
+70,Cristian Botman,CB,Frankfurt,Germany,Bundesliga,Ball Playing Defender
+71,Kim Bremer,CB,Dortmund,Switzerland,Bundesliga,Ball Playing Defender
+72,Josko Dias,CB,Real Betis,France,La Liga,Ball Playing Defender
+73,Lisandro Bastoni,CB,Dortmund,Netherlands,Bundesliga,Ball Playing Defender
+74,Sergio Hummels,CB,Liverpool,Spain,Premier League,Ball Playing Defender
+75,Matthijs Botman,CB,Manchester United,Brazil,Premier League,Stopper
+76,Harry Van Dijk,CB,Frankfurt,Italy,Bundesliga,Stopper
+77,Josko Magalhaes,CB,Bologna,Argentina,Serie A,Stopper
+78,Sergio Skriniar,CB,Lyon,Spain,Ligue 1,Ball Playing Defender
+79,Manuel Kounde,CB,Bayern Munich,Italy,Bundesliga,Ball Playing Defender
+80,Virgil Silva,CB,Dortmund,Belgium,Bundesliga,Ball Playing Defender
+81,Matthijs Kounde,CB,Chelsea,France,Premier League,Ball Playing Defender
+82,Ibrahima Konate,CB,Brest,Croatia,Ligue 1,Stopper
+83,Ibrahima Maguire,CB,Brest,Uruguay,Ligue 1,Stopper
+84,Mats Kounde,CB,Monaco,England,Ligue 1,Ball Playing Defender
+85,Kim Ramos,CB,Liverpool,Belgium,Premier League,Stopper
+86,Gabriel Araujo,CB,Nice,France,Ligue 1,Stopper
+87,Sven Van Dijk,CB,Marseille,Portugal,Ligue 1,Ball Playing Defender
+88,Milan Araujo,CB,Lyon,Switzerland,Ligue 1,Ball Playing Defender
+89,Ronald Saliba,CB,Lille,Switzerland,Ligue 1,Stopper
+90,Cristian Maguire,CB,Newcastle,Argentina,Premier League,Ball Playing Defender
+91,Ronald Akanji,CB,Manchester City,Brazil,Premier League,Ball Playing Defender
+92,Sven Ramos,CB,Atalanta,Uruguay,Serie A,Stopper
+93,Eder Dias,CB,Arsenal,Spain,Premier League,Stopper
+94,Marquinhos Militao,CB,Liverpool,Spain,Premier League,Stopper
+95,Matthijs Akanji,CB,Napoli,Uruguay,Serie A,Ball Playing Defender
+96,Ibrahima Upamecano,CB,Liverpool,Senegal,Premier League,Ball Playing Defender
+97,Sven Kounde,CB,Bayern Munich,Germany,Bundesliga,Ball Playing Defender
+98,Sergio De Ligt,CB,Bayern Munich,Croatia,Bundesliga,Ball Playing Defender
+99,Ibrahima Bastoni,CB,West Ham,Brazil,Premier League,Stopper
+100,Bremer Bastoni,CB,Dortmund,Germany,Bundesliga,Stopper
+101,Cristian Gvardiol,CB,Atalanta,Germany,Serie A,Stopper
+102,Cristian Gvardiol,CB,Monaco,Belgium,Ligue 1,Stopper
+103,Pau Van Dijk,CB,Manchester City,France,Premier League,Ball Playing Defender
+104,William Araujo,CB,Atletico Madrid,Brazil,La Liga,Stopper
+105,Ronald Van Dijk,CB,Stuttgart,Belgium,Bundesliga,Stopper
+106,Sergio Akanji,CB,Inter Milan,England,Serie A,Ball Playing Defender
+107,Sergio Torres,CB,Napoli,Belgium,Serie A,Stopper
+108,Alessandro Botman,CB,Nice,Belgium,Ligue 1,Ball Playing Defender
+109,Bremer Martinez,CB,Brighton,England,Premier League,Ball Playing Defender
+110,Bremer Botman,CB,Newcastle,Spain,Premier League,Stopper
+111,Josko Saliba,CB,Real Sociedad,France,La Liga,Ball Playing Defender
+112,Alessandro Hummels,CB,Real Madrid,South Korea,La Liga,Ball Playing Defender
+113,Manuel Van Dijk,CB,Juventus,Italy,Serie A,Stopper
+114,Mats Araujo,CB,Napoli,Germany,Serie A,Ball Playing Defender
+115,Alessandro Saliba,CB,Bayern Munich,South Korea,Bundesliga,Ball Playing Defender
+116,Milan Hummels,CB,Napoli,England,Serie A,Ball Playing Defender
+117,Lisandro Silva,CB,Lyon,Argentina,Ligue 1,Stopper
+118,Bremer Konate,CB,Bayern Munich,Spain,Bundesliga,Ball Playing Defender
+119,Sergio Rudiger,CB,Bayern Munich,South Korea,Bundesliga,Ball Playing Defender
+120,Harry Bremer,CB,Nice,Germany,Ligue 1,Stopper
+121,Mats Akanji,CB,Manchester City,Spain,Premier League,Ball Playing Defender
+122,Bremer Akanji,CB,Juventus,Portugal,Serie A,Ball Playing Defender
+123,Cristian Konate,CB,Barcelona,Uruguay,La Liga,Ball Playing Defender
+124,Kim Militao,CB,RB Leipzig,Netherlands,Bundesliga,Stopper
+125,Harry Araujo,CB,Juventus,Italy,Serie A,Stopper
+126,Gabriel Militao,CB,Real Betis,England,La Liga,Stopper
+127,Eder Maguire,CB,Dortmund,Belgium,Bundesliga,Ball Playing Defender
+128,Mats Kounde,CB,West Ham,Senegal,Premier League,Stopper
+129,Virgil Upamecano,CB,Athletic Club,Portugal,La Liga,Stopper
+130,Gabriel Skriniar,CB,Real Madrid,Argentina,La Liga,Stopper
+131,Ibrahima Militao,CB,AC Milan,Senegal,Serie A,Ball Playing Defender
+132,Milan Ramos,CB,Atalanta,Belgium,Serie A,Ball Playing Defender
+133,Bremer Botman,CB,Aston Villa,Netherlands,Premier League,Ball Playing Defender
+134,Kim Magalhaes,CB,Stuttgart,England,Bundesliga,Ball Playing Defender
+135,Eder Bremer,CB,Real Madrid,Switzerland,La Liga,Ball Playing Defender
+136,Milan Bremer,CB,Monaco,Switzerland,Ligue 1,Stopper
+137,Matthijs Akanji,CB,PSG,Italy,Ligue 1,Stopper
+138,Mats Romero,CB,Lille,England,Ligue 1,Ball Playing Defender
+139,Kim Ramos,CB,Stuttgart,Belgium,Bundesliga,Ball Playing Defender
+140,Kim Araujo,CB,Lille,Spain,Ligue 1,Stopper
+141,Marquinhos De Ligt,CB,Bayern Munich,Italy,Bundesliga,Stopper
+142,Matthijs Rudiger,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+143,Kim Magalhaes,CB,Stuttgart,Portugal,Bundesliga,Ball Playing Defender
+144,Ruben Min-jae,CB,Dortmund,Germany,Bundesliga,Stopper
+145,Mats Upamecano,CB,Lille,Brazil,Ligue 1,Stopper
+146,Sergio De Ligt,CB,Juventus,Portugal,Serie A,Stopper
+147,Alessandro Torres,CB,Dortmund,Netherlands,Bundesliga,Stopper
+148,Ronald Hummels,CB,Chelsea,Argentina,Premier League,Ball Playing Defender
+149,Manuel Militao,CB,RB Leipzig,Spain,Bundesliga,Ball Playing Defender
+150,Dayot De Ligt,CB,RB Leipzig,Switzerland,Bundesliga,Ball Playing Defender
+151,Jules Bastoni,CB,Lille,Portugal,Ligue 1,Ball Playing Defender
+152,Sven Kounde,CB,RB Leipzig,France,Bundesliga,Stopper
+153,Alessandro Upamecano,CB,Lille,Netherlands,Ligue 1,Ball Playing Defender
+154,Virgil Bastoni,CB,Real Madrid,Germany,La Liga,Stopper
+155,William Hummels,CB,AC Milan,Uruguay,Serie A,Stopper
+156,Dayot Konate,CB,RB Leipzig,Portugal,Bundesliga,Ball Playing Defender
+157,Jules Bastoni,CB,Monaco,France,Ligue 1,Ball Playing Defender
+158,Matthijs Konate,CB,RB Leipzig,England,Bundesliga,Ball Playing Defender
+159,Alessandro De Ligt,CB,Chelsea,Netherlands,Premier League,Ball Playing Defender
+160,Alessandro Magalhaes,CB,Barcelona,Portugal,La Liga,Stopper
+161,Matthijs Konate,CB,Valencia,England,La Liga,Ball Playing Defender
+162,Gabriel Gvardiol,CB,PSG,England,Ligue 1,Stopper
+163,William Rudiger,CB,Marseille,Uruguay,Ligue 1,Stopper
+164,Kim Ramos,CB,Nice,Italy,Ligue 1,Stopper
+165,Ronald Konate,CB,Chelsea,Uruguay,Premier League,Ball Playing Defender
+166,Alessandro De Ligt,CB,AS Roma,Argentina,Serie A,Stopper
+167,Virgil Silva,CB,Lille,Brazil,Ligue 1,Stopper
+168,Sven Romero,CB,Barcelona,Belgium,La Liga,Ball Playing Defender
+169,William Konate,CB,PSG,Portugal,Ligue 1,Stopper
+170,Virgil Dias,CB,RB Leipzig,Italy,Bundesliga,Ball Playing Defender
+171,Dayot Min-jae,CB,RB Leipzig,France,Bundesliga,Stopper
+172,Cristian Akanji,CB,PSG,Uruguay,Ligue 1,Ball Playing Defender
+173,Alessandro Van Dijk,CB,Barcelona,England,La Liga,Ball Playing Defender
+174,Jules Torres,CB,AS Roma,Spain,Serie A,Stopper
+175,Matthijs Van Dijk,CB,Brest,Senegal,Ligue 1,Stopper
+176,Virgil Upamecano,CB,Lazio,England,Serie A,Ball Playing Defender
+177,Ronald Maguire,CB,Girona,South Korea,La Liga,Stopper
+178,Pau Van Dijk,CB,Brighton,Argentina,Premier League,Ball Playing Defender
+179,Eder Magalhaes,CB,Marseille,Uruguay,Ligue 1,Ball Playing Defender
+180,Dayot Maguire,CB,Manchester City,Switzerland,Premier League,Stopper
+181,Virgil Rudiger,CB,Barcelona,Italy,La Liga,Stopper
+182,Alessandro Silva,CB,AS Roma,France,Serie A,Ball Playing Defender
+183,Ronald Ramos,CB,Athletic Club,Portugal,La Liga,Stopper
+184,Dayot Dias,CB,Tottenham,Senegal,Premier League,Stopper
+185,Sven Maguire,CB,Marseille,France,Ligue 1,Ball Playing Defender
+186,Ibrahima Gvardiol,CB,Dortmund,Uruguay,Bundesliga,Stopper
+187,Jules Konate,CB,West Ham,Belgium,Premier League,Stopper
+188,Milan Torres,CB,Nice,South Korea,Ligue 1,Ball Playing Defender
+189,Ronald Romero,CB,AS Roma,France,Serie A,Stopper
+190,Sergio Ramos,CB,Monaco,Croatia,Ligue 1,Stopper
+191,Antonio Bremer,CB,Atalanta,Croatia,Serie A,Stopper
+192,Gabriel Militao,CB,Stuttgart,Portugal,Bundesliga,Ball Playing Defender
+193,Gabriel Bastoni,CB,Stuttgart,Croatia,Bundesliga,Ball Playing Defender
+194,Mats Silva,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+195,Sergio Araujo,CB,Barcelona,South Korea,La Liga,Ball Playing Defender
+196,Cristian Min-jae,CB,Tottenham,Spain,Premier League,Ball Playing Defender
+197,Ruben Martinez,CB,Monaco,South Korea,Ligue 1,Ball Playing Defender
+198,William Rudiger,CB,Arsenal,Italy,Premier League,Stopper
+199,Marquinhos Van Dijk,CB,Athletic Club,England,La Liga,Ball Playing Defender
+200,Josko Militao,CB,Lille,Spain,Ligue 1,Stopper
+201,Manuel De Ligt,CB,Atletico Madrid,England,La Liga,Stopper
+202,Lisandro Kounde,CB,Marseille,England,Ligue 1,Ball Playing Defender
+203,Cristian Konate,CB,Lazio,Brazil,Serie A,Stopper
+204,Eder Silva,CB,Juventus,Spain,Serie A,Ball Playing Defender
+205,Gabriel Upamecano,CB,West Ham,Senegal,Premier League,Ball Playing Defender
+206,Ruben Dias,CB,Nice,Netherlands,Ligue 1,Ball Playing Defender
+207,Pau Martinez,CB,Bayern Munich,Portugal,Bundesliga,Stopper
+208,Alessandro Upamecano,CB,AC Milan,England,Serie A,Stopper
+209,Jules Rudiger,CB,Atletico Madrid,Uruguay,La Liga,Stopper
+210,Dayot Botman,CB,Manchester City,Portugal,Premier League,Ball Playing Defender
+211,Jules Bastoni,CB,Lille,Portugal,Ligue 1,Ball Playing Defender
+212,Pau Van Dijk,CB,Athletic Club,South Korea,La Liga,Ball Playing Defender
+213,Milan Magalhaes,CB,Lazio,France,Serie A,Ball Playing Defender
+214,Sven Kounde,CB,Athletic Club,Argentina,La Liga,Stopper
+215,Ronald Magalhaes,CB,Bayer Leverkusen,Portugal,Bundesliga,Stopper
+216,Milan Saliba,CB,Athletic Club,Netherlands,La Liga,Ball Playing Defender
+217,Milan Kounde,CB,Real Sociedad,Portugal,La Liga,Stopper
+218,Gabriel Martinez,CB,Aston Villa,Senegal,Premier League,Stopper
+219,Lisandro Araujo,CB,AS Roma,Portugal,Serie A,Stopper
+220,Alessandro Kounde,CB,Bayer Leverkusen,Switzerland,Bundesliga,Ball Playing Defender
+221,Manuel Militao,CB,Nice,France,Ligue 1,Ball Playing Defender
+222,Pau Martinez,CB,Napoli,Brazil,Serie A,Stopper
+223,Bremer Torres,CB,AS Roma,Portugal,Serie A,Ball Playing Defender
+224,Virgil Araujo,CB,Napoli,Argentina,Serie A,Ball Playing Defender
+225,Josko Saliba,CB,Lyon,South Korea,Ligue 1,Ball Playing Defender
+226,Jules Min-jae,CB,Girona,Senegal,La Liga,Ball Playing Defender
+227,Ibrahima Kounde,CB,Newcastle,Portugal,Premier League,Stopper
+228,Josko Gvardiol,CB,Liverpool,Switzerland,Premier League,Ball Playing Defender
+229,Alessandro Martinez,CB,Brighton,Portugal,Premier League,Ball Playing Defender
+230,Cristian Martinez,CB,Aston Villa,Argentina,Premier League,Ball Playing Defender
+231,Virgil Martinez,CB,Stuttgart,Germany,Bundesliga,Ball Playing Defender
+232,Antonio De Ligt,CB,Stuttgart,Switzerland,Bundesliga,Ball Playing Defender
+233,Ruben Upamecano,CB,Girona,Netherlands,La Liga,Stopper
+234,Virgil Gvardiol,CB,Bologna,Portugal,Serie A,Stopper
+235,Mats Martinez,CB,Frankfurt,Switzerland,Bundesliga,Ball Playing Defender
+236,Matthijs Ramos,CB,AC Milan,France,Serie A,Ball Playing Defender
+237,Ruben De Ligt,CB,Valencia,Portugal,La Liga,Ball Playing Defender
+238,Virgil Min-jae,CB,Napoli,Spain,Serie A,Ball Playing Defender
+239,Matthijs Martinez,CB,Chelsea,Argentina,Premier League,Stopper
+240,Josko Militao,CB,RB Leipzig,Brazil,Bundesliga,Stopper
+241,Dayot Van Dijk,CB,Frankfurt,Portugal,Bundesliga,Stopper
+242,Cristian Skriniar,CB,Juventus,France,Serie A,Stopper
+243,William Dias,CB,Manchester City,Netherlands,Premier League,Ball Playing Defender
+244,Kim Maguire,CB,Inter Milan,Netherlands,Serie A,Stopper
+245,Jules Van Dijk,CB,Aston Villa,Croatia,Premier League,Stopper
+246,Sergio Romero,CB,Atalanta,Uruguay,Serie A,Stopper
+247,Sven Araujo,CB,AC Milan,Senegal,Serie A,Ball Playing Defender
+248,Bremer Magalhaes,CB,Brest,Spain,Ligue 1,Stopper
+249,Sergio Van Dijk,CB,PSG,Uruguay,Ligue 1,Ball Playing Defender
+250,Jules Min-jae,CB,Manchester City,Germany,Premier League,Ball Playing Defender
+251,Cristian Botman,CB,Nice,South Korea,Ligue 1,Ball Playing Defender
+252,Marquinhos Militao,CB,Real Betis,Switzerland,La Liga,Ball Playing Defender
+253,Dayot Bastoni,CB,Monaco,Italy,Ligue 1,Stopper
+254,Manuel Skriniar,CB,PSG,Argentina,Ligue 1,Ball Playing Defender
+255,Eder Militao,CB,Valencia,France,La Liga,Stopper
+256,Virgil Araujo,CB,Barcelona,Croatia,La Liga,Stopper
+257,Gabriel Van Dijk,CB,Manchester United,Netherlands,Premier League,Stopper
+258,William Torres,CB,Barcelona,Portugal,La Liga,Ball Playing Defender
+259,Antonio Gvardiol,CB,Girona,Italy,La Liga,Stopper
+260,Dayot Upamecano,CB,Real Madrid,Uruguay,La Liga,Ball Playing Defender
+261,Harry Araujo,CB,Girona,Portugal,La Liga,Ball Playing Defender
+262,Virgil Araujo,CB,Manchester United,Brazil,Premier League,Ball Playing Defender
+263,Jules Bastoni,CB,Atletico Madrid,Germany,La Liga,Ball Playing Defender
+264,Alessandro Araujo,CB,Monaco,Croatia,Ligue 1,Ball Playing Defender
+265,Marquinhos Martinez,CB,Napoli,Belgium,Serie A,Ball Playing Defender
+266,Virgil Bastoni,CB,Bologna,Portugal,Serie A,Stopper
+267,Josko Dias,CB,Bayern Munich,England,Bundesliga,Stopper
+268,Cristian Militao,CB,Frankfurt,France,Bundesliga,Stopper
+269,Mats Skriniar,CB,Arsenal,Brazil,Premier League,Ball Playing Defender
+270,Harry Van Dijk,CB,Napoli,Senegal,Serie A,Stopper
+271,Jules Ramos,CB,Brighton,Belgium,Premier League,Stopper
+272,Ibrahima Skriniar,CB,Chelsea,Senegal,Premier League,Stopper
+273,Jules Militao,CB,Chelsea,Belgium,Premier League,Ball Playing Defender
+274,Matthijs Saliba,CB,Dortmund,France,Bundesliga,Stopper
+275,Marquinhos Botman,CB,Barcelona,Portugal,La Liga,Stopper
+276,Bremer Kounde,CB,Atletico Madrid,Italy,La Liga,Stopper
+277,Dayot De Ligt,CB,Frankfurt,Spain,Bundesliga,Ball Playing Defender
+278,Harry Gvardiol,CB,Stuttgart,England,Bundesliga,Stopper
+279,Mats Akanji,CB,Brest,Croatia,Ligue 1,Ball Playing Defender
+280,Sergio Ramos,CB,Newcastle,Brazil,Premier League,Ball Playing Defender
+281,Mats Skriniar,CB,Bologna,Switzerland,Serie A,Ball Playing Defender
+282,Mats De Ligt,CB,Real Madrid,Senegal,La Liga,Stopper
+283,Harry Dias,CB,Frankfurt,South Korea,Bundesliga,Stopper
+284,Cristian Rudiger,CB,Frankfurt,Belgium,Bundesliga,Ball Playing Defender
+285,Antonio Bastoni,CB,Liverpool,Portugal,Premier League,Ball Playing Defender
+286,Lisandro Rudiger,CB,Girona,South Korea,La Liga,Ball Playing Defender
+287,Alessandro Militao,CB,Marseille,South Korea,Ligue 1,Stopper
+288,Mats Silva,CB,Athletic Club,Senegal,La Liga,Ball Playing Defender
+289,Ruben Akanji,CB,Inter Milan,England,Serie A,Ball Playing Defender
+290,Matthijs Dias,CB,Real Sociedad,Switzerland,La Liga,Ball Playing Defender
+291,Eder Van Dijk,CB,Lazio,Belgium,Serie A,Stopper
+292,Sergio Ramos,CB,Bologna,Switzerland,Serie A,Ball Playing Defender
+293,Marquinhos Van Dijk,CB,AC Milan,England,Serie A,Stopper
+294,Harry Romero,CB,Brest,Italy,Ligue 1,Stopper
+295,Harry Martinez,CB,AS Roma,Netherlands,Serie A,Ball Playing Defender
+296,Ruben Saliba,CB,Lille,Uruguay,Ligue 1,Stopper
+297,Mats Gvardiol,CB,Juventus,Senegal,Serie A,Stopper
+298,Kim Skriniar,CB,Newcastle,Italy,Premier League,Ball Playing Defender
+299,Alessandro Silva,CB,Aston Villa,Netherlands,Premier League,Stopper
+300,Eder Saliba,CB,Bayern Munich,Belgium,Bundesliga,Stopper
+301,Pau Silva,CB,Lille,Croatia,Ligue 1,Ball Playing Defender
+302,Ibrahima Akanji,CB,Monaco,Italy,Ligue 1,Ball Playing Defender
+303,Jules Saliba,CB,Bayern Munich,Netherlands,Bundesliga,Ball Playing Defender
+304,Ronald Gvardiol,CB,Girona,Uruguay,La Liga,Ball Playing Defender
+305,Lisandro Dias,CB,Real Madrid,Argentina,La Liga,Stopper
+306,Kim Akanji,CB,AS Roma,Switzerland,Serie A,Ball Playing Defender
+307,Eder Araujo,CB,Juventus,Portugal,Serie A,Stopper
+308,Alessandro Konate,CB,Juventus,Brazil,Serie A,Stopper
+309,Bremer Akanji,CB,Liverpool,Brazil,Premier League,Ball Playing Defender
+310,Marquinhos Romero,CB,Barcelona,Germany,La Liga,Stopper
+311,Cristian Bremer,CB,Atletico Madrid,Brazil,La Liga,Ball Playing Defender
+312,Dayot Konate,CB,PSG,France,Ligue 1,Ball Playing Defender
+313,William De Ligt,CB,Dortmund,Netherlands,Bundesliga,Stopper
+314,Lisandro Dias,CB,AS Roma,Portugal,Serie A,Ball Playing Defender
+315,Josko Magalhaes,CB,Girona,France,La Liga,Ball Playing Defender
+316,Sven Skriniar,CB,Bayer Leverkusen,Netherlands,Bundesliga,Stopper
+317,Sven Silva,CB,Real Sociedad,Senegal,La Liga,Ball Playing Defender
+318,Marquinhos Bremer,CB,Liverpool,Spain,Premier League,Ball Playing Defender
+319,Kim Torres,CB,Brighton,Portugal,Premier League,Ball Playing Defender
+320,Milan Botman,CB,Brighton,Italy,Premier League,Stopper
+321,Antonio Magalhaes,CB,Atletico Madrid,Italy,La Liga,Ball Playing Defender
+322,Ruben Upamecano,CB,Monaco,Uruguay,Ligue 1,Ball Playing Defender
+323,Jules Araujo,CB,RB Leipzig,Italy,Bundesliga,Ball Playing Defender
+324,Sergio Konate,CB,Stuttgart,Netherlands,Bundesliga,Stopper
+325,Milan Saliba,CB,Tottenham,Switzerland,Premier League,Ball Playing Defender
+326,Mats Hummels,CB,Lille,Italy,Ligue 1,Ball Playing Defender
+327,Ruben Bastoni,CB,Lyon,Switzerland,Ligue 1,Ball Playing Defender
+328,Eder Hummels,CB,AS Roma,South Korea,Serie A,Stopper
+329,Harry Militao,CB,Bayer Leverkusen,Brazil,Bundesliga,Ball Playing Defender
+330,Dayot Militao,CB,Real Madrid,Croatia,La Liga,Ball Playing Defender
+331,Jules Ramos,CB,Lazio,Portugal,Serie A,Stopper
+332,Eder Ramos,CB,AS Roma,Belgium,Serie A,Stopper
+333,Antonio Torres,CB,Bayern Munich,Germany,Bundesliga,Stopper
+334,Lisandro Martinez,CB,AS Roma,Croatia,Serie A,Ball Playing Defender
+335,Josko Militao,CB,Brest,Croatia,Ligue 1,Ball Playing Defender
+336,Pau Torres,CB,Lazio,Uruguay,Serie A,Ball Playing Defender
+337,Marquinhos Saliba,CB,AS Roma,England,Serie A,Stopper
+338,Ibrahima Ramos,CB,Lille,Croatia,Ligue 1,Ball Playing Defender
+339,Josko Van Dijk,CB,Barcelona,France,La Liga,Stopper
+340,Pau Militao,CB,Monaco,South Korea,Ligue 1,Stopper
+341,Ibrahima Konate,CB,Juventus,Uruguay,Serie A,Ball Playing Defender
+342,Milan Saliba,CB,RB Leipzig,Belgium,Bundesliga,Ball Playing Defender
+343,Dayot Silva,CB,RB Leipzig,Senegal,Bundesliga,Ball Playing Defender
+344,Bremer Upamecano,CB,Barcelona,Uruguay,La Liga,Stopper
+345,Sergio Botman,CB,Lille,France,Ligue 1,Stopper
+346,Antonio Van Dijk,CB,Frankfurt,Argentina,Bundesliga,Ball Playing Defender
+347,Mats Hummels,CB,Barcelona,Switzerland,La Liga,Ball Playing Defender
+348,Kim Rudiger,CB,Newcastle,Brazil,Premier League,Stopper
+349,Virgil Skriniar,CB,Lille,France,Ligue 1,Ball Playing Defender
+350,Eder Kounde,CB,AS Roma,France,Serie A,Ball Playing Defender
+351,Ruben De Ligt,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+352,Matthijs Rudiger,CB,Bayern Munich,Croatia,Bundesliga,Stopper
+353,Ibrahima Konate,CB,Monaco,Portugal,Ligue 1,Stopper
+354,Virgil Kounde,CB,Real Betis,Italy,La Liga,Stopper
+355,Josko Romero,CB,Athletic Club,Netherlands,La Liga,Ball Playing Defender
+356,Gabriel Bremer,CB,Brest,Argentina,Ligue 1,Ball Playing Defender
+357,Marquinhos Maguire,CB,Stuttgart,France,Bundesliga,Ball Playing Defender
+358,Cristian Magalhaes,CB,Arsenal,Belgium,Premier League,Ball Playing Defender
+359,Cristian Min-jae,CB,Aston Villa,Switzerland,Premier League,Stopper
+360,Sergio Torres,CB,Manchester United,Brazil,Premier League,Ball Playing Defender
+361,Dayot Van Dijk,CB,PSG,Uruguay,Ligue 1,Stopper
+362,Dayot Saliba,CB,Bayer Leverkusen,Argentina,Bundesliga,Stopper
+363,Josko Araujo,CB,Brighton,South Korea,Premier League,Stopper
+364,Virgil Militao,CB,Inter Milan,South Korea,Serie A,Stopper
+365,Harry Ramos,CB,Brighton,Uruguay,Premier League,Stopper
+366,Ronald Kounde,CB,West Ham,Uruguay,Premier League,Ball Playing Defender
+367,Ruben Min-jae,CB,Valencia,Senegal,La Liga,Ball Playing Defender
+368,Cristian Torres,CB,Liverpool,Portugal,Premier League,Ball Playing Defender
+369,Kim Militao,CB,Juventus,Croatia,Serie A,Stopper
+370,William Dias,CB,RB Leipzig,France,Bundesliga,Ball Playing Defender
+371,Matthijs Skriniar,CB,Newcastle,Italy,Premier League,Stopper
+372,William Magalhaes,CB,Newcastle,Italy,Premier League,Stopper
+373,Antonio Bremer,CB,Marseille,Argentina,Ligue 1,Ball Playing Defender
+374,Manuel Hummels,CB,AC Milan,Italy,Serie A,Stopper
+375,Ronald Araujo,CB,Dortmund,Senegal,Bundesliga,Stopper
+376,Alessandro Van Dijk,CB,AS Roma,Belgium,Serie A,Stopper
+377,Mats Gvardiol,CB,Bayer Leverkusen,Belgium,Bundesliga,Stopper
+378,Kim Torres,CB,Lyon,Uruguay,Ligue 1,Stopper
+379,Harry Saliba,CB,Stuttgart,Belgium,Bundesliga,Ball Playing Defender
+380,Ronald Bastoni,CB,Marseille,France,Ligue 1,Stopper
+381,Josko Bremer,CB,Napoli,Senegal,Serie A,Stopper
+382,Jules Araujo,CB,PSG,Portugal,Ligue 1,Stopper
+383,Sven Ramos,CB,Brest,England,Ligue 1,Ball Playing Defender
+384,Milan Romero,CB,Nice,Uruguay,Ligue 1,Ball Playing Defender
+385,Harry Bastoni,CB,Manchester City,Portugal,Premier League,Ball Playing Defender
+386,Bremer Militao,CB,AC Milan,Brazil,Serie A,Stopper
+387,Marquinhos Skriniar,CB,Valencia,Netherlands,La Liga,Stopper
+388,Ruben De Ligt,CB,Bayern Munich,Brazil,Bundesliga,Ball Playing Defender
+389,Pau Maguire,CB,Lille,Italy,Ligue 1,Stopper
+390,Ronald Araujo,CB,Nice,Switzerland,Ligue 1,Ball Playing Defender
+391,Jules Gvardiol,CB,Chelsea,Uruguay,Premier League,Ball Playing Defender
+392,Alessandro Min-jae,CB,Brighton,Uruguay,Premier League,Ball Playing Defender
+393,Eder Martinez,CB,Real Betis,Spain,La Liga,Ball Playing Defender
+394,Marquinhos Araujo,CB,Atletico Madrid,Spain,La Liga,Stopper
+395,Dayot Kounde,CB,Chelsea,England,Premier League,Ball Playing Defender
+396,Cristian Akanji,CB,Aston Villa,Germany,Premier League,Ball Playing Defender
+397,Mats Dias,CB,Brest,Portugal,Ligue 1,Stopper
+398,Matthijs Konate,CB,Atalanta,South Korea,Serie A,Stopper
+399,Kim Torres,CB,Lille,Croatia,Ligue 1,Stopper
+400,Eder Saliba,CB,Brest,Netherlands,Ligue 1,Ball Playing Defender
+401,Virgil Hummels,CB,AS Roma,Croatia,Serie A,Ball Playing Defender
+402,Ibrahima Militao,CB,Frankfurt,Brazil,Bundesliga,Stopper
+403,Kim Upamecano,CB,Stuttgart,Spain,Bundesliga,Stopper
+404,Virgil Min-jae,CB,Nice,Spain,Ligue 1,Ball Playing Defender
+405,Harry Ramos,CB,Valencia,Italy,La Liga,Ball Playing Defender
+406,Gabriel Kounde,CB,West Ham,Portugal,Premier League,Ball Playing Defender
+407,Antonio Akanji,CB,Stuttgart,Netherlands,Bundesliga,Ball Playing Defender
+408,Antonio Botman,CB,Lyon,Switzerland,Ligue 1,Ball Playing Defender
+409,Cristian Torres,CB,Girona,Germany,La Liga,Stopper
+410,Marquinhos Konate,CB,Aston Villa,Portugal,Premier League,Stopper
+411,Gabriel Hummels,CB,Manchester City,Croatia,Premier League,Ball Playing Defender
+412,Marquinhos Upamecano,CB,Liverpool,Uruguay,Premier League,Stopper
+413,Eder Botman,CB,RB Leipzig,Croatia,Bundesliga,Ball Playing Defender
+414,Mats Hummels,CB,Monaco,Argentina,Ligue 1,Stopper
+415,William Militao,CB,Real Betis,England,La Liga,Stopper
+416,William Upamecano,CB,RB Leipzig,France,Bundesliga,Ball Playing Defender
+417,Marquinhos Torres,CB,Liverpool,Italy,Premier League,Ball Playing Defender
+418,William Torres,CB,Athletic Club,Portugal,La Liga,Ball Playing Defender
+419,Mats Van Dijk,CB,Bayer Leverkusen,Portugal,Bundesliga,Stopper
+420,Ruben Saliba,CB,Lille,Belgium,Ligue 1,Stopper
+421,Antonio Botman,CB,Chelsea,Uruguay,Premier League,Stopper
+422,Alessandro Silva,CB,Athletic Club,Belgium,La Liga,Stopper
+423,Gabriel Min-jae,CB,Bayern Munich,Belgium,Bundesliga,Stopper
+424,Antonio De Ligt,CB,Chelsea,Spain,Premier League,Ball Playing Defender
+425,Ibrahima Magalhaes,CB,Nice,Senegal,Ligue 1,Ball Playing Defender
+426,Ibrahima Bastoni,CB,AC Milan,France,Serie A,Stopper
+427,Marquinhos Konate,CB,RB Leipzig,Belgium,Bundesliga,Ball Playing Defender
+428,Marquinhos Konate,CB,Stuttgart,Switzerland,Bundesliga,Stopper
+429,Antonio Militao,CB,RB Leipzig,Brazil,Bundesliga,Ball Playing Defender
+430,Sergio Kounde,CB,Tottenham,Netherlands,Premier League,Ball Playing Defender
+431,Kim Botman,CB,Lazio,Belgium,Serie A,Stopper
+432,Marquinhos Van Dijk,CB,Monaco,South Korea,Ligue 1,Stopper
+433,Ruben Maguire,CB,Lyon,Germany,Ligue 1,Ball Playing Defender
+434,Manuel Militao,CB,Inter Milan,Netherlands,Serie A,Stopper
+435,Gabriel Bremer,CB,Lille,Germany,Ligue 1,Ball Playing Defender
+436,Sven Konate,CB,PSG,Netherlands,Ligue 1,Stopper
+437,Sven Botman,CB,Newcastle,Germany,Premier League,Ball Playing Defender
+438,Pau Araujo,CB,Lille,Spain,Ligue 1,Stopper
+439,Antonio Araujo,CB,AS Roma,Italy,Serie A,Ball Playing Defender
+440,Ronald Bastoni,CB,Stuttgart,Switzerland,Bundesliga,Ball Playing Defender
+441,Jules Akanji,CB,Marseille,Germany,Ligue 1,Stopper
+442,Lisandro Konate,CB,West Ham,Netherlands,Premier League,Ball Playing Defender
+443,Eder Konate,CB,Real Betis,Brazil,La Liga,Stopper
+444,William Gvardiol,CB,AS Roma,South Korea,Serie A,Ball Playing Defender
+445,Antonio Ramos,CB,Real Betis,South Korea,La Liga,Stopper
+446,Sergio Martinez,CB,West Ham,Netherlands,Premier League,Ball Playing Defender
+447,Kim Ramos,CB,Athletic Club,France,La Liga,Ball Playing Defender
+448,Lisandro Militao,CB,Inter Milan,Croatia,Serie A,Stopper
+449,Virgil Magalhaes,CB,RB Leipzig,Croatia,Bundesliga,Stopper
+450,Sergio Bremer,CB,Aston Villa,Senegal,Premier League,Stopper
+451,Ibrahima Ramos,CB,Juventus,Spain,Serie A,Stopper
+452,Jules Militao,CB,Arsenal,Switzerland,Premier League,Stopper
+453,Ronald Min-jae,CB,PSG,Croatia,Ligue 1,Stopper
+454,Antonio Torres,CB,Atalanta,Portugal,Serie A,Stopper
+455,Ibrahima Romero,CB,Dortmund,Brazil,Bundesliga,Ball Playing Defender
+456,Dayot De Ligt,CB,Barcelona,Uruguay,La Liga,Ball Playing Defender
+457,Matthijs Militao,CB,Manchester City,Senegal,Premier League,Stopper
+458,Ibrahima Kounde,CB,Girona,Switzerland,La Liga,Ball Playing Defender
+459,Mats Gvardiol,CB,Brest,South Korea,Ligue 1,Ball Playing Defender
+460,Sergio Upamecano,CB,West Ham,Uruguay,Premier League,Stopper
+461,Sven Torres,CB,Dortmund,Portugal,Bundesliga,Stopper
+462,William Maguire,CB,Marseille,Netherlands,Ligue 1,Ball Playing Defender
+463,Milan Gvardiol,CB,Atalanta,Croatia,Serie A,Ball Playing Defender
+464,William Skriniar,CB,Manchester United,Netherlands,Premier League,Stopper
+465,Virgil Militao,CB,Lyon,Italy,Ligue 1,Stopper
+466,Mats Rudiger,CB,Juventus,South Korea,Serie A,Ball Playing Defender
+467,Lisandro Skriniar,CB,Bologna,Portugal,Serie A,Stopper
+468,Harry Bastoni,CB,Lyon,Brazil,Ligue 1,Ball Playing Defender
+469,Lisandro De Ligt,CB,Inter Milan,Italy,Serie A,Ball Playing Defender
+470,Gabriel Ramos,CB,Nice,Italy,Ligue 1,Stopper
+471,Harry Rudiger,CB,Bayern Munich,Germany,Bundesliga,Stopper
+472,Ronald Bastoni,CB,Real Madrid,Croatia,La Liga,Ball Playing Defender
+473,Matthijs Rudiger,CB,Nice,Belgium,Ligue 1,Stopper
+474,Jules Konate,CB,Brighton,Germany,Premier League,Ball Playing Defender
+475,Sven Kounde,CB,Bayer Leverkusen,Belgium,Bundesliga,Stopper
+476,Manuel De Ligt,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+477,Jules Konate,CB,Bayer Leverkusen,Italy,Bundesliga,Stopper
+478,Pau Militao,CB,Aston Villa,Italy,Premier League,Ball Playing Defender
+479,Marquinhos Militao,CB,Aston Villa,Italy,Premier League,Stopper
+480,Pau Torres,CB,Chelsea,South Korea,Premier League,Ball Playing Defender
+481,Gabriel Magalhaes,CB,Barcelona,South Korea,La Liga,Stopper
+482,Bremer Min-jae,CB,Bologna,Senegal,Serie A,Ball Playing Defender
+483,William Araujo,CB,Barcelona,England,La Liga,Stopper
+484,Marquinhos Militao,CB,Valencia,Spain,La Liga,Stopper
+485,Alessandro Van Dijk,CB,Stuttgart,Senegal,Bundesliga,Ball Playing Defender
+486,Ibrahima Torres,CB,Dortmund,Switzerland,Bundesliga,Ball Playing Defender
+487,Kim Maguire,CB,Real Betis,Spain,La Liga,Stopper
+488,Josko Araujo,CB,West Ham,Croatia,Premier League,Ball Playing Defender
+489,Marquinhos Araujo,CB,Real Madrid,Netherlands,La Liga,Stopper
+490,Matthijs Saliba,CB,Arsenal,Uruguay,Premier League,Stopper
+491,Virgil Saliba,CB,Monaco,Uruguay,Ligue 1,Stopper
+492,Kim Militao,CB,Girona,Spain,La Liga,Ball Playing Defender
+493,Sergio Martinez,CB,Brest,Italy,Ligue 1,Stopper
+494,Matthijs Min-jae,CB,Chelsea,Germany,Premier League,Ball Playing Defender
+495,Josko Dias,CB,Napoli,Senegal,Serie A,Ball Playing Defender
+496,Jules Bastoni,CB,West Ham,Netherlands,Premier League,Ball Playing Defender
+497,Lisandro Militao,CB,Real Betis,Spain,La Liga,Ball Playing Defender
+498,Ibrahima Botman,CB,Liverpool,South Korea,Premier League,Stopper
+499,Ibrahima Torres,CB,Barcelona,Uruguay,La Liga,Ball Playing Defender
+500,Milan Maguire,CB,Inter Milan,Senegal,Serie A,Stopper
+501,Milan Rudiger,CB,Dortmund,England,Bundesliga,Stopper
+502,Jules Botman,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+503,Josko Araujo,CB,Dortmund,Uruguay,Bundesliga,Ball Playing Defender
+504,Cristian Gvardiol,CB,Real Betis,Argentina,La Liga,Ball Playing Defender
+505,Milan Van Dijk,CB,Barcelona,South Korea,La Liga,Ball Playing Defender
+506,Ruben Martinez,CB,Nice,Spain,Ligue 1,Stopper
+507,Mats Hummels,CB,AS Roma,Senegal,Serie A,Ball Playing Defender
+508,Harry De Ligt,CB,Brighton,Germany,Premier League,Ball Playing Defender
+509,Matthijs Ramos,CB,Aston Villa,Germany,Premier League,Stopper
+510,Alessandro Akanji,CB,Real Betis,Germany,La Liga,Stopper
+511,Jules Magalhaes,CB,Dortmund,Spain,Bundesliga,Stopper
+512,Manuel Ramos,CB,Liverpool,Brazil,Premier League,Ball Playing Defender
+513,Antonio Van Dijk,CB,Stuttgart,Belgium,Bundesliga,Stopper
+514,Marquinhos Akanji,CB,Lyon,Argentina,Ligue 1,Stopper
+515,Matthijs Kounde,CB,Real Sociedad,Portugal,La Liga,Stopper
+516,Dayot Dias,CB,Brighton,Italy,Premier League,Stopper
+517,Manuel Silva,CB,Frankfurt,South Korea,Bundesliga,Ball Playing Defender
+518,Sergio Torres,CB,Real Madrid,Uruguay,La Liga,Ball Playing Defender
+519,Manuel Kounde,CB,AS Roma,England,Serie A,Stopper
+520,Cristian Gvardiol,CB,Arsenal,Netherlands,Premier League,Stopper
+521,Kim Magalhaes,CB,Athletic Club,Argentina,La Liga,Ball Playing Defender
+522,Lisandro Araujo,CB,Monaco,Germany,Ligue 1,Ball Playing Defender
+523,Marquinhos Maguire,CB,RB Leipzig,Argentina,Bundesliga,Ball Playing Defender
+524,Virgil Bremer,CB,Valencia,Brazil,La Liga,Stopper
+525,Lisandro Ramos,CB,Atalanta,Portugal,Serie A,Stopper
+526,Eder Araujo,CB,Aston Villa,Senegal,Premier League,Ball Playing Defender
+527,Sven Gvardiol,CB,Juventus,Portugal,Serie A,Ball Playing Defender
+528,Kim Torres,CB,West Ham,South Korea,Premier League,Stopper
+529,Eder Saliba,CB,Brighton,Portugal,Premier League,Ball Playing Defender
+530,Jules Akanji,CB,Monaco,South Korea,Ligue 1,Stopper
+531,Eder Maguire,CB,Inter Milan,France,Serie A,Stopper
+532,Gabriel Silva,CB,Brighton,South Korea,Premier League,Ball Playing Defender
+533,Ronald Silva,CB,Stuttgart,Brazil,Bundesliga,Ball Playing Defender
+534,Pau Maguire,CB,Bayern Munich,Belgium,Bundesliga,Ball Playing Defender
+535,Lisandro Dias,CB,Manchester City,Switzerland,Premier League,Ball Playing Defender
+536,Gabriel Romero,CB,Valencia,Netherlands,La Liga,Ball Playing Defender
+537,Ibrahima Silva,CB,Bologna,Brazil,Serie A,Ball Playing Defender
+538,Pau Gvardiol,CB,Monaco,Belgium,Ligue 1,Stopper
+539,Ronald Bastoni,CB,Chelsea,Belgium,Premier League,Ball Playing Defender
+540,Manuel Gvardiol,CB,AC Milan,Portugal,Serie A,Ball Playing Defender
+541,Lisandro Militao,CB,Brest,South Korea,Ligue 1,Stopper
+542,Dayot Silva,CB,Monaco,Uruguay,Ligue 1,Stopper
+543,Kim Min-jae,CB,Aston Villa,Senegal,Premier League,Ball Playing Defender
+544,Cristian Kounde,CB,Marseille,Italy,Ligue 1,Stopper
+545,Josko Dias,CB,Real Madrid,Uruguay,La Liga,Ball Playing Defender
+546,Bremer Martinez,CB,Manchester United,Italy,Premier League,Ball Playing Defender
+547,Sergio Romero,CB,RB Leipzig,Brazil,Bundesliga,Ball Playing Defender
+548,Ibrahima Militao,CB,Bayer Leverkusen,Switzerland,Bundesliga,Ball Playing Defender
+549,Virgil De Ligt,CB,Juventus,France,Serie A,Stopper
+550,Ronald Skriniar,CB,PSG,Argentina,Ligue 1,Stopper
+551,Manuel Konate,CB,Real Sociedad,Belgium,La Liga,Ball Playing Defender
+552,Dayot Saliba,CB,Chelsea,England,Premier League,Stopper
+553,Bremer Akanji,CB,Dortmund,France,Bundesliga,Stopper
+554,Kim Silva,CB,Bayer Leverkusen,Italy,Bundesliga,Ball Playing Defender
+555,Harry Hummels,CB,Real Betis,Croatia,La Liga,Stopper
+556,Manuel Silva,CB,Tottenham,South Korea,Premier League,Stopper
+557,Antonio Skriniar,CB,Bayer Leverkusen,Spain,Bundesliga,Ball Playing Defender
+558,Virgil De Ligt,CB,Bayer Leverkusen,Croatia,Bundesliga,Stopper
+559,Jules Dias,CB,Liverpool,Spain,Premier League,Ball Playing Defender
+560,Bremer De Ligt,CB,Girona,England,La Liga,Stopper
+561,Pau Araujo,CB,Real Madrid,Argentina,La Liga,Stopper
+562,Marquinhos Bremer,CB,Dortmund,Brazil,Bundesliga,Stopper
+563,Josko Gvardiol,CB,Lille,Portugal,Ligue 1,Ball Playing Defender
+564,Sergio Konate,CB,Bologna,France,Serie A,Ball Playing Defender
+565,Sven Maguire,CB,Marseille,England,Ligue 1,Stopper
+566,Manuel Skriniar,CB,Lazio,South Korea,Serie A,Ball Playing Defender
+567,Kim Konate,CB,Napoli,Portugal,Serie A,Stopper
+568,Sergio Konate,CB,Girona,Uruguay,La Liga,Ball Playing Defender
+569,Gabriel Dias,CB,Stuttgart,Portugal,Bundesliga,Stopper
+570,Dayot Maguire,CB,Real Sociedad,Portugal,La Liga,Ball Playing Defender
+571,Jules Romero,CB,RB Leipzig,France,Bundesliga,Ball Playing Defender
+572,Marquinhos Maguire,CB,Liverpool,Belgium,Premier League,Ball Playing Defender
+573,Cristian Martinez,CB,Real Madrid,Brazil,La Liga,Stopper
+574,Lisandro Ramos,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+575,Eder De Ligt,CB,Inter Milan,Netherlands,Serie A,Stopper
+576,William De Ligt,CB,Bayer Leverkusen,Spain,Bundesliga,Ball Playing Defender
+577,Sergio Van Dijk,CB,AS Roma,France,Serie A,Ball Playing Defender
+578,Eder Saliba,CB,RB Leipzig,Italy,Bundesliga,Ball Playing Defender
+579,Gabriel Akanji,CB,Arsenal,Brazil,Premier League,Ball Playing Defender
+580,Antonio Kounde,CB,Girona,Portugal,La Liga,Ball Playing Defender
+581,Virgil Upamecano,CB,Nice,England,Ligue 1,Stopper
+582,Eder Silva,CB,Lille,Germany,Ligue 1,Ball Playing Defender
+583,Manuel Akanji,CB,Brest,Germany,Ligue 1,Stopper
+584,Lisandro Magalhaes,CB,Stuttgart,Argentina,Bundesliga,Stopper
+585,Cristian Konate,CB,Lille,Portugal,Ligue 1,Ball Playing Defender
+586,Mats Maguire,CB,Marseille,England,Ligue 1,Ball Playing Defender
+587,Marquinhos Bremer,CB,Bayer Leverkusen,Uruguay,Bundesliga,Stopper
+588,Gabriel Martinez,CB,Aston Villa,Portugal,Premier League,Stopper
+589,Ibrahima Upamecano,CB,Arsenal,Portugal,Premier League,Stopper
+590,Gabriel Botman,CB,Dortmund,Portugal,Bundesliga,Ball Playing Defender
+591,Milan Romero,CB,Manchester City,Italy,Premier League,Stopper
+592,Sven Kounde,CB,PSG,Brazil,Ligue 1,Stopper
+593,Josko Saliba,CB,Real Betis,Argentina,La Liga,Ball Playing Defender
+594,Harry Romero,CB,Atletico Madrid,Argentina,La Liga,Ball Playing Defender
+595,Ibrahima Martinez,CB,Inter Milan,Brazil,Serie A,Stopper
+596,Jules Torres,CB,Real Madrid,Switzerland,La Liga,Ball Playing Defender
+597,Cristian Martinez,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+598,Sergio Militao,CB,Real Sociedad,France,La Liga,Ball Playing Defender
+599,Antonio Torres,CB,Dortmund,Senegal,Bundesliga,Ball Playing Defender
+600,Marquinhos Kounde,CB,Juventus,South Korea,Serie A,Ball Playing Defender
+601,Eder Dias,CB,Bayer Leverkusen,Netherlands,Bundesliga,Ball Playing Defender
+602,Milan Skriniar,CB,Stuttgart,Argentina,Bundesliga,Stopper
+603,Ibrahima Ramos,CB,Dortmund,Croatia,Bundesliga,Stopper
+604,William Bastoni,CB,Bayer Leverkusen,Croatia,Bundesliga,Stopper
+605,Sven Van Dijk,CB,Juventus,Argentina,Serie A,Ball Playing Defender
+606,Lisandro Dias,CB,Barcelona,Italy,La Liga,Ball Playing Defender
+607,Dayot Botman,CB,Napoli,Portugal,Serie A,Ball Playing Defender
+608,Eder Akanji,CB,Stuttgart,Senegal,Bundesliga,Stopper
+609,Josko Bremer,CB,PSG,Belgium,Ligue 1,Ball Playing Defender
+610,Harry Rudiger,CB,Marseille,France,Ligue 1,Stopper
+611,Sven Silva,CB,Manchester United,France,Premier League,Stopper
+612,Lisandro De Ligt,CB,Atletico Madrid,Spain,La Liga,Stopper
+613,Ronald Van Dijk,CB,Juventus,Spain,Serie A,Stopper
+614,Alessandro Skriniar,CB,Juventus,Spain,Serie A,Ball Playing Defender
+615,Harry Akanji,CB,Brest,Argentina,Ligue 1,Stopper
+616,Kim Botman,CB,Stuttgart,South Korea,Bundesliga,Stopper
+617,Harry De Ligt,CB,Napoli,Argentina,Serie A,Ball Playing Defender
+618,Harry Akanji,CB,Stuttgart,England,Bundesliga,Stopper
+619,Bremer Hummels,CB,Tottenham,Croatia,Premier League,Ball Playing Defender
+620,William Maguire,CB,PSG,Spain,Ligue 1,Stopper
+621,Dayot Van Dijk,CB,Dortmund,Switzerland,Bundesliga,Stopper
+622,Bremer Van Dijk,CB,Inter Milan,Spain,Serie A,Stopper
+623,Bremer Ramos,CB,West Ham,Germany,Premier League,Ball Playing Defender
+624,Ibrahima Militao,CB,Atletico Madrid,England,La Liga,Stopper
+625,Milan Bastoni,CB,Marseille,Netherlands,Ligue 1,Stopper
+626,Sven Botman,CB,Brest,France,Ligue 1,Stopper
+627,Gabriel Hummels,CB,Athletic Club,Italy,La Liga,Ball Playing Defender
+628,Josko Konate,CB,Frankfurt,South Korea,Bundesliga,Stopper
+629,Alessandro Torres,CB,Marseille,Portugal,Ligue 1,Ball Playing Defender
+630,Marquinhos Saliba,CB,PSG,Argentina,Ligue 1,Ball Playing Defender
+631,Gabriel Dias,CB,Brest,Portugal,Ligue 1,Stopper
+632,Lisandro Romero,CB,Frankfurt,Brazil,Bundesliga,Stopper
+633,Sven Torres,CB,Frankfurt,Germany,Bundesliga,Ball Playing Defender
+634,Ibrahima Romero,CB,Bologna,Senegal,Serie A,Ball Playing Defender
+635,Marquinhos Hummels,CB,West Ham,Croatia,Premier League,Ball Playing Defender
+636,Manuel Kounde,CB,Manchester City,Argentina,Premier League,Stopper
+637,Eder Kounde,CB,Lille,Germany,Ligue 1,Stopper
+638,Manuel Militao,CB,Frankfurt,England,Bundesliga,Ball Playing Defender
+639,William Min-jae,CB,Tottenham,France,Premier League,Stopper
+640,Matthijs Van Dijk,CB,Lazio,Italy,Serie A,Ball Playing Defender
+641,Ronald Hummels,CB,Atletico Madrid,South Korea,La Liga,Ball Playing Defender
+642,Mats Botman,CB,PSG,Spain,Ligue 1,Stopper
+643,Alessandro Magalhaes,CB,Lyon,Belgium,Ligue 1,Ball Playing Defender
+644,Marquinhos Van Dijk,CB,Brighton,Italy,Premier League,Ball Playing Defender
+645,Jules Hummels,CB,Atalanta,Spain,Serie A,Ball Playing Defender
+646,Cristian Bastoni,CB,Lazio,Argentina,Serie A,Stopper
+647,Matthijs Skriniar,CB,Atalanta,Switzerland,Serie A,Ball Playing Defender
+648,William Upamecano,CB,Real Sociedad,Italy,La Liga,Ball Playing Defender
+649,Sven Kounde,CB,Bologna,Senegal,Serie A,Stopper
+650,Ruben Konate,CB,Chelsea,Germany,Premier League,Stopper
+651,Pau Botman,CB,Liverpool,England,Premier League,Stopper
+652,Ronald Gvardiol,CB,Lyon,Netherlands,Ligue 1,Ball Playing Defender
+653,Matthijs Rudiger,CB,Real Madrid,Belgium,La Liga,Stopper
+654,William Skriniar,CB,Bayer Leverkusen,Croatia,Bundesliga,Ball Playing Defender
+655,Matthijs Min-jae,CB,Inter Milan,Spain,Serie A,Stopper
+656,Ibrahima Upamecano,CB,Inter Milan,Uruguay,Serie A,Stopper
+657,Harry Martinez,CB,Dortmund,Portugal,Bundesliga,Stopper
+658,Virgil Bremer,CB,Manchester United,Senegal,Premier League,Stopper
+659,Lisandro Ramos,CB,Bayer Leverkusen,Germany,Bundesliga,Stopper
+660,Alessandro Min-jae,CB,Manchester City,South Korea,Premier League,Ball Playing Defender
+661,Antonio Min-jae,CB,Dortmund,Portugal,Bundesliga,Ball Playing Defender
+662,Virgil Kounde,CB,Napoli,Netherlands,Serie A,Stopper
+663,Ronald Skriniar,CB,Lille,Netherlands,Ligue 1,Ball Playing Defender
+664,Matthijs Militao,CB,Barcelona,Brazil,La Liga,Ball Playing Defender
+665,Marquinhos Ramos,CB,Manchester City,Belgium,Premier League,Ball Playing Defender
+666,Eder Maguire,CB,Marseille,Croatia,Ligue 1,Ball Playing Defender
+667,Sergio Upamecano,CB,Lazio,Croatia,Serie A,Stopper
+668,Eder Torres,CB,PSG,Spain,Ligue 1,Ball Playing Defender
+669,Manuel De Ligt,CB,Monaco,Switzerland,Ligue 1,Stopper
+670,Manuel Kounde,CB,RB Leipzig,Senegal,Bundesliga,Stopper
+671,Eder Min-jae,CB,RB Leipzig,Brazil,Bundesliga,Ball Playing Defender
+672,Pau Botman,CB,Brest,Brazil,Ligue 1,Stopper
+673,Dayot Akanji,CB,Bayer Leverkusen,Italy,Bundesliga,Ball Playing Defender
+674,Antonio Botman,CB,Barcelona,England,La Liga,Ball Playing Defender
+675,Pau Akanji,CB,Valencia,Germany,La Liga,Stopper
+676,Antonio Martinez,CB,Atalanta,Spain,Serie A,Ball Playing Defender
+677,Pau Van Dijk,CB,AS Roma,Croatia,Serie A,Stopper
+678,Kim Bremer,CB,Manchester City,Uruguay,Premier League,Ball Playing Defender
+679,Dayot Van Dijk,CB,Nice,England,Ligue 1,Ball Playing Defender
+680,Harry Konate,CB,Manchester City,Brazil,Premier League,Stopper
+681,Sergio Botman,CB,Real Betis,South Korea,La Liga,Ball Playing Defender
+682,William Saliba,CB,Atalanta,Uruguay,Serie A,Ball Playing Defender
+683,Matthijs Gvardiol,CB,Real Betis,Portugal,La Liga,Stopper
+684,Ruben Magalhaes,CB,Brest,Croatia,Ligue 1,Ball Playing Defender
+685,Cristian Ramos,CB,RB Leipzig,England,Bundesliga,Ball Playing Defender
+686,Milan Magalhaes,CB,Brest,Spain,Ligue 1,Ball Playing Defender
+687,Milan Skriniar,CB,Monaco,France,Ligue 1,Stopper
+688,Virgil Van Dijk,CB,Atletico Madrid,Belgium,La Liga,Ball Playing Defender
+689,Mats Torres,CB,Stuttgart,Belgium,Bundesliga,Stopper
+690,William Bastoni,CB,Lille,Italy,Ligue 1,Stopper
+691,Ibrahima Magalhaes,CB,Lazio,England,Serie A,Ball Playing Defender
+692,Antonio Militao,CB,Real Betis,Switzerland,La Liga,Stopper
+693,Pau Kounde,CB,Valencia,Uruguay,La Liga,Stopper
+694,Marquinhos Romero,CB,Monaco,France,Ligue 1,Stopper
+695,Matthijs Martinez,CB,Stuttgart,Spain,Bundesliga,Ball Playing Defender
+696,Mats Militao,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+697,Manuel Upamecano,CB,Lille,Switzerland,Ligue 1,Stopper
+698,Marquinhos Gvardiol,CB,Bayer Leverkusen,France,Bundesliga,Stopper
+699,Sergio Hummels,CB,Dortmund,Germany,Bundesliga,Stopper
+700,Josko Silva,CB,Barcelona,Germany,La Liga,Stopper
+701,Manuel Magalhaes,CB,Athletic Club,South Korea,La Liga,Stopper
+702,Matthijs Dias,CB,Brighton,Argentina,Premier League,Stopper
+703,Gabriel Bremer,CB,Dortmund,Portugal,Bundesliga,Stopper
+704,Ibrahima Bastoni,CB,Tottenham,Portugal,Premier League,Stopper
+705,Ruben Van Dijk,CB,Frankfurt,Croatia,Bundesliga,Ball Playing Defender
+706,Lisandro Araujo,CB,Chelsea,Portugal,Premier League,Ball Playing Defender
+707,Manuel Botman,CB,Liverpool,Netherlands,Premier League,Stopper
+708,Sergio Saliba,CB,Aston Villa,France,Premier League,Ball Playing Defender
+709,Gabriel Magalhaes,CB,Real Betis,Germany,La Liga,Stopper
+710,Ruben Silva,CB,AS Roma,Germany,Serie A,Ball Playing Defender
+711,Milan Romero,CB,Manchester United,Portugal,Premier League,Stopper
+712,Harry Botman,CB,Lyon,Switzerland,Ligue 1,Ball Playing Defender
+713,Jules Kounde,CB,Chelsea,Switzerland,Premier League,Stopper
+714,Matthijs Militao,CB,Lyon,Argentina,Ligue 1,Ball Playing Defender
+715,Josko Martinez,CB,Napoli,Uruguay,Serie A,Ball Playing Defender
+716,Ruben Gvardiol,CB,Bologna,Belgium,Serie A,Ball Playing Defender
+717,Pau Akanji,CB,Bayern Munich,Argentina,Bundesliga,Ball Playing Defender
+718,Josko Van Dijk,CB,RB Leipzig,Portugal,Bundesliga,Stopper
+719,Gabriel Rudiger,CB,Brighton,France,Premier League,Ball Playing Defender
+720,Sven Maguire,CB,Bologna,Spain,Serie A,Ball Playing Defender
+721,Cristian Silva,CB,Lille,Italy,Ligue 1,Stopper
+722,Virgil Van Dijk,CB,Valencia,Senegal,La Liga,Ball Playing Defender
+723,Eder Rudiger,CB,RB Leipzig,Germany,Bundesliga,Stopper
+724,Virgil Konate,CB,Bologna,Italy,Serie A,Stopper
+725,Ibrahima Van Dijk,CB,Monaco,France,Ligue 1,Ball Playing Defender
+726,Manuel Botman,CB,RB Leipzig,Uruguay,Bundesliga,Stopper
+727,Matthijs Bastoni,CB,PSG,Portugal,Ligue 1,Stopper
+728,Ronald Martinez,CB,Manchester City,England,Premier League,Ball Playing Defender
+729,Sergio Hummels,CB,Atletico Madrid,France,La Liga,Ball Playing Defender
+730,Ruben Saliba,CB,Liverpool,South Korea,Premier League,Ball Playing Defender
+731,Sergio Saliba,CB,Atalanta,Spain,Serie A,Stopper
+732,Milan Konate,CB,Stuttgart,South Korea,Bundesliga,Ball Playing Defender
+733,Mats Magalhaes,CB,Frankfurt,South Korea,Bundesliga,Ball Playing Defender
+734,Eder Silva,CB,Marseille,Uruguay,Ligue 1,Ball Playing Defender
+735,Eder Silva,CB,West Ham,Belgium,Premier League,Stopper
+736,Gabriel Romero,CB,Marseille,Argentina,Ligue 1,Ball Playing Defender
+737,Jules Araujo,CB,RB Leipzig,Spain,Bundesliga,Ball Playing Defender
+738,Milan Gvardiol,CB,Brighton,Uruguay,Premier League,Ball Playing Defender
+739,Sergio De Ligt,CB,AC Milan,Switzerland,Serie A,Stopper
+740,Sven Rudiger,CB,Frankfurt,Senegal,Bundesliga,Ball Playing Defender
+741,Mats Hummels,CB,Brest,Germany,Ligue 1,Stopper
+742,Alessandro Ramos,CB,Nice,Belgium,Ligue 1,Stopper
+743,Virgil Torres,CB,Chelsea,Netherlands,Premier League,Stopper
+744,Ruben Skriniar,CB,AC Milan,Argentina,Serie A,Ball Playing Defender
+745,Dayot De Ligt,CB,Nice,Brazil,Ligue 1,Ball Playing Defender
+746,Harry Konate,CB,Stuttgart,Senegal,Bundesliga,Stopper
+747,Cristian Martinez,CB,AC Milan,Portugal,Serie A,Ball Playing Defender
+748,Cristian Skriniar,CB,RB Leipzig,Argentina,Bundesliga,Ball Playing Defender
+749,Marquinhos Martinez,CB,Juventus,South Korea,Serie A,Ball Playing Defender
+750,Antonio Konate,CB,Valencia,Senegal,La Liga,Stopper
+751,Harry Ramos,CB,PSG,Netherlands,Ligue 1,Stopper
+752,Josko Saliba,CB,Monaco,Belgium,Ligue 1,Ball Playing Defender
+753,Ibrahima Maguire,CB,Bayer Leverkusen,Uruguay,Bundesliga,Ball Playing Defender
+754,Harry Bastoni,CB,PSG,Croatia,Ligue 1,Stopper
+755,Virgil Konate,CB,Barcelona,Italy,La Liga,Ball Playing Defender
+756,Eder Martinez,CB,AS Roma,Germany,Serie A,Stopper
+757,Jules Konate,CB,Juventus,Belgium,Serie A,Stopper
+758,Harry Akanji,CB,Real Betis,Brazil,La Liga,Stopper
+759,Antonio Dias,CB,Manchester United,Spain,Premier League,Stopper
+760,Jules Silva,CB,Bayer Leverkusen,Argentina,Bundesliga,Ball Playing Defender
+761,Gabriel De Ligt,CB,Monaco,Belgium,Ligue 1,Stopper
+762,Bremer Bremer,CB,Tottenham,Germany,Premier League,Ball Playing Defender
+763,Ibrahima Silva,CB,Marseille,Belgium,Ligue 1,Stopper
+764,Cristian Rudiger,CB,Lyon,England,Ligue 1,Stopper
+765,Sven Rudiger,CB,Frankfurt,Italy,Bundesliga,Ball Playing Defender
+766,Gabriel Bastoni,CB,Inter Milan,Uruguay,Serie A,Ball Playing Defender
+767,Antonio Maguire,CB,Marseille,Brazil,Ligue 1,Stopper
+768,Ruben Silva,CB,Inter Milan,South Korea,Serie A,Stopper
+769,Ibrahima Torres,CB,Frankfurt,Uruguay,Bundesliga,Ball Playing Defender
+770,Mats Araujo,CB,Juventus,England,Serie A,Ball Playing Defender
+771,Sven Upamecano,CB,Nice,France,Ligue 1,Stopper
+772,Sven Hummels,CB,Real Madrid,Croatia,La Liga,Stopper
+773,Jules Bastoni,CB,Napoli,Belgium,Serie A,Ball Playing Defender
+774,Eder Konate,CB,Brighton,Netherlands,Premier League,Ball Playing Defender
+775,Mats Bastoni,CB,Atletico Madrid,Brazil,La Liga,Ball Playing Defender
+776,Jules Gvardiol,CB,Real Betis,Spain,La Liga,Stopper
+777,Manuel Romero,CB,Brighton,South Korea,Premier League,Stopper
+778,Matthijs Akanji,CB,RB Leipzig,Uruguay,Bundesliga,Ball Playing Defender
+779,Eder Botman,CB,Athletic Club,Spain,La Liga,Stopper
+780,Harry Araujo,CB,Tottenham,Uruguay,Premier League,Stopper
+781,Kim Magalhaes,CB,Manchester United,Argentina,Premier League,Ball Playing Defender
+782,Sven Rudiger,CB,Brighton,Brazil,Premier League,Stopper
+783,Matthijs Magalhaes,CB,Real Madrid,Brazil,La Liga,Stopper
+784,Ruben Magalhaes,CB,Lille,Italy,Ligue 1,Stopper
+785,Bremer Konate,CB,Lille,England,Ligue 1,Stopper
+786,Harry Silva,CB,Lyon,Brazil,Ligue 1,Ball Playing Defender
+787,Marquinhos Militao,CB,Bayern Munich,Germany,Bundesliga,Stopper
+788,Ruben Maguire,CB,Brest,Uruguay,Ligue 1,Ball Playing Defender
+789,Antonio Saliba,CB,Tottenham,Uruguay,Premier League,Ball Playing Defender
+790,Manuel Botman,CB,Brest,South Korea,Ligue 1,Stopper
+791,Ibrahima Araujo,CB,Bologna,France,Serie A,Stopper
+792,Marquinhos Militao,CB,West Ham,Italy,Premier League,Stopper
+793,Josko Botman,CB,Bayern Munich,Netherlands,Bundesliga,Stopper
+794,Lisandro Martinez,CB,RB Leipzig,Spain,Bundesliga,Stopper
+795,Cristian De Ligt,CB,Bologna,France,Serie A,Stopper
+796,Eder Rudiger,CB,Newcastle,Brazil,Premier League,Ball Playing Defender
+797,Jules Araujo,CB,Juventus,Senegal,Serie A,Ball Playing Defender
+798,Antonio Araujo,CB,Brest,Uruguay,Ligue 1,Stopper
+799,Ibrahima Akanji,CB,Marseille,France,Ligue 1,Ball Playing Defender
+800,Lisandro Bremer,CB,Juventus,Switzerland,Serie A,Stopper
+801,Marquinhos Araujo,CB,Newcastle,Switzerland,Premier League,Ball Playing Defender
+802,Mats Bremer,CB,Napoli,Switzerland,Serie A,Ball Playing Defender
+803,Ibrahima De Ligt,CB,Marseille,Germany,Ligue 1,Ball Playing Defender
+804,Harry Rudiger,CB,Girona,Uruguay,La Liga,Stopper
+805,Mats De Ligt,CB,Nice,Argentina,Ligue 1,Stopper
+806,Ibrahima Ramos,CB,Atalanta,England,Serie A,Stopper
+807,Dayot Bastoni,CB,AS Roma,Croatia,Serie A,Ball Playing Defender
+808,Sven Min-jae,CB,Lazio,Argentina,Serie A,Stopper
+809,Sergio Saliba,CB,Athletic Club,Spain,La Liga,Stopper
+810,Josko Gvardiol,CB,Manchester United,South Korea,Premier League,Ball Playing Defender
+811,Ibrahima Gvardiol,CB,Marseille,Switzerland,Ligue 1,Ball Playing Defender
+812,Ronald Romero,CB,Aston Villa,Uruguay,Premier League,Ball Playing Defender
+813,Mats Skriniar,CB,Frankfurt,Spain,Bundesliga,Ball Playing Defender
+814,Bremer Min-jae,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+815,William Botman,CB,Bayer Leverkusen,Argentina,Bundesliga,Stopper
+816,Eder Gvardiol,CB,Barcelona,England,La Liga,Stopper
+817,Dayot Militao,CB,Aston Villa,Portugal,Premier League,Stopper
+818,Ronald Romero,CB,Atalanta,Germany,Serie A,Stopper
+819,Alessandro Skriniar,CB,AS Roma,Brazil,Serie A,Stopper
+820,Harry Gvardiol,CB,Frankfurt,South Korea,Bundesliga,Ball Playing Defender
+821,Eder Ramos,CB,Brest,Brazil,Ligue 1,Stopper
+822,Sergio Maguire,CB,Marseille,Germany,Ligue 1,Stopper
+823,Gabriel Konate,CB,Monaco,Belgium,Ligue 1,Stopper
+824,Bremer Ramos,CB,Bayern Munich,Argentina,Bundesliga,Ball Playing Defender
+825,William Martinez,CB,Valencia,Croatia,La Liga,Stopper
+826,Eder Akanji,CB,Atalanta,Brazil,Serie A,Stopper
+827,Dayot Kounde,CB,Atletico Madrid,Argentina,La Liga,Stopper
+828,Ruben Van Dijk,CB,PSG,France,Ligue 1,Stopper
+829,Josko Rudiger,CB,Valencia,England,La Liga,Ball Playing Defender
+830,Matthijs Araujo,CB,West Ham,Argentina,Premier League,Stopper
+831,Cristian Rudiger,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+832,Kim Saliba,CB,Stuttgart,France,Bundesliga,Ball Playing Defender
+833,Sergio Bremer,CB,Lyon,Germany,Ligue 1,Ball Playing Defender
+834,Harry De Ligt,CB,Athletic Club,England,La Liga,Ball Playing Defender
+835,Lisandro Magalhaes,CB,Nice,England,Ligue 1,Ball Playing Defender
+836,Harry Torres,CB,Chelsea,Uruguay,Premier League,Ball Playing Defender
+837,Pau Min-jae,CB,Real Madrid,Belgium,La Liga,Stopper
+838,Mats Bastoni,CB,Bayer Leverkusen,South Korea,Bundesliga,Ball Playing Defender
+839,Lisandro De Ligt,CB,Chelsea,Uruguay,Premier League,Ball Playing Defender
+840,Ibrahima Martinez,CB,Newcastle,Brazil,Premier League,Ball Playing Defender
+841,Eder Ramos,CB,Manchester United,Belgium,Premier League,Stopper
+842,Gabriel Hummels,CB,Newcastle,Spain,Premier League,Ball Playing Defender
+843,Sergio Martinez,CB,Dortmund,Italy,Bundesliga,Stopper
+844,Virgil Konate,CB,Real Betis,Switzerland,La Liga,Stopper
+845,Bremer Van Dijk,CB,West Ham,Switzerland,Premier League,Stopper
+846,Lisandro Maguire,CB,Bayern Munich,England,Bundesliga,Stopper
+847,Lisandro Araujo,CB,Barcelona,Senegal,La Liga,Stopper
+848,Cristian Martinez,CB,Brest,Portugal,Ligue 1,Ball Playing Defender
+849,Matthijs Martinez,CB,Tottenham,Netherlands,Premier League,Stopper
+850,Mats Bremer,CB,AC Milan,Uruguay,Serie A,Stopper
+851,Ruben Bremer,CB,Napoli,Croatia,Serie A,Ball Playing Defender
+852,Sven Gvardiol,CB,RB Leipzig,Spain,Bundesliga,Ball Playing Defender
+853,Mats Van Dijk,CB,Real Sociedad,Italy,La Liga,Stopper
+854,Sergio Skriniar,CB,West Ham,Switzerland,Premier League,Ball Playing Defender
+855,Ibrahima Upamecano,CB,Frankfurt,Senegal,Bundesliga,Stopper
+856,Matthijs Min-jae,CB,Lazio,Belgium,Serie A,Ball Playing Defender
+857,Alessandro Botman,CB,Brighton,Switzerland,Premier League,Ball Playing Defender
+858,Matthijs Bastoni,CB,Lyon,Argentina,Ligue 1,Stopper
+859,Eder Upamecano,CB,Newcastle,Germany,Premier League,Ball Playing Defender
+860,Manuel Upamecano,CB,Lille,France,Ligue 1,Ball Playing Defender
+861,Virgil Torres,CB,Nice,Germany,Ligue 1,Stopper
+862,Alessandro Ramos,CB,Frankfurt,Portugal,Bundesliga,Ball Playing Defender
+863,Sven Upamecano,CB,Real Madrid,South Korea,La Liga,Ball Playing Defender
+864,Ronald Akanji,CB,Lille,Croatia,Ligue 1,Stopper
+865,Milan Ramos,CB,Real Betis,Germany,La Liga,Ball Playing Defender
+866,Josko Botman,CB,Dortmund,Croatia,Bundesliga,Ball Playing Defender
+867,Ronald Ramos,CB,Nice,Italy,Ligue 1,Stopper
+868,Virgil Upamecano,CB,Lyon,Netherlands,Ligue 1,Stopper
+869,Ibrahima Upamecano,CB,Monaco,South Korea,Ligue 1,Stopper
+870,Bremer Min-jae,CB,Athletic Club,Germany,La Liga,Ball Playing Defender
+871,Kim Skriniar,CB,Manchester United,England,Premier League,Ball Playing Defender
+872,Manuel Maguire,CB,Bayern Munich,Brazil,Bundesliga,Ball Playing Defender
+873,Lisandro Magalhaes,CB,West Ham,South Korea,Premier League,Stopper
+874,Ruben Botman,CB,Nice,France,Ligue 1,Ball Playing Defender
+875,Lisandro Araujo,CB,Monaco,Italy,Ligue 1,Ball Playing Defender
+876,Mats Rudiger,CB,Newcastle,Netherlands,Premier League,Stopper
+877,Antonio Araujo,CB,Brighton,England,Premier League,Ball Playing Defender
+878,Manuel De Ligt,CB,Stuttgart,Italy,Bundesliga,Ball Playing Defender
+879,Eder Saliba,CB,Bayern Munich,South Korea,Bundesliga,Ball Playing Defender
+880,Virgil Maguire,CB,Stuttgart,Netherlands,Bundesliga,Stopper
+881,Matthijs Silva,CB,Marseille,France,Ligue 1,Stopper
+882,Ibrahima Magalhaes,CB,Atalanta,Italy,Serie A,Ball Playing Defender
+883,Ibrahima Dias,CB,Barcelona,Germany,La Liga,Ball Playing Defender
+884,Lisandro Militao,CB,Chelsea,Senegal,Premier League,Stopper
+885,Eder Torres,CB,PSG,Belgium,Ligue 1,Stopper
+886,Eder Konate,CB,West Ham,Spain,Premier League,Stopper
+887,Pau Ramos,CB,Manchester United,Belgium,Premier League,Stopper
+888,Cristian Torres,CB,Manchester United,England,Premier League,Stopper
+889,Kim Kounde,CB,Chelsea,Germany,Premier League,Ball Playing Defender
+890,Sergio Araujo,CB,Frankfurt,South Korea,Bundesliga,Ball Playing Defender
+891,Marquinhos Maguire,CB,West Ham,Netherlands,Premier League,Ball Playing Defender
+892,Marquinhos Torres,CB,Bayern Munich,Netherlands,Bundesliga,Ball Playing Defender
+893,Eder Magalhaes,CB,Bayer Leverkusen,Belgium,Bundesliga,Ball Playing Defender
+894,Josko Ramos,CB,Juventus,Brazil,Serie A,Ball Playing Defender
+895,Virgil Gvardiol,CB,Tottenham,France,Premier League,Ball Playing Defender
+896,Marquinhos Skriniar,CB,Nice,England,Ligue 1,Ball Playing Defender
+897,Milan De Ligt,CB,Real Sociedad,England,La Liga,Ball Playing Defender
+898,Ruben Magalhaes,CB,Aston Villa,Croatia,Premier League,Ball Playing Defender
+899,Antonio Ramos,CB,AC Milan,England,Serie A,Stopper
+900,Eder Akanji,CB,Frankfurt,Brazil,Bundesliga,Ball Playing Defender
+901,Marquinhos Konate,CB,Bayer Leverkusen,France,Bundesliga,Stopper
+902,Lisandro Saliba,CB,Real Betis,Senegal,La Liga,Ball Playing Defender
+903,Milan Akanji,CB,Newcastle,South Korea,Premier League,Stopper
+904,Matthijs Martinez,CB,Brighton,South Korea,Premier League,Stopper
+905,Harry Martinez,CB,Brighton,Brazil,Premier League,Stopper
+906,Marquinhos Magalhaes,CB,West Ham,Germany,Premier League,Ball Playing Defender
+907,Sven Magalhaes,CB,Frankfurt,Switzerland,Bundesliga,Ball Playing Defender
+908,Sven Saliba,CB,Athletic Club,Brazil,La Liga,Stopper
+909,Josko Dias,CB,Girona,Switzerland,La Liga,Stopper
+910,Harry Maguire,CB,Athletic Club,Switzerland,La Liga,Ball Playing Defender
+911,Milan Rudiger,CB,AC Milan,Switzerland,Serie A,Stopper
+912,Josko Ramos,CB,Manchester United,Uruguay,Premier League,Stopper
+913,Dayot Militao,CB,Aston Villa,Belgium,Premier League,Ball Playing Defender
+914,Matthijs Akanji,CB,Manchester City,Spain,Premier League,Stopper
+915,William Upamecano,CB,Stuttgart,Uruguay,Bundesliga,Stopper
+916,Milan Magalhaes,CB,Chelsea,Italy,Premier League,Stopper
+917,Eder Maguire,CB,Inter Milan,Italy,Serie A,Ball Playing Defender
+918,Ruben Upamecano,CB,Brighton,England,Premier League,Stopper
+919,Mats Bastoni,CB,Atletico Madrid,Germany,La Liga,Ball Playing Defender
+920,Bremer Saliba,CB,Brighton,France,Premier League,Stopper
+921,Kim Martinez,CB,Athletic Club,Belgium,La Liga,Stopper
+922,Bremer De Ligt,CB,Tottenham,Spain,Premier League,Stopper
+923,Josko De Ligt,CB,Monaco,Germany,Ligue 1,Stopper
+924,Ruben Dias,CB,Nice,Uruguay,Ligue 1,Ball Playing Defender
+925,Milan Hummels,CB,Arsenal,South Korea,Premier League,Stopper
+926,Sergio Saliba,CB,Brighton,Spain,Premier League,Stopper
+927,Jules Araujo,CB,Athletic Club,Spain,La Liga,Ball Playing Defender
+928,Sergio Skriniar,CB,Aston Villa,Uruguay,Premier League,Ball Playing Defender
+929,Kim Dias,CB,Inter Milan,Uruguay,Serie A,Ball Playing Defender
+930,Bremer Magalhaes,CB,Real Sociedad,Switzerland,La Liga,Stopper
+931,Ibrahima Botman,CB,Dortmund,Netherlands,Bundesliga,Stopper
+932,Josko Dias,CB,Brest,Germany,Ligue 1,Stopper
+933,William Ramos,CB,Brest,Croatia,Ligue 1,Stopper
+934,Harry Militao,CB,Real Sociedad,Brazil,La Liga,Stopper
+935,Lisandro Magalhaes,CB,RB Leipzig,Spain,Bundesliga,Stopper
+936,Dayot Magalhaes,CB,AS Roma,Belgium,Serie A,Stopper
+937,Cristian Kounde,CB,Stuttgart,Belgium,Bundesliga,Stopper
+938,Gabriel Araujo,CB,Monaco,Switzerland,Ligue 1,Stopper
+939,Bremer Hummels,CB,Inter Milan,France,Serie A,Ball Playing Defender
+940,Jules Botman,CB,Real Betis,France,La Liga,Ball Playing Defender
+941,Cristian Gvardiol,CB,Girona,Switzerland,La Liga,Ball Playing Defender
+942,Gabriel Maguire,CB,Nice,South Korea,Ligue 1,Ball Playing Defender
+943,Antonio Silva,CB,Frankfurt,Netherlands,Bundesliga,Ball Playing Defender
+944,Gabriel Militao,CB,RB Leipzig,France,Bundesliga,Stopper
+945,Dayot Gvardiol,CB,Tottenham,Germany,Premier League,Stopper
+946,Virgil Dias,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+947,Milan Bremer,CB,Athletic Club,Spain,La Liga,Stopper
+948,Milan Kounde,CB,Bayern Munich,Argentina,Bundesliga,Stopper
+949,Sven Saliba,CB,Lyon,Spain,Ligue 1,Ball Playing Defender
+950,Kim Van Dijk,CB,Girona,Croatia,La Liga,Ball Playing Defender
+951,Kim Botman,CB,AC Milan,Senegal,Serie A,Ball Playing Defender
+952,Sven Bremer,CB,Brighton,England,Premier League,Ball Playing Defender
+953,Ruben Upamecano,CB,Lille,Belgium,Ligue 1,Stopper
+954,Ibrahima Rudiger,CB,Stuttgart,Germany,Bundesliga,Ball Playing Defender
+955,Pau De Ligt,CB,Lazio,South Korea,Serie A,Ball Playing Defender
+956,Jules Silva,CB,Bologna,Portugal,Serie A,Stopper
+957,Virgil Bremer,CB,Lille,South Korea,Ligue 1,Stopper
+958,Matthijs De Ligt,CB,Juventus,Argentina,Serie A,Stopper
+959,Josko Militao,CB,Brest,Italy,Ligue 1,Stopper
+960,Antonio De Ligt,CB,PSG,Croatia,Ligue 1,Stopper
+961,Milan Bremer,CB,Lille,Belgium,Ligue 1,Stopper
+962,William Akanji,CB,Brest,Portugal,Ligue 1,Stopper
+963,Dayot Militao,CB,AS Roma,South Korea,Serie A,Stopper
+964,Marquinhos Akanji,CB,Dortmund,Argentina,Bundesliga,Stopper
+965,Bremer Magalhaes,CB,Atletico Madrid,Switzerland,La Liga,Stopper
+966,Dayot Upamecano,CB,AC Milan,Uruguay,Serie A,Ball Playing Defender
+967,Ruben Dias,CB,Athletic Club,Croatia,La Liga,Stopper
+968,Sergio Romero,CB,Atletico Madrid,France,La Liga,Ball Playing Defender
+969,Matthijs Romero,CB,Liverpool,France,Premier League,Stopper
+970,Antonio Van Dijk,CB,Real Betis,Italy,La Liga,Stopper
+971,Sergio Van Dijk,CB,Arsenal,Germany,Premier League,Ball Playing Defender
+972,Ruben Magalhaes,CB,RB Leipzig,England,Bundesliga,Ball Playing Defender
+973,Harry Gvardiol,CB,Bayern Munich,Belgium,Bundesliga,Ball Playing Defender
+974,Gabriel Konate,CB,Atalanta,South Korea,Serie A,Stopper
+975,Cristian Romero,CB,AC Milan,Uruguay,Serie A,Stopper
+976,Pau Araujo,CB,Marseille,France,Ligue 1,Ball Playing Defender
+977,Pau Magalhaes,CB,PSG,Portugal,Ligue 1,Stopper
+978,Gabriel Bremer,CB,Bayer Leverkusen,South Korea,Bundesliga,Ball Playing Defender
+979,Bremer Magalhaes,CB,Brest,Argentina,Ligue 1,Stopper
+980,Kim Martinez,CB,West Ham,Spain,Premier League,Stopper
+981,Bremer Rudiger,CB,Lyon,England,Ligue 1,Ball Playing Defender
+982,Alessandro Skriniar,CB,Atletico Madrid,France,La Liga,Stopper
+983,Ruben Araujo,CB,Tottenham,Brazil,Premier League,Ball Playing Defender
+984,Sergio Kounde,CB,Inter Milan,Uruguay,Serie A,Ball Playing Defender
+985,Mats Bremer,CB,Lazio,England,Serie A,Ball Playing Defender
+986,Gabriel Akanji,CB,Dortmund,Brazil,Bundesliga,Ball Playing Defender
+987,Pau Upamecano,CB,Tottenham,South Korea,Premier League,Ball Playing Defender
+988,Marquinhos Gvardiol,CB,Chelsea,France,Premier League,Ball Playing Defender
+989,Gabriel Araujo,CB,Atletico Madrid,Italy,La Liga,Stopper
+990,Cristian Gvardiol,CB,AS Roma,France,Serie A,Stopper
+991,William Bastoni,CB,Aston Villa,Netherlands,Premier League,Stopper
+992,Alessandro De Ligt,CB,Marseille,Uruguay,Ligue 1,Ball Playing Defender
+993,Dayot Bremer,CB,PSG,Uruguay,Ligue 1,Ball Playing Defender
+994,William Min-jae,CB,Atalanta,Belgium,Serie A,Ball Playing Defender
+995,Sven Militao,CB,Barcelona,South Korea,La Liga,Ball Playing Defender
+996,Sergio Romero,CB,Lyon,Croatia,Ligue 1,Stopper
+997,Bremer Torres,CB,Atletico Madrid,Netherlands,La Liga,Ball Playing Defender
+998,Kim Torres,CB,Inter Milan,France,Serie A,Ball Playing Defender
+999,Antonio Bastoni,CB,Barcelona,Croatia,La Liga,Stopper
+1000,Sergio Van Dijk,CB,Atletico Madrid,Uruguay,La Liga,Stopper
+1001,Antonio Bastoni,CB,Valencia,Croatia,La Liga,Stopper
+1002,Josko Ramos,CB,Brighton,Croatia,Premier League,Stopper
+1003,Bremer Bremer,CB,Bayern Munich,Netherlands,Bundesliga,Ball Playing Defender
+1004,Eder Militao,CB,Real Betis,England,La Liga,Ball Playing Defender
+1005,Lisandro Martinez,CB,Dortmund,South Korea,Bundesliga,Ball Playing Defender
+1006,Bremer Bremer,CB,Atletico Madrid,Senegal,La Liga,Stopper
+1007,Marquinhos Van Dijk,CB,Lazio,Netherlands,Serie A,Stopper
+1008,Eder Romero,CB,Bayer Leverkusen,Croatia,Bundesliga,Ball Playing Defender
+1009,Dayot Min-jae,CB,Inter Milan,France,Serie A,Ball Playing Defender
+1010,Antonio Ramos,CB,Real Betis,South Korea,La Liga,Ball Playing Defender
+1011,Ruben Saliba,CB,Real Betis,Switzerland,La Liga,Ball Playing Defender
+1012,Milan Gvardiol,CB,Monaco,England,Ligue 1,Ball Playing Defender
+1013,Kim Magalhaes,CB,Stuttgart,Senegal,Bundesliga,Ball Playing Defender
+1014,Alessandro Bastoni,CB,Arsenal,Italy,Premier League,Ball Playing Defender
+1015,Manuel Saliba,CB,Chelsea,Brazil,Premier League,Stopper
+1016,Gabriel Silva,CB,Brest,Belgium,Ligue 1,Ball Playing Defender
+1017,Marquinhos Skriniar,CB,Lazio,Netherlands,Serie A,Stopper
+1018,Bremer Maguire,CB,Manchester City,Germany,Premier League,Ball Playing Defender
+1019,Sergio Magalhaes,CB,Atletico Madrid,France,La Liga,Stopper
+1020,William De Ligt,CB,Dortmund,Netherlands,Bundesliga,Stopper
+1021,Ruben Martinez,CB,PSG,South Korea,Ligue 1,Ball Playing Defender
+1022,Kim Dias,CB,Lille,Spain,Ligue 1,Stopper
+1023,Jules Upamecano,CB,Tottenham,Croatia,Premier League,Ball Playing Defender
+1024,Dayot Bremer,CB,AC Milan,Italy,Serie A,Ball Playing Defender
+1025,Sven Gvardiol,CB,Bologna,Portugal,Serie A,Ball Playing Defender
+1026,Manuel Silva,CB,Aston Villa,Switzerland,Premier League,Stopper
+1027,Gabriel Gvardiol,CB,Brest,Argentina,Ligue 1,Ball Playing Defender
+1028,Dayot Konate,CB,Atletico Madrid,Switzerland,La Liga,Stopper
+1029,Jules Bastoni,CB,AS Roma,Senegal,Serie A,Ball Playing Defender
+1030,Alessandro Militao,CB,Inter Milan,England,Serie A,Ball Playing Defender
+1031,Sven Min-jae,CB,Lille,France,Ligue 1,Stopper
+1032,Milan Van Dijk,CB,Lille,Uruguay,Ligue 1,Ball Playing Defender
+1033,Bremer Ramos,CB,Girona,Switzerland,La Liga,Stopper
+1034,Gabriel Akanji,CB,Valencia,Italy,La Liga,Stopper
+1035,Alessandro Hummels,CB,Tottenham,Germany,Premier League,Ball Playing Defender
+1036,Ronald Bastoni,CB,Atalanta,Croatia,Serie A,Stopper
+1037,Cristian Gvardiol,CB,Valencia,Germany,La Liga,Stopper
+1038,Josko Martinez,CB,Brest,Portugal,Ligue 1,Stopper
+1039,Alessandro Skriniar,CB,Athletic Club,Belgium,La Liga,Ball Playing Defender
+1040,Lisandro Bastoni,CB,Frankfurt,Germany,Bundesliga,Ball Playing Defender
+1041,Dayot Bremer,CB,Bologna,Netherlands,Serie A,Stopper
+1042,Harry Akanji,CB,RB Leipzig,Italy,Bundesliga,Stopper
+1043,Alessandro Militao,CB,Girona,South Korea,La Liga,Ball Playing Defender
+1044,Lisandro Militao,CB,Stuttgart,France,Bundesliga,Ball Playing Defender
+1045,Cristian Saliba,CB,Lille,Portugal,Ligue 1,Stopper
+1046,Bremer Silva,CB,Monaco,Belgium,Ligue 1,Stopper
+1047,Manuel Maguire,CB,PSG,Brazil,Ligue 1,Ball Playing Defender
+1048,Gabriel Botman,CB,Stuttgart,England,Bundesliga,Ball Playing Defender
+1049,Harry Torres,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+1050,Jules Akanji,CB,Lyon,Croatia,Ligue 1,Ball Playing Defender
+1051,William Torres,CB,Stuttgart,Portugal,Bundesliga,Stopper
+1052,Sven Martinez,CB,PSG,Italy,Ligue 1,Stopper
+1053,Sergio Min-jae,CB,Bologna,Senegal,Serie A,Ball Playing Defender
+1054,Cristian Martinez,CB,Marseille,Spain,Ligue 1,Ball Playing Defender
+1055,Bremer Torres,CB,Lazio,Uruguay,Serie A,Ball Playing Defender
+1056,William Konate,CB,Juventus,Brazil,Serie A,Stopper
+1057,Sven Martinez,CB,Girona,Brazil,La Liga,Stopper
+1058,Antonio Konate,CB,AC Milan,England,Serie A,Stopper
+1059,Cristian De Ligt,CB,Inter Milan,Senegal,Serie A,Stopper
+1060,William Upamecano,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+1061,Jules Rudiger,CB,Real Sociedad,Germany,La Liga,Stopper
+1062,Ruben Min-jae,CB,Frankfurt,Belgium,Bundesliga,Ball Playing Defender
+1063,Ronald Akanji,CB,Newcastle,Argentina,Premier League,Ball Playing Defender
+1064,Kim Saliba,CB,Atalanta,France,Serie A,Stopper
+1065,Sven Skriniar,CB,Tottenham,Italy,Premier League,Ball Playing Defender
+1066,Gabriel Bastoni,CB,Newcastle,Argentina,Premier League,Stopper
+1067,Milan Kounde,CB,Newcastle,Portugal,Premier League,Ball Playing Defender
+1068,Dayot Botman,CB,Lazio,Switzerland,Serie A,Ball Playing Defender
+1069,Marquinhos Bastoni,CB,Bayern Munich,Argentina,Bundesliga,Stopper
+1070,Ruben Militao,CB,Lille,Brazil,Ligue 1,Stopper
+1071,Manuel Bremer,CB,Real Sociedad,South Korea,La Liga,Ball Playing Defender
+1072,Josko Gvardiol,CB,Marseille,Spain,Ligue 1,Ball Playing Defender
+1073,Pau Romero,CB,Brest,Netherlands,Ligue 1,Ball Playing Defender
+1074,Bremer Akanji,CB,Dortmund,Belgium,Bundesliga,Ball Playing Defender
+1075,William Martinez,CB,Liverpool,Portugal,Premier League,Stopper
+1076,Mats De Ligt,CB,Real Madrid,Uruguay,La Liga,Stopper
+1077,Lisandro De Ligt,CB,Brest,Croatia,Ligue 1,Ball Playing Defender
+1078,Mats Van Dijk,CB,Lyon,South Korea,Ligue 1,Stopper
+1079,Dayot Silva,CB,Napoli,Senegal,Serie A,Ball Playing Defender
+1080,Sven Dias,CB,Stuttgart,Uruguay,Bundesliga,Ball Playing Defender
+1081,Ronald Romero,CB,Lazio,England,Serie A,Stopper
+1082,Bremer Rudiger,CB,Lazio,Argentina,Serie A,Ball Playing Defender
+1083,Lisandro Magalhaes,CB,Bayer Leverkusen,Netherlands,Bundesliga,Ball Playing Defender
+1084,Pau Silva,CB,Lille,Spain,Ligue 1,Ball Playing Defender
+1085,Cristian Militao,CB,Chelsea,Portugal,Premier League,Ball Playing Defender
+1086,Ruben Akanji,CB,Marseille,South Korea,Ligue 1,Stopper
+1087,Marquinhos Min-jae,CB,Nice,Uruguay,Ligue 1,Ball Playing Defender
+1088,Sven Konate,CB,Valencia,Uruguay,La Liga,Ball Playing Defender
+1089,Sven Araujo,CB,Frankfurt,Belgium,Bundesliga,Stopper
+1090,Dayot Van Dijk,CB,Marseille,Germany,Ligue 1,Ball Playing Defender
+1091,Bremer Bremer,CB,Juventus,England,Serie A,Stopper
+1092,Ronald Min-jae,CB,Atalanta,Brazil,Serie A,Stopper
+1093,Ruben Konate,CB,Valencia,Belgium,La Liga,Stopper
+1094,Gabriel Martinez,CB,Bayern Munich,Uruguay,Bundesliga,Stopper
+1095,Eder Skriniar,CB,Barcelona,Portugal,La Liga,Stopper
+1096,Kim Akanji,CB,Juventus,Netherlands,Serie A,Ball Playing Defender
+1097,Alessandro Skriniar,CB,Monaco,South Korea,Ligue 1,Stopper
+1098,Pau Upamecano,CB,Tottenham,South Korea,Premier League,Stopper
+1099,Sergio Martinez,CB,Arsenal,Italy,Premier League,Stopper
+1100,Alessandro Magalhaes,CB,Real Betis,Netherlands,La Liga,Stopper
+1101,Cristian Magalhaes,CB,Juventus,South Korea,Serie A,Stopper
+1102,Jules Bremer,CB,Liverpool,England,Premier League,Ball Playing Defender
+1103,Harry Botman,CB,Manchester City,Brazil,Premier League,Stopper
+1104,Jules Bastoni,CB,Lyon,France,Ligue 1,Stopper
+1105,Harry Dias,CB,RB Leipzig,Netherlands,Bundesliga,Ball Playing Defender
+1106,Jules Van Dijk,CB,Manchester United,Spain,Premier League,Ball Playing Defender
+1107,Ronald Araujo,CB,RB Leipzig,Brazil,Bundesliga,Stopper
+1108,Ronald Botman,CB,Nice,Germany,Ligue 1,Ball Playing Defender
+1109,Manuel Upamecano,CB,Real Sociedad,Netherlands,La Liga,Stopper
+1110,Virgil Skriniar,CB,Nice,Germany,Ligue 1,Ball Playing Defender
+1111,Lisandro Upamecano,CB,Real Madrid,Switzerland,La Liga,Ball Playing Defender
+1112,Lisandro Silva,CB,Newcastle,Netherlands,Premier League,Stopper
+1113,Pau Silva,CB,RB Leipzig,Uruguay,Bundesliga,Ball Playing Defender
+1114,Virgil Maguire,CB,Real Sociedad,Argentina,La Liga,Ball Playing Defender
+1115,Josko Botman,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+1116,Ronald Militao,CB,Dortmund,Senegal,Bundesliga,Stopper
+1117,Gabriel Romero,CB,Bayern Munich,Italy,Bundesliga,Stopper
+1118,Alessandro Maguire,CB,Chelsea,England,Premier League,Stopper
+1119,Ronald Rudiger,CB,Frankfurt,Italy,Bundesliga,Stopper
+1120,Dayot Botman,CB,Atalanta,Belgium,Serie A,Stopper
+1121,Matthijs Botman,CB,Barcelona,Italy,La Liga,Ball Playing Defender
+1122,Milan Bastoni,CB,PSG,Portugal,Ligue 1,Stopper
+1123,Pau Militao,CB,Bayer Leverkusen,Belgium,Bundesliga,Stopper
+1124,Ibrahima Bastoni,CB,Monaco,Senegal,Ligue 1,Ball Playing Defender
+1125,Pau Skriniar,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+1126,Ruben Bremer,CB,Lille,Spain,Ligue 1,Ball Playing Defender
+1127,Josko Magalhaes,CB,Juventus,South Korea,Serie A,Ball Playing Defender
+1128,Eder Skriniar,CB,Bayern Munich,Switzerland,Bundesliga,Stopper
+1129,Kim Ramos,CB,Monaco,France,Ligue 1,Ball Playing Defender
+1130,Josko Romero,CB,Barcelona,Belgium,La Liga,Ball Playing Defender
+1131,Ronald Bremer,CB,RB Leipzig,Uruguay,Bundesliga,Ball Playing Defender
+1132,Matthijs Hummels,CB,Valencia,Spain,La Liga,Ball Playing Defender
+1133,Ibrahima Konate,CB,AS Roma,Spain,Serie A,Stopper
+1134,Harry Saliba,CB,Atletico Madrid,Spain,La Liga,Stopper
+1135,Cristian Konate,CB,Arsenal,Brazil,Premier League,Stopper
+1136,Ruben Gvardiol,CB,Lazio,England,Serie A,Stopper
+1137,Dayot Van Dijk,CB,Stuttgart,Croatia,Bundesliga,Stopper
+1138,Josko Kounde,CB,PSG,Argentina,Ligue 1,Stopper
+1139,Bremer Van Dijk,CB,Real Sociedad,Croatia,La Liga,Ball Playing Defender
+1140,Harry Min-jae,CB,Bayern Munich,Croatia,Bundesliga,Ball Playing Defender
+1141,Sven Min-jae,CB,West Ham,Italy,Premier League,Stopper
+1142,Kim Upamecano,CB,Bayer Leverkusen,Uruguay,Bundesliga,Stopper
+1143,Eder Upamecano,CB,Liverpool,Spain,Premier League,Stopper
+1144,Lisandro Saliba,CB,Juventus,Croatia,Serie A,Ball Playing Defender
+1145,Ruben Araujo,CB,PSG,Netherlands,Ligue 1,Stopper
+1146,Pau Torres,CB,Valencia,Senegal,La Liga,Ball Playing Defender
+1147,Kim Ramos,CB,Atalanta,Portugal,Serie A,Ball Playing Defender
+1148,Milan Maguire,CB,Stuttgart,England,Bundesliga,Ball Playing Defender
+1149,Eder Hummels,CB,Valencia,Spain,La Liga,Stopper
+1150,Ibrahima Bremer,CB,Inter Milan,Netherlands,Serie A,Ball Playing Defender
+1151,Manuel Torres,CB,Lazio,Netherlands,Serie A,Stopper
+1152,Pau Konate,CB,Athletic Club,Uruguay,La Liga,Ball Playing Defender
+1153,Alessandro Torres,CB,Atletico Madrid,Portugal,La Liga,Stopper
+1154,Josko Saliba,CB,AS Roma,South Korea,Serie A,Ball Playing Defender
+1155,Harry Kounde,CB,Liverpool,England,Premier League,Stopper
+1156,Gabriel Botman,CB,Athletic Club,Spain,La Liga,Stopper
+1157,Harry Upamecano,CB,Newcastle,Switzerland,Premier League,Ball Playing Defender
+1158,Alessandro Dias,CB,Real Sociedad,Senegal,La Liga,Stopper
+1159,Ruben Akanji,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+1160,Eder Saliba,CB,Girona,Switzerland,La Liga,Stopper
+1161,Sven Maguire,CB,Chelsea,Italy,Premier League,Stopper
+1162,Mats Saliba,CB,Dortmund,South Korea,Bundesliga,Stopper
+1163,Josko Botman,CB,Monaco,Brazil,Ligue 1,Stopper
+1164,Kim Ramos,CB,Lyon,South Korea,Ligue 1,Ball Playing Defender
+1165,Eder Konate,CB,AC Milan,Switzerland,Serie A,Stopper
+1166,Gabriel Torres,CB,Lille,Argentina,Ligue 1,Ball Playing Defender
+1167,Alessandro De Ligt,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+1168,Antonio Min-jae,CB,Manchester United,Croatia,Premier League,Stopper
+1169,Gabriel Araujo,CB,Barcelona,Argentina,La Liga,Ball Playing Defender
+1170,Sven Bremer,CB,Bayer Leverkusen,Senegal,Bundesliga,Stopper
+1171,Josko Hummels,CB,Chelsea,Spain,Premier League,Ball Playing Defender
+1172,Mats Saliba,CB,Brest,Croatia,Ligue 1,Ball Playing Defender
+1173,Lisandro Maguire,CB,RB Leipzig,Argentina,Bundesliga,Stopper
+1174,Matthijs Bastoni,CB,Real Betis,Belgium,La Liga,Ball Playing Defender
+1175,Matthijs Romero,CB,Arsenal,Brazil,Premier League,Stopper
+1176,Lisandro Hummels,CB,Bayer Leverkusen,Senegal,Bundesliga,Stopper
+1177,Eder Ramos,CB,Dortmund,Belgium,Bundesliga,Ball Playing Defender
+1178,Sven Hummels,CB,Stuttgart,Switzerland,Bundesliga,Stopper
+1179,Mats Konate,CB,Bayer Leverkusen,Spain,Bundesliga,Ball Playing Defender
+1180,Ruben Magalhaes,CB,Napoli,Belgium,Serie A,Ball Playing Defender
+1181,Ronald Akanji,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+1182,Ibrahima Martinez,CB,PSG,Croatia,Ligue 1,Ball Playing Defender
+1183,Dayot Kounde,CB,Bayern Munich,Argentina,Bundesliga,Ball Playing Defender
+1184,Harry Konate,CB,RB Leipzig,Brazil,Bundesliga,Stopper
+1185,Ronald Militao,CB,Nice,Brazil,Ligue 1,Stopper
+1186,Ibrahima Min-jae,CB,Lazio,France,Serie A,Ball Playing Defender
+1187,Bremer Saliba,CB,Manchester City,Italy,Premier League,Ball Playing Defender
+1188,Gabriel Kounde,CB,Bologna,England,Serie A,Stopper
+1189,Cristian Hummels,CB,Atalanta,Portugal,Serie A,Ball Playing Defender
+1190,Lisandro Rudiger,CB,Barcelona,Switzerland,La Liga,Stopper
+1191,Kim Botman,CB,Brighton,France,Premier League,Stopper
+1192,Cristian Araujo,CB,AC Milan,England,Serie A,Ball Playing Defender
+1193,Jules Romero,CB,Lyon,Croatia,Ligue 1,Stopper
+1194,Manuel Torres,CB,Lyon,Italy,Ligue 1,Ball Playing Defender
+1195,Mats Dias,CB,Liverpool,Italy,Premier League,Stopper
+1196,Marquinhos Romero,CB,Monaco,Brazil,Ligue 1,Ball Playing Defender
+1197,Antonio Silva,CB,Aston Villa,France,Premier League,Ball Playing Defender
+1198,Sven Ramos,CB,Real Sociedad,England,La Liga,Stopper
+1199,Milan Militao,CB,Marseille,Germany,Ligue 1,Ball Playing Defender
+1200,William Araujo,CB,Chelsea,Italy,Premier League,Ball Playing Defender
+1201,Sergio Militao,CB,Real Betis,Netherlands,La Liga,Stopper
+1202,Cristian Silva,CB,Stuttgart,England,Bundesliga,Stopper
+1203,Milan Torres,CB,Arsenal,Argentina,Premier League,Stopper
+1204,William Militao,CB,AS Roma,Spain,Serie A,Stopper
+1205,Mats Maguire,CB,Lazio,Senegal,Serie A,Ball Playing Defender
+1206,Ronald Akanji,CB,Bayer Leverkusen,Italy,Bundesliga,Ball Playing Defender
+1207,Lisandro Silva,CB,Frankfurt,Germany,Bundesliga,Ball Playing Defender
+1208,Ruben Skriniar,CB,Dortmund,Brazil,Bundesliga,Ball Playing Defender
+1209,Ruben Bastoni,CB,Liverpool,France,Premier League,Stopper
+1210,William Maguire,CB,Real Madrid,Netherlands,La Liga,Ball Playing Defender
+1211,Sergio Martinez,CB,Lille,Brazil,Ligue 1,Ball Playing Defender
+1212,Ruben Torres,CB,Marseille,France,Ligue 1,Ball Playing Defender
+1213,Manuel Akanji,CB,Juventus,Spain,Serie A,Ball Playing Defender
+1214,Dayot Rudiger,CB,Nice,Belgium,Ligue 1,Ball Playing Defender
+1215,Gabriel Magalhaes,CB,Juventus,France,Serie A,Ball Playing Defender
+1216,William Saliba,CB,Bayer Leverkusen,Senegal,Bundesliga,Ball Playing Defender
+1217,Eder Skriniar,CB,Liverpool,Netherlands,Premier League,Stopper
+1218,Josko De Ligt,CB,Liverpool,Germany,Premier League,Stopper
+1219,Josko Araujo,CB,Real Sociedad,Italy,La Liga,Ball Playing Defender
+1220,Milan Silva,CB,Brighton,Uruguay,Premier League,Stopper
+1221,Mats Skriniar,CB,Lille,Senegal,Ligue 1,Stopper
+1222,Ibrahima Botman,CB,Stuttgart,Portugal,Bundesliga,Ball Playing Defender
+1223,Antonio Gvardiol,CB,Real Betis,Uruguay,La Liga,Stopper
+1224,Ibrahima Upamecano,CB,Bologna,England,Serie A,Ball Playing Defender
+1225,Ronald Magalhaes,CB,Inter Milan,Spain,Serie A,Stopper
+1226,Gabriel Rudiger,CB,Lyon,South Korea,Ligue 1,Ball Playing Defender
+1227,Milan Magalhaes,CB,Marseille,Belgium,Ligue 1,Stopper
+1228,Alessandro Silva,CB,Bayer Leverkusen,Switzerland,Bundesliga,Ball Playing Defender
+1229,Sven Rudiger,CB,AC Milan,Portugal,Serie A,Stopper
+1230,Lisandro Saliba,CB,Stuttgart,Portugal,Bundesliga,Stopper
+1231,Jules Min-jae,CB,Bayern Munich,Croatia,Bundesliga,Stopper
+1232,Mats Araujo,CB,AC Milan,France,Serie A,Ball Playing Defender
+1233,Mats Hummels,CB,Bologna,Senegal,Serie A,Ball Playing Defender
+1234,Milan Martinez,CB,Frankfurt,Uruguay,Bundesliga,Ball Playing Defender
+1235,Pau Kounde,CB,Manchester City,France,Premier League,Stopper
+1236,Mats Silva,CB,Brighton,Italy,Premier League,Ball Playing Defender
+1237,Milan Upamecano,CB,RB Leipzig,Switzerland,Bundesliga,Stopper
+1238,Lisandro Romero,CB,RB Leipzig,Senegal,Bundesliga,Ball Playing Defender
+1239,Sergio Ramos,CB,Real Sociedad,Uruguay,La Liga,Stopper
+1240,Ibrahima Bastoni,CB,AC Milan,Brazil,Serie A,Stopper
+1241,Lisandro Gvardiol,CB,RB Leipzig,Spain,Bundesliga,Ball Playing Defender
+1242,Kim Skriniar,CB,Frankfurt,Germany,Bundesliga,Stopper
+1243,Josko Militao,CB,PSG,Spain,Ligue 1,Stopper
+1244,Josko Torres,CB,Real Madrid,Switzerland,La Liga,Ball Playing Defender
+1245,Manuel Min-jae,CB,Bologna,Italy,Serie A,Ball Playing Defender
+1246,Manuel Ramos,CB,Real Madrid,Italy,La Liga,Ball Playing Defender
+1247,Sven Van Dijk,CB,Dortmund,Germany,Bundesliga,Stopper
+1248,Lisandro Konate,CB,Dortmund,Portugal,Bundesliga,Ball Playing Defender
+1249,Lisandro Rudiger,CB,Monaco,South Korea,Ligue 1,Ball Playing Defender
+1250,Lisandro Skriniar,CB,AC Milan,Belgium,Serie A,Ball Playing Defender
+1251,Matthijs Maguire,CB,Tottenham,Senegal,Premier League,Stopper
+1252,Alessandro Maguire,CB,Stuttgart,Argentina,Bundesliga,Stopper
+1253,Eder Upamecano,CB,Juventus,Portugal,Serie A,Stopper
+1254,Harry Rudiger,CB,Valencia,Croatia,La Liga,Ball Playing Defender
+1255,Harry Skriniar,CB,Atletico Madrid,South Korea,La Liga,Stopper
+1256,William Van Dijk,CB,Brighton,Argentina,Premier League,Ball Playing Defender
+1257,Ruben Bastoni,CB,Brighton,Portugal,Premier League,Stopper
+1258,Sergio Martinez,CB,Lazio,Argentina,Serie A,Ball Playing Defender
+1259,William Skriniar,CB,Valencia,England,La Liga,Ball Playing Defender
+1260,Manuel Skriniar,CB,Juventus,Switzerland,Serie A,Stopper
+1261,Milan Romero,CB,Juventus,Uruguay,Serie A,Ball Playing Defender
+1262,Sergio Maguire,CB,Real Sociedad,Spain,La Liga,Ball Playing Defender
+1263,William Upamecano,CB,Tottenham,Belgium,Premier League,Stopper
+1264,Sven Rudiger,CB,Liverpool,South Korea,Premier League,Stopper
+1265,Jules Bastoni,CB,Real Sociedad,Croatia,La Liga,Stopper
+1266,Marquinhos Min-jae,CB,Napoli,Uruguay,Serie A,Stopper
+1267,Milan De Ligt,CB,Newcastle,Uruguay,Premier League,Ball Playing Defender
+1268,Milan Magalhaes,CB,Inter Milan,Switzerland,Serie A,Ball Playing Defender
+1269,Sergio Rudiger,CB,Chelsea,Argentina,Premier League,Ball Playing Defender
+1270,Sergio Militao,CB,Bayern Munich,Senegal,Bundesliga,Ball Playing Defender
+1271,Alessandro Hummels,CB,Lazio,Argentina,Serie A,Stopper
+1272,Virgil Saliba,CB,Manchester United,Netherlands,Premier League,Stopper
+1273,Marquinhos Maguire,CB,Manchester United,Belgium,Premier League,Ball Playing Defender
+1274,Antonio Torres,CB,Brest,South Korea,Ligue 1,Stopper
+1275,Sergio Van Dijk,CB,Lyon,Uruguay,Ligue 1,Ball Playing Defender
+1276,Sven Min-jae,CB,Brest,Switzerland,Ligue 1,Ball Playing Defender
+1277,Gabriel Van Dijk,CB,Tottenham,Brazil,Premier League,Ball Playing Defender
+1278,Jules Maguire,CB,AC Milan,Brazil,Serie A,Ball Playing Defender
+1279,Alessandro Van Dijk,CB,Frankfurt,Argentina,Bundesliga,Ball Playing Defender
+1280,Bremer De Ligt,CB,Marseille,Netherlands,Ligue 1,Ball Playing Defender
+1281,Eder Araujo,CB,Real Betis,Belgium,La Liga,Stopper
+1282,Gabriel Maguire,CB,PSG,Portugal,Ligue 1,Stopper
+1283,Bremer Akanji,CB,Liverpool,Brazil,Premier League,Ball Playing Defender
+1284,Sergio Akanji,CB,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Defender
+1285,Josko Upamecano,CB,Marseille,Uruguay,Ligue 1,Ball Playing Defender
+1286,Ibrahima Magalhaes,CB,West Ham,Belgium,Premier League,Stopper
+1287,Antonio Upamecano,CB,West Ham,Switzerland,Premier League,Stopper
+1288,Josko De Ligt,CB,Nice,Germany,Ligue 1,Ball Playing Defender
+1289,Harry Skriniar,CB,Stuttgart,Netherlands,Bundesliga,Ball Playing Defender
+1290,Pau Militao,CB,West Ham,Germany,Premier League,Stopper
+1291,Matthijs Martinez,CB,Marseille,Germany,Ligue 1,Stopper
+1292,Ruben Gvardiol,CB,Atletico Madrid,Croatia,La Liga,Ball Playing Defender
+1293,Josko Magalhaes,CB,Real Betis,Italy,La Liga,Stopper
+1294,Manuel Kounde,CB,Lazio,Senegal,Serie A,Ball Playing Defender
+1295,Milan Rudiger,CB,Manchester United,South Korea,Premier League,Ball Playing Defender
+1296,Eder Min-jae,CB,Manchester City,Germany,Premier League,Ball Playing Defender
+1297,Dayot Romero,CB,Real Sociedad,Uruguay,La Liga,Stopper
+1298,Antonio Militao,CB,Napoli,Argentina,Serie A,Ball Playing Defender
+1299,William Upamecano,CB,Real Madrid,Italy,La Liga,Ball Playing Defender
+1300,Mats Romero,CB,Newcastle,Germany,Premier League,Stopper
+1301,Virgil Botman,CB,Girona,Italy,La Liga,Ball Playing Defender
+1302,Lisandro Silva,CB,Stuttgart,England,Bundesliga,Ball Playing Defender
+1303,Eder Militao,CB,Juventus,Germany,Serie A,Ball Playing Defender
+1304,Dayot Romero,CB,AC Milan,Brazil,Serie A,Ball Playing Defender
+1305,Gabriel Romero,CB,RB Leipzig,Brazil,Bundesliga,Stopper
+1306,Virgil Dias,CB,Girona,Netherlands,La Liga,Ball Playing Defender
+1307,Eder Botman,CB,Frankfurt,Netherlands,Bundesliga,Ball Playing Defender
+1308,Mats Silva,CB,Lille,Belgium,Ligue 1,Stopper
+1309,Manuel Martinez,CB,PSG,Netherlands,Ligue 1,Ball Playing Defender
+1310,Gabriel Min-jae,CB,PSG,Argentina,Ligue 1,Ball Playing Defender
+1311,Manuel Ramos,CB,RB Leipzig,Senegal,Bundesliga,Ball Playing Defender
+1312,Lisandro Van Dijk,CB,Juventus,Senegal,Serie A,Stopper
+1313,Mats Saliba,CB,Bayern Munich,Portugal,Bundesliga,Ball Playing Defender
+1314,Mats Araujo,CB,Brest,Senegal,Ligue 1,Ball Playing Defender
+1315,Virgil Martinez,CB,Bayer Leverkusen,Germany,Bundesliga,Ball Playing Defender
+1316,Matthijs Militao,CB,AC Milan,Brazil,Serie A,Ball Playing Defender
+1317,Gabriel Militao,CB,Manchester City,Netherlands,Premier League,Ball Playing Defender
+1318,Virgil Dias,CB,Manchester City,Portugal,Premier League,Stopper
+1319,Matthijs Dias,CB,Girona,Spain,La Liga,Stopper
+1320,Ronald Araujo,CB,Chelsea,Argentina,Premier League,Stopper
+1321,Dayot De Ligt,CB,Bayern Munich,Spain,Bundesliga,Ball Playing Defender
+1322,Sven Hummels,CB,Lazio,Netherlands,Serie A,Ball Playing Defender
+1323,Josko Martinez,CB,Manchester United,England,Premier League,Stopper
+1324,Ronald Konate,CB,Athletic Club,France,La Liga,Ball Playing Defender
+1325,William Kounde,CB,Real Madrid,Croatia,La Liga,Ball Playing Defender
+1326,Ruben Bastoni,CB,Bologna,Netherlands,Serie A,Stopper
+1327,Lisandro Magalhaes,CB,West Ham,Argentina,Premier League,Stopper
+1328,Bremer Bastoni,CB,Tottenham,France,Premier League,Ball Playing Defender
+1329,Pau Van Dijk,CB,Girona,Belgium,La Liga,Ball Playing Defender
+1330,Ronald Akanji,CB,Real Madrid,Belgium,La Liga,Ball Playing Defender
+1331,Manuel Min-jae,CB,Dortmund,Portugal,Bundesliga,Stopper
+1332,Harry Upamecano,CB,Real Betis,Belgium,La Liga,Stopper
+1333,Ibrahima Gvardiol,CB,Chelsea,Italy,Premier League,Stopper
+1334,Ruben Torres,CB,Newcastle,Belgium,Premier League,Stopper
+1335,Sergio Botman,CB,Athletic Club,Portugal,La Liga,Ball Playing Defender
+1336,Antonio Dias,CB,RB Leipzig,Italy,Bundesliga,Stopper
+1337,Matthijs Saliba,CB,Brest,South Korea,Ligue 1,Ball Playing Defender
+1338,Jules Konate,CB,RB Leipzig,Senegal,Bundesliga,Stopper
+1339,Cristian Militao,CB,Liverpool,England,Premier League,Stopper
+1340,Manuel Botman,CB,Lyon,Portugal,Ligue 1,Ball Playing Defender
+1341,Sergio Min-jae,CB,Tottenham,Netherlands,Premier League,Stopper
+1342,Mats Konate,CB,Frankfurt,Argentina,Bundesliga,Stopper
+1343,Pau Martinez,CB,Girona,France,La Liga,Ball Playing Defender
+1344,Jules Torres,CB,Real Betis,Brazil,La Liga,Ball Playing Defender
+1345,William Martinez,CB,Brighton,Italy,Premier League,Ball Playing Defender
+1346,Josko Maguire,CB,Manchester United,Italy,Premier League,Stopper
+1347,Cristian Romero,CB,Bologna,Portugal,Serie A,Stopper
+1348,Sergio Botman,CB,Atalanta,Spain,Serie A,Stopper
+1349,Dayot Hummels,CB,Lazio,England,Serie A,Ball Playing Defender
+1350,Virgil Saliba,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+1351,Gabriel Saliba,CB,Chelsea,Netherlands,Premier League,Stopper
+1352,Lisandro Akanji,CB,AS Roma,Brazil,Serie A,Stopper
+1353,Matthijs Bremer,CB,AC Milan,Belgium,Serie A,Stopper
+1354,Eder Upamecano,CB,Atletico Madrid,South Korea,La Liga,Stopper
+1355,Cristian Skriniar,CB,RB Leipzig,France,Bundesliga,Stopper
+1356,Ruben Konate,CB,Lazio,Belgium,Serie A,Ball Playing Defender
+1357,Ruben Ramos,CB,Real Madrid,Brazil,La Liga,Stopper
+1358,Lisandro Kounde,CB,Inter Milan,Belgium,Serie A,Ball Playing Defender
+1359,Bremer Hummels,CB,AS Roma,Portugal,Serie A,Ball Playing Defender
+1360,Kim Hummels,CB,Juventus,Uruguay,Serie A,Stopper
+1361,Virgil Konate,CB,Real Betis,Brazil,La Liga,Stopper
+1362,Lisandro Bremer,CB,RB Leipzig,Croatia,Bundesliga,Stopper
+1363,Jules Gvardiol,CB,Real Madrid,Switzerland,La Liga,Ball Playing Defender
+1364,Alessandro Skriniar,CB,AS Roma,Italy,Serie A,Ball Playing Defender
+1365,Gabriel Martinez,CB,Marseille,England,Ligue 1,Ball Playing Defender
+1366,Ronald Van Dijk,CB,Brest,England,Ligue 1,Stopper
+1367,Dayot Torres,CB,Real Betis,Croatia,La Liga,Stopper
+1368,Ibrahima Van Dijk,CB,RB Leipzig,Switzerland,Bundesliga,Stopper
+1369,Marquinhos Akanji,CB,Lyon,Italy,Ligue 1,Stopper
+1370,Gabriel Akanji,CB,Frankfurt,Netherlands,Bundesliga,Stopper
+1371,Josko Konate,CB,Atalanta,Argentina,Serie A,Stopper
+1372,Matthijs Saliba,CB,Bayer Leverkusen,Netherlands,Bundesliga,Ball Playing Defender
+1373,Josko Romero,CB,PSG,Switzerland,Ligue 1,Ball Playing Defender
+1374,Bremer Torres,CB,Lazio,Brazil,Serie A,Ball Playing Defender
+1375,Sven Gvardiol,CB,Stuttgart,Germany,Bundesliga,Stopper
+1376,Alessandro Hummels,CB,Nice,England,Ligue 1,Ball Playing Defender
+1377,Dayot Bastoni,CB,AS Roma,Netherlands,Serie A,Stopper
+1378,Jules Silva,CB,Inter Milan,Uruguay,Serie A,Ball Playing Defender
+1379,Kim Gvardiol,CB,Atalanta,Croatia,Serie A,Stopper
+1380,Mats Maguire,CB,Atletico Madrid,Portugal,La Liga,Stopper
+1381,Ruben Min-jae,CB,Inter Milan,Argentina,Serie A,Ball Playing Defender
+1382,Milan Konate,CB,Athletic Club,France,La Liga,Ball Playing Defender
+1383,Marquinhos Ramos,CB,Napoli,Belgium,Serie A,Stopper
+1384,Gabriel Militao,CB,Atletico Madrid,Belgium,La Liga,Ball Playing Defender
+1385,Sven Maguire,CB,RB Leipzig,Belgium,Bundesliga,Stopper
+1386,Sven Ramos,CB,Monaco,Netherlands,Ligue 1,Ball Playing Defender
+1387,Sergio Kounde,CB,Real Madrid,Argentina,La Liga,Ball Playing Defender
+1388,Dayot Silva,CB,Atalanta,Netherlands,Serie A,Stopper
+1389,William Torres,CB,Monaco,Argentina,Ligue 1,Ball Playing Defender
+1390,Sergio Silva,CB,AS Roma,Germany,Serie A,Stopper
+1391,Harry Van Dijk,CB,Tottenham,South Korea,Premier League,Stopper
+1392,Marquinhos Gvardiol,CB,Bologna,Uruguay,Serie A,Ball Playing Defender
+1393,Milan Militao,CB,Lille,Uruguay,Ligue 1,Ball Playing Defender
+1394,Milan Van Dijk,CB,Real Sociedad,Argentina,La Liga,Stopper
+1395,Cristian De Ligt,CB,Inter Milan,Germany,Serie A,Stopper
+1396,Ibrahima Van Dijk,CB,Bologna,Brazil,Serie A,Stopper
+1397,Harry Torres,CB,Liverpool,Brazil,Premier League,Stopper
+1398,Pau Gvardiol,CB,PSG,Italy,Ligue 1,Ball Playing Defender
+1399,Ruben Saliba,CB,Juventus,South Korea,Serie A,Stopper
+1400,Virgil Romero,CB,Dortmund,Belgium,Bundesliga,Ball Playing Defender
+1401,Sven Ramos,CB,RB Leipzig,Brazil,Bundesliga,Ball Playing Defender
+1402,Harry Van Dijk,CB,RB Leipzig,Spain,Bundesliga,Stopper
+1403,Pau Hummels,CB,Dortmund,Netherlands,Bundesliga,Ball Playing Defender
+1404,William Akanji,CB,Tottenham,South Korea,Premier League,Ball Playing Defender
+1405,Matthijs Bremer,CB,Dortmund,South Korea,Bundesliga,Stopper
+1406,Milan De Ligt,CB,Real Sociedad,South Korea,La Liga,Stopper
+1407,Harry Saliba,CB,Real Madrid,Germany,La Liga,Ball Playing Defender
+1408,Virgil Martinez,CB,Tottenham,Uruguay,Premier League,Ball Playing Defender
+1409,Virgil Magalhaes,CB,Stuttgart,Brazil,Bundesliga,Ball Playing Defender
+1410,Gabriel Silva,CB,Aston Villa,Spain,Premier League,Ball Playing Defender
+1411,Mats Botman,CB,Inter Milan,Portugal,Serie A,Stopper
+1412,Kim Ramos,CB,PSG,England,Ligue 1,Ball Playing Defender
+1413,Marquinhos Maguire,CB,Manchester United,Croatia,Premier League,Stopper
+1414,Marquinhos Ramos,CB,Stuttgart,Uruguay,Bundesliga,Ball Playing Defender
+1415,Virgil Magalhaes,CB,Marseille,Portugal,Ligue 1,Ball Playing Defender
+1416,Jules Romero,CB,Bologna,Germany,Serie A,Stopper
+1417,Pau Bastoni,CB,Dortmund,Argentina,Bundesliga,Stopper
+1418,Kim Upamecano,CB,Liverpool,Spain,Premier League,Stopper
+1419,Mats Gvardiol,CB,Bologna,Uruguay,Serie A,Ball Playing Defender
+1420,Josko Martinez,CB,Bayer Leverkusen,Spain,Bundesliga,Stopper
+1421,Harry Magalhaes,CB,Bayern Munich,Switzerland,Bundesliga,Stopper
+1422,Bremer Saliba,CB,Liverpool,South Korea,Premier League,Stopper
+1423,Dayot Akanji,CB,Chelsea,Senegal,Premier League,Stopper
+1424,Pau Bastoni,CB,Brighton,England,Premier League,Stopper
+1425,Matthijs Silva,CB,Atalanta,Brazil,Serie A,Stopper
+1426,Manuel Araujo,CB,Real Madrid,France,La Liga,Stopper
+1427,Milan Martinez,CB,Bayern Munich,Uruguay,Bundesliga,Stopper
+1428,Matthijs Skriniar,CB,Valencia,Switzerland,La Liga,Stopper
+1429,Sven Bastoni,CB,Atalanta,Switzerland,Serie A,Ball Playing Defender
+1430,Virgil Torres,CB,Nice,Spain,Ligue 1,Stopper
+1431,Alessandro Torres,CB,Stuttgart,Croatia,Bundesliga,Ball Playing Defender
+1432,Josko Gvardiol,CB,Newcastle,Belgium,Premier League,Ball Playing Defender
+1433,Harry Van Dijk,CB,Athletic Club,Senegal,La Liga,Ball Playing Defender
+1434,Gabriel Min-jae,CB,Real Madrid,Germany,La Liga,Ball Playing Defender
+1435,William Magalhaes,CB,Stuttgart,Brazil,Bundesliga,Ball Playing Defender
+1436,Sven Van Dijk,CB,Monaco,Argentina,Ligue 1,Stopper
+1437,Sergio De Ligt,CB,AS Roma,Argentina,Serie A,Ball Playing Defender
+1438,Alessandro Gvardiol,CB,Girona,Switzerland,La Liga,Stopper
+1439,Pau Skriniar,CB,Bayer Leverkusen,Croatia,Bundesliga,Stopper
+1440,Bremer Min-jae,CB,Real Betis,Portugal,La Liga,Stopper
+1441,William Silva,CB,Real Sociedad,Spain,La Liga,Ball Playing Defender
+1442,Ruben Akanji,CB,Liverpool,Italy,Premier League,Stopper
+1443,Manuel Saliba,CB,Arsenal,Croatia,Premier League,Stopper
+1444,Bremer Hummels,CB,Bayern Munich,Netherlands,Bundesliga,Ball Playing Defender
+1445,Mats De Ligt,CB,Lazio,Spain,Serie A,Stopper
+1446,Josko De Ligt,CB,Lille,Argentina,Ligue 1,Stopper
+1447,Cristian Skriniar,CB,Real Betis,France,La Liga,Stopper
+1448,Dayot Romero,CB,Lyon,Argentina,Ligue 1,Stopper
+1449,Harry Hummels,CB,Napoli,Argentina,Serie A,Ball Playing Defender
+1450,Harry Torres,CB,Valencia,South Korea,La Liga,Stopper
+1451,Josko Skriniar,CB,Newcastle,Switzerland,Premier League,Ball Playing Defender
+1452,Sergio Silva,CB,West Ham,England,Premier League,Stopper
+1453,Cristian Van Dijk,CB,Valencia,Brazil,La Liga,Ball Playing Defender
+1454,Lisandro Bremer,CB,Atletico Madrid,Croatia,La Liga,Stopper
+1455,Harry Dias,CB,Lazio,Portugal,Serie A,Stopper
+1456,Ronald Dias,CB,Stuttgart,Brazil,Bundesliga,Ball Playing Defender
+1457,William Bastoni,CB,Juventus,Belgium,Serie A,Ball Playing Defender
+1458,Bremer Bastoni,CB,Brighton,Belgium,Premier League,Ball Playing Defender
+1459,Dayot Konate,CB,Liverpool,Senegal,Premier League,Ball Playing Defender
+1460,Mats Rudiger,CB,Manchester United,Germany,Premier League,Stopper
+1461,Cristian Hummels,CB,Barcelona,Spain,La Liga,Ball Playing Defender
+1462,Harry Bastoni,CB,Napoli,Italy,Serie A,Ball Playing Defender
+1463,Cristian Kounde,CB,Marseille,Germany,Ligue 1,Ball Playing Defender
+1464,Dayot Militao,CB,Atalanta,France,Serie A,Stopper
+1465,Sergio Kounde,CB,Lille,Senegal,Ligue 1,Stopper
+1466,Gabriel Botman,CB,Monaco,Netherlands,Ligue 1,Stopper
+1467,Bremer Van Dijk,CB,RB Leipzig,Croatia,Bundesliga,Stopper
+1468,Pau Ramos,CB,Manchester United,France,Premier League,Stopper
+1469,William Upamecano,CB,Athletic Club,Croatia,La Liga,Stopper
+1470,William Upamecano,CB,Lille,Germany,Ligue 1,Ball Playing Defender
+1471,Sergio Min-jae,CB,Monaco,Switzerland,Ligue 1,Ball Playing Defender
+1472,Sergio Ramos,CB,Lazio,Senegal,Serie A,Stopper
+1473,Marquinhos Silva,CB,Manchester City,Portugal,Premier League,Stopper
+1474,Matthijs Bremer,CB,Marseille,Italy,Ligue 1,Ball Playing Defender
+1475,Virgil Araujo,CB,Nice,Spain,Ligue 1,Stopper
+1476,Josko Min-jae,CB,Nice,France,Ligue 1,Ball Playing Defender
+1477,Ronald Bastoni,CB,Inter Milan,South Korea,Serie A,Ball Playing Defender
+1478,Lisandro Min-jae,CB,Bayer Leverkusen,England,Bundesliga,Ball Playing Defender
+1479,Lisandro Martinez,CB,Brest,South Korea,Ligue 1,Stopper
+1480,Alessandro Martinez,CB,Tottenham,Brazil,Premier League,Stopper
+1481,Virgil Dias,CB,Arsenal,Portugal,Premier League,Stopper
+1482,Matthijs Saliba,CB,AC Milan,Argentina,Serie A,Ball Playing Defender
+1483,Ibrahima Magalhaes,CB,Inter Milan,Netherlands,Serie A,Stopper
+1484,Mats Van Dijk,CB,Real Sociedad,Italy,La Liga,Ball Playing Defender
+1485,Manuel Militao,CB,Juventus,England,Serie A,Stopper
+1486,Kim Romero,CB,Valencia,Spain,La Liga,Stopper
+1487,Bremer Silva,CB,Real Sociedad,Uruguay,La Liga,Ball Playing Defender
+1488,Ronald Botman,CB,Napoli,Netherlands,Serie A,Stopper
+1489,Josko Saliba,CB,Frankfurt,Spain,Bundesliga,Ball Playing Defender
+1490,Matthijs Gvardiol,CB,RB Leipzig,Senegal,Bundesliga,Stopper
+1491,Antonio Araujo,CB,Bayern Munich,France,Bundesliga,Stopper
+1492,Manuel Romero,CB,Brest,Belgium,Ligue 1,Stopper
+1493,Virgil Magalhaes,CB,Brighton,Brazil,Premier League,Ball Playing Defender
+1494,Ruben Militao,CB,Napoli,Uruguay,Serie A,Stopper
+1495,Lisandro Kounde,CB,Athletic Club,Argentina,La Liga,Ball Playing Defender
+1496,Cristian Konate,CB,Monaco,Portugal,Ligue 1,Stopper
+1497,Alessandro Rudiger,CB,Barcelona,Belgium,La Liga,Stopper
+1498,Ruben Magalhaes,CB,Brest,South Korea,Ligue 1,Stopper
+1499,Sergio Botman,CB,Athletic Club,Netherlands,La Liga,Stopper
+1500,Bremer Romero,CB,Marseille,England,Ligue 1,Ball Playing Defender

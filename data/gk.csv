@@ -1,0 +1,1001 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Leo Leroy,GK,Athletic Club,Argentina,La Liga,Penalty Specialist
+2,Matteo Williams,GK,Bayern Munich,Italy,Bundesliga,Sweeper Keeper
+3,Liam Sato,GK,Brest,Argentina,Ligue 1,Traditional Goalkeeper
+4,Noah Williams,GK,Newcastle,Netherlands,Premier League,Penalty Specialist
+5,Robert Martinez,GK,RB Leipzig,France,Bundesliga,Ball Playing Goalkeeper
+6,Hugo Williams,GK,Barcelona,Argentina,La Liga,Sweeper Keeper
+7,Diego Leroy,GK,Brighton,Spain,Premier League,Traditional Goalkeeper
+8,Michael Muller,GK,Lyon,Netherlands,Ligue 1,Penalty Specialist
+9,Gabriel Smith,GK,Bayer Leverkusen,South Korea,Bundesliga,Ball Playing Goalkeeper
+10,Diego Martinez,GK,Athletic Club,Italy,La Liga,Ball Playing Goalkeeper
+11,Liam Jones,GK,Frankfurt,Netherlands,Bundesliga,Penalty Specialist
+12,Gabriel Martinez,GK,Lazio,Italy,Serie A,Traditional Goalkeeper
+13,Ethan Johnson,GK,Lille,South Korea,Ligue 1,Sweeper Keeper
+14,Manuel Garcia,GK,Monaco,Spain,Ligue 1,Sweeper Keeper
+15,Robert Smith,GK,Lazio,South Korea,Serie A,Ball Playing Goalkeeper
+16,Alessandro Williams,GK,Manchester City,Argentina,Premier League,Penalty Specialist
+17,Arthur Smith,GK,Juventus,Japan,Serie A,Ball Playing Goalkeeper
+18,David Hernandez,GK,Girona,Germany,La Liga,Penalty Specialist
+19,Matteo Leroy,GK,Frankfurt,Brazil,Bundesliga,Ball Playing Goalkeeper
+20,James Garcia,GK,Athletic Club,Croatia,La Liga,Sweeper Keeper
+21,Diego Muller,GK,Stuttgart,Brazil,Bundesliga,Penalty Specialist
+22,Alessandro Muller,GK,Lyon,Senegal,Ligue 1,Sweeper Keeper
+23,Ethan Santos,GK,RB Leipzig,Portugal,Bundesliga,Sweeper Keeper
+24,Lucas Brown,GK,Chelsea,Japan,Premier League,Sweeper Keeper
+25,Lucas Schmidt,GK,Dortmund,USA,Bundesliga,Ball Playing Goalkeeper
+26,Michael Dubois,GK,Napoli,Japan,Serie A,Penalty Specialist
+27,Santi Ferrari,GK,Manchester United,Portugal,Premier League,Traditional Goalkeeper
+28,Michael Park,GK,Chelsea,France,Premier League,Sweeper Keeper
+29,Matteo Schmidt,GK,Marseille,Brazil,Ligue 1,Penalty Specialist
+30,Hugo Dubois,GK,Real Sociedad,Brazil,La Liga,Penalty Specialist
+31,Noah Martinez,GK,Atalanta,Belgium,Serie A,Ball Playing Goalkeeper
+32,Hugo Williams,GK,Napoli,Germany,Serie A,Sweeper Keeper
+33,David Silva,GK,Girona,Italy,La Liga,Traditional Goalkeeper
+34,Lucas Muller,GK,Stuttgart,USA,Bundesliga,Sweeper Keeper
+35,Matteo Jones,GK,Girona,Netherlands,La Liga,Ball Playing Goalkeeper
+36,Oliver Leroy,GK,PSG,Portugal,Ligue 1,Penalty Specialist
+37,Robert Leroy,GK,Lille,Belgium,Ligue 1,Penalty Specialist
+38,Diego Schmidt,GK,Brest,Portugal,Ligue 1,Traditional Goalkeeper
+39,Santi Leroy,GK,Lyon,Spain,Ligue 1,Penalty Specialist
+40,Leo Dubois,GK,Chelsea,Germany,Premier League,Penalty Specialist
+41,Liam Jones,GK,Bayer Leverkusen,Argentina,Bundesliga,Penalty Specialist
+42,Oliver Ferrari,GK,Valencia,Spain,La Liga,Penalty Specialist
+43,Hugo Muller,GK,Lille,Japan,Ligue 1,Sweeper Keeper
+44,David Williams,GK,Marseille,Brazil,Ligue 1,Penalty Specialist
+45,Leo Kim,GK,Stuttgart,France,Bundesliga,Penalty Specialist
+46,Santi Silva,GK,Valencia,Portugal,La Liga,Penalty Specialist
+47,Leo Leroy,GK,Real Madrid,Belgium,La Liga,Penalty Specialist
+48,Noah Garcia,GK,Manchester City,Japan,Premier League,Penalty Specialist
+49,William Park,GK,Marseille,USA,Ligue 1,Penalty Specialist
+50,Diego Leroy,GK,Bologna,Germany,Serie A,Ball Playing Goalkeeper
+51,David Smith,GK,Atalanta,England,Serie A,Penalty Specialist
+52,Noah Park,GK,Bayer Leverkusen,Senegal,Bundesliga,Penalty Specialist
+53,William Martinez,GK,Frankfurt,Brazil,Bundesliga,Sweeper Keeper
+54,Leo Brown,GK,Real Betis,Argentina,La Liga,Traditional Goalkeeper
+55,Jan Schmidt,GK,Brest,France,Ligue 1,Penalty Specialist
+56,Jan Johnson,GK,AC Milan,Argentina,Serie A,Sweeper Keeper
+57,Michael Leroy,GK,Aston Villa,Netherlands,Premier League,Sweeper Keeper
+58,Diego Silva,GK,Liverpool,France,Premier League,Ball Playing Goalkeeper
+59,William Dubois,GK,Brest,Japan,Ligue 1,Sweeper Keeper
+60,Robert Kim,GK,Dortmund,Japan,Bundesliga,Ball Playing Goalkeeper
+61,William Garcia,GK,Barcelona,Germany,La Liga,Traditional Goalkeeper
+62,Alessandro Dubois,GK,West Ham,England,Premier League,Penalty Specialist
+63,David Singh,GK,Juventus,Argentina,Serie A,Traditional Goalkeeper
+64,Michael Ferrari,GK,Athletic Club,Senegal,La Liga,Sweeper Keeper
+65,Matteo Ferrari,GK,Chelsea,France,Premier League,Ball Playing Goalkeeper
+66,Santi Sato,GK,Aston Villa,France,Premier League,Penalty Specialist
+67,Santi Park,GK,Lille,Italy,Ligue 1,Traditional Goalkeeper
+68,Manuel Silva,GK,Atalanta,Senegal,Serie A,Traditional Goalkeeper
+69,Liam Dubois,GK,Bayern Munich,Japan,Bundesliga,Penalty Specialist
+70,Gabriel Kim,GK,Frankfurt,Japan,Bundesliga,Penalty Specialist
+71,Lucas Martinez,GK,Marseille,South Korea,Ligue 1,Sweeper Keeper
+72,Santi Ferrari,GK,Nice,Belgium,Ligue 1,Traditional Goalkeeper
+73,Noah Leroy,GK,Bayer Leverkusen,Argentina,Bundesliga,Penalty Specialist
+74,James Kim,GK,Atletico Madrid,Argentina,La Liga,Traditional Goalkeeper
+75,Oliver Garcia,GK,Brighton,Spain,Premier League,Sweeper Keeper
+76,Lucas Silva,GK,Monaco,Netherlands,Ligue 1,Sweeper Keeper
+77,Lucas Williams,GK,Arsenal,Argentina,Premier League,Sweeper Keeper
+78,Manuel Ferrari,GK,Juventus,Spain,Serie A,Traditional Goalkeeper
+79,Lucas Dubois,GK,Tottenham,Brazil,Premier League,Sweeper Keeper
+80,James Johnson,GK,Dortmund,South Korea,Bundesliga,Penalty Specialist
+81,Gabriel Dubois,GK,Monaco,Japan,Ligue 1,Traditional Goalkeeper
+82,Ethan Leroy,GK,Inter Milan,France,Serie A,Sweeper Keeper
+83,Alessandro Leroy,GK,Valencia,Japan,La Liga,Penalty Specialist
+84,Jan Johnson,GK,Dortmund,Spain,Bundesliga,Sweeper Keeper
+85,Leo Sato,GK,PSG,Argentina,Ligue 1,Ball Playing Goalkeeper
+86,David Hernandez,GK,Tottenham,Italy,Premier League,Traditional Goalkeeper
+87,Robert Singh,GK,AS Roma,Spain,Serie A,Sweeper Keeper
+88,Alessandro Kim,GK,Marseille,France,Ligue 1,Traditional Goalkeeper
+89,Robert Jones,GK,Lyon,USA,Ligue 1,Ball Playing Goalkeeper
+90,David Jones,GK,Atalanta,Japan,Serie A,Sweeper Keeper
+91,Jan Singh,GK,Manchester United,Spain,Premier League,Traditional Goalkeeper
+92,Manuel Park,GK,Real Sociedad,Portugal,La Liga,Penalty Specialist
+93,James Muller,GK,Athletic Club,USA,La Liga,Sweeper Keeper
+94,Leo Kim,GK,Newcastle,Spain,Premier League,Penalty Specialist
+95,Hugo Kim,GK,Monaco,Germany,Ligue 1,Ball Playing Goalkeeper
+96,Santi Leroy,GK,Frankfurt,England,Bundesliga,Traditional Goalkeeper
+97,Manuel Kim,GK,Marseille,Senegal,Ligue 1,Traditional Goalkeeper
+98,Gabriel Sato,GK,AC Milan,Spain,Serie A,Traditional Goalkeeper
+99,David Johnson,GK,Athletic Club,Germany,La Liga,Sweeper Keeper
+100,Liam Singh,GK,Arsenal,Spain,Premier League,Penalty Specialist
+101,Jan Dubois,GK,Atalanta,South Korea,Serie A,Traditional Goalkeeper
+102,Ethan Garcia,GK,Manchester City,Portugal,Premier League,Penalty Specialist
+103,Alessandro Schmidt,GK,PSG,Senegal,Ligue 1,Traditional Goalkeeper
+104,James Brown,GK,Nice,Netherlands,Ligue 1,Traditional Goalkeeper
+105,Arthur Schmidt,GK,AC Milan,Argentina,Serie A,Ball Playing Goalkeeper
+106,Oliver Sato,GK,Marseille,South Korea,Ligue 1,Sweeper Keeper
+107,Michael Rossi,GK,Real Sociedad,Netherlands,La Liga,Sweeper Keeper
+108,Hugo Park,GK,Bayer Leverkusen,Croatia,Bundesliga,Sweeper Keeper
+109,David Kim,GK,RB Leipzig,South Korea,Bundesliga,Ball Playing Goalkeeper
+110,Santi Kim,GK,Barcelona,Senegal,La Liga,Sweeper Keeper
+111,Santi Silva,GK,Dortmund,Spain,Bundesliga,Sweeper Keeper
+112,Santi Muller,GK,Lazio,South Korea,Serie A,Penalty Specialist
+113,William Martinez,GK,Nice,Italy,Ligue 1,Penalty Specialist
+114,William Ferrari,GK,Marseille,Italy,Ligue 1,Sweeper Keeper
+115,Diego Rossi,GK,Atalanta,Germany,Serie A,Penalty Specialist
+116,Lucas Santos,GK,Frankfurt,Japan,Bundesliga,Sweeper Keeper
+117,Leo Rossi,GK,Newcastle,Germany,Premier League,Sweeper Keeper
+118,Jan Park,GK,Atalanta,USA,Serie A,Ball Playing Goalkeeper
+119,Leo Smith,GK,AS Roma,Portugal,Serie A,Traditional Goalkeeper
+120,Oliver Sato,GK,Tottenham,Brazil,Premier League,Traditional Goalkeeper
+121,Hugo Silva,GK,Napoli,Croatia,Serie A,Sweeper Keeper
+122,Liam Sato,GK,Tottenham,England,Premier League,Penalty Specialist
+123,Oliver Leroy,GK,Marseille,Netherlands,Ligue 1,Traditional Goalkeeper
+124,Arthur Silva,GK,PSG,Croatia,Ligue 1,Traditional Goalkeeper
+125,Ethan Martinez,GK,Inter Milan,Japan,Serie A,Ball Playing Goalkeeper
+126,Matteo Rossi,GK,Marseille,USA,Ligue 1,Sweeper Keeper
+127,Jan Martinez,GK,Brighton,Senegal,Premier League,Ball Playing Goalkeeper
+128,Robert Smith,GK,AC Milan,Spain,Serie A,Traditional Goalkeeper
+129,Alessandro Hernandez,GK,Dortmund,Japan,Bundesliga,Traditional Goalkeeper
+130,Jan Hernandez,GK,Nice,Germany,Ligue 1,Sweeper Keeper
+131,Santi Dubois,GK,Dortmund,England,Bundesliga,Traditional Goalkeeper
+132,Hugo Jones,GK,Lille,Brazil,Ligue 1,Sweeper Keeper
+133,Jan Hernandez,GK,Newcastle,Argentina,Premier League,Penalty Specialist
+134,Gabriel Sato,GK,Real Madrid,Belgium,La Liga,Traditional Goalkeeper
+135,Leo Muller,GK,Nice,Japan,Ligue 1,Penalty Specialist
+136,Santi Leroy,GK,Lazio,Spain,Serie A,Traditional Goalkeeper
+137,Santi Jones,GK,Atalanta,Belgium,Serie A,Sweeper Keeper
+138,Lucas Hernandez,GK,Stuttgart,Argentina,Bundesliga,Penalty Specialist
+139,David Garcia,GK,Napoli,England,Serie A,Ball Playing Goalkeeper
+140,Gabriel Singh,GK,Manchester City,Portugal,Premier League,Traditional Goalkeeper
+141,Noah Brown,GK,Liverpool,Senegal,Premier League,Penalty Specialist
+142,Lucas Hernandez,GK,Real Madrid,South Korea,La Liga,Ball Playing Goalkeeper
+143,James Garcia,GK,AC Milan,Brazil,Serie A,Sweeper Keeper
+144,Matteo Silva,GK,Brest,Senegal,Ligue 1,Ball Playing Goalkeeper
+145,David Johnson,GK,Aston Villa,Netherlands,Premier League,Penalty Specialist
+146,Noah Sato,GK,Valencia,Portugal,La Liga,Traditional Goalkeeper
+147,Noah Ferrari,GK,Lyon,Spain,Ligue 1,Sweeper Keeper
+148,Manuel Silva,GK,Bayer Leverkusen,England,Bundesliga,Traditional Goalkeeper
+149,Matteo Jones,GK,PSG,Portugal,Ligue 1,Traditional Goalkeeper
+150,William Schmidt,GK,AC Milan,England,Serie A,Penalty Specialist
+151,Leo Smith,GK,Bologna,Senegal,Serie A,Ball Playing Goalkeeper
+152,Oliver Sato,GK,Nice,Germany,Ligue 1,Penalty Specialist
+153,Gabriel Smith,GK,Real Sociedad,Netherlands,La Liga,Ball Playing Goalkeeper
+154,Noah Jones,GK,Monaco,Japan,Ligue 1,Sweeper Keeper
+155,Alessandro Hernandez,GK,Liverpool,Portugal,Premier League,Traditional Goalkeeper
+156,Matteo Hernandez,GK,Liverpool,France,Premier League,Traditional Goalkeeper
+157,Noah Sato,GK,Liverpool,Netherlands,Premier League,Ball Playing Goalkeeper
+158,Santi Jones,GK,Atalanta,Germany,Serie A,Penalty Specialist
+159,Robert Brown,GK,Arsenal,Croatia,Premier League,Traditional Goalkeeper
+160,Manuel Brown,GK,Atletico Madrid,Spain,La Liga,Penalty Specialist
+161,Jan Silva,GK,Manchester City,England,Premier League,Sweeper Keeper
+162,Manuel Park,GK,Barcelona,Senegal,La Liga,Traditional Goalkeeper
+163,James Garcia,GK,West Ham,Brazil,Premier League,Penalty Specialist
+164,Michael Garcia,GK,Liverpool,Portugal,Premier League,Traditional Goalkeeper
+165,Gabriel Schmidt,GK,Aston Villa,USA,Premier League,Traditional Goalkeeper
+166,Alessandro Brown,GK,Arsenal,England,Premier League,Penalty Specialist
+167,Robert Schmidt,GK,Athletic Club,Argentina,La Liga,Traditional Goalkeeper
+168,Robert Schmidt,GK,Atletico Madrid,Croatia,La Liga,Penalty Specialist
+169,Alessandro Schmidt,GK,West Ham,USA,Premier League,Sweeper Keeper
+170,Diego Silva,GK,Real Sociedad,Netherlands,La Liga,Penalty Specialist
+171,Arthur Brown,GK,Manchester City,South Korea,Premier League,Traditional Goalkeeper
+172,Matteo Martinez,GK,Athletic Club,Germany,La Liga,Sweeper Keeper
+173,Alessandro Santos,GK,Lazio,South Korea,Serie A,Sweeper Keeper
+174,Matteo Williams,GK,Monaco,Germany,Ligue 1,Sweeper Keeper
+175,Lucas Smith,GK,Real Madrid,Spain,La Liga,Traditional Goalkeeper
+176,Arthur Muller,GK,Real Betis,England,La Liga,Traditional Goalkeeper
+177,Lucas Muller,GK,AS Roma,Germany,Serie A,Penalty Specialist
+178,Diego Park,GK,Valencia,Senegal,La Liga,Ball Playing Goalkeeper
+179,Liam Park,GK,Dortmund,Brazil,Bundesliga,Penalty Specialist
+180,Michael Schmidt,GK,Aston Villa,Japan,Premier League,Traditional Goalkeeper
+181,William Park,GK,Juventus,France,Serie A,Ball Playing Goalkeeper
+182,Jan Rossi,GK,Barcelona,Spain,La Liga,Penalty Specialist
+183,Santi Johnson,GK,Valencia,Argentina,La Liga,Ball Playing Goalkeeper
+184,Liam Rossi,GK,Athletic Club,Italy,La Liga,Penalty Specialist
+185,Diego Park,GK,RB Leipzig,Netherlands,Bundesliga,Penalty Specialist
+186,Jan Williams,GK,Liverpool,South Korea,Premier League,Ball Playing Goalkeeper
+187,Gabriel Sato,GK,AC Milan,Brazil,Serie A,Ball Playing Goalkeeper
+188,Michael Brown,GK,Napoli,South Korea,Serie A,Traditional Goalkeeper
+189,Oliver Smith,GK,Bayer Leverkusen,France,Bundesliga,Ball Playing Goalkeeper
+190,Robert Rossi,GK,Athletic Club,Germany,La Liga,Penalty Specialist
+191,Alessandro Garcia,GK,Atalanta,Belgium,Serie A,Ball Playing Goalkeeper
+192,James Johnson,GK,Arsenal,Brazil,Premier League,Sweeper Keeper
+193,Gabriel Silva,GK,Atalanta,France,Serie A,Sweeper Keeper
+194,Arthur Leroy,GK,Tottenham,Italy,Premier League,Penalty Specialist
+195,Lucas Ferrari,GK,Lyon,South Korea,Ligue 1,Traditional Goalkeeper
+196,Gabriel Dubois,GK,Frankfurt,Argentina,Bundesliga,Penalty Specialist
+197,Lucas Muller,GK,Monaco,Japan,Ligue 1,Ball Playing Goalkeeper
+198,Diego Rossi,GK,Manchester City,Croatia,Premier League,Sweeper Keeper
+199,Michael Singh,GK,Lazio,South Korea,Serie A,Penalty Specialist
+200,Santi Silva,GK,Bayer Leverkusen,Belgium,Bundesliga,Penalty Specialist
+201,Gabriel Dubois,GK,PSG,Portugal,Ligue 1,Ball Playing Goalkeeper
+202,Ethan Ferrari,GK,Juventus,Belgium,Serie A,Ball Playing Goalkeeper
+203,Diego Williams,GK,Lyon,Croatia,Ligue 1,Ball Playing Goalkeeper
+204,Matteo Jones,GK,Juventus,Japan,Serie A,Sweeper Keeper
+205,Arthur Garcia,GK,Athletic Club,France,La Liga,Penalty Specialist
+206,Oliver Dubois,GK,Dortmund,England,Bundesliga,Traditional Goalkeeper
+207,Matteo Johnson,GK,RB Leipzig,Spain,Bundesliga,Traditional Goalkeeper
+208,Alessandro Muller,GK,Stuttgart,South Korea,Bundesliga,Penalty Specialist
+209,James Park,GK,Athletic Club,Portugal,La Liga,Penalty Specialist
+210,Oliver Jones,GK,Lazio,Senegal,Serie A,Traditional Goalkeeper
+211,Oliver Rossi,GK,AC Milan,South Korea,Serie A,Penalty Specialist
+212,James Ferrari,GK,PSG,Spain,Ligue 1,Ball Playing Goalkeeper
+213,Noah Williams,GK,Brighton,Belgium,Premier League,Traditional Goalkeeper
+214,Alessandro Leroy,GK,Brighton,Japan,Premier League,Ball Playing Goalkeeper
+215,Oliver Garcia,GK,Newcastle,Portugal,Premier League,Traditional Goalkeeper
+216,Liam Singh,GK,Inter Milan,Senegal,Serie A,Traditional Goalkeeper
+217,Matteo Jones,GK,Lyon,Netherlands,Ligue 1,Penalty Specialist
+218,Alessandro Garcia,GK,Newcastle,Germany,Premier League,Traditional Goalkeeper
+219,Ethan Park,GK,Girona,Spain,La Liga,Sweeper Keeper
+220,Santi Johnson,GK,Athletic Club,Belgium,La Liga,Penalty Specialist
+221,Liam Rossi,GK,Brest,Senegal,Ligue 1,Traditional Goalkeeper
+222,Ethan Kim,GK,Dortmund,South Korea,Bundesliga,Penalty Specialist
+223,Leo Muller,GK,Brest,Belgium,Ligue 1,Traditional Goalkeeper
+224,Robert Smith,GK,Liverpool,Argentina,Premier League,Ball Playing Goalkeeper
+225,Ethan Sato,GK,Stuttgart,England,Bundesliga,Traditional Goalkeeper
+226,David Kim,GK,Bologna,England,Serie A,Penalty Specialist
+227,Ethan Dubois,GK,Brighton,USA,Premier League,Traditional Goalkeeper
+228,Hugo Jones,GK,Juventus,Spain,Serie A,Ball Playing Goalkeeper
+229,Ethan Park,GK,RB Leipzig,Senegal,Bundesliga,Traditional Goalkeeper
+230,Ethan Leroy,GK,Real Madrid,South Korea,La Liga,Ball Playing Goalkeeper
+231,Noah Hernandez,GK,Atletico Madrid,Argentina,La Liga,Traditional Goalkeeper
+232,Diego Johnson,GK,Lille,Germany,Ligue 1,Penalty Specialist
+233,Michael Kim,GK,Manchester City,Japan,Premier League,Sweeper Keeper
+234,David Singh,GK,Stuttgart,USA,Bundesliga,Sweeper Keeper
+235,William Sato,GK,Manchester City,Portugal,Premier League,Sweeper Keeper
+236,Arthur Singh,GK,Bayern Munich,Japan,Bundesliga,Traditional Goalkeeper
+237,Noah Rossi,GK,Monaco,USA,Ligue 1,Penalty Specialist
+238,Liam Park,GK,Bayer Leverkusen,Portugal,Bundesliga,Ball Playing Goalkeeper
+239,James Muller,GK,RB Leipzig,Argentina,Bundesliga,Penalty Specialist
+240,Hugo Williams,GK,Liverpool,USA,Premier League,Sweeper Keeper
+241,Robert Leroy,GK,Frankfurt,Netherlands,Bundesliga,Sweeper Keeper
+242,Lucas Park,GK,Aston Villa,Senegal,Premier League,Sweeper Keeper
+243,Manuel Park,GK,Lazio,France,Serie A,Penalty Specialist
+244,Liam Park,GK,RB Leipzig,England,Bundesliga,Traditional Goalkeeper
+245,Alessandro Ferrari,GK,AS Roma,Spain,Serie A,Ball Playing Goalkeeper
+246,Oliver Johnson,GK,Chelsea,South Korea,Premier League,Traditional Goalkeeper
+247,Oliver Muller,GK,Aston Villa,Senegal,Premier League,Sweeper Keeper
+248,Michael Martinez,GK,Manchester City,Germany,Premier League,Sweeper Keeper
+249,Lucas Williams,GK,Inter Milan,Portugal,Serie A,Sweeper Keeper
+250,Santi Ferrari,GK,Monaco,Portugal,Ligue 1,Sweeper Keeper
+251,Alessandro Leroy,GK,Aston Villa,USA,Premier League,Traditional Goalkeeper
+252,Liam Park,GK,Stuttgart,Spain,Bundesliga,Penalty Specialist
+253,Hugo Jones,GK,AC Milan,England,Serie A,Traditional Goalkeeper
+254,Hugo Schmidt,GK,Arsenal,France,Premier League,Traditional Goalkeeper
+255,Noah Martinez,GK,Real Betis,Netherlands,La Liga,Traditional Goalkeeper
+256,David Johnson,GK,Newcastle,Spain,Premier League,Sweeper Keeper
+257,Matteo Sato,GK,Real Betis,Senegal,La Liga,Penalty Specialist
+258,Michael Schmidt,GK,Bologna,Netherlands,Serie A,Penalty Specialist
+259,Manuel Williams,GK,Girona,Italy,La Liga,Ball Playing Goalkeeper
+260,David Park,GK,Bayer Leverkusen,Croatia,Bundesliga,Ball Playing Goalkeeper
+261,Ethan Garcia,GK,Lille,Croatia,Ligue 1,Sweeper Keeper
+262,James Park,GK,Manchester City,Germany,Premier League,Traditional Goalkeeper
+263,David Singh,GK,Barcelona,Italy,La Liga,Penalty Specialist
+264,Diego Sato,GK,Atletico Madrid,France,La Liga,Penalty Specialist
+265,Matteo Ferrari,GK,Marseille,France,Ligue 1,Penalty Specialist
+266,Michael Muller,GK,Barcelona,Japan,La Liga,Penalty Specialist
+267,Michael Williams,GK,PSG,Spain,Ligue 1,Penalty Specialist
+268,Leo Brown,GK,Newcastle,England,Premier League,Penalty Specialist
+269,Manuel Muller,GK,Stuttgart,France,Bundesliga,Penalty Specialist
+270,Diego Kim,GK,Brighton,Italy,Premier League,Sweeper Keeper
+271,Liam Muller,GK,PSG,Italy,Ligue 1,Traditional Goalkeeper
+272,James Brown,GK,Atletico Madrid,Spain,La Liga,Ball Playing Goalkeeper
+273,Hugo Ferrari,GK,Brighton,USA,Premier League,Penalty Specialist
+274,Leo Singh,GK,Marseille,Germany,Ligue 1,Penalty Specialist
+275,Liam Smith,GK,Stuttgart,USA,Bundesliga,Traditional Goalkeeper
+276,Oliver Schmidt,GK,Athletic Club,Spain,La Liga,Ball Playing Goalkeeper
+277,Gabriel Williams,GK,Atalanta,Croatia,Serie A,Sweeper Keeper
+278,Arthur Brown,GK,RB Leipzig,Portugal,Bundesliga,Penalty Specialist
+279,Jan Santos,GK,Brest,Portugal,Ligue 1,Ball Playing Goalkeeper
+280,James Rossi,GK,Dortmund,Croatia,Bundesliga,Penalty Specialist
+281,Matteo Martinez,GK,Barcelona,Germany,La Liga,Penalty Specialist
+282,Robert Johnson,GK,AS Roma,France,Serie A,Sweeper Keeper
+283,Hugo Brown,GK,Manchester United,Portugal,Premier League,Ball Playing Goalkeeper
+284,Hugo Kim,GK,Bayer Leverkusen,Spain,Bundesliga,Ball Playing Goalkeeper
+285,Liam Singh,GK,AC Milan,France,Serie A,Ball Playing Goalkeeper
+286,William Leroy,GK,Atletico Madrid,Brazil,La Liga,Sweeper Keeper
+287,Oliver Dubois,GK,Valencia,Netherlands,La Liga,Ball Playing Goalkeeper
+288,Lucas Muller,GK,Napoli,Belgium,Serie A,Penalty Specialist
+289,Santi Singh,GK,Newcastle,South Korea,Premier League,Penalty Specialist
+290,Santi Muller,GK,Lyon,Portugal,Ligue 1,Ball Playing Goalkeeper
+291,Matteo Sato,GK,Bologna,South Korea,Serie A,Traditional Goalkeeper
+292,Oliver Muller,GK,PSG,Argentina,Ligue 1,Sweeper Keeper
+293,James Kim,GK,Lyon,Portugal,Ligue 1,Traditional Goalkeeper
+294,Oliver Sato,GK,Manchester City,Belgium,Premier League,Sweeper Keeper
+295,Ethan Johnson,GK,Liverpool,South Korea,Premier League,Sweeper Keeper
+296,Lucas Kim,GK,Monaco,Argentina,Ligue 1,Ball Playing Goalkeeper
+297,Robert Brown,GK,RB Leipzig,Spain,Bundesliga,Penalty Specialist
+298,William Park,GK,AC Milan,Portugal,Serie A,Ball Playing Goalkeeper
+299,David Brown,GK,Napoli,Senegal,Serie A,Penalty Specialist
+300,Hugo Santos,GK,Stuttgart,Germany,Bundesliga,Sweeper Keeper
+301,Lucas Kim,GK,Napoli,Senegal,Serie A,Penalty Specialist
+302,Leo Williams,GK,Real Madrid,England,La Liga,Ball Playing Goalkeeper
+303,Liam Silva,GK,Real Betis,England,La Liga,Traditional Goalkeeper
+304,Lucas Schmidt,GK,RB Leipzig,Spain,Bundesliga,Ball Playing Goalkeeper
+305,Jan Garcia,GK,Bayern Munich,Netherlands,Bundesliga,Ball Playing Goalkeeper
+306,Manuel Singh,GK,Real Madrid,Senegal,La Liga,Ball Playing Goalkeeper
+307,Liam Singh,GK,Bayer Leverkusen,France,Bundesliga,Traditional Goalkeeper
+308,Noah Williams,GK,Real Betis,Senegal,La Liga,Sweeper Keeper
+309,David Leroy,GK,Bayern Munich,Portugal,Bundesliga,Sweeper Keeper
+310,Alessandro Ferrari,GK,Liverpool,Belgium,Premier League,Ball Playing Goalkeeper
+311,Oliver Ferrari,GK,Lyon,Germany,Ligue 1,Ball Playing Goalkeeper
+312,Leo Silva,GK,AC Milan,England,Serie A,Sweeper Keeper
+313,Robert Sato,GK,Liverpool,Spain,Premier League,Penalty Specialist
+314,Jan Smith,GK,Arsenal,Croatia,Premier League,Traditional Goalkeeper
+315,Robert Sato,GK,Brest,Spain,Ligue 1,Penalty Specialist
+316,Michael Hernandez,GK,Inter Milan,Italy,Serie A,Penalty Specialist
+317,Manuel Jones,GK,Athletic Club,USA,La Liga,Ball Playing Goalkeeper
+318,Arthur Johnson,GK,Newcastle,Croatia,Premier League,Traditional Goalkeeper
+319,Liam Hernandez,GK,Brighton,Brazil,Premier League,Ball Playing Goalkeeper
+320,Ethan Santos,GK,Marseille,Senegal,Ligue 1,Traditional Goalkeeper
+321,Hugo Schmidt,GK,Inter Milan,Argentina,Serie A,Traditional Goalkeeper
+322,Santi Ferrari,GK,Valencia,Belgium,La Liga,Sweeper Keeper
+323,Oliver Sato,GK,Barcelona,Italy,La Liga,Sweeper Keeper
+324,James Garcia,GK,Girona,Portugal,La Liga,Sweeper Keeper
+325,Leo Brown,GK,Real Betis,Japan,La Liga,Penalty Specialist
+326,Liam Hernandez,GK,Liverpool,Portugal,Premier League,Ball Playing Goalkeeper
+327,Leo Santos,GK,Lazio,USA,Serie A,Sweeper Keeper
+328,Hugo Park,GK,Inter Milan,Portugal,Serie A,Traditional Goalkeeper
+329,Jan Park,GK,Real Betis,Senegal,La Liga,Traditional Goalkeeper
+330,Michael Sato,GK,Real Sociedad,USA,La Liga,Ball Playing Goalkeeper
+331,Jan Sato,GK,Real Madrid,Senegal,La Liga,Ball Playing Goalkeeper
+332,Ethan Johnson,GK,Nice,Italy,Ligue 1,Traditional Goalkeeper
+333,Alessandro Kim,GK,Bologna,South Korea,Serie A,Traditional Goalkeeper
+334,Ethan Park,GK,Lyon,South Korea,Ligue 1,Ball Playing Goalkeeper
+335,David Garcia,GK,Real Madrid,Italy,La Liga,Ball Playing Goalkeeper
+336,William Silva,GK,West Ham,Portugal,Premier League,Sweeper Keeper
+337,James Smith,GK,Brest,Netherlands,Ligue 1,Sweeper Keeper
+338,Michael Martinez,GK,RB Leipzig,Netherlands,Bundesliga,Ball Playing Goalkeeper
+339,Hugo Kim,GK,AC Milan,USA,Serie A,Traditional Goalkeeper
+340,Robert Martinez,GK,Bayer Leverkusen,Japan,Bundesliga,Sweeper Keeper
+341,William Kim,GK,Frankfurt,USA,Bundesliga,Ball Playing Goalkeeper
+342,Robert Hernandez,GK,Dortmund,Spain,Bundesliga,Sweeper Keeper
+343,Oliver Schmidt,GK,Nice,Belgium,Ligue 1,Traditional Goalkeeper
+344,Hugo Sato,GK,Juventus,Argentina,Serie A,Ball Playing Goalkeeper
+345,William Brown,GK,Marseille,England,Ligue 1,Traditional Goalkeeper
+346,Liam Silva,GK,Athletic Club,Netherlands,La Liga,Traditional Goalkeeper
+347,Michael Dubois,GK,Brighton,USA,Premier League,Ball Playing Goalkeeper
+348,James Garcia,GK,Brest,Germany,Ligue 1,Ball Playing Goalkeeper
+349,Alessandro Singh,GK,PSG,Germany,Ligue 1,Penalty Specialist
+350,Diego Sato,GK,Real Betis,England,La Liga,Penalty Specialist
+351,Oliver Silva,GK,Monaco,Spain,Ligue 1,Penalty Specialist
+352,Ethan Hernandez,GK,RB Leipzig,Croatia,Bundesliga,Penalty Specialist
+353,James Schmidt,GK,Lyon,Argentina,Ligue 1,Traditional Goalkeeper
+354,Jan Schmidt,GK,Real Sociedad,South Korea,La Liga,Traditional Goalkeeper
+355,Diego Rossi,GK,Atalanta,England,Serie A,Ball Playing Goalkeeper
+356,Lucas Kim,GK,RB Leipzig,Germany,Bundesliga,Penalty Specialist
+357,David Brown,GK,Stuttgart,France,Bundesliga,Penalty Specialist
+358,Lucas Muller,GK,Tottenham,England,Premier League,Sweeper Keeper
+359,Diego Brown,GK,Atalanta,South Korea,Serie A,Penalty Specialist
+360,Gabriel Muller,GK,AC Milan,Netherlands,Serie A,Penalty Specialist
+361,Lucas Muller,GK,Brest,Belgium,Ligue 1,Ball Playing Goalkeeper
+362,Liam Schmidt,GK,Monaco,Argentina,Ligue 1,Penalty Specialist
+363,Robert Santos,GK,Bayer Leverkusen,England,Bundesliga,Penalty Specialist
+364,Santi Santos,GK,Girona,Croatia,La Liga,Traditional Goalkeeper
+365,Arthur Johnson,GK,Newcastle,Belgium,Premier League,Traditional Goalkeeper
+366,Robert Rossi,GK,RB Leipzig,Netherlands,Bundesliga,Traditional Goalkeeper
+367,Santi Rossi,GK,AC Milan,England,Serie A,Traditional Goalkeeper
+368,Lucas Santos,GK,AC Milan,Germany,Serie A,Sweeper Keeper
+369,Ethan Kim,GK,Frankfurt,Spain,Bundesliga,Traditional Goalkeeper
+370,William Sato,GK,Athletic Club,Netherlands,La Liga,Traditional Goalkeeper
+371,William Sato,GK,AS Roma,USA,Serie A,Traditional Goalkeeper
+372,Santi Garcia,GK,Atletico Madrid,Senegal,La Liga,Sweeper Keeper
+373,Matteo Singh,GK,Brighton,Belgium,Premier League,Penalty Specialist
+374,Robert Park,GK,Bayern Munich,Portugal,Bundesliga,Traditional Goalkeeper
+375,Noah Jones,GK,Real Betis,Italy,La Liga,Sweeper Keeper
+376,Santi Leroy,GK,Barcelona,Netherlands,La Liga,Sweeper Keeper
+377,Manuel Rossi,GK,Brighton,Senegal,Premier League,Traditional Goalkeeper
+378,Jan Muller,GK,Real Sociedad,Germany,La Liga,Traditional Goalkeeper
+379,Manuel Brown,GK,West Ham,Belgium,Premier League,Penalty Specialist
+380,Gabriel Kim,GK,Girona,South Korea,La Liga,Traditional Goalkeeper
+381,Oliver Williams,GK,Napoli,Belgium,Serie A,Sweeper Keeper
+382,David Dubois,GK,Brighton,Portugal,Premier League,Ball Playing Goalkeeper
+383,Arthur Silva,GK,Monaco,France,Ligue 1,Traditional Goalkeeper
+384,Noah Kim,GK,Lille,Japan,Ligue 1,Sweeper Keeper
+385,James Sato,GK,AS Roma,Italy,Serie A,Ball Playing Goalkeeper
+386,Hugo Leroy,GK,Newcastle,Brazil,Premier League,Traditional Goalkeeper
+387,Michael Smith,GK,Bologna,Belgium,Serie A,Traditional Goalkeeper
+388,Jan Kim,GK,Frankfurt,Netherlands,Bundesliga,Sweeper Keeper
+389,James Brown,GK,Monaco,South Korea,Ligue 1,Traditional Goalkeeper
+390,Robert Schmidt,GK,Chelsea,Netherlands,Premier League,Penalty Specialist
+391,Santi Williams,GK,Bayern Munich,England,Bundesliga,Sweeper Keeper
+392,Oliver Smith,GK,Chelsea,USA,Premier League,Traditional Goalkeeper
+393,Alessandro Singh,GK,Napoli,Portugal,Serie A,Traditional Goalkeeper
+394,William Schmidt,GK,Bayern Munich,Germany,Bundesliga,Traditional Goalkeeper
+395,Michael Park,GK,Atletico Madrid,France,La Liga,Traditional Goalkeeper
+396,Diego Singh,GK,Valencia,Belgium,La Liga,Sweeper Keeper
+397,Manuel Kim,GK,Real Sociedad,France,La Liga,Ball Playing Goalkeeper
+398,Lucas Rossi,GK,Frankfurt,France,Bundesliga,Traditional Goalkeeper
+399,Leo Santos,GK,Marseille,Argentina,Ligue 1,Sweeper Keeper
+400,Noah Hernandez,GK,Frankfurt,Senegal,Bundesliga,Traditional Goalkeeper
+401,Lucas Muller,GK,Real Madrid,USA,La Liga,Traditional Goalkeeper
+402,Lucas Kim,GK,Lyon,Netherlands,Ligue 1,Penalty Specialist
+403,Manuel Hernandez,GK,AS Roma,Senegal,Serie A,Sweeper Keeper
+404,Michael Sato,GK,Tottenham,England,Premier League,Traditional Goalkeeper
+405,Lucas Johnson,GK,Brest,South Korea,Ligue 1,Sweeper Keeper
+406,Robert Hernandez,GK,Lazio,Portugal,Serie A,Penalty Specialist
+407,William Silva,GK,AC Milan,Italy,Serie A,Sweeper Keeper
+408,Alessandro Smith,GK,AS Roma,France,Serie A,Sweeper Keeper
+409,Michael Leroy,GK,Valencia,USA,La Liga,Sweeper Keeper
+410,Gabriel Leroy,GK,RB Leipzig,Senegal,Bundesliga,Traditional Goalkeeper
+411,Michael Kim,GK,Valencia,USA,La Liga,Traditional Goalkeeper
+412,Noah Johnson,GK,Atletico Madrid,Portugal,La Liga,Sweeper Keeper
+413,Hugo Ferrari,GK,AS Roma,Netherlands,Serie A,Penalty Specialist
+414,Arthur Dubois,GK,PSG,Netherlands,Ligue 1,Sweeper Keeper
+415,Oliver Dubois,GK,Juventus,Japan,Serie A,Sweeper Keeper
+416,David Hernandez,GK,Frankfurt,Brazil,Bundesliga,Ball Playing Goalkeeper
+417,William Singh,GK,Manchester City,Japan,Premier League,Traditional Goalkeeper
+418,Oliver Williams,GK,Brest,Japan,Ligue 1,Traditional Goalkeeper
+419,Gabriel Muller,GK,Dortmund,Croatia,Bundesliga,Ball Playing Goalkeeper
+420,Arthur Williams,GK,Bologna,Japan,Serie A,Traditional Goalkeeper
+421,Leo Williams,GK,Napoli,Italy,Serie A,Penalty Specialist
+422,James Ferrari,GK,Nice,Senegal,Ligue 1,Sweeper Keeper
+423,Ethan Leroy,GK,Brighton,Germany,Premier League,Traditional Goalkeeper
+424,Robert Ferrari,GK,Lyon,Brazil,Ligue 1,Ball Playing Goalkeeper
+425,Lucas Jones,GK,Real Madrid,Senegal,La Liga,Traditional Goalkeeper
+426,Oliver Kim,GK,Real Sociedad,USA,La Liga,Penalty Specialist
+427,Alessandro Leroy,GK,Nice,Argentina,Ligue 1,Ball Playing Goalkeeper
+428,Leo Hernandez,GK,Real Betis,France,La Liga,Traditional Goalkeeper
+429,William Martinez,GK,Real Madrid,Croatia,La Liga,Sweeper Keeper
+430,Alessandro Rossi,GK,Juventus,England,Serie A,Penalty Specialist
+431,Santi Ferrari,GK,Real Sociedad,Spain,La Liga,Sweeper Keeper
+432,Liam Johnson,GK,Athletic Club,Brazil,La Liga,Penalty Specialist
+433,Alessandro Williams,GK,Aston Villa,England,Premier League,Traditional Goalkeeper
+434,Hugo Johnson,GK,Napoli,Italy,Serie A,Ball Playing Goalkeeper
+435,James Dubois,GK,Stuttgart,Portugal,Bundesliga,Sweeper Keeper
+436,Arthur Martinez,GK,West Ham,Netherlands,Premier League,Sweeper Keeper
+437,Alessandro Kim,GK,Dortmund,Brazil,Bundesliga,Ball Playing Goalkeeper
+438,Santi Garcia,GK,Real Sociedad,Brazil,La Liga,Ball Playing Goalkeeper
+439,Oliver Kim,GK,Arsenal,Japan,Premier League,Traditional Goalkeeper
+440,James Garcia,GK,Manchester United,Germany,Premier League,Sweeper Keeper
+441,Matteo Ferrari,GK,Brighton,Germany,Premier League,Penalty Specialist
+442,Liam Singh,GK,Napoli,Argentina,Serie A,Ball Playing Goalkeeper
+443,Lucas Sato,GK,Athletic Club,Spain,La Liga,Penalty Specialist
+444,Arthur Brown,GK,RB Leipzig,Senegal,Bundesliga,Sweeper Keeper
+445,James Sato,GK,PSG,Portugal,Ligue 1,Ball Playing Goalkeeper
+446,Matteo Smith,GK,Napoli,Germany,Serie A,Sweeper Keeper
+447,Michael Muller,GK,Girona,Argentina,La Liga,Penalty Specialist
+448,Manuel Kim,GK,Barcelona,Argentina,La Liga,Penalty Specialist
+449,Noah Kim,GK,Bayer Leverkusen,Japan,Bundesliga,Penalty Specialist
+450,Lucas Smith,GK,Newcastle,Netherlands,Premier League,Penalty Specialist
+451,Liam Rossi,GK,Brest,Portugal,Ligue 1,Penalty Specialist
+452,Manuel Martinez,GK,Bayer Leverkusen,Germany,Bundesliga,Ball Playing Goalkeeper
+453,Leo Rossi,GK,Newcastle,Italy,Premier League,Ball Playing Goalkeeper
+454,Lucas Ferrari,GK,Juventus,Germany,Serie A,Ball Playing Goalkeeper
+455,Manuel Park,GK,Frankfurt,Brazil,Bundesliga,Traditional Goalkeeper
+456,Lucas Singh,GK,AS Roma,Japan,Serie A,Ball Playing Goalkeeper
+457,Manuel Johnson,GK,Bayern Munich,Japan,Bundesliga,Penalty Specialist
+458,Hugo Martinez,GK,Stuttgart,Argentina,Bundesliga,Traditional Goalkeeper
+459,Robert Schmidt,GK,West Ham,Brazil,Premier League,Ball Playing Goalkeeper
+460,Gabriel Leroy,GK,Inter Milan,Croatia,Serie A,Ball Playing Goalkeeper
+461,Manuel Park,GK,Valencia,Belgium,La Liga,Ball Playing Goalkeeper
+462,Alessandro Dubois,GK,Girona,Croatia,La Liga,Traditional Goalkeeper
+463,Diego Hernandez,GK,Liverpool,France,Premier League,Sweeper Keeper
+464,Alessandro Park,GK,Nice,Belgium,Ligue 1,Penalty Specialist
+465,Gabriel Muller,GK,Atletico Madrid,Italy,La Liga,Sweeper Keeper
+466,Alessandro Ferrari,GK,AC Milan,Spain,Serie A,Ball Playing Goalkeeper
+467,Matteo Williams,GK,Dortmund,Portugal,Bundesliga,Ball Playing Goalkeeper
+468,Gabriel Garcia,GK,Manchester United,USA,Premier League,Sweeper Keeper
+469,Robert Martinez,GK,Napoli,Netherlands,Serie A,Ball Playing Goalkeeper
+470,Oliver Park,GK,Brest,France,Ligue 1,Traditional Goalkeeper
+471,Leo Schmidt,GK,Dortmund,Spain,Bundesliga,Traditional Goalkeeper
+472,Diego Jones,GK,Inter Milan,Spain,Serie A,Traditional Goalkeeper
+473,William Singh,GK,West Ham,USA,Premier League,Penalty Specialist
+474,Michael Martinez,GK,Manchester United,Senegal,Premier League,Penalty Specialist
+475,Matteo Silva,GK,Juventus,Belgium,Serie A,Penalty Specialist
+476,Oliver Dubois,GK,Valencia,Argentina,La Liga,Penalty Specialist
+477,William Kim,GK,Atalanta,Belgium,Serie A,Penalty Specialist
+478,Hugo Schmidt,GK,Lyon,South Korea,Ligue 1,Penalty Specialist
+479,Michael Santos,GK,Manchester United,USA,Premier League,Penalty Specialist
+480,Manuel Park,GK,Juventus,Argentina,Serie A,Sweeper Keeper
+481,James Smith,GK,Dortmund,Brazil,Bundesliga,Sweeper Keeper
+482,Gabriel Hernandez,GK,Newcastle,Brazil,Premier League,Ball Playing Goalkeeper
+483,Santi Rossi,GK,Liverpool,Croatia,Premier League,Traditional Goalkeeper
+484,Oliver Sato,GK,Valencia,Germany,La Liga,Ball Playing Goalkeeper
+485,James Garcia,GK,Dortmund,Spain,Bundesliga,Ball Playing Goalkeeper
+486,Robert Ferrari,GK,Girona,Japan,La Liga,Penalty Specialist
+487,Robert Singh,GK,RB Leipzig,Japan,Bundesliga,Ball Playing Goalkeeper
+488,Matteo Muller,GK,Atletico Madrid,Japan,La Liga,Sweeper Keeper
+489,James Leroy,GK,Barcelona,USA,La Liga,Ball Playing Goalkeeper
+490,Santi Kim,GK,Bayer Leverkusen,Germany,Bundesliga,Ball Playing Goalkeeper
+491,Michael Rossi,GK,Aston Villa,Senegal,Premier League,Traditional Goalkeeper
+492,James Jones,GK,Nice,Germany,Ligue 1,Traditional Goalkeeper
+493,David Dubois,GK,Real Sociedad,Belgium,La Liga,Penalty Specialist
+494,Noah Sato,GK,Juventus,Belgium,Serie A,Traditional Goalkeeper
+495,Robert Dubois,GK,Aston Villa,Portugal,Premier League,Traditional Goalkeeper
+496,James Garcia,GK,Frankfurt,Portugal,Bundesliga,Penalty Specialist
+497,Leo Silva,GK,Frankfurt,Croatia,Bundesliga,Traditional Goalkeeper
+498,David Schmidt,GK,Atletico Madrid,France,La Liga,Penalty Specialist
+499,William Rossi,GK,AS Roma,Croatia,Serie A,Sweeper Keeper
+500,Noah Park,GK,Chelsea,Portugal,Premier League,Penalty Specialist
+501,William Santos,GK,Napoli,Portugal,Serie A,Traditional Goalkeeper
+502,Gabriel Singh,GK,Real Madrid,Spain,La Liga,Sweeper Keeper
+503,Arthur Dubois,GK,Real Sociedad,Argentina,La Liga,Ball Playing Goalkeeper
+504,Ethan Ferrari,GK,Arsenal,Brazil,Premier League,Sweeper Keeper
+505,William Hernandez,GK,Bayern Munich,Croatia,Bundesliga,Ball Playing Goalkeeper
+506,Oliver Johnson,GK,Real Madrid,Italy,La Liga,Ball Playing Goalkeeper
+507,Hugo Hernandez,GK,Dortmund,France,Bundesliga,Traditional Goalkeeper
+508,Jan Rossi,GK,Brest,Netherlands,Ligue 1,Traditional Goalkeeper
+509,Leo Silva,GK,Monaco,Belgium,Ligue 1,Ball Playing Goalkeeper
+510,Michael Garcia,GK,AS Roma,Japan,Serie A,Sweeper Keeper
+511,James Hernandez,GK,Bayer Leverkusen,Netherlands,Bundesliga,Traditional Goalkeeper
+512,Gabriel Singh,GK,Real Sociedad,Germany,La Liga,Sweeper Keeper
+513,William Rossi,GK,Girona,Japan,La Liga,Sweeper Keeper
+514,Matteo Ferrari,GK,Manchester City,Belgium,Premier League,Penalty Specialist
+515,Lucas Garcia,GK,West Ham,Croatia,Premier League,Sweeper Keeper
+516,Lucas Jones,GK,Juventus,Spain,Serie A,Penalty Specialist
+517,Ethan Ferrari,GK,Atletico Madrid,Japan,La Liga,Traditional Goalkeeper
+518,Robert Schmidt,GK,Lazio,England,Serie A,Sweeper Keeper
+519,Leo Williams,GK,Real Betis,Belgium,La Liga,Sweeper Keeper
+520,Santi Muller,GK,RB Leipzig,Argentina,Bundesliga,Ball Playing Goalkeeper
+521,Gabriel Johnson,GK,Real Madrid,Senegal,La Liga,Ball Playing Goalkeeper
+522,Lucas Sato,GK,Lille,Argentina,Ligue 1,Ball Playing Goalkeeper
+523,Manuel Hernandez,GK,Brest,Italy,Ligue 1,Ball Playing Goalkeeper
+524,Santi Dubois,GK,Chelsea,Italy,Premier League,Traditional Goalkeeper
+525,Arthur Schmidt,GK,Liverpool,Portugal,Premier League,Ball Playing Goalkeeper
+526,Leo Silva,GK,Tottenham,France,Premier League,Penalty Specialist
+527,Oliver Garcia,GK,Athletic Club,Netherlands,La Liga,Traditional Goalkeeper
+528,Arthur Jones,GK,Stuttgart,England,Bundesliga,Penalty Specialist
+529,Diego Santos,GK,Bologna,Brazil,Serie A,Ball Playing Goalkeeper
+530,Jan Kim,GK,Napoli,Portugal,Serie A,Ball Playing Goalkeeper
+531,Diego Garcia,GK,Bayer Leverkusen,Brazil,Bundesliga,Traditional Goalkeeper
+532,Robert Williams,GK,Dortmund,Spain,Bundesliga,Penalty Specialist
+533,James Rossi,GK,Marseille,England,Ligue 1,Sweeper Keeper
+534,Oliver Williams,GK,Lille,England,Ligue 1,Ball Playing Goalkeeper
+535,David Sato,GK,Stuttgart,Italy,Bundesliga,Sweeper Keeper
+536,Lucas Santos,GK,Stuttgart,Netherlands,Bundesliga,Traditional Goalkeeper
+537,Alessandro Muller,GK,Real Madrid,Brazil,La Liga,Penalty Specialist
+538,David Jones,GK,Brest,South Korea,Ligue 1,Penalty Specialist
+539,Ethan Ferrari,GK,Monaco,Senegal,Ligue 1,Traditional Goalkeeper
+540,William Kim,GK,RB Leipzig,England,Bundesliga,Ball Playing Goalkeeper
+541,Matteo Johnson,GK,Monaco,Portugal,Ligue 1,Sweeper Keeper
+542,Leo Kim,GK,Chelsea,Croatia,Premier League,Traditional Goalkeeper
+543,Hugo Jones,GK,West Ham,Croatia,Premier League,Traditional Goalkeeper
+544,David Johnson,GK,AC Milan,Netherlands,Serie A,Ball Playing Goalkeeper
+545,Michael Sato,GK,Bologna,Spain,Serie A,Ball Playing Goalkeeper
+546,Diego Smith,GK,Aston Villa,Senegal,Premier League,Ball Playing Goalkeeper
+547,Santi Schmidt,GK,Lyon,France,Ligue 1,Ball Playing Goalkeeper
+548,Liam Sato,GK,Napoli,Argentina,Serie A,Penalty Specialist
+549,Alessandro Muller,GK,Bologna,Argentina,Serie A,Traditional Goalkeeper
+550,Gabriel Park,GK,PSG,USA,Ligue 1,Sweeper Keeper
+551,William Ferrari,GK,Tottenham,USA,Premier League,Ball Playing Goalkeeper
+552,Santi Williams,GK,Atalanta,USA,Serie A,Penalty Specialist
+553,Manuel Smith,GK,Manchester City,Germany,Premier League,Traditional Goalkeeper
+554,Ethan Kim,GK,RB Leipzig,Senegal,Bundesliga,Traditional Goalkeeper
+555,Ethan Schmidt,GK,Real Madrid,Senegal,La Liga,Ball Playing Goalkeeper
+556,Diego Rossi,GK,Manchester City,USA,Premier League,Sweeper Keeper
+557,James Leroy,GK,Inter Milan,Portugal,Serie A,Ball Playing Goalkeeper
+558,Leo Santos,GK,Monaco,Portugal,Ligue 1,Penalty Specialist
+559,Gabriel Garcia,GK,Bayer Leverkusen,Croatia,Bundesliga,Penalty Specialist
+560,Noah Silva,GK,Juventus,Germany,Serie A,Ball Playing Goalkeeper
+561,James Kim,GK,Newcastle,Japan,Premier League,Penalty Specialist
+562,David Silva,GK,Brest,Argentina,Ligue 1,Penalty Specialist
+563,Hugo Garcia,GK,Lyon,USA,Ligue 1,Ball Playing Goalkeeper
+564,Gabriel Park,GK,Newcastle,Croatia,Premier League,Sweeper Keeper
+565,Matteo Smith,GK,Bayer Leverkusen,Japan,Bundesliga,Traditional Goalkeeper
+566,Diego Santos,GK,Bayern Munich,USA,Bundesliga,Ball Playing Goalkeeper
+567,Liam Brown,GK,Dortmund,Spain,Bundesliga,Ball Playing Goalkeeper
+568,Lucas Schmidt,GK,Real Betis,Portugal,La Liga,Penalty Specialist
+569,Michael Johnson,GK,PSG,USA,Ligue 1,Traditional Goalkeeper
+570,Manuel Jones,GK,Marseille,Spain,Ligue 1,Sweeper Keeper
+571,Lucas Park,GK,Lille,Senegal,Ligue 1,Traditional Goalkeeper
+572,Liam Martinez,GK,Real Sociedad,Netherlands,La Liga,Traditional Goalkeeper
+573,James Sato,GK,Nice,South Korea,Ligue 1,Traditional Goalkeeper
+574,Hugo Hernandez,GK,Athletic Club,Germany,La Liga,Traditional Goalkeeper
+575,Noah Garcia,GK,Aston Villa,Argentina,Premier League,Penalty Specialist
+576,Leo Muller,GK,Arsenal,Senegal,Premier League,Traditional Goalkeeper
+577,Lucas Ferrari,GK,Barcelona,Japan,La Liga,Penalty Specialist
+578,Lucas Muller,GK,Frankfurt,Argentina,Bundesliga,Traditional Goalkeeper
+579,Santi Williams,GK,Lazio,Japan,Serie A,Penalty Specialist
+580,Matteo Santos,GK,Dortmund,Spain,Bundesliga,Sweeper Keeper
+581,Gabriel Jones,GK,Real Sociedad,South Korea,La Liga,Ball Playing Goalkeeper
+582,Arthur Smith,GK,Napoli,Germany,Serie A,Sweeper Keeper
+583,Noah Ferrari,GK,West Ham,Portugal,Premier League,Penalty Specialist
+584,Arthur Singh,GK,Atalanta,Portugal,Serie A,Traditional Goalkeeper
+585,Santi Silva,GK,Lille,Argentina,Ligue 1,Sweeper Keeper
+586,Diego Brown,GK,Bayern Munich,South Korea,Bundesliga,Penalty Specialist
+587,Liam Santos,GK,Athletic Club,Argentina,La Liga,Penalty Specialist
+588,Matteo Silva,GK,Dortmund,Argentina,Bundesliga,Sweeper Keeper
+589,Alessandro Brown,GK,Stuttgart,Senegal,Bundesliga,Traditional Goalkeeper
+590,William Silva,GK,Atletico Madrid,USA,La Liga,Sweeper Keeper
+591,Gabriel Johnson,GK,Atletico Madrid,Croatia,La Liga,Penalty Specialist
+592,Ethan Kim,GK,Nice,England,Ligue 1,Traditional Goalkeeper
+593,Arthur Johnson,GK,Juventus,USA,Serie A,Penalty Specialist
+594,William Santos,GK,Marseille,Belgium,Ligue 1,Sweeper Keeper
+595,Ethan Brown,GK,Frankfurt,South Korea,Bundesliga,Ball Playing Goalkeeper
+596,Matteo Garcia,GK,Real Sociedad,USA,La Liga,Traditional Goalkeeper
+597,Hugo Jones,GK,Valencia,Portugal,La Liga,Traditional Goalkeeper
+598,Manuel Santos,GK,Real Madrid,Croatia,La Liga,Sweeper Keeper
+599,Matteo Singh,GK,AC Milan,Japan,Serie A,Sweeper Keeper
+600,Hugo Ferrari,GK,Nice,Belgium,Ligue 1,Traditional Goalkeeper
+601,Jan Hernandez,GK,Newcastle,Netherlands,Premier League,Sweeper Keeper
+602,Robert Schmidt,GK,Bayer Leverkusen,Spain,Bundesliga,Ball Playing Goalkeeper
+603,Diego Leroy,GK,Stuttgart,Argentina,Bundesliga,Traditional Goalkeeper
+604,Santi Singh,GK,Marseille,Croatia,Ligue 1,Penalty Specialist
+605,Alessandro Silva,GK,Manchester United,Belgium,Premier League,Sweeper Keeper
+606,David Rossi,GK,Barcelona,Italy,La Liga,Penalty Specialist
+607,Noah Smith,GK,AS Roma,Germany,Serie A,Ball Playing Goalkeeper
+608,Manuel Schmidt,GK,Athletic Club,Croatia,La Liga,Traditional Goalkeeper
+609,Ethan Singh,GK,AS Roma,Argentina,Serie A,Ball Playing Goalkeeper
+610,David Ferrari,GK,Real Sociedad,Croatia,La Liga,Penalty Specialist
+611,Noah Williams,GK,Real Betis,Argentina,La Liga,Traditional Goalkeeper
+612,Oliver Garcia,GK,Inter Milan,Germany,Serie A,Traditional Goalkeeper
+613,Santi Smith,GK,Real Madrid,Senegal,La Liga,Penalty Specialist
+614,Santi Hernandez,GK,Girona,Portugal,La Liga,Penalty Specialist
+615,Robert Johnson,GK,Aston Villa,Belgium,Premier League,Penalty Specialist
+616,David Jones,GK,RB Leipzig,Germany,Bundesliga,Sweeper Keeper
+617,Leo Sato,GK,Real Betis,Croatia,La Liga,Sweeper Keeper
+618,Liam Santos,GK,Brest,Japan,Ligue 1,Traditional Goalkeeper
+619,Diego Martinez,GK,Inter Milan,Japan,Serie A,Penalty Specialist
+620,Alessandro Ferrari,GK,Atletico Madrid,France,La Liga,Ball Playing Goalkeeper
+621,Gabriel Leroy,GK,Bayer Leverkusen,Netherlands,Bundesliga,Traditional Goalkeeper
+622,Matteo Sato,GK,Liverpool,Senegal,Premier League,Sweeper Keeper
+623,Diego Garcia,GK,Dortmund,Japan,Bundesliga,Ball Playing Goalkeeper
+624,David Williams,GK,Arsenal,England,Premier League,Ball Playing Goalkeeper
+625,James Rossi,GK,Bologna,Senegal,Serie A,Ball Playing Goalkeeper
+626,Liam Kim,GK,Tottenham,Brazil,Premier League,Penalty Specialist
+627,Liam Dubois,GK,Juventus,Germany,Serie A,Sweeper Keeper
+628,Alessandro Rossi,GK,West Ham,Japan,Premier League,Traditional Goalkeeper
+629,Leo Garcia,GK,Lazio,Belgium,Serie A,Ball Playing Goalkeeper
+630,James Jones,GK,Juventus,France,Serie A,Penalty Specialist
+631,Santi Park,GK,Athletic Club,Brazil,La Liga,Sweeper Keeper
+632,Manuel Jones,GK,Chelsea,Argentina,Premier League,Sweeper Keeper
+633,Gabriel Park,GK,Real Betis,Argentina,La Liga,Penalty Specialist
+634,Santi Garcia,GK,AC Milan,Italy,Serie A,Traditional Goalkeeper
+635,David Schmidt,GK,PSG,USA,Ligue 1,Penalty Specialist
+636,Santi Park,GK,Real Sociedad,Brazil,La Liga,Sweeper Keeper
+637,Leo Dubois,GK,Stuttgart,Belgium,Bundesliga,Penalty Specialist
+638,Diego Leroy,GK,Marseille,France,Ligue 1,Traditional Goalkeeper
+639,Manuel Smith,GK,Monaco,USA,Ligue 1,Traditional Goalkeeper
+640,Lucas Leroy,GK,PSG,Japan,Ligue 1,Ball Playing Goalkeeper
+641,Lucas Jones,GK,Tottenham,Belgium,Premier League,Traditional Goalkeeper
+642,Alessandro Martinez,GK,West Ham,Japan,Premier League,Sweeper Keeper
+643,Ethan Johnson,GK,Marseille,Croatia,Ligue 1,Ball Playing Goalkeeper
+644,Jan Silva,GK,Barcelona,Brazil,La Liga,Ball Playing Goalkeeper
+645,Arthur Martinez,GK,Girona,Senegal,La Liga,Penalty Specialist
+646,Lucas Schmidt,GK,Nice,England,Ligue 1,Traditional Goalkeeper
+647,Liam Smith,GK,Lazio,France,Serie A,Sweeper Keeper
+648,Ethan Dubois,GK,Nice,Spain,Ligue 1,Traditional Goalkeeper
+649,Leo Williams,GK,Valencia,Japan,La Liga,Sweeper Keeper
+650,Ethan Rossi,GK,Nice,Senegal,Ligue 1,Ball Playing Goalkeeper
+651,Manuel Smith,GK,Juventus,Senegal,Serie A,Penalty Specialist
+652,Manuel Singh,GK,Nice,Belgium,Ligue 1,Sweeper Keeper
+653,Jan Kim,GK,Barcelona,Senegal,La Liga,Sweeper Keeper
+654,Alessandro Dubois,GK,RB Leipzig,Spain,Bundesliga,Sweeper Keeper
+655,Michael Rossi,GK,Manchester United,Croatia,Premier League,Traditional Goalkeeper
+656,Manuel Santos,GK,Bayern Munich,England,Bundesliga,Penalty Specialist
+657,Alessandro Sato,GK,Tottenham,Croatia,Premier League,Penalty Specialist
+658,Manuel Garcia,GK,AS Roma,England,Serie A,Ball Playing Goalkeeper
+659,Alessandro Hernandez,GK,Arsenal,England,Premier League,Traditional Goalkeeper
+660,Hugo Schmidt,GK,Girona,England,La Liga,Ball Playing Goalkeeper
+661,Arthur Garcia,GK,Real Madrid,Argentina,La Liga,Penalty Specialist
+662,Hugo Sato,GK,Monaco,South Korea,Ligue 1,Penalty Specialist
+663,Santi Johnson,GK,Monaco,France,Ligue 1,Traditional Goalkeeper
+664,Liam Jones,GK,Newcastle,Spain,Premier League,Penalty Specialist
+665,Ethan Sato,GK,Stuttgart,Belgium,Bundesliga,Ball Playing Goalkeeper
+666,William Sato,GK,PSG,Senegal,Ligue 1,Ball Playing Goalkeeper
+667,Robert Singh,GK,RB Leipzig,England,Bundesliga,Ball Playing Goalkeeper
+668,Jan Kim,GK,Real Madrid,Italy,La Liga,Ball Playing Goalkeeper
+669,Gabriel Rossi,GK,Juventus,Senegal,Serie A,Traditional Goalkeeper
+670,David Silva,GK,Brighton,Japan,Premier League,Ball Playing Goalkeeper
+671,Robert Rossi,GK,RB Leipzig,South Korea,Bundesliga,Traditional Goalkeeper
+672,Gabriel Johnson,GK,Real Betis,Germany,La Liga,Traditional Goalkeeper
+673,Jan Brown,GK,AC Milan,Croatia,Serie A,Ball Playing Goalkeeper
+674,James Smith,GK,Frankfurt,France,Bundesliga,Penalty Specialist
+675,Jan Leroy,GK,Barcelona,Argentina,La Liga,Penalty Specialist
+676,Diego Sato,GK,Tottenham,Netherlands,Premier League,Ball Playing Goalkeeper
+677,Oliver Johnson,GK,Athletic Club,Portugal,La Liga,Sweeper Keeper
+678,William Santos,GK,Juventus,Belgium,Serie A,Traditional Goalkeeper
+679,Arthur Santos,GK,Chelsea,Italy,Premier League,Ball Playing Goalkeeper
+680,Robert Kim,GK,Bologna,Senegal,Serie A,Sweeper Keeper
+681,Michael Schmidt,GK,Frankfurt,Italy,Bundesliga,Traditional Goalkeeper
+682,David Leroy,GK,Marseille,Belgium,Ligue 1,Penalty Specialist
+683,Hugo Johnson,GK,Athletic Club,Argentina,La Liga,Sweeper Keeper
+684,Oliver Park,GK,Lyon,France,Ligue 1,Ball Playing Goalkeeper
+685,Arthur Singh,GK,Frankfurt,Brazil,Bundesliga,Penalty Specialist
+686,Ethan Jones,GK,AS Roma,Portugal,Serie A,Traditional Goalkeeper
+687,Oliver Smith,GK,Atalanta,Netherlands,Serie A,Penalty Specialist
+688,Diego Park,GK,Brest,England,Ligue 1,Ball Playing Goalkeeper
+689,Oliver Johnson,GK,Lille,Brazil,Ligue 1,Traditional Goalkeeper
+690,Diego Park,GK,Brest,USA,Ligue 1,Penalty Specialist
+691,Leo Park,GK,Manchester United,England,Premier League,Penalty Specialist
+692,William Sato,GK,Athletic Club,Japan,La Liga,Penalty Specialist
+693,Ethan Garcia,GK,Valencia,Senegal,La Liga,Traditional Goalkeeper
+694,David Smith,GK,Chelsea,Spain,Premier League,Ball Playing Goalkeeper
+695,William Johnson,GK,Marseille,England,Ligue 1,Penalty Specialist
+696,Robert Hernandez,GK,Frankfurt,Germany,Bundesliga,Ball Playing Goalkeeper
+697,Michael Kim,GK,Real Sociedad,France,La Liga,Sweeper Keeper
+698,Diego Park,GK,Lille,Senegal,Ligue 1,Ball Playing Goalkeeper
+699,Jan Johnson,GK,Real Madrid,Brazil,La Liga,Ball Playing Goalkeeper
+700,David Muller,GK,Lazio,USA,Serie A,Penalty Specialist
+701,Manuel Park,GK,Frankfurt,Portugal,Bundesliga,Penalty Specialist
+702,Oliver Johnson,GK,Bayer Leverkusen,Italy,Bundesliga,Traditional Goalkeeper
+703,Gabriel Santos,GK,Manchester City,Belgium,Premier League,Sweeper Keeper
+704,Arthur Hernandez,GK,Newcastle,USA,Premier League,Sweeper Keeper
+705,Gabriel Silva,GK,AS Roma,Portugal,Serie A,Ball Playing Goalkeeper
+706,Lucas Silva,GK,Bayern Munich,Portugal,Bundesliga,Sweeper Keeper
+707,Manuel Dubois,GK,AS Roma,Brazil,Serie A,Penalty Specialist
+708,Arthur Ferrari,GK,Brest,Germany,Ligue 1,Ball Playing Goalkeeper
+709,James Dubois,GK,Arsenal,Senegal,Premier League,Traditional Goalkeeper
+710,Noah Santos,GK,Marseille,Netherlands,Ligue 1,Ball Playing Goalkeeper
+711,Alessandro Kim,GK,Bayer Leverkusen,England,Bundesliga,Traditional Goalkeeper
+712,William Williams,GK,Bayer Leverkusen,England,Bundesliga,Ball Playing Goalkeeper
+713,Santi Santos,GK,Frankfurt,Spain,Bundesliga,Sweeper Keeper
+714,Noah Ferrari,GK,Barcelona,England,La Liga,Penalty Specialist
+715,Arthur Kim,GK,Girona,England,La Liga,Ball Playing Goalkeeper
+716,Lucas Singh,GK,Bayern Munich,Belgium,Bundesliga,Penalty Specialist
+717,Lucas Leroy,GK,Dortmund,Portugal,Bundesliga,Sweeper Keeper
+718,James Santos,GK,Bayern Munich,South Korea,Bundesliga,Traditional Goalkeeper
+719,Jan Smith,GK,Lille,Spain,Ligue 1,Ball Playing Goalkeeper
+720,David Garcia,GK,Valencia,USA,La Liga,Penalty Specialist
+721,Ethan Martinez,GK,Brest,Italy,Ligue 1,Traditional Goalkeeper
+722,Hugo Silva,GK,Lazio,Japan,Serie A,Penalty Specialist
+723,Liam Garcia,GK,Valencia,South Korea,La Liga,Sweeper Keeper
+724,Gabriel Schmidt,GK,AS Roma,Portugal,Serie A,Traditional Goalkeeper
+725,David Sato,GK,AC Milan,Japan,Serie A,Ball Playing Goalkeeper
+726,David Smith,GK,PSG,Croatia,Ligue 1,Sweeper Keeper
+727,Noah Sato,GK,Napoli,USA,Serie A,Traditional Goalkeeper
+728,Matteo Williams,GK,Lyon,Brazil,Ligue 1,Sweeper Keeper
+729,Matteo Smith,GK,Liverpool,Argentina,Premier League,Penalty Specialist
+730,Oliver Sato,GK,Brighton,France,Premier League,Ball Playing Goalkeeper
+731,Manuel Santos,GK,Monaco,South Korea,Ligue 1,Penalty Specialist
+732,Alessandro Silva,GK,Dortmund,Belgium,Bundesliga,Penalty Specialist
+733,Jan Ferrari,GK,West Ham,Belgium,Premier League,Sweeper Keeper
+734,Robert Silva,GK,Bayern Munich,France,Bundesliga,Sweeper Keeper
+735,William Martinez,GK,Lazio,Brazil,Serie A,Penalty Specialist
+736,Diego Ferrari,GK,Stuttgart,Croatia,Bundesliga,Ball Playing Goalkeeper
+737,Robert Johnson,GK,Monaco,Belgium,Ligue 1,Sweeper Keeper
+738,Arthur Schmidt,GK,Real Betis,Japan,La Liga,Sweeper Keeper
+739,Lucas Kim,GK,Real Sociedad,Argentina,La Liga,Penalty Specialist
+740,Leo Muller,GK,Dortmund,Germany,Bundesliga,Traditional Goalkeeper
+741,Leo Ferrari,GK,Dortmund,South Korea,Bundesliga,Penalty Specialist
+742,Alessandro Garcia,GK,RB Leipzig,South Korea,Bundesliga,Penalty Specialist
+743,Oliver Singh,GK,Real Sociedad,Netherlands,La Liga,Sweeper Keeper
+744,Oliver Singh,GK,Arsenal,Spain,Premier League,Traditional Goalkeeper
+745,William Dubois,GK,Atalanta,Italy,Serie A,Ball Playing Goalkeeper
+746,William Park,GK,Monaco,Senegal,Ligue 1,Sweeper Keeper
+747,Michael Ferrari,GK,Nice,Germany,Ligue 1,Traditional Goalkeeper
+748,Arthur Leroy,GK,Bologna,Argentina,Serie A,Traditional Goalkeeper
+749,Gabriel Brown,GK,Real Betis,Spain,La Liga,Penalty Specialist
+750,Oliver Jones,GK,Lyon,Portugal,Ligue 1,Ball Playing Goalkeeper
+751,James Silva,GK,AS Roma,France,Serie A,Sweeper Keeper
+752,Oliver Sato,GK,PSG,Senegal,Ligue 1,Traditional Goalkeeper
+753,William Silva,GK,AC Milan,Italy,Serie A,Traditional Goalkeeper
+754,Liam Smith,GK,Real Sociedad,Japan,La Liga,Traditional Goalkeeper
+755,Manuel Silva,GK,Tottenham,Croatia,Premier League,Penalty Specialist
+756,Noah Park,GK,Brest,Spain,Ligue 1,Sweeper Keeper
+757,Leo Smith,GK,Girona,Japan,La Liga,Sweeper Keeper
+758,Jan Smith,GK,Inter Milan,Brazil,Serie A,Sweeper Keeper
+759,Matteo Jones,GK,Manchester City,USA,Premier League,Ball Playing Goalkeeper
+760,Michael Santos,GK,Bayer Leverkusen,Argentina,Bundesliga,Penalty Specialist
+761,David Williams,GK,Inter Milan,Spain,Serie A,Sweeper Keeper
+762,James Singh,GK,Atletico Madrid,USA,La Liga,Sweeper Keeper
+763,Matteo Sato,GK,Manchester City,France,Premier League,Ball Playing Goalkeeper
+764,William Ferrari,GK,Brighton,Italy,Premier League,Traditional Goalkeeper
+765,Arthur Dubois,GK,AC Milan,South Korea,Serie A,Penalty Specialist
+766,Santi Dubois,GK,Liverpool,Italy,Premier League,Penalty Specialist
+767,James Hernandez,GK,Inter Milan,France,Serie A,Sweeper Keeper
+768,Oliver Jones,GK,Atletico Madrid,Croatia,La Liga,Penalty Specialist
+769,Jan Schmidt,GK,Athletic Club,France,La Liga,Sweeper Keeper
+770,Hugo Muller,GK,AC Milan,Croatia,Serie A,Traditional Goalkeeper
+771,Lucas Park,GK,Bayer Leverkusen,South Korea,Bundesliga,Traditional Goalkeeper
+772,Michael Hernandez,GK,Liverpool,Brazil,Premier League,Penalty Specialist
+773,Matteo Jones,GK,Monaco,South Korea,Ligue 1,Penalty Specialist
+774,Manuel Jones,GK,Atalanta,Spain,Serie A,Sweeper Keeper
+775,William Park,GK,Monaco,USA,Ligue 1,Ball Playing Goalkeeper
+776,Santi Garcia,GK,Newcastle,South Korea,Premier League,Sweeper Keeper
+777,Gabriel Brown,GK,Bayer Leverkusen,England,Bundesliga,Ball Playing Goalkeeper
+778,Matteo Singh,GK,AC Milan,Argentina,Serie A,Traditional Goalkeeper
+779,Santi Park,GK,Bayern Munich,Netherlands,Bundesliga,Traditional Goalkeeper
+780,Santi Johnson,GK,Brighton,Japan,Premier League,Traditional Goalkeeper
+781,Noah Dubois,GK,Manchester City,Spain,Premier League,Penalty Specialist
+782,Arthur Sato,GK,Girona,Belgium,La Liga,Traditional Goalkeeper
+783,Hugo Williams,GK,Manchester City,France,Premier League,Ball Playing Goalkeeper
+784,William Singh,GK,Frankfurt,Italy,Bundesliga,Penalty Specialist
+785,Ethan Hernandez,GK,Frankfurt,Italy,Bundesliga,Ball Playing Goalkeeper
+786,Gabriel Jones,GK,Dortmund,Senegal,Bundesliga,Sweeper Keeper
+787,Lucas Kim,GK,RB Leipzig,Brazil,Bundesliga,Penalty Specialist
+788,Oliver Park,GK,Frankfurt,Brazil,Bundesliga,Traditional Goalkeeper
+789,Lucas Schmidt,GK,Bologna,Belgium,Serie A,Traditional Goalkeeper
+790,David Kim,GK,Chelsea,Germany,Premier League,Traditional Goalkeeper
+791,James Smith,GK,Girona,Spain,La Liga,Penalty Specialist
+792,Hugo Kim,GK,Dortmund,Italy,Bundesliga,Penalty Specialist
+793,Michael Ferrari,GK,Napoli,USA,Serie A,Traditional Goalkeeper
+794,Noah Hernandez,GK,Brest,Italy,Ligue 1,Penalty Specialist
+795,Hugo Garcia,GK,Atalanta,Croatia,Serie A,Penalty Specialist
+796,Hugo Williams,GK,West Ham,Argentina,Premier League,Penalty Specialist
+797,William Silva,GK,Bayer Leverkusen,Brazil,Bundesliga,Penalty Specialist
+798,Gabriel Johnson,GK,Marseille,France,Ligue 1,Ball Playing Goalkeeper
+799,Michael Dubois,GK,Real Betis,Croatia,La Liga,Traditional Goalkeeper
+800,Matteo Schmidt,GK,Manchester United,Japan,Premier League,Sweeper Keeper
+801,Manuel Martinez,GK,Chelsea,England,Premier League,Sweeper Keeper
+802,Oliver Hernandez,GK,Marseille,Netherlands,Ligue 1,Penalty Specialist
+803,Jan Silva,GK,PSG,Netherlands,Ligue 1,Traditional Goalkeeper
+804,Liam Kim,GK,PSG,Argentina,Ligue 1,Ball Playing Goalkeeper
+805,Gabriel Smith,GK,Bayern Munich,South Korea,Bundesliga,Penalty Specialist
+806,Oliver Smith,GK,Manchester City,Senegal,Premier League,Sweeper Keeper
+807,Diego Hernandez,GK,Barcelona,Spain,La Liga,Sweeper Keeper
+808,Liam Brown,GK,Napoli,Brazil,Serie A,Penalty Specialist
+809,Robert Hernandez,GK,Lille,Brazil,Ligue 1,Traditional Goalkeeper
+810,Robert Jones,GK,Athletic Club,Spain,La Liga,Penalty Specialist
+811,Lucas Jones,GK,AS Roma,France,Serie A,Ball Playing Goalkeeper
+812,Matteo Park,GK,Lyon,Japan,Ligue 1,Penalty Specialist
+813,Hugo Santos,GK,Dortmund,France,Bundesliga,Ball Playing Goalkeeper
+814,Robert Park,GK,Bayern Munich,USA,Bundesliga,Penalty Specialist
+815,William Brown,GK,Bologna,Croatia,Serie A,Traditional Goalkeeper
+816,David Muller,GK,Real Betis,Netherlands,La Liga,Traditional Goalkeeper
+817,Jan Leroy,GK,Valencia,England,La Liga,Traditional Goalkeeper
+818,Matteo Johnson,GK,Nice,Italy,Ligue 1,Penalty Specialist
+819,Michael Sato,GK,Lazio,Netherlands,Serie A,Traditional Goalkeeper
+820,Jan Santos,GK,Lille,Senegal,Ligue 1,Sweeper Keeper
+821,Leo Leroy,GK,Stuttgart,Croatia,Bundesliga,Traditional Goalkeeper
+822,James Johnson,GK,Aston Villa,Germany,Premier League,Sweeper Keeper
+823,Jan Smith,GK,Girona,Japan,La Liga,Sweeper Keeper
+824,Diego Santos,GK,West Ham,Argentina,Premier League,Penalty Specialist
+825,Diego Park,GK,Chelsea,Spain,Premier League,Traditional Goalkeeper
+826,Matteo Rossi,GK,Brest,England,Ligue 1,Ball Playing Goalkeeper
+827,David Martinez,GK,Frankfurt,USA,Bundesliga,Ball Playing Goalkeeper
+828,Lucas Williams,GK,Lazio,Belgium,Serie A,Sweeper Keeper
+829,David Jones,GK,Girona,Brazil,La Liga,Traditional Goalkeeper
+830,Jan Brown,GK,Juventus,Japan,Serie A,Sweeper Keeper
+831,Gabriel Kim,GK,Real Betis,Argentina,La Liga,Sweeper Keeper
+832,Liam Brown,GK,Dortmund,Argentina,Bundesliga,Ball Playing Goalkeeper
+833,William Garcia,GK,Lille,Belgium,Ligue 1,Sweeper Keeper
+834,William Dubois,GK,Stuttgart,Portugal,Bundesliga,Penalty Specialist
+835,Diego Williams,GK,Brest,Italy,Ligue 1,Ball Playing Goalkeeper
+836,Michael Garcia,GK,Barcelona,USA,La Liga,Penalty Specialist
+837,Manuel Garcia,GK,Tottenham,Senegal,Premier League,Ball Playing Goalkeeper
+838,Hugo Dubois,GK,Newcastle,Netherlands,Premier League,Penalty Specialist
+839,Michael Smith,GK,Real Madrid,South Korea,La Liga,Penalty Specialist
+840,Lucas Santos,GK,Athletic Club,South Korea,La Liga,Sweeper Keeper
+841,Liam Singh,GK,AC Milan,Senegal,Serie A,Ball Playing Goalkeeper
+842,Matteo Rossi,GK,Monaco,Croatia,Ligue 1,Penalty Specialist
+843,Matteo Martinez,GK,Real Betis,Japan,La Liga,Sweeper Keeper
+844,Matteo Santos,GK,Napoli,Argentina,Serie A,Sweeper Keeper
+845,Santi Dubois,GK,Monaco,Brazil,Ligue 1,Penalty Specialist
+846,Alessandro Brown,GK,Dortmund,Belgium,Bundesliga,Penalty Specialist
+847,Hugo Martinez,GK,Marseille,Italy,Ligue 1,Ball Playing Goalkeeper
+848,Ethan Rossi,GK,Juventus,Japan,Serie A,Penalty Specialist
+849,James Silva,GK,Aston Villa,South Korea,Premier League,Ball Playing Goalkeeper
+850,Ethan Park,GK,Real Betis,USA,La Liga,Traditional Goalkeeper
+851,Leo Park,GK,Bayern Munich,Brazil,Bundesliga,Ball Playing Goalkeeper
+852,Leo Kim,GK,Lyon,Japan,Ligue 1,Ball Playing Goalkeeper
+853,Michael Smith,GK,Marseille,Portugal,Ligue 1,Traditional Goalkeeper
+854,Matteo Brown,GK,Nice,England,Ligue 1,Penalty Specialist
+855,David Jones,GK,Newcastle,Croatia,Premier League,Traditional Goalkeeper
+856,Matteo Williams,GK,AS Roma,Japan,Serie A,Sweeper Keeper
+857,Ethan Jones,GK,Newcastle,England,Premier League,Ball Playing Goalkeeper
+858,Liam Leroy,GK,Real Sociedad,Italy,La Liga,Sweeper Keeper
+859,Matteo Sato,GK,Tottenham,Brazil,Premier League,Ball Playing Goalkeeper
+860,Michael Singh,GK,Real Betis,Spain,La Liga,Penalty Specialist
+861,Manuel Park,GK,Tottenham,England,Premier League,Sweeper Keeper
+862,Manuel Park,GK,Nice,South Korea,Ligue 1,Ball Playing Goalkeeper
+863,Oliver Park,GK,Valencia,Portugal,La Liga,Ball Playing Goalkeeper
+864,James Brown,GK,Juventus,Brazil,Serie A,Penalty Specialist
+865,Oliver Garcia,GK,Marseille,USA,Ligue 1,Sweeper Keeper
+866,James Smith,GK,Atletico Madrid,Netherlands,La Liga,Ball Playing Goalkeeper
+867,Diego Ferrari,GK,AS Roma,Italy,Serie A,Sweeper Keeper
+868,Lucas Ferrari,GK,Real Betis,France,La Liga,Ball Playing Goalkeeper
+869,David Ferrari,GK,Lille,France,Ligue 1,Sweeper Keeper
+870,Michael Smith,GK,Manchester City,Germany,Premier League,Ball Playing Goalkeeper
+871,James Santos,GK,Atalanta,USA,Serie A,Penalty Specialist
+872,Leo Brown,GK,Atletico Madrid,Senegal,La Liga,Traditional Goalkeeper
+873,Santi Leroy,GK,Arsenal,Japan,Premier League,Sweeper Keeper
+874,David Brown,GK,Lille,England,Ligue 1,Ball Playing Goalkeeper
+875,Ethan Muller,GK,Lazio,England,Serie A,Traditional Goalkeeper
+876,Robert Jones,GK,Lyon,Portugal,Ligue 1,Ball Playing Goalkeeper
+877,Lucas Muller,GK,Manchester City,England,Premier League,Penalty Specialist
+878,Ethan Silva,GK,Bayern Munich,Belgium,Bundesliga,Sweeper Keeper
+879,Alessandro Kim,GK,Arsenal,Croatia,Premier League,Traditional Goalkeeper
+880,Liam Kim,GK,Stuttgart,Belgium,Bundesliga,Ball Playing Goalkeeper
+881,David Sato,GK,Atalanta,USA,Serie A,Penalty Specialist
+882,Diego Williams,GK,Inter Milan,Spain,Serie A,Penalty Specialist
+883,Ethan Schmidt,GK,Newcastle,Netherlands,Premier League,Penalty Specialist
+884,Matteo Park,GK,Lille,Argentina,Ligue 1,Sweeper Keeper
+885,Manuel Smith,GK,Stuttgart,Italy,Bundesliga,Traditional Goalkeeper
+886,Leo Singh,GK,AC Milan,Portugal,Serie A,Sweeper Keeper
+887,Lucas Johnson,GK,AC Milan,Portugal,Serie A,Penalty Specialist
+888,Leo Santos,GK,Real Madrid,South Korea,La Liga,Traditional Goalkeeper
+889,Arthur Johnson,GK,Chelsea,Netherlands,Premier League,Penalty Specialist
+890,Lucas Muller,GK,Valencia,South Korea,La Liga,Ball Playing Goalkeeper
+891,Lucas Smith,GK,Bayer Leverkusen,USA,Bundesliga,Sweeper Keeper
+892,Manuel Johnson,GK,Lille,USA,Ligue 1,Ball Playing Goalkeeper
+893,Noah Singh,GK,Newcastle,Italy,Premier League,Traditional Goalkeeper
+894,Manuel Kim,GK,Dortmund,Belgium,Bundesliga,Sweeper Keeper
+895,Manuel Santos,GK,Real Madrid,England,La Liga,Traditional Goalkeeper
+896,Noah Kim,GK,Frankfurt,Netherlands,Bundesliga,Ball Playing Goalkeeper
+897,Lucas Johnson,GK,Juventus,England,Serie A,Traditional Goalkeeper
+898,Liam Schmidt,GK,RB Leipzig,Spain,Bundesliga,Sweeper Keeper
+899,James Ferrari,GK,Real Sociedad,South Korea,La Liga,Traditional Goalkeeper
+900,Leo Dubois,GK,Atletico Madrid,Senegal,La Liga,Ball Playing Goalkeeper
+901,David Johnson,GK,PSG,Netherlands,Ligue 1,Penalty Specialist
+902,Liam Smith,GK,Tottenham,Spain,Premier League,Sweeper Keeper
+903,Hugo Martinez,GK,Aston Villa,Spain,Premier League,Penalty Specialist
+904,James Williams,GK,Bayern Munich,Italy,Bundesliga,Ball Playing Goalkeeper
+905,Matteo Ferrari,GK,Napoli,Belgium,Serie A,Traditional Goalkeeper
+906,Liam Ferrari,GK,Aston Villa,USA,Premier League,Sweeper Keeper
+907,Diego Williams,GK,Chelsea,South Korea,Premier League,Ball Playing Goalkeeper
+908,Jan Garcia,GK,Tottenham,Argentina,Premier League,Ball Playing Goalkeeper
+909,Arthur Johnson,GK,Brest,Argentina,Ligue 1,Ball Playing Goalkeeper
+910,Manuel Singh,GK,Atletico Madrid,Senegal,La Liga,Penalty Specialist
+911,Gabriel Sato,GK,Marseille,Croatia,Ligue 1,Sweeper Keeper
+912,Diego Jones,GK,Bologna,USA,Serie A,Sweeper Keeper
+913,James Martinez,GK,Real Betis,Germany,La Liga,Ball Playing Goalkeeper
+914,Leo Williams,GK,AS Roma,Japan,Serie A,Traditional Goalkeeper
+915,Lucas Johnson,GK,Bayer Leverkusen,Italy,Bundesliga,Sweeper Keeper
+916,William Park,GK,PSG,Portugal,Ligue 1,Penalty Specialist
+917,Robert Singh,GK,Nice,Japan,Ligue 1,Ball Playing Goalkeeper
+918,Manuel Ferrari,GK,Bayern Munich,Spain,Bundesliga,Ball Playing Goalkeeper
+919,Matteo Kim,GK,Atletico Madrid,Senegal,La Liga,Sweeper Keeper
+920,Noah Santos,GK,Valencia,Belgium,La Liga,Ball Playing Goalkeeper
+921,David Muller,GK,Aston Villa,USA,Premier League,Penalty Specialist
+922,Noah Santos,GK,Stuttgart,France,Bundesliga,Penalty Specialist
+923,Jan Muller,GK,Stuttgart,Japan,Bundesliga,Penalty Specialist
+924,Lucas Dubois,GK,Manchester United,Japan,Premier League,Ball Playing Goalkeeper
+925,Liam Johnson,GK,Brest,Belgium,Ligue 1,Ball Playing Goalkeeper
+926,James Park,GK,Bayer Leverkusen,Spain,Bundesliga,Sweeper Keeper
+927,Noah Silva,GK,PSG,France,Ligue 1,Ball Playing Goalkeeper
+928,Noah Santos,GK,Manchester City,Spain,Premier League,Traditional Goalkeeper
+929,Lucas Muller,GK,Stuttgart,France,Bundesliga,Penalty Specialist
+930,Hugo Singh,GK,Brighton,Germany,Premier League,Penalty Specialist
+931,Gabriel Hernandez,GK,Marseille,Senegal,Ligue 1,Ball Playing Goalkeeper
+932,Ethan Jones,GK,Monaco,France,Ligue 1,Ball Playing Goalkeeper
+933,James Williams,GK,Tottenham,Brazil,Premier League,Ball Playing Goalkeeper
+934,Arthur Dubois,GK,PSG,Brazil,Ligue 1,Sweeper Keeper
+935,Robert Garcia,GK,PSG,Germany,Ligue 1,Traditional Goalkeeper
+936,James Kim,GK,Frankfurt,Portugal,Bundesliga,Penalty Specialist
+937,William Williams,GK,Atletico Madrid,Brazil,La Liga,Ball Playing Goalkeeper
+938,Liam Williams,GK,PSG,South Korea,Ligue 1,Penalty Specialist
+939,Arthur Williams,GK,Monaco,France,Ligue 1,Sweeper Keeper
+940,Manuel Sato,GK,RB Leipzig,Germany,Bundesliga,Penalty Specialist
+941,Arthur Park,GK,Marseille,South Korea,Ligue 1,Penalty Specialist
+942,Lucas Martinez,GK,Athletic Club,Senegal,La Liga,Traditional Goalkeeper
+943,Lucas Rossi,GK,PSG,Netherlands,Ligue 1,Ball Playing Goalkeeper
+944,Manuel Muller,GK,Dortmund,South Korea,Bundesliga,Ball Playing Goalkeeper
+945,Noah Ferrari,GK,Juventus,Spain,Serie A,Penalty Specialist
+946,James Sato,GK,Bayern Munich,Portugal,Bundesliga,Ball Playing Goalkeeper
+947,Noah Rossi,GK,Brest,Belgium,Ligue 1,Ball Playing Goalkeeper
+948,Santi Kim,GK,Real Betis,Netherlands,La Liga,Penalty Specialist
+949,David Jones,GK,Brighton,South Korea,Premier League,Penalty Specialist
+950,Diego Ferrari,GK,Bayern Munich,Belgium,Bundesliga,Traditional Goalkeeper
+951,Diego Schmidt,GK,Lazio,Japan,Serie A,Traditional Goalkeeper
+952,Santi Jones,GK,PSG,France,Ligue 1,Ball Playing Goalkeeper
+953,Leo Park,GK,Newcastle,Italy,Premier League,Traditional Goalkeeper
+954,Jan Dubois,GK,Lyon,France,Ligue 1,Traditional Goalkeeper
+955,William Brown,GK,Lyon,Brazil,Ligue 1,Sweeper Keeper
+956,Michael Williams,GK,Valencia,South Korea,La Liga,Ball Playing Goalkeeper
+957,Michael Jones,GK,Lyon,Germany,Ligue 1,Penalty Specialist
+958,Michael Schmidt,GK,Bayern Munich,Brazil,Bundesliga,Traditional Goalkeeper
+959,Noah Silva,GK,Bayer Leverkusen,Netherlands,Bundesliga,Sweeper Keeper
+960,Robert Sato,GK,Lazio,Brazil,Serie A,Ball Playing Goalkeeper
+961,Matteo Hernandez,GK,AS Roma,Belgium,Serie A,Penalty Specialist
+962,Jan Martinez,GK,Atalanta,Belgium,Serie A,Traditional Goalkeeper
+963,David Ferrari,GK,West Ham,Senegal,Premier League,Traditional Goalkeeper
+964,Ethan Johnson,GK,Bayer Leverkusen,South Korea,Bundesliga,Sweeper Keeper
+965,Lucas Sato,GK,Newcastle,Netherlands,Premier League,Ball Playing Goalkeeper
+966,Ethan Brown,GK,Lazio,Spain,Serie A,Penalty Specialist
+967,Lucas Schmidt,GK,Marseille,Italy,Ligue 1,Sweeper Keeper
+968,Hugo Sato,GK,Lyon,Japan,Ligue 1,Ball Playing Goalkeeper
+969,Noah Dubois,GK,Lazio,Argentina,Serie A,Penalty Specialist
+970,Diego Leroy,GK,Tottenham,Italy,Premier League,Ball Playing Goalkeeper
+971,David Martinez,GK,Atalanta,Croatia,Serie A,Penalty Specialist
+972,Robert Santos,GK,Atalanta,Belgium,Serie A,Traditional Goalkeeper
+973,Matteo Silva,GK,Real Madrid,Belgium,La Liga,Penalty Specialist
+974,Matteo Rossi,GK,Newcastle,Belgium,Premier League,Ball Playing Goalkeeper
+975,Diego Jones,GK,Dortmund,France,Bundesliga,Sweeper Keeper
+976,Diego Williams,GK,Lazio,Senegal,Serie A,Ball Playing Goalkeeper
+977,James Leroy,GK,Nice,Spain,Ligue 1,Sweeper Keeper
+978,Oliver Park,GK,Dortmund,Germany,Bundesliga,Sweeper Keeper
+979,Ethan Singh,GK,Bayern Munich,USA,Bundesliga,Ball Playing Goalkeeper
+980,Leo Hernandez,GK,Brest,Netherlands,Ligue 1,Penalty Specialist
+981,Arthur Johnson,GK,Arsenal,Senegal,Premier League,Ball Playing Goalkeeper
+982,James Johnson,GK,Marseille,Croatia,Ligue 1,Traditional Goalkeeper
+983,Ethan Garcia,GK,Girona,Italy,La Liga,Sweeper Keeper
+984,Hugo Leroy,GK,Bayern Munich,England,Bundesliga,Penalty Specialist
+985,Gabriel Park,GK,Monaco,Japan,Ligue 1,Penalty Specialist
+986,Leo Johnson,GK,Chelsea,USA,Premier League,Sweeper Keeper
+987,Noah Garcia,GK,Nice,South Korea,Ligue 1,Penalty Specialist
+988,Liam Johnson,GK,Manchester City,France,Premier League,Penalty Specialist
+989,Arthur Park,GK,Stuttgart,England,Bundesliga,Traditional Goalkeeper
+990,Gabriel Martinez,GK,Juventus,France,Serie A,Penalty Specialist
+991,William Kim,GK,Marseille,South Korea,Ligue 1,Traditional Goalkeeper
+992,Manuel Leroy,GK,Girona,USA,La Liga,Sweeper Keeper
+993,Hugo Smith,GK,Bayer Leverkusen,Brazil,Bundesliga,Traditional Goalkeeper
+994,Gabriel Ferrari,GK,Marseille,Japan,Ligue 1,Sweeper Keeper
+995,Diego Muller,GK,RB Leipzig,France,Bundesliga,Ball Playing Goalkeeper
+996,Jan Ferrari,GK,Stuttgart,Senegal,Bundesliga,Penalty Specialist
+997,Ethan Williams,GK,Brest,Croatia,Ligue 1,Sweeper Keeper
+998,Gabriel Leroy,GK,Bayer Leverkusen,Netherlands,Bundesliga,Ball Playing Goalkeeper
+999,David Smith,GK,Aston Villa,Brazil,Premier League,Sweeper Keeper
+1000,Oliver Garcia,GK,Nice,Germany,Ligue 1,Ball Playing Goalkeeper

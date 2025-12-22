@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Brahim Foden,CAM,Barcelona,Uruguay,La Liga,Half Winger
+2,Cole Diaz,CAM,Lazio,South Korea,Serie A,Shadow Striker
+3,Arda Nkunku,CAM,Manchester United,Netherlands,Premier League,Half Winger
+4,Christopher Musiala,CAM,AC Milan,Netherlands,Serie A,Classic 10
+5,Florian Odegaard,CAM,Athletic Club,Uruguay,La Liga,Half Winger
+6,Mason Olmo,CAM,Chelsea,France,Premier League,Shadow Striker
+7,Dani Eze,CAM,Lyon,Turkey,Ligue 1,Classic 10
+8,Cole Simons,CAM,RB Leipzig,Turkey,Bundesliga,Playmaker
+9,Arda Nkunku,CAM,Real Betis,Japan,La Liga,Half Winger
+10,Morgan Odegaard,CAM,Bayern Munich,France,Bundesliga,Half Winger
+11,Lee Maddison,CAM,Dortmund,Argentina,Bundesliga,Shadow Striker
+12,Arda Maddison,CAM,Arsenal,South Korea,Premier League,Half Winger
+13,Martin Dybala,CAM,Manchester City,South Korea,Premier League,Half Winger
+14,Eberechi Odegaard,CAM,Stuttgart,France,Bundesliga,Shadow Striker
+15,Xavi Foden,CAM,Napoli,Brazil,Serie A,Playmaker
+16,Eberechi Guler,CAM,RB Leipzig,South Korea,Bundesliga,Half Winger
+17,Florian Kubo,CAM,Bayern Munich,Morocco,Bundesliga,Playmaker
+18,Paulo Szoboszlai,CAM,Napoli,Norway,Serie A,Half Winger
+19,Bruno Musiala,CAM,Dortmund,Portugal,Bundesliga,Classic 10
+20,Arda Wirtz,CAM,Stuttgart,Morocco,Bundesliga,Playmaker
+21,Eberechi Palmer,CAM,Brighton,South Korea,Premier League,Shadow Striker
+22,Morgan Palmer,CAM,Inter Milan,Portugal,Serie A,Playmaker
+23,Cole Foden,CAM,Inter Milan,Netherlands,Serie A,Half Winger
+24,Takefusa Gibbs-White,CAM,AS Roma,Norway,Serie A,Classic 10
+25,Martin Gibbs-White,CAM,Chelsea,England,Premier League,Half Winger
+26,Cole Szoboszlai,CAM,Monaco,South Korea,Ligue 1,Playmaker
+27,Christopher Foden,CAM,Arsenal,Uruguay,Premier League,Half Winger
+28,Dani Guler,CAM,Lyon,Spain,Ligue 1,Classic 10
+29,Eberechi Nkunku,CAM,Bologna,France,Serie A,Shadow Striker
+30,Brahim Palmer,CAM,Tottenham,Uruguay,Premier League,Half Winger
+31,Lee Simons,CAM,Lille,Colombia,Ligue 1,Half Winger
+32,James Odegaard,CAM,Chelsea,Netherlands,Premier League,Playmaker
+33,Phil Maddison,CAM,RB Leipzig,South Korea,Bundesliga,Half Winger
+34,Dani Dybala,CAM,Athletic Club,England,La Liga,Classic 10
+35,Dominik Gibbs-White,CAM,Napoli,South Korea,Serie A,Playmaker
+36,Bruno Musiala,CAM,PSG,Netherlands,Ligue 1,Shadow Striker
+37,Takefusa Olmo,CAM,Tottenham,South Korea,Premier League,Half Winger
+38,Arda Gibbs-White,CAM,Brest,France,Ligue 1,Playmaker
+39,Arda Fernandes,CAM,Atletico Madrid,Uruguay,La Liga,Classic 10
+40,Morgan Eze,CAM,Real Betis,Portugal,La Liga,Playmaker
+41,Bruno Olmo,CAM,Bologna,Germany,Serie A,Half Winger
+42,Xavi Musiala,CAM,AC Milan,Spain,Serie A,Half Winger
+43,Julian Gibbs-White,CAM,Frankfurt,Norway,Bundesliga,Shadow Striker
+44,Dominik Fernandes,CAM,Brighton,Netherlands,Premier League,Playmaker
+45,Dani Simons,CAM,Brighton,Morocco,Premier League,Playmaker
+46,Xavi Kubo,CAM,Monaco,Norway,Ligue 1,Shadow Striker
+47,Martin Wirtz,CAM,Monaco,Colombia,Ligue 1,Classic 10
+48,Florian Mount,CAM,Bologna,Norway,Serie A,Half Winger
+49,Arda Szoboszlai,CAM,Napoli,England,Serie A,Shadow Striker
+50,Phil Kang-in,CAM,Lazio,Germany,Serie A,Half Winger
+51,Xavi Dybala,CAM,AC Milan,Japan,Serie A,Classic 10
+52,Arda Foden,CAM,Bayer Leverkusen,Germany,Bundesliga,Playmaker
+53,Bruno Eze,CAM,Nice,England,Ligue 1,Half Winger
+54,Arda Diaz,CAM,Newcastle,England,Premier League,Classic 10
+55,Cole Kubo,CAM,Arsenal,France,Premier League,Half Winger
+56,Julian Mount,CAM,Real Madrid,France,La Liga,Half Winger
+57,Dominik Guler,CAM,Real Betis,Portugal,La Liga,Shadow Striker
+58,Dominik Palmer,CAM,Nice,Argentina,Ligue 1,Half Winger
+59,James Kubo,CAM,Monaco,Spain,Ligue 1,Shadow Striker
+60,Dominik Maddison,CAM,Real Betis,Turkey,La Liga,Playmaker
+61,Lee Wirtz,CAM,Aston Villa,Portugal,Premier League,Playmaker
+62,Morgan Odegaard,CAM,Chelsea,France,Premier League,Shadow Striker
+63,Bruno Diaz,CAM,Juventus,Germany,Serie A,Classic 10
+64,Cole Foden,CAM,Lyon,South Korea,Ligue 1,Playmaker
+65,Takefusa Fernandes,CAM,Lazio,Morocco,Serie A,Half Winger
+66,Florian Nkunku,CAM,Manchester City,Germany,Premier League,Shadow Striker
+67,Lee Kubo,CAM,Real Madrid,Morocco,La Liga,Playmaker
+68,Dani Kang-in,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Classic 10
+69,Dani Guler,CAM,Marseille,France,Ligue 1,Half Winger
+70,Morgan Wirtz,CAM,Manchester City,France,Premier League,Classic 10
+71,Bruno Olmo,CAM,Real Sociedad,Germany,La Liga,Half Winger
+72,Dani Kang-in,CAM,PSG,France,Ligue 1,Half Winger
+73,Morgan Eze,CAM,Stuttgart,Germany,Bundesliga,Classic 10
+74,Arda Eze,CAM,Manchester City,England,Premier League,Shadow Striker
+75,Paulo Alvarez,CAM,Atletico Madrid,South Korea,La Liga,Playmaker
+76,Takefusa Foden,CAM,Lazio,Norway,Serie A,Classic 10
+77,Lee Musiala,CAM,Atalanta,Japan,Serie A,Playmaker
+78,Lee Foden,CAM,Stuttgart,Turkey,Bundesliga,Shadow Striker
+79,Arda Simons,CAM,Monaco,Colombia,Ligue 1,Playmaker
+80,Morgan Palmer,CAM,Bayern Munich,Portugal,Bundesliga,Shadow Striker
+81,Phil Olmo,CAM,Dortmund,Colombia,Bundesliga,Classic 10
+82,Eberechi Musiala,CAM,Frankfurt,Portugal,Bundesliga,Half Winger
+83,Arda Gibbs-White,CAM,Real Betis,Argentina,La Liga,Shadow Striker
+84,Takefusa Eze,CAM,Napoli,France,Serie A,Classic 10
+85,Dominik Guler,CAM,West Ham,Japan,Premier League,Shadow Striker
+86,Dominik Musiala,CAM,Chelsea,Portugal,Premier League,Classic 10
+87,Martin Olmo,CAM,West Ham,South Korea,Premier League,Half Winger
+88,Arda Nkunku,CAM,Liverpool,Argentina,Premier League,Shadow Striker
+89,Martin Eze,CAM,Barcelona,Colombia,La Liga,Shadow Striker
+90,Paulo Szoboszlai,CAM,Real Madrid,Argentina,La Liga,Shadow Striker
+91,Martin Diaz,CAM,Brighton,Portugal,Premier League,Playmaker
+92,Xavi Kubo,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Half Winger
+93,Xavi Mount,CAM,Athletic Club,Norway,La Liga,Shadow Striker
+94,Cole Diaz,CAM,Arsenal,Germany,Premier League,Half Winger
+95,Takefusa Foden,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+96,Mason Diaz,CAM,Girona,Portugal,La Liga,Playmaker
+97,James Foden,CAM,Bayern Munich,Colombia,Bundesliga,Classic 10
+98,Phil Alvarez,CAM,Monaco,Colombia,Ligue 1,Playmaker
+99,Mason Dybala,CAM,Liverpool,France,Premier League,Half Winger
+100,Eberechi Nkunku,CAM,PSG,Brazil,Ligue 1,Classic 10
+101,Takefusa Maddison,CAM,Newcastle,Uruguay,Premier League,Playmaker
+102,James Dybala,CAM,Arsenal,Netherlands,Premier League,Shadow Striker
+103,Morgan Gibbs-White,CAM,Barcelona,Spain,La Liga,Playmaker
+104,Cole Kang-in,CAM,Real Sociedad,England,La Liga,Shadow Striker
+105,Eberechi Musiala,CAM,Brest,Netherlands,Ligue 1,Classic 10
+106,Mason Odegaard,CAM,Arsenal,Spain,Premier League,Classic 10
+107,Christopher Mount,CAM,RB Leipzig,Morocco,Bundesliga,Playmaker
+108,Julian Musiala,CAM,Liverpool,Spain,Premier League,Playmaker
+109,Phil Eze,CAM,Dortmund,South Korea,Bundesliga,Half Winger
+110,Cole Eze,CAM,Atletico Madrid,Netherlands,La Liga,Shadow Striker
+111,Florian Musiala,CAM,Napoli,Netherlands,Serie A,Classic 10
+112,Florian Musiala,CAM,Bayer Leverkusen,Portugal,Bundesliga,Playmaker
+113,Florian Wirtz,CAM,Frankfurt,Spain,Bundesliga,Classic 10
+114,James Dybala,CAM,Lyon,Germany,Ligue 1,Half Winger
+115,Morgan Diaz,CAM,Real Sociedad,Uruguay,La Liga,Half Winger
+116,Mason Szoboszlai,CAM,Girona,Netherlands,La Liga,Shadow Striker
+117,Florian Eze,CAM,Stuttgart,Turkey,Bundesliga,Classic 10
+118,Paulo Eze,CAM,Frankfurt,Colombia,Bundesliga,Playmaker
+119,Cole Palmer,CAM,Bayern Munich,Japan,Bundesliga,Classic 10
+120,Cole Gibbs-White,CAM,AC Milan,Portugal,Serie A,Shadow Striker
+121,Takefusa Guler,CAM,PSG,Uruguay,Ligue 1,Playmaker
+122,Bruno Alvarez,CAM,Stuttgart,Colombia,Bundesliga,Shadow Striker
+123,Dominik Wirtz,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Playmaker
+124,Martin Fernandes,CAM,Arsenal,South Korea,Premier League,Half Winger
+125,Dani Wirtz,CAM,Real Madrid,Norway,La Liga,Half Winger
+126,Martin Szoboszlai,CAM,Bologna,France,Serie A,Shadow Striker
+127,Xavi Musiala,CAM,Bayern Munich,France,Bundesliga,Classic 10
+128,Brahim Fernandes,CAM,Manchester City,France,Premier League,Playmaker
+129,Phil Maddison,CAM,Lyon,Morocco,Ligue 1,Classic 10
+130,Brahim Alvarez,CAM,Monaco,Argentina,Ligue 1,Playmaker
+131,Jamal Maddison,CAM,RB Leipzig,Portugal,Bundesliga,Classic 10
+132,Phil Palmer,CAM,RB Leipzig,Colombia,Bundesliga,Classic 10
+133,Florian Foden,CAM,Atletico Madrid,Morocco,La Liga,Shadow Striker
+134,Mason Mount,CAM,Bayern Munich,England,Bundesliga,Playmaker
+135,Dani Guler,CAM,Newcastle,Uruguay,Premier League,Classic 10
+136,James Musiala,CAM,Real Sociedad,South Korea,La Liga,Classic 10
+137,Dominik Kang-in,CAM,Chelsea,Spain,Premier League,Classic 10
+138,Arda Musiala,CAM,AC Milan,Germany,Serie A,Half Winger
+139,Eberechi Musiala,CAM,Nice,Argentina,Ligue 1,Half Winger
+140,Christopher Odegaard,CAM,Juventus,Colombia,Serie A,Classic 10
+141,Dani Simons,CAM,PSG,South Korea,Ligue 1,Shadow Striker
+142,Dani Nkunku,CAM,Girona,Uruguay,La Liga,Half Winger
+143,Morgan Alvarez,CAM,AC Milan,Netherlands,Serie A,Half Winger
+144,Paulo Musiala,CAM,Monaco,Brazil,Ligue 1,Classic 10
+145,Paulo Kubo,CAM,RB Leipzig,Portugal,Bundesliga,Shadow Striker
+146,Morgan Nkunku,CAM,Atalanta,Morocco,Serie A,Playmaker
+147,Arda Eze,CAM,Athletic Club,Japan,La Liga,Shadow Striker
+148,Paulo Guler,CAM,RB Leipzig,Argentina,Bundesliga,Half Winger
+149,Mason Foden,CAM,Stuttgart,Colombia,Bundesliga,Playmaker
+150,Martin Foden,CAM,Aston Villa,Netherlands,Premier League,Classic 10
+151,Dominik Kang-in,CAM,Lille,Portugal,Ligue 1,Half Winger
+152,Dani Alvarez,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Half Winger
+153,Dani Kang-in,CAM,Bologna,Uruguay,Serie A,Half Winger
+154,Eberechi Szoboszlai,CAM,Bayer Leverkusen,South Korea,Bundesliga,Shadow Striker
+155,Julian Gibbs-White,CAM,Dortmund,Brazil,Bundesliga,Playmaker
+156,Julian Olmo,CAM,Manchester City,Morocco,Premier League,Half Winger
+157,Dani Musiala,CAM,Atalanta,Colombia,Serie A,Shadow Striker
+158,Cole Gibbs-White,CAM,Brest,Uruguay,Ligue 1,Shadow Striker
+159,Brahim Fernandes,CAM,Real Madrid,Spain,La Liga,Classic 10
+160,Arda Musiala,CAM,Liverpool,Netherlands,Premier League,Shadow Striker
+161,Martin Kubo,CAM,Real Sociedad,Colombia,La Liga,Playmaker
+162,Jamal Fernandes,CAM,Juventus,South Korea,Serie A,Half Winger
+163,Cole Olmo,CAM,Lyon,Germany,Ligue 1,Half Winger
+164,Arda Kubo,CAM,Real Sociedad,Norway,La Liga,Shadow Striker
+165,Morgan Szoboszlai,CAM,Stuttgart,Argentina,Bundesliga,Classic 10
+166,Dani Maddison,CAM,Chelsea,South Korea,Premier League,Half Winger
+167,Morgan Foden,CAM,Marseille,Netherlands,Ligue 1,Shadow Striker
+168,Arda Eze,CAM,Atalanta,Turkey,Serie A,Playmaker
+169,James Guler,CAM,Real Sociedad,England,La Liga,Classic 10
+170,Dominik Foden,CAM,Brest,Argentina,Ligue 1,Classic 10
+171,Christopher Diaz,CAM,Nice,Japan,Ligue 1,Classic 10
+172,Cole Olmo,CAM,Napoli,Japan,Serie A,Classic 10
+173,Dominik Eze,CAM,Brest,Norway,Ligue 1,Shadow Striker
+174,Brahim Foden,CAM,Athletic Club,Netherlands,La Liga,Half Winger
+175,Arda Alvarez,CAM,Lazio,Colombia,Serie A,Shadow Striker
+176,Dominik Simons,CAM,RB Leipzig,France,Bundesliga,Shadow Striker
+177,Cole Wirtz,CAM,Tottenham,Argentina,Premier League,Half Winger
+178,Florian Dybala,CAM,Athletic Club,Brazil,La Liga,Classic 10
+179,Christopher Wirtz,CAM,Barcelona,Germany,La Liga,Half Winger
+180,Martin Nkunku,CAM,Bayern Munich,Uruguay,Bundesliga,Shadow Striker
+181,Lee Mount,CAM,Barcelona,Morocco,La Liga,Half Winger
+182,Florian Eze,CAM,Brighton,Colombia,Premier League,Half Winger
+183,Xavi Palmer,CAM,Marseille,Portugal,Ligue 1,Shadow Striker
+184,Phil Foden,CAM,Bayer Leverkusen,Portugal,Bundesliga,Shadow Striker
+185,Christopher Foden,CAM,RB Leipzig,Argentina,Bundesliga,Shadow Striker
+186,Jamal Mount,CAM,Aston Villa,England,Premier League,Playmaker
+187,Brahim Gibbs-White,CAM,Juventus,South Korea,Serie A,Playmaker
+188,Eberechi Kang-in,CAM,Dortmund,Japan,Bundesliga,Playmaker
+189,Arda Guler,CAM,Liverpool,Turkey,Premier League,Classic 10
+190,Christopher Wirtz,CAM,Napoli,Morocco,Serie A,Half Winger
+191,Morgan Maddison,CAM,Real Betis,Uruguay,La Liga,Shadow Striker
+192,Christopher Diaz,CAM,Atletico Madrid,Portugal,La Liga,Half Winger
+193,Xavi Kang-in,CAM,Bayern Munich,France,Bundesliga,Half Winger
+194,Lee Gibbs-White,CAM,AS Roma,Norway,Serie A,Playmaker
+195,Paulo Diaz,CAM,Nice,Morocco,Ligue 1,Shadow Striker
+196,Mason Nkunku,CAM,West Ham,Portugal,Premier League,Classic 10
+197,Bruno Dybala,CAM,Bologna,Morocco,Serie A,Classic 10
+198,Lee Eze,CAM,Lyon,Germany,Ligue 1,Classic 10
+199,Phil Musiala,CAM,Stuttgart,Uruguay,Bundesliga,Playmaker
+200,Arda Mount,CAM,Real Madrid,Japan,La Liga,Classic 10
+201,Dominik Guler,CAM,PSG,England,Ligue 1,Half Winger
+202,James Kang-in,CAM,Athletic Club,Turkey,La Liga,Shadow Striker
+203,James Szoboszlai,CAM,Stuttgart,Norway,Bundesliga,Shadow Striker
+204,Jamal Gibbs-White,CAM,Girona,Germany,La Liga,Half Winger
+205,Dominik Eze,CAM,Newcastle,Netherlands,Premier League,Playmaker
+206,James Mount,CAM,Tottenham,France,Premier League,Classic 10
+207,Eberechi Nkunku,CAM,West Ham,Uruguay,Premier League,Classic 10
+208,Dani Szoboszlai,CAM,Manchester United,England,Premier League,Playmaker
+209,Bruno Fernandes,CAM,Monaco,Colombia,Ligue 1,Half Winger
+210,Phil Eze,CAM,Marseille,Turkey,Ligue 1,Playmaker
+211,Eberechi Mount,CAM,Aston Villa,Uruguay,Premier League,Classic 10
+212,Xavi Diaz,CAM,RB Leipzig,Brazil,Bundesliga,Half Winger
+213,Julian Kang-in,CAM,Bologna,Germany,Serie A,Shadow Striker
+214,Christopher Foden,CAM,Lille,Brazil,Ligue 1,Classic 10
+215,James Fernandes,CAM,Brighton,Germany,Premier League,Half Winger
+216,Christopher Dybala,CAM,Lyon,France,Ligue 1,Shadow Striker
+217,Jamal Alvarez,CAM,Nice,Netherlands,Ligue 1,Shadow Striker
+218,Lee Fernandes,CAM,Brighton,Spain,Premier League,Half Winger
+219,Mason Musiala,CAM,PSG,South Korea,Ligue 1,Shadow Striker
+220,Brahim Diaz,CAM,Chelsea,France,Premier League,Classic 10
+221,Dani Olmo,CAM,Athletic Club,South Korea,La Liga,Playmaker
+222,Christopher Guler,CAM,Lyon,Colombia,Ligue 1,Shadow Striker
+223,Arda Odegaard,CAM,Real Sociedad,England,La Liga,Playmaker
+224,Florian Mount,CAM,Lazio,Spain,Serie A,Shadow Striker
+225,Bruno Alvarez,CAM,Arsenal,Uruguay,Premier League,Playmaker
+226,Cole Simons,CAM,Lille,Portugal,Ligue 1,Playmaker
+227,Martin Kang-in,CAM,Bayer Leverkusen,South Korea,Bundesliga,Shadow Striker
+228,Arda Kubo,CAM,Monaco,Portugal,Ligue 1,Half Winger
+229,Arda Olmo,CAM,Atalanta,England,Serie A,Shadow Striker
+230,Eberechi Guler,CAM,Lyon,Argentina,Ligue 1,Half Winger
+231,Bruno Nkunku,CAM,Atalanta,Netherlands,Serie A,Playmaker
+232,Florian Alvarez,CAM,Newcastle,Germany,Premier League,Shadow Striker
+233,Paulo Eze,CAM,Atletico Madrid,Morocco,La Liga,Classic 10
+234,Mason Dybala,CAM,Frankfurt,Spain,Bundesliga,Half Winger
+235,Julian Fernandes,CAM,Athletic Club,South Korea,La Liga,Shadow Striker
+236,Lee Fernandes,CAM,Manchester United,France,Premier League,Shadow Striker
+237,Xavi Palmer,CAM,Barcelona,Colombia,La Liga,Half Winger
+238,James Foden,CAM,Aston Villa,Netherlands,Premier League,Playmaker
+239,Lee Diaz,CAM,Arsenal,Colombia,Premier League,Classic 10
+240,Lee Kang-in,CAM,Valencia,Argentina,La Liga,Classic 10
+241,Dominik Nkunku,CAM,Newcastle,Japan,Premier League,Playmaker
+242,Brahim Diaz,CAM,AS Roma,Colombia,Serie A,Playmaker
+243,Lee Nkunku,CAM,RB Leipzig,Morocco,Bundesliga,Shadow Striker
+244,Paulo Simons,CAM,Bayern Munich,Turkey,Bundesliga,Playmaker
+245,Dominik Diaz,CAM,Stuttgart,France,Bundesliga,Half Winger
+246,James Palmer,CAM,Atalanta,Germany,Serie A,Shadow Striker
+247,Julian Simons,CAM,Barcelona,Turkey,La Liga,Shadow Striker
+248,Paulo Fernandes,CAM,Bayer Leverkusen,Turkey,Bundesliga,Half Winger
+249,Phil Diaz,CAM,Nice,Netherlands,Ligue 1,Half Winger
+250,Paulo Szoboszlai,CAM,Brest,Brazil,Ligue 1,Half Winger
+251,Eberechi Kang-in,CAM,Valencia,Morocco,La Liga,Shadow Striker
+252,Cole Foden,CAM,Bologna,Brazil,Serie A,Classic 10
+253,Takefusa Olmo,CAM,Bayern Munich,Japan,Bundesliga,Playmaker
+254,Dani Nkunku,CAM,Lyon,Germany,Ligue 1,Shadow Striker
+255,Julian Szoboszlai,CAM,Manchester City,Turkey,Premier League,Half Winger
+256,Martin Mount,CAM,AS Roma,Netherlands,Serie A,Half Winger
+257,Christopher Szoboszlai,CAM,Bologna,South Korea,Serie A,Shadow Striker
+258,Mason Palmer,CAM,Bayer Leverkusen,Brazil,Bundesliga,Playmaker
+259,Arda Fernandes,CAM,Girona,Spain,La Liga,Classic 10
+260,Brahim Musiala,CAM,Juventus,Portugal,Serie A,Shadow Striker
+261,Takefusa Kang-in,CAM,Stuttgart,Netherlands,Bundesliga,Playmaker
+262,Morgan Eze,CAM,Frankfurt,Norway,Bundesliga,Shadow Striker
+263,Xavi Foden,CAM,Bayer Leverkusen,Japan,Bundesliga,Shadow Striker
+264,Eberechi Alvarez,CAM,Nice,England,Ligue 1,Classic 10
+265,Arda Nkunku,CAM,Frankfurt,Colombia,Bundesliga,Playmaker
+266,Eberechi Gibbs-White,CAM,Frankfurt,Portugal,Bundesliga,Shadow Striker
+267,Paulo Fernandes,CAM,Real Madrid,Spain,La Liga,Classic 10
+268,Dani Maddison,CAM,Monaco,Colombia,Ligue 1,Half Winger
+269,Mason Eze,CAM,RB Leipzig,South Korea,Bundesliga,Classic 10
+270,Martin Kubo,CAM,Dortmund,Morocco,Bundesliga,Playmaker
+271,Christopher Musiala,CAM,Atalanta,Portugal,Serie A,Half Winger
+272,Florian Musiala,CAM,Lille,Argentina,Ligue 1,Shadow Striker
+273,James Guler,CAM,Lille,South Korea,Ligue 1,Playmaker
+274,Lee Olmo,CAM,Atletico Madrid,Argentina,La Liga,Playmaker
+275,Christopher Gibbs-White,CAM,Bayern Munich,Japan,Bundesliga,Shadow Striker
+276,Takefusa Mount,CAM,Bayern Munich,Colombia,Bundesliga,Playmaker
+277,Brahim Kubo,CAM,West Ham,Colombia,Premier League,Playmaker
+278,Julian Szoboszlai,CAM,Real Betis,South Korea,La Liga,Shadow Striker
+279,Xavi Simons,CAM,Bologna,Netherlands,Serie A,Shadow Striker
+280,Takefusa Olmo,CAM,Bayer Leverkusen,Morocco,Bundesliga,Playmaker
+281,Florian Wirtz,CAM,Inter Milan,Uruguay,Serie A,Half Winger
+282,Mason Szoboszlai,CAM,Stuttgart,England,Bundesliga,Playmaker
+283,Eberechi Szoboszlai,CAM,RB Leipzig,Brazil,Bundesliga,Half Winger
+284,Phil Nkunku,CAM,PSG,Japan,Ligue 1,Classic 10
+285,Cole Palmer,CAM,Atletico Madrid,Brazil,La Liga,Shadow Striker
+286,Dominik Olmo,CAM,Brighton,Germany,Premier League,Half Winger
+287,Lee Dybala,CAM,Brighton,Argentina,Premier League,Classic 10
+288,Paulo Nkunku,CAM,Chelsea,Uruguay,Premier League,Half Winger
+289,Lee Wirtz,CAM,Lille,Turkey,Ligue 1,Classic 10
+290,Jamal Fernandes,CAM,Barcelona,England,La Liga,Playmaker
+291,Dani Simons,CAM,Chelsea,Uruguay,Premier League,Half Winger
+292,Morgan Maddison,CAM,Inter Milan,Germany,Serie A,Playmaker
+293,Mason Dybala,CAM,Atalanta,Colombia,Serie A,Half Winger
+294,Julian Kubo,CAM,Bayer Leverkusen,Colombia,Bundesliga,Shadow Striker
+295,Bruno Alvarez,CAM,Chelsea,Uruguay,Premier League,Classic 10
+296,Bruno Musiala,CAM,Frankfurt,Uruguay,Bundesliga,Shadow Striker
+297,Morgan Mount,CAM,Marseille,Spain,Ligue 1,Shadow Striker
+298,Martin Gibbs-White,CAM,Girona,Turkey,La Liga,Playmaker
+299,Florian Olmo,CAM,Frankfurt,South Korea,Bundesliga,Shadow Striker
+300,Phil Foden,CAM,Real Madrid,South Korea,La Liga,Classic 10
+301,Phil Musiala,CAM,Real Sociedad,England,La Liga,Half Winger
+302,Dominik Olmo,CAM,Nice,Germany,Ligue 1,Shadow Striker
+303,Eberechi Alvarez,CAM,Inter Milan,Morocco,Serie A,Classic 10
+304,Lee Alvarez,CAM,Arsenal,Japan,Premier League,Half Winger
+305,Jamal Szoboszlai,CAM,Girona,Colombia,La Liga,Half Winger
+306,Julian Odegaard,CAM,Marseille,Uruguay,Ligue 1,Half Winger
+307,Dani Wirtz,CAM,Juventus,France,Serie A,Playmaker
+308,James Odegaard,CAM,Lazio,South Korea,Serie A,Playmaker
+309,James Kang-in,CAM,Lyon,Colombia,Ligue 1,Half Winger
+310,Paulo Gibbs-White,CAM,Brest,South Korea,Ligue 1,Shadow Striker
+311,Xavi Kang-in,CAM,AC Milan,England,Serie A,Classic 10
+312,Morgan Nkunku,CAM,Marseille,Portugal,Ligue 1,Playmaker
+313,Christopher Eze,CAM,Juventus,Morocco,Serie A,Half Winger
+314,Dani Kang-in,CAM,Marseille,Turkey,Ligue 1,Half Winger
+315,Arda Szoboszlai,CAM,Frankfurt,Portugal,Bundesliga,Shadow Striker
+316,Martin Odegaard,CAM,RB Leipzig,Argentina,Bundesliga,Shadow Striker
+317,Paulo Maddison,CAM,Nice,England,Ligue 1,Shadow Striker
+318,Phil Alvarez,CAM,Bayern Munich,Portugal,Bundesliga,Classic 10
+319,Dani Olmo,CAM,Real Sociedad,France,La Liga,Shadow Striker
+320,Mason Kang-in,CAM,AC Milan,Morocco,Serie A,Playmaker
+321,Morgan Kang-in,CAM,Marseille,Argentina,Ligue 1,Classic 10
+322,Phil Gibbs-White,CAM,Nice,Colombia,Ligue 1,Half Winger
+323,Lee Foden,CAM,Valencia,South Korea,La Liga,Classic 10
+324,James Wirtz,CAM,Liverpool,Argentina,Premier League,Playmaker
+325,Eberechi Simons,CAM,Atalanta,Japan,Serie A,Classic 10
+326,Eberechi Mount,CAM,Chelsea,Brazil,Premier League,Playmaker
+327,Bruno Szoboszlai,CAM,Bayer Leverkusen,Brazil,Bundesliga,Shadow Striker
+328,Eberechi Foden,CAM,Marseille,Brazil,Ligue 1,Playmaker
+329,Lee Gibbs-White,CAM,Manchester United,Argentina,Premier League,Half Winger
+330,Jamal Eze,CAM,Napoli,Spain,Serie A,Classic 10
+331,Florian Simons,CAM,Bologna,Japan,Serie A,Classic 10
+332,Dani Kang-in,CAM,Arsenal,France,Premier League,Half Winger
+333,Xavi Kubo,CAM,Arsenal,Netherlands,Premier League,Shadow Striker
+334,Florian Alvarez,CAM,Inter Milan,Morocco,Serie A,Playmaker
+335,Julian Alvarez,CAM,Athletic Club,Spain,La Liga,Classic 10
+336,Mason Dybala,CAM,Bayer Leverkusen,Turkey,Bundesliga,Playmaker
+337,Phil Maddison,CAM,Atalanta,Japan,Serie A,Classic 10
+338,Takefusa Nkunku,CAM,AC Milan,Norway,Serie A,Classic 10
+339,Mason Fernandes,CAM,Brest,Turkey,Ligue 1,Classic 10
+340,Morgan Foden,CAM,Barcelona,Brazil,La Liga,Playmaker
+341,Takefusa Gibbs-White,CAM,Real Sociedad,South Korea,La Liga,Shadow Striker
+342,Takefusa Alvarez,CAM,Nice,France,Ligue 1,Half Winger
+343,Christopher Odegaard,CAM,Athletic Club,France,La Liga,Shadow Striker
+344,Dominik Mount,CAM,Chelsea,Morocco,Premier League,Playmaker
+345,Phil Nkunku,CAM,Napoli,Morocco,Serie A,Playmaker
+346,Takefusa Fernandes,CAM,Arsenal,Uruguay,Premier League,Classic 10
+347,Phil Szoboszlai,CAM,Stuttgart,Portugal,Bundesliga,Classic 10
+348,Paulo Olmo,CAM,Brighton,England,Premier League,Classic 10
+349,Jamal Dybala,CAM,Stuttgart,Morocco,Bundesliga,Shadow Striker
+350,Dani Maddison,CAM,AS Roma,England,Serie A,Half Winger
+351,Cole Szoboszlai,CAM,Newcastle,Germany,Premier League,Classic 10
+352,Dani Maddison,CAM,Lazio,Colombia,Serie A,Shadow Striker
+353,Takefusa Szoboszlai,CAM,Arsenal,Japan,Premier League,Playmaker
+354,Bruno Palmer,CAM,Newcastle,Spain,Premier League,Classic 10
+355,Dominik Eze,CAM,Aston Villa,Germany,Premier League,Shadow Striker
+356,Eberechi Nkunku,CAM,Atalanta,South Korea,Serie A,Half Winger
+357,Jamal Olmo,CAM,Stuttgart,Brazil,Bundesliga,Classic 10
+358,Arda Foden,CAM,RB Leipzig,Japan,Bundesliga,Shadow Striker
+359,Paulo Wirtz,CAM,Newcastle,Colombia,Premier League,Classic 10
+360,Takefusa Palmer,CAM,Inter Milan,Spain,Serie A,Classic 10
+361,Takefusa Wirtz,CAM,Inter Milan,Turkey,Serie A,Classic 10
+362,Christopher Guler,CAM,Tottenham,Morocco,Premier League,Shadow Striker
+363,Dani Palmer,CAM,Lyon,Colombia,Ligue 1,Shadow Striker
+364,Morgan Maddison,CAM,Atletico Madrid,Netherlands,La Liga,Half Winger
+365,Bruno Gibbs-White,CAM,Athletic Club,South Korea,La Liga,Half Winger
+366,Phil Palmer,CAM,Tottenham,Morocco,Premier League,Half Winger
+367,Phil Mount,CAM,Bayer Leverkusen,Colombia,Bundesliga,Shadow Striker
+368,Florian Alvarez,CAM,Bayern Munich,Japan,Bundesliga,Shadow Striker
+369,Christopher Maddison,CAM,Monaco,Japan,Ligue 1,Half Winger
+370,Florian Maddison,CAM,Bayer Leverkusen,Germany,Bundesliga,Half Winger
+371,James Eze,CAM,Bayern Munich,France,Bundesliga,Playmaker
+372,Morgan Fernandes,CAM,RB Leipzig,Colombia,Bundesliga,Classic 10
+373,Lee Diaz,CAM,Lyon,Norway,Ligue 1,Classic 10
+374,Bruno Maddison,CAM,Brest,Uruguay,Ligue 1,Shadow Striker
+375,Arda Wirtz,CAM,Lyon,Brazil,Ligue 1,Playmaker
+376,Xavi Olmo,CAM,Lille,Brazil,Ligue 1,Playmaker
+377,Cole Olmo,CAM,Arsenal,Uruguay,Premier League,Playmaker
+378,Julian Szoboszlai,CAM,Brighton,Japan,Premier League,Half Winger
+379,Dominik Diaz,CAM,Lille,Argentina,Ligue 1,Playmaker
+380,Jamal Foden,CAM,Real Sociedad,Netherlands,La Liga,Half Winger
+381,Cole Gibbs-White,CAM,Manchester United,South Korea,Premier League,Playmaker
+382,Christopher Odegaard,CAM,Real Madrid,Morocco,La Liga,Playmaker
+383,Eberechi Musiala,CAM,Brest,Uruguay,Ligue 1,Half Winger
+384,Dominik Maddison,CAM,Barcelona,Turkey,La Liga,Playmaker
+385,Martin Wirtz,CAM,West Ham,England,Premier League,Shadow Striker
+386,Bruno Kubo,CAM,Bayer Leverkusen,England,Bundesliga,Playmaker
+387,Dominik Gibbs-White,CAM,Frankfurt,Spain,Bundesliga,Playmaker
+388,James Kubo,CAM,PSG,Norway,Ligue 1,Half Winger
+389,Arda Simons,CAM,Brest,Brazil,Ligue 1,Classic 10
+390,Phil Gibbs-White,CAM,Arsenal,Norway,Premier League,Shadow Striker
+391,Dani Diaz,CAM,Marseille,Argentina,Ligue 1,Classic 10
+392,Martin Gibbs-White,CAM,Bayern Munich,England,Bundesliga,Shadow Striker
+393,Dominik Fernandes,CAM,Manchester United,Netherlands,Premier League,Classic 10
+394,Bruno Simons,CAM,PSG,Argentina,Ligue 1,Shadow Striker
+395,Julian Gibbs-White,CAM,Athletic Club,Norway,La Liga,Shadow Striker
+396,Morgan Mount,CAM,Bayern Munich,Germany,Bundesliga,Playmaker
+397,James Musiala,CAM,Monaco,Portugal,Ligue 1,Shadow Striker
+398,James Guler,CAM,Lyon,England,Ligue 1,Playmaker
+399,Florian Alvarez,CAM,Real Betis,England,La Liga,Classic 10
+400,James Maddison,CAM,Bayern Munich,Argentina,Bundesliga,Classic 10
+401,Eberechi Alvarez,CAM,AS Roma,Colombia,Serie A,Half Winger
+402,Dominik Olmo,CAM,Girona,England,La Liga,Classic 10
+403,Dominik Mount,CAM,Frankfurt,Norway,Bundesliga,Half Winger
+404,Mason Maddison,CAM,Liverpool,Norway,Premier League,Shadow Striker
+405,Xavi Foden,CAM,Atletico Madrid,Argentina,La Liga,Half Winger
+406,Lee Diaz,CAM,RB Leipzig,Portugal,Bundesliga,Classic 10
+407,Takefusa Gibbs-White,CAM,AC Milan,Japan,Serie A,Shadow Striker
+408,Eberechi Dybala,CAM,Napoli,France,Serie A,Half Winger
+409,Dominik Mount,CAM,Real Betis,Uruguay,La Liga,Half Winger
+410,Dominik Simons,CAM,AC Milan,Argentina,Serie A,Classic 10
+411,Cole Palmer,CAM,Bayern Munich,Colombia,Bundesliga,Half Winger
+412,Paulo Kubo,CAM,Aston Villa,France,Premier League,Shadow Striker
+413,Martin Kubo,CAM,Monaco,France,Ligue 1,Shadow Striker
+414,Takefusa Diaz,CAM,Stuttgart,Norway,Bundesliga,Half Winger
+415,Cole Diaz,CAM,Napoli,Turkey,Serie A,Classic 10
+416,Martin Kubo,CAM,Arsenal,Turkey,Premier League,Playmaker
+417,Eberechi Guler,CAM,Marseille,France,Ligue 1,Classic 10
+418,Julian Kubo,CAM,Bayer Leverkusen,Spain,Bundesliga,Half Winger
+419,Jamal Odegaard,CAM,Stuttgart,Uruguay,Bundesliga,Half Winger
+420,Florian Kang-in,CAM,Lyon,Colombia,Ligue 1,Playmaker
+421,Martin Fernandes,CAM,Barcelona,Spain,La Liga,Shadow Striker
+422,Morgan Simons,CAM,Liverpool,France,Premier League,Classic 10
+423,James Simons,CAM,Stuttgart,France,Bundesliga,Classic 10
+424,James Szoboszlai,CAM,Real Madrid,Netherlands,La Liga,Half Winger
+425,James Palmer,CAM,West Ham,South Korea,Premier League,Classic 10
+426,Takefusa Diaz,CAM,PSG,England,Ligue 1,Classic 10
+427,Eberechi Gibbs-White,CAM,Manchester United,England,Premier League,Playmaker
+428,Xavi Wirtz,CAM,AC Milan,Norway,Serie A,Shadow Striker
+429,Jamal Musiala,CAM,Marseille,England,Ligue 1,Playmaker
+430,James Palmer,CAM,Athletic Club,England,La Liga,Half Winger
+431,Jamal Eze,CAM,West Ham,Netherlands,Premier League,Classic 10
+432,Takefusa Alvarez,CAM,Bayer Leverkusen,Norway,Bundesliga,Half Winger
+433,James Olmo,CAM,PSG,Norway,Ligue 1,Shadow Striker
+434,Jamal Kubo,CAM,Chelsea,Uruguay,Premier League,Playmaker
+435,Christopher Maddison,CAM,Real Betis,Morocco,La Liga,Half Winger
+436,Cole Alvarez,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Shadow Striker
+437,Christopher Alvarez,CAM,Inter Milan,Spain,Serie A,Classic 10
+438,Lee Mount,CAM,PSG,Argentina,Ligue 1,Playmaker
+439,Florian Gibbs-White,CAM,Athletic Club,Turkey,La Liga,Classic 10
+440,Lee Nkunku,CAM,Brighton,Netherlands,Premier League,Half Winger
+441,Florian Kang-in,CAM,Liverpool,Turkey,Premier League,Half Winger
+442,Mason Palmer,CAM,Atletico Madrid,Turkey,La Liga,Playmaker
+443,Martin Guler,CAM,Arsenal,Brazil,Premier League,Classic 10
+444,Paulo Alvarez,CAM,Marseille,Morocco,Ligue 1,Playmaker
+445,Christopher Foden,CAM,Bayer Leverkusen,South Korea,Bundesliga,Half Winger
+446,Phil Simons,CAM,RB Leipzig,Netherlands,Bundesliga,Shadow Striker
+447,Cole Mount,CAM,Valencia,Norway,La Liga,Playmaker
+448,Christopher Diaz,CAM,Monaco,England,Ligue 1,Shadow Striker
+449,Dani Foden,CAM,Aston Villa,Germany,Premier League,Half Winger
+450,Xavi Alvarez,CAM,Newcastle,South Korea,Premier League,Half Winger
+451,Lee Odegaard,CAM,Girona,Morocco,La Liga,Shadow Striker
+452,Paulo Mount,CAM,Newcastle,Spain,Premier League,Classic 10
+453,Bruno Foden,CAM,Girona,Spain,La Liga,Shadow Striker
+454,Phil Szoboszlai,CAM,Barcelona,Brazil,La Liga,Playmaker
+455,Bruno Wirtz,CAM,Liverpool,Germany,Premier League,Half Winger
+456,Bruno Odegaard,CAM,Athletic Club,Brazil,La Liga,Classic 10
+457,Florian Guler,CAM,AS Roma,England,Serie A,Classic 10
+458,Morgan Gibbs-White,CAM,Girona,Japan,La Liga,Classic 10
+459,Cole Fernandes,CAM,Inter Milan,Germany,Serie A,Classic 10
+460,Bruno Eze,CAM,PSG,Uruguay,Ligue 1,Half Winger
+461,Eberechi Nkunku,CAM,Aston Villa,France,Premier League,Half Winger
+462,Mason Palmer,CAM,West Ham,England,Premier League,Classic 10
+463,Phil Olmo,CAM,Nice,Portugal,Ligue 1,Playmaker
+464,Takefusa Szoboszlai,CAM,West Ham,Portugal,Premier League,Shadow Striker
+465,Martin Szoboszlai,CAM,Bayern Munich,Colombia,Bundesliga,Shadow Striker
+466,Brahim Mount,CAM,RB Leipzig,Germany,Bundesliga,Half Winger
+467,Takefusa Alvarez,CAM,West Ham,Brazil,Premier League,Classic 10
+468,Julian Kang-in,CAM,Bayer Leverkusen,Spain,Bundesliga,Half Winger
+469,Takefusa Gibbs-White,CAM,Athletic Club,Germany,La Liga,Playmaker
+470,Takefusa Eze,CAM,Bologna,Turkey,Serie A,Shadow Striker
+471,Phil Kubo,CAM,Monaco,Uruguay,Ligue 1,Classic 10
+472,Martin Szoboszlai,CAM,Monaco,France,Ligue 1,Half Winger
+473,Bruno Fernandes,CAM,Lyon,Turkey,Ligue 1,Half Winger
+474,Morgan Gibbs-White,CAM,Dortmund,Netherlands,Bundesliga,Playmaker
+475,Paulo Nkunku,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+476,Lee Kang-in,CAM,Bologna,Colombia,Serie A,Shadow Striker
+477,Florian Gibbs-White,CAM,Juventus,Netherlands,Serie A,Half Winger
+478,Mason Dybala,CAM,Real Sociedad,Morocco,La Liga,Half Winger
+479,Eberechi Szoboszlai,CAM,Lille,Turkey,Ligue 1,Classic 10
+480,Dominik Wirtz,CAM,Napoli,South Korea,Serie A,Half Winger
+481,Julian Gibbs-White,CAM,Newcastle,South Korea,Premier League,Half Winger
+482,Mason Foden,CAM,Barcelona,Norway,La Liga,Classic 10
+483,Phil Gibbs-White,CAM,Stuttgart,Uruguay,Bundesliga,Classic 10
+484,Dominik Alvarez,CAM,Brighton,Netherlands,Premier League,Half Winger
+485,Dani Dybala,CAM,Monaco,Brazil,Ligue 1,Classic 10
+486,Julian Fernandes,CAM,Inter Milan,Portugal,Serie A,Playmaker
+487,Christopher Dybala,CAM,Girona,Norway,La Liga,Playmaker
+488,Florian Diaz,CAM,Frankfurt,Colombia,Bundesliga,Half Winger
+489,Martin Nkunku,CAM,Lille,Brazil,Ligue 1,Shadow Striker
+490,Bruno Simons,CAM,Tottenham,Portugal,Premier League,Shadow Striker
+491,Dani Simons,CAM,Inter Milan,France,Serie A,Classic 10
+492,Brahim Odegaard,CAM,Real Madrid,South Korea,La Liga,Half Winger
+493,Brahim Nkunku,CAM,Bologna,Norway,Serie A,Classic 10
+494,Cole Foden,CAM,Atletico Madrid,Netherlands,La Liga,Half Winger
+495,Christopher Musiala,CAM,Stuttgart,Germany,Bundesliga,Shadow Striker
+496,Florian Palmer,CAM,Newcastle,Spain,Premier League,Playmaker
+497,Bruno Simons,CAM,Barcelona,Morocco,La Liga,Shadow Striker
+498,Takefusa Mount,CAM,Brest,Portugal,Ligue 1,Shadow Striker
+499,Lee Nkunku,CAM,Atletico Madrid,Colombia,La Liga,Playmaker
+500,Julian Nkunku,CAM,RB Leipzig,Norway,Bundesliga,Shadow Striker
+501,Jamal Odegaard,CAM,Lille,Norway,Ligue 1,Half Winger
+502,Dominik Guler,CAM,Athletic Club,Argentina,La Liga,Classic 10
+503,Bruno Dybala,CAM,Manchester City,Germany,Premier League,Playmaker
+504,Lee Szoboszlai,CAM,Inter Milan,Germany,Serie A,Classic 10
+505,Bruno Maddison,CAM,Dortmund,Netherlands,Bundesliga,Half Winger
+506,Brahim Palmer,CAM,Bologna,Turkey,Serie A,Classic 10
+507,Arda Mount,CAM,Chelsea,Netherlands,Premier League,Half Winger
+508,James Maddison,CAM,Atletico Madrid,England,La Liga,Classic 10
+509,Mason Eze,CAM,Juventus,Brazil,Serie A,Shadow Striker
+510,Cole Odegaard,CAM,Inter Milan,England,Serie A,Half Winger
+511,Eberechi Musiala,CAM,Monaco,Colombia,Ligue 1,Half Winger
+512,Takefusa Olmo,CAM,Atalanta,Norway,Serie A,Playmaker
+513,Eberechi Kubo,CAM,Bayern Munich,England,Bundesliga,Classic 10
+514,Bruno Kang-in,CAM,Brest,Japan,Ligue 1,Playmaker
+515,Cole Simons,CAM,Real Sociedad,Spain,La Liga,Shadow Striker
+516,Christopher Wirtz,CAM,Lille,Netherlands,Ligue 1,Half Winger
+517,Bruno Alvarez,CAM,Bologna,France,Serie A,Classic 10
+518,Morgan Nkunku,CAM,Lazio,Norway,Serie A,Half Winger
+519,Eberechi Fernandes,CAM,Brest,South Korea,Ligue 1,Classic 10
+520,Florian Fernandes,CAM,Marseille,France,Ligue 1,Playmaker
+521,Julian Palmer,CAM,PSG,France,Ligue 1,Playmaker
+522,Phil Olmo,CAM,Athletic Club,South Korea,La Liga,Playmaker
+523,Julian Fernandes,CAM,Aston Villa,France,Premier League,Playmaker
+524,Morgan Fernandes,CAM,Juventus,Norway,Serie A,Playmaker
+525,Bruno Nkunku,CAM,Manchester City,Brazil,Premier League,Shadow Striker
+526,Arda Olmo,CAM,Real Sociedad,Netherlands,La Liga,Half Winger
+527,Jamal Diaz,CAM,Lazio,Morocco,Serie A,Shadow Striker
+528,Arda Olmo,CAM,Manchester City,Colombia,Premier League,Playmaker
+529,Paulo Odegaard,CAM,Chelsea,Colombia,Premier League,Classic 10
+530,Dani Foden,CAM,AC Milan,Spain,Serie A,Playmaker
+531,Christopher Diaz,CAM,Lille,Morocco,Ligue 1,Classic 10
+532,Eberechi Eze,CAM,Monaco,Netherlands,Ligue 1,Shadow Striker
+533,James Guler,CAM,Brest,Argentina,Ligue 1,Playmaker
+534,Morgan Dybala,CAM,Manchester United,Portugal,Premier League,Playmaker
+535,Dani Palmer,CAM,Lazio,Colombia,Serie A,Shadow Striker
+536,Arda Fernandes,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Half Winger
+537,Brahim Odegaard,CAM,Girona,Colombia,La Liga,Classic 10
+538,Christopher Maddison,CAM,Napoli,Brazil,Serie A,Playmaker
+539,Brahim Diaz,CAM,Real Madrid,France,La Liga,Shadow Striker
+540,Brahim Kang-in,CAM,Real Madrid,Morocco,La Liga,Shadow Striker
+541,Paulo Kubo,CAM,Dortmund,France,Bundesliga,Classic 10
+542,Florian Fernandes,CAM,Frankfurt,Norway,Bundesliga,Half Winger
+543,Phil Wirtz,CAM,RB Leipzig,France,Bundesliga,Shadow Striker
+544,Takefusa Simons,CAM,Napoli,Norway,Serie A,Half Winger
+545,James Odegaard,CAM,Frankfurt,Brazil,Bundesliga,Half Winger
+546,Cole Szoboszlai,CAM,Lazio,Spain,Serie A,Shadow Striker
+547,Martin Simons,CAM,Lille,Colombia,Ligue 1,Shadow Striker
+548,Takefusa Wirtz,CAM,Real Betis,Uruguay,La Liga,Half Winger
+549,Paulo Palmer,CAM,Liverpool,Norway,Premier League,Half Winger
+550,Xavi Eze,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Classic 10
+551,Dominik Szoboszlai,CAM,Real Betis,South Korea,La Liga,Half Winger
+552,Paulo Eze,CAM,Frankfurt,Norway,Bundesliga,Half Winger
+553,Lee Guler,CAM,Real Sociedad,Netherlands,La Liga,Half Winger
+554,Mason Eze,CAM,RB Leipzig,Portugal,Bundesliga,Shadow Striker
+555,Bruno Odegaard,CAM,Brest,Spain,Ligue 1,Half Winger
+556,Brahim Wirtz,CAM,West Ham,Uruguay,Premier League,Playmaker
+557,Takefusa Palmer,CAM,Lyon,Uruguay,Ligue 1,Shadow Striker
+558,Eberechi Mount,CAM,Barcelona,Uruguay,La Liga,Half Winger
+559,Brahim Odegaard,CAM,Real Sociedad,Morocco,La Liga,Playmaker
+560,Dominik Kang-in,CAM,Lille,Colombia,Ligue 1,Shadow Striker
+561,Lee Mount,CAM,Girona,Netherlands,La Liga,Classic 10
+562,Takefusa Dybala,CAM,Frankfurt,Turkey,Bundesliga,Playmaker
+563,Morgan Alvarez,CAM,Marseille,Turkey,Ligue 1,Classic 10
+564,Dani Mount,CAM,Manchester City,Spain,Premier League,Shadow Striker
+565,Takefusa Dybala,CAM,RB Leipzig,Japan,Bundesliga,Playmaker
+566,Florian Nkunku,CAM,Liverpool,Germany,Premier League,Shadow Striker
+567,Xavi Palmer,CAM,Brighton,Japan,Premier League,Half Winger
+568,Florian Guler,CAM,Inter Milan,Germany,Serie A,Playmaker
+569,Takefusa Olmo,CAM,PSG,France,Ligue 1,Shadow Striker
+570,Morgan Simons,CAM,Real Sociedad,Brazil,La Liga,Playmaker
+571,Morgan Dybala,CAM,Frankfurt,Uruguay,Bundesliga,Shadow Striker
+572,Florian Eze,CAM,Marseille,Germany,Ligue 1,Half Winger
+573,Lee Eze,CAM,Bologna,Germany,Serie A,Shadow Striker
+574,Brahim Diaz,CAM,Bayer Leverkusen,Germany,Bundesliga,Classic 10
+575,Lee Nkunku,CAM,West Ham,Norway,Premier League,Playmaker
+576,James Palmer,CAM,Bayern Munich,Japan,Bundesliga,Shadow Striker
+577,Jamal Musiala,CAM,Barcelona,France,La Liga,Playmaker
+578,Mason Odegaard,CAM,Brighton,South Korea,Premier League,Shadow Striker
+579,Phil Musiala,CAM,Manchester United,Brazil,Premier League,Playmaker
+580,Morgan Maddison,CAM,Athletic Club,Spain,La Liga,Half Winger
+581,Lee Dybala,CAM,PSG,Turkey,Ligue 1,Classic 10
+582,Bruno Musiala,CAM,Valencia,Spain,La Liga,Half Winger
+583,James Dybala,CAM,Athletic Club,Turkey,La Liga,Classic 10
+584,Martin Mount,CAM,Manchester United,Colombia,Premier League,Playmaker
+585,Morgan Wirtz,CAM,Tottenham,France,Premier League,Playmaker
+586,Cole Odegaard,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Playmaker
+587,Julian Odegaard,CAM,West Ham,Uruguay,Premier League,Half Winger
+588,Eberechi Eze,CAM,Atalanta,Colombia,Serie A,Shadow Striker
+589,James Kubo,CAM,West Ham,Uruguay,Premier League,Playmaker
+590,Arda Eze,CAM,Monaco,South Korea,Ligue 1,Shadow Striker
+591,Jamal Simons,CAM,Bayern Munich,Netherlands,Bundesliga,Half Winger
+592,Jamal Mount,CAM,Juventus,Germany,Serie A,Half Winger
+593,Martin Szoboszlai,CAM,Brest,South Korea,Ligue 1,Playmaker
+594,Bruno Eze,CAM,Bologna,France,Serie A,Half Winger
+595,Florian Eze,CAM,Dortmund,Uruguay,Bundesliga,Classic 10
+596,Paulo Alvarez,CAM,Barcelona,France,La Liga,Classic 10
+597,Arda Nkunku,CAM,Stuttgart,Colombia,Bundesliga,Playmaker
+598,Takefusa Diaz,CAM,AS Roma,France,Serie A,Classic 10
+599,James Odegaard,CAM,Chelsea,Colombia,Premier League,Classic 10
+600,Brahim Diaz,CAM,Monaco,Colombia,Ligue 1,Half Winger
+601,Takefusa Maddison,CAM,Lille,Colombia,Ligue 1,Playmaker
+602,Morgan Palmer,CAM,Bayer Leverkusen,Morocco,Bundesliga,Shadow Striker
+603,Dominik Guler,CAM,Bologna,Colombia,Serie A,Half Winger
+604,Julian Foden,CAM,PSG,Netherlands,Ligue 1,Classic 10
+605,Lee Foden,CAM,Marseille,Colombia,Ligue 1,Classic 10
+606,Takefusa Palmer,CAM,Monaco,Uruguay,Ligue 1,Classic 10
+607,Bruno Kang-in,CAM,Juventus,France,Serie A,Half Winger
+608,Dominik Alvarez,CAM,Barcelona,Brazil,La Liga,Classic 10
+609,Lee Guler,CAM,Real Madrid,Colombia,La Liga,Half Winger
+610,Christopher Maddison,CAM,Nice,Morocco,Ligue 1,Shadow Striker
+611,Martin Maddison,CAM,Bayern Munich,Germany,Bundesliga,Playmaker
+612,Christopher Mount,CAM,Juventus,Portugal,Serie A,Shadow Striker
+613,Dani Simons,CAM,Real Madrid,England,La Liga,Shadow Striker
+614,James Palmer,CAM,Lille,Japan,Ligue 1,Shadow Striker
+615,Martin Szoboszlai,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+616,Eberechi Szoboszlai,CAM,Brighton,Germany,Premier League,Half Winger
+617,Xavi Maddison,CAM,Bayer Leverkusen,Norway,Bundesliga,Playmaker
+618,Cole Diaz,CAM,Arsenal,Colombia,Premier League,Shadow Striker
+619,Brahim Wirtz,CAM,AC Milan,Spain,Serie A,Playmaker
+620,Christopher Foden,CAM,Bayer Leverkusen,Germany,Bundesliga,Shadow Striker
+621,Xavi Szoboszlai,CAM,Liverpool,Netherlands,Premier League,Shadow Striker
+622,Lee Kubo,CAM,Monaco,Argentina,Ligue 1,Playmaker
+623,James Kang-in,CAM,Dortmund,Brazil,Bundesliga,Half Winger
+624,Martin Palmer,CAM,Brest,France,Ligue 1,Shadow Striker
+625,Xavi Diaz,CAM,Bayer Leverkusen,Norway,Bundesliga,Classic 10
+626,Lee Nkunku,CAM,Nice,Germany,Ligue 1,Shadow Striker
+627,Brahim Odegaard,CAM,Inter Milan,Norway,Serie A,Classic 10
+628,Paulo Guler,CAM,Napoli,Argentina,Serie A,Classic 10
+629,Julian Mount,CAM,Newcastle,Netherlands,Premier League,Classic 10
+630,Phil Maddison,CAM,Barcelona,Argentina,La Liga,Half Winger
+631,Bruno Olmo,CAM,Real Sociedad,Netherlands,La Liga,Shadow Striker
+632,James Szoboszlai,CAM,RB Leipzig,Spain,Bundesliga,Shadow Striker
+633,Dani Guler,CAM,Brest,South Korea,Ligue 1,Playmaker
+634,Dominik Gibbs-White,CAM,Manchester United,South Korea,Premier League,Playmaker
+635,Martin Palmer,CAM,Arsenal,Germany,Premier League,Shadow Striker
+636,Martin Foden,CAM,Lazio,France,Serie A,Classic 10
+637,Jamal Diaz,CAM,Brest,Turkey,Ligue 1,Classic 10
+638,Martin Wirtz,CAM,Real Betis,Colombia,La Liga,Playmaker
+639,Phil Diaz,CAM,Monaco,Netherlands,Ligue 1,Shadow Striker
+640,Dani Alvarez,CAM,Atalanta,England,Serie A,Shadow Striker
+641,Julian Gibbs-White,CAM,Juventus,Argentina,Serie A,Classic 10
+642,Morgan Odegaard,CAM,Lyon,England,Ligue 1,Playmaker
+643,Dani Gibbs-White,CAM,Real Sociedad,Netherlands,La Liga,Shadow Striker
+644,Xavi Guler,CAM,Dortmund,Argentina,Bundesliga,Classic 10
+645,James Olmo,CAM,Girona,Spain,La Liga,Playmaker
+646,Julian Mount,CAM,Marseille,Colombia,Ligue 1,Half Winger
+647,Martin Gibbs-White,CAM,Atalanta,Netherlands,Serie A,Playmaker
+648,Arda Musiala,CAM,Atalanta,England,Serie A,Classic 10
+649,Martin Olmo,CAM,RB Leipzig,Colombia,Bundesliga,Playmaker
+650,Eberechi Diaz,CAM,Real Betis,Colombia,La Liga,Classic 10
+651,Lee Dybala,CAM,West Ham,Netherlands,Premier League,Shadow Striker
+652,Dani Odegaard,CAM,Lyon,South Korea,Ligue 1,Playmaker
+653,Xavi Olmo,CAM,Chelsea,Uruguay,Premier League,Classic 10
+654,Martin Wirtz,CAM,Barcelona,Brazil,La Liga,Classic 10
+655,Dani Musiala,CAM,Valencia,Argentina,La Liga,Half Winger
+656,James Alvarez,CAM,Newcastle,Norway,Premier League,Playmaker
+657,Phil Musiala,CAM,Brest,South Korea,Ligue 1,Shadow Striker
+658,Bruno Szoboszlai,CAM,AS Roma,Turkey,Serie A,Classic 10
+659,Xavi Foden,CAM,Monaco,Japan,Ligue 1,Shadow Striker
+660,Morgan Diaz,CAM,Brest,France,Ligue 1,Playmaker
+661,Morgan Mount,CAM,Barcelona,France,La Liga,Shadow Striker
+662,Eberechi Dybala,CAM,Lazio,Spain,Serie A,Shadow Striker
+663,Julian Palmer,CAM,Brest,France,Ligue 1,Classic 10
+664,Takefusa Alvarez,CAM,Bayern Munich,Morocco,Bundesliga,Shadow Striker
+665,James Kang-in,CAM,Dortmund,Spain,Bundesliga,Shadow Striker
+666,James Dybala,CAM,Atletico Madrid,Netherlands,La Liga,Playmaker
+667,Phil Diaz,CAM,Valencia,Argentina,La Liga,Half Winger
+668,Brahim Maddison,CAM,Nice,Norway,Ligue 1,Half Winger
+669,Bruno Mount,CAM,Tottenham,Norway,Premier League,Shadow Striker
+670,James Guler,CAM,Athletic Club,South Korea,La Liga,Shadow Striker
+671,Morgan Foden,CAM,Frankfurt,Portugal,Bundesliga,Classic 10
+672,Phil Olmo,CAM,Marseille,Japan,Ligue 1,Playmaker
+673,Eberechi Maddison,CAM,Lille,South Korea,Ligue 1,Half Winger
+674,Christopher Kang-in,CAM,Bayer Leverkusen,Japan,Bundesliga,Half Winger
+675,Bruno Nkunku,CAM,Monaco,Norway,Ligue 1,Shadow Striker
+676,Eberechi Nkunku,CAM,PSG,Brazil,Ligue 1,Playmaker
+677,Lee Olmo,CAM,Real Madrid,Turkey,La Liga,Shadow Striker
+678,Dominik Odegaard,CAM,Nice,South Korea,Ligue 1,Shadow Striker
+679,Jamal Kubo,CAM,Athletic Club,Argentina,La Liga,Playmaker
+680,Brahim Maddison,CAM,Bayern Munich,France,Bundesliga,Playmaker
+681,Morgan Palmer,CAM,AS Roma,Netherlands,Serie A,Half Winger
+682,Morgan Musiala,CAM,RB Leipzig,Spain,Bundesliga,Playmaker
+683,Martin Eze,CAM,RB Leipzig,Japan,Bundesliga,Shadow Striker
+684,Phil Eze,CAM,Lyon,Morocco,Ligue 1,Classic 10
+685,Takefusa Dybala,CAM,Bayer Leverkusen,Colombia,Bundesliga,Half Winger
+686,Morgan Foden,CAM,RB Leipzig,Brazil,Bundesliga,Half Winger
+687,Bruno Eze,CAM,Lyon,Turkey,Ligue 1,Half Winger
+688,Christopher Guler,CAM,Juventus,Germany,Serie A,Shadow Striker
+689,Eberechi Musiala,CAM,Manchester United,Norway,Premier League,Playmaker
+690,Martin Guler,CAM,Manchester City,Turkey,Premier League,Half Winger
+691,Bruno Kang-in,CAM,Valencia,Uruguay,La Liga,Shadow Striker
+692,Martin Nkunku,CAM,Nice,England,Ligue 1,Playmaker
+693,Xavi Dybala,CAM,Brighton,England,Premier League,Shadow Striker
+694,Julian Musiala,CAM,Lazio,Spain,Serie A,Classic 10
+695,Paulo Guler,CAM,PSG,Turkey,Ligue 1,Playmaker
+696,Dominik Kubo,CAM,Inter Milan,England,Serie A,Shadow Striker
+697,Martin Maddison,CAM,Stuttgart,Brazil,Bundesliga,Half Winger
+698,Phil Nkunku,CAM,Stuttgart,Turkey,Bundesliga,Playmaker
+699,Mason Diaz,CAM,Monaco,Portugal,Ligue 1,Playmaker
+700,Paulo Musiala,CAM,Bologna,Brazil,Serie A,Classic 10
+701,Paulo Alvarez,CAM,Real Madrid,Argentina,La Liga,Classic 10
+702,Bruno Nkunku,CAM,Brest,Morocco,Ligue 1,Shadow Striker
+703,Xavi Olmo,CAM,Barcelona,France,La Liga,Half Winger
+704,Julian Gibbs-White,CAM,AC Milan,Brazil,Serie A,Playmaker
+705,Morgan Gibbs-White,CAM,Manchester United,South Korea,Premier League,Playmaker
+706,Christopher Odegaard,CAM,Arsenal,Germany,Premier League,Classic 10
+707,Paulo Musiala,CAM,Lyon,Portugal,Ligue 1,Half Winger
+708,Christopher Olmo,CAM,Brest,Spain,Ligue 1,Playmaker
+709,Paulo Maddison,CAM,Barcelona,England,La Liga,Playmaker
+710,Paulo Diaz,CAM,Frankfurt,South Korea,Bundesliga,Classic 10
+711,Florian Alvarez,CAM,Inter Milan,Argentina,Serie A,Shadow Striker
+712,Lee Guler,CAM,Manchester City,South Korea,Premier League,Classic 10
+713,Christopher Fernandes,CAM,Lazio,Japan,Serie A,Playmaker
+714,Takefusa Szoboszlai,CAM,West Ham,South Korea,Premier League,Half Winger
+715,Morgan Mount,CAM,Bayer Leverkusen,France,Bundesliga,Classic 10
+716,Dominik Maddison,CAM,Brighton,Brazil,Premier League,Half Winger
+717,Eberechi Musiala,CAM,RB Leipzig,Germany,Bundesliga,Half Winger
+718,Morgan Foden,CAM,Real Betis,Japan,La Liga,Half Winger
+719,Brahim Szoboszlai,CAM,Athletic Club,Japan,La Liga,Half Winger
+720,Takefusa Fernandes,CAM,Brighton,Brazil,Premier League,Shadow Striker
+721,Dani Gibbs-White,CAM,Lille,France,Ligue 1,Half Winger
+722,Mason Gibbs-White,CAM,Manchester United,Colombia,Premier League,Shadow Striker
+723,James Simons,CAM,Valencia,Netherlands,La Liga,Half Winger
+724,Cole Odegaard,CAM,Napoli,Uruguay,Serie A,Shadow Striker
+725,Eberechi Kang-in,CAM,Brighton,Japan,Premier League,Playmaker
+726,Martin Gibbs-White,CAM,Juventus,Portugal,Serie A,Half Winger
+727,Phil Nkunku,CAM,Lille,Argentina,Ligue 1,Half Winger
+728,James Diaz,CAM,Lyon,Argentina,Ligue 1,Classic 10
+729,Cole Diaz,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Playmaker
+730,James Diaz,CAM,Manchester City,England,Premier League,Playmaker
+731,Mason Olmo,CAM,Real Sociedad,Uruguay,La Liga,Half Winger
+732,Phil Nkunku,CAM,Brighton,Argentina,Premier League,Shadow Striker
+733,Dominik Foden,CAM,Frankfurt,Turkey,Bundesliga,Shadow Striker
+734,Arda Musiala,CAM,Aston Villa,Spain,Premier League,Half Winger
+735,Julian Wirtz,CAM,Lyon,Uruguay,Ligue 1,Classic 10
+736,Brahim Fernandes,CAM,Real Sociedad,Uruguay,La Liga,Shadow Striker
+737,Eberechi Dybala,CAM,Valencia,Uruguay,La Liga,Playmaker
+738,Christopher Maddison,CAM,Nice,Japan,Ligue 1,Playmaker
+739,Florian Alvarez,CAM,Bologna,Netherlands,Serie A,Half Winger
+740,Dani Kubo,CAM,AC Milan,South Korea,Serie A,Classic 10
+741,James Fernandes,CAM,Barcelona,England,La Liga,Classic 10
+742,Mason Kang-in,CAM,AS Roma,Brazil,Serie A,Classic 10
+743,Florian Alvarez,CAM,West Ham,Germany,Premier League,Playmaker
+744,Mason Guler,CAM,Lille,South Korea,Ligue 1,Classic 10
+745,Cole Szoboszlai,CAM,Bayern Munich,Japan,Bundesliga,Shadow Striker
+746,Christopher Foden,CAM,Frankfurt,Argentina,Bundesliga,Playmaker
+747,Cole Dybala,CAM,Dortmund,Uruguay,Bundesliga,Shadow Striker
+748,Lee Nkunku,CAM,Valencia,Spain,La Liga,Classic 10
+749,Julian Dybala,CAM,Bayern Munich,Brazil,Bundesliga,Shadow Striker
+750,Eberechi Kang-in,CAM,Bologna,Uruguay,Serie A,Half Winger
+751,Brahim Diaz,CAM,Girona,Portugal,La Liga,Classic 10
+752,Martin Alvarez,CAM,Girona,Argentina,La Liga,Playmaker
+753,Takefusa Dybala,CAM,AS Roma,South Korea,Serie A,Shadow Striker
+754,James Simons,CAM,Stuttgart,Japan,Bundesliga,Playmaker
+755,Paulo Mount,CAM,Athletic Club,Norway,La Liga,Classic 10
+756,Phil Gibbs-White,CAM,Dortmund,Portugal,Bundesliga,Classic 10
+757,Takefusa Kubo,CAM,Monaco,South Korea,Ligue 1,Playmaker
+758,Takefusa Alvarez,CAM,Stuttgart,Turkey,Bundesliga,Classic 10
+759,Dani Szoboszlai,CAM,RB Leipzig,Morocco,Bundesliga,Half Winger
+760,Dominik Odegaard,CAM,AC Milan,Morocco,Serie A,Shadow Striker
+761,Morgan Odegaard,CAM,Liverpool,Brazil,Premier League,Playmaker
+762,Dominik Olmo,CAM,Frankfurt,Brazil,Bundesliga,Half Winger
+763,Julian Nkunku,CAM,Lazio,Portugal,Serie A,Playmaker
+764,Martin Alvarez,CAM,Bologna,Turkey,Serie A,Shadow Striker
+765,Brahim Foden,CAM,Lyon,Portugal,Ligue 1,Shadow Striker
+766,Jamal Eze,CAM,Bayer Leverkusen,France,Bundesliga,Shadow Striker
+767,Mason Kubo,CAM,Tottenham,Germany,Premier League,Half Winger
+768,Paulo Alvarez,CAM,PSG,Japan,Ligue 1,Playmaker
+769,Arda Olmo,CAM,Arsenal,Spain,Premier League,Classic 10
+770,Jamal Palmer,CAM,Atletico Madrid,France,La Liga,Shadow Striker
+771,Eberechi Foden,CAM,Athletic Club,Morocco,La Liga,Shadow Striker
+772,Lee Maddison,CAM,Girona,South Korea,La Liga,Half Winger
+773,Martin Odegaard,CAM,RB Leipzig,Uruguay,Bundesliga,Playmaker
+774,Phil Kang-in,CAM,Liverpool,Colombia,Premier League,Shadow Striker
+775,Brahim Szoboszlai,CAM,Stuttgart,Uruguay,Bundesliga,Half Winger
+776,Martin Fernandes,CAM,Valencia,Netherlands,La Liga,Classic 10
+777,Lee Diaz,CAM,AC Milan,France,Serie A,Playmaker
+778,Cole Kubo,CAM,AC Milan,Norway,Serie A,Half Winger
+779,Mason Nkunku,CAM,Brest,Argentina,Ligue 1,Classic 10
+780,Bruno Foden,CAM,Tottenham,Turkey,Premier League,Playmaker
+781,Phil Kubo,CAM,Valencia,Germany,La Liga,Playmaker
+782,Morgan Szoboszlai,CAM,Arsenal,England,Premier League,Playmaker
+783,Xavi Szoboszlai,CAM,Brest,France,Ligue 1,Classic 10
+784,Bruno Simons,CAM,Athletic Club,Morocco,La Liga,Classic 10
+785,Takefusa Kang-in,CAM,Aston Villa,Colombia,Premier League,Half Winger
+786,Jamal Kubo,CAM,Juventus,England,Serie A,Classic 10
+787,Xavi Guler,CAM,Bayern Munich,Colombia,Bundesliga,Classic 10
+788,Xavi Maddison,CAM,Real Sociedad,Brazil,La Liga,Classic 10
+789,James Eze,CAM,Manchester United,Morocco,Premier League,Half Winger
+790,Eberechi Gibbs-White,CAM,Napoli,Turkey,Serie A,Playmaker
+791,Phil Eze,CAM,Dortmund,Morocco,Bundesliga,Classic 10
+792,Arda Foden,CAM,Girona,France,La Liga,Half Winger
+793,Florian Fernandes,CAM,Manchester United,Netherlands,Premier League,Playmaker
+794,Xavi Guler,CAM,Barcelona,France,La Liga,Shadow Striker
+795,Takefusa Olmo,CAM,Barcelona,Germany,La Liga,Half Winger
+796,Lee Szoboszlai,CAM,Bologna,Turkey,Serie A,Playmaker
+797,Xavi Gibbs-White,CAM,Lyon,Colombia,Ligue 1,Shadow Striker
+798,Cole Dybala,CAM,PSG,South Korea,Ligue 1,Half Winger
+799,Dani Musiala,CAM,Bayern Munich,France,Bundesliga,Shadow Striker
+800,Dominik Eze,CAM,Real Sociedad,Portugal,La Liga,Playmaker
+801,Lee Kang-in,CAM,Stuttgart,Japan,Bundesliga,Playmaker
+802,Bruno Szoboszlai,CAM,Juventus,South Korea,Serie A,Shadow Striker
+803,Morgan Diaz,CAM,Napoli,Norway,Serie A,Shadow Striker
+804,Eberechi Wirtz,CAM,Tottenham,Portugal,Premier League,Shadow Striker
+805,Mason Musiala,CAM,Barcelona,Germany,La Liga,Half Winger
+806,Xavi Kang-in,CAM,Chelsea,Norway,Premier League,Classic 10
+807,Dani Kubo,CAM,RB Leipzig,Portugal,Bundesliga,Classic 10
+808,Jamal Kubo,CAM,Real Betis,Brazil,La Liga,Classic 10
+809,Florian Diaz,CAM,Arsenal,Germany,Premier League,Half Winger
+810,Phil Wirtz,CAM,Manchester City,Norway,Premier League,Classic 10
+811,Bruno Olmo,CAM,AS Roma,Turkey,Serie A,Classic 10
+812,James Wirtz,CAM,Girona,Turkey,La Liga,Shadow Striker
+813,Phil Mount,CAM,RB Leipzig,Portugal,Bundesliga,Classic 10
+814,Christopher Wirtz,CAM,Brest,Brazil,Ligue 1,Shadow Striker
+815,Jamal Guler,CAM,Monaco,Norway,Ligue 1,Shadow Striker
+816,Takefusa Szoboszlai,CAM,Brest,Turkey,Ligue 1,Playmaker
+817,Julian Dybala,CAM,Stuttgart,Brazil,Bundesliga,Shadow Striker
+818,Arda Gibbs-White,CAM,AC Milan,Japan,Serie A,Shadow Striker
+819,Florian Maddison,CAM,Atletico Madrid,Germany,La Liga,Shadow Striker
+820,Dani Diaz,CAM,Real Sociedad,France,La Liga,Classic 10
+821,Bruno Dybala,CAM,Athletic Club,Turkey,La Liga,Half Winger
+822,Phil Szoboszlai,CAM,Lille,Turkey,Ligue 1,Shadow Striker
+823,Takefusa Kubo,CAM,Manchester United,France,Premier League,Shadow Striker
+824,Dominik Palmer,CAM,Dortmund,France,Bundesliga,Playmaker
+825,Dominik Palmer,CAM,Tottenham,Germany,Premier League,Shadow Striker
+826,Arda Eze,CAM,Lille,Turkey,Ligue 1,Playmaker
+827,Brahim Alvarez,CAM,Bayer Leverkusen,England,Bundesliga,Classic 10
+828,Arda Eze,CAM,Brighton,Turkey,Premier League,Playmaker
+829,Lee Mount,CAM,Valencia,Germany,La Liga,Classic 10
+830,Christopher Dybala,CAM,Manchester City,Spain,Premier League,Classic 10
+831,Brahim Dybala,CAM,Marseille,Japan,Ligue 1,Playmaker
+832,James Mount,CAM,Marseille,Brazil,Ligue 1,Classic 10
+833,Christopher Gibbs-White,CAM,Manchester City,Germany,Premier League,Half Winger
+834,Christopher Szoboszlai,CAM,Dortmund,Morocco,Bundesliga,Half Winger
+835,Lee Musiala,CAM,Lille,Morocco,Ligue 1,Playmaker
+836,Dominik Olmo,CAM,Real Madrid,Spain,La Liga,Playmaker
+837,Julian Kubo,CAM,Lille,Spain,Ligue 1,Shadow Striker
+838,Martin Alvarez,CAM,Marseille,France,Ligue 1,Playmaker
+839,Morgan Dybala,CAM,Newcastle,Turkey,Premier League,Half Winger
+840,Julian Olmo,CAM,Brighton,Germany,Premier League,Half Winger
+841,Christopher Guler,CAM,Aston Villa,South Korea,Premier League,Shadow Striker
+842,Jamal Nkunku,CAM,Lille,Japan,Ligue 1,Shadow Striker
+843,Phil Nkunku,CAM,Real Madrid,France,La Liga,Shadow Striker
+844,Florian Kang-in,CAM,Stuttgart,South Korea,Bundesliga,Half Winger
+845,Arda Foden,CAM,Barcelona,Norway,La Liga,Shadow Striker
+846,Julian Kubo,CAM,Bayer Leverkusen,Germany,Bundesliga,Half Winger
+847,Mason Gibbs-White,CAM,Liverpool,England,Premier League,Playmaker
+848,Jamal Odegaard,CAM,Real Madrid,Spain,La Liga,Shadow Striker
+849,Eberechi Musiala,CAM,Bologna,Turkey,Serie A,Shadow Striker
+850,Florian Szoboszlai,CAM,Newcastle,Colombia,Premier League,Shadow Striker
+851,Xavi Guler,CAM,Lazio,Turkey,Serie A,Half Winger
+852,Jamal Palmer,CAM,Marseille,Brazil,Ligue 1,Shadow Striker
+853,Arda Odegaard,CAM,AS Roma,Norway,Serie A,Half Winger
+854,Julian Maddison,CAM,Newcastle,Turkey,Premier League,Playmaker
+855,Morgan Gibbs-White,CAM,Bologna,Turkey,Serie A,Shadow Striker
+856,Christopher Dybala,CAM,Bologna,England,Serie A,Classic 10
+857,Brahim Mount,CAM,Bologna,Argentina,Serie A,Half Winger
+858,Morgan Palmer,CAM,West Ham,Netherlands,Premier League,Playmaker
+859,Xavi Dybala,CAM,Inter Milan,Morocco,Serie A,Shadow Striker
+860,Dominik Gibbs-White,CAM,Brest,Colombia,Ligue 1,Half Winger
+861,Morgan Musiala,CAM,Lazio,Norway,Serie A,Classic 10
+862,Dominik Gibbs-White,CAM,Liverpool,Norway,Premier League,Playmaker
+863,Eberechi Dybala,CAM,Girona,Colombia,La Liga,Half Winger
+864,Arda Musiala,CAM,Athletic Club,Portugal,La Liga,Shadow Striker
+865,Eberechi Diaz,CAM,AS Roma,Netherlands,Serie A,Playmaker
+866,Morgan Guler,CAM,Nice,Germany,Ligue 1,Shadow Striker
+867,Paulo Mount,CAM,Barcelona,Uruguay,La Liga,Half Winger
+868,Mason Alvarez,CAM,Real Sociedad,Turkey,La Liga,Playmaker
+869,Martin Eze,CAM,Bayern Munich,Portugal,Bundesliga,Playmaker
+870,Takefusa Wirtz,CAM,Brighton,England,Premier League,Playmaker
+871,Christopher Eze,CAM,Girona,Turkey,La Liga,Classic 10
+872,James Kang-in,CAM,Chelsea,Colombia,Premier League,Classic 10
+873,Brahim Maddison,CAM,Athletic Club,France,La Liga,Shadow Striker
+874,Lee Eze,CAM,Monaco,France,Ligue 1,Half Winger
+875,Xavi Diaz,CAM,Real Betis,Colombia,La Liga,Half Winger
+876,Florian Kubo,CAM,Girona,South Korea,La Liga,Playmaker
+877,James Odegaard,CAM,AS Roma,Brazil,Serie A,Playmaker
+878,Dani Musiala,CAM,Manchester City,Turkey,Premier League,Shadow Striker
+879,Arda Maddison,CAM,Lille,England,Ligue 1,Half Winger
+880,Cole Gibbs-White,CAM,Lazio,France,Serie A,Playmaker
+881,Bruno Nkunku,CAM,Chelsea,Colombia,Premier League,Playmaker
+882,Xavi Kang-in,CAM,Athletic Club,England,La Liga,Classic 10
+883,Phil Olmo,CAM,Aston Villa,Netherlands,Premier League,Shadow Striker
+884,Cole Mount,CAM,West Ham,France,Premier League,Shadow Striker
+885,Paulo Fernandes,CAM,Marseille,France,Ligue 1,Classic 10
+886,Mason Kubo,CAM,Real Madrid,England,La Liga,Half Winger
+887,Florian Kang-in,CAM,Real Sociedad,Japan,La Liga,Playmaker
+888,Christopher Palmer,CAM,RB Leipzig,Uruguay,Bundesliga,Half Winger
+889,Christopher Olmo,CAM,Lazio,Brazil,Serie A,Shadow Striker
+890,Paulo Maddison,CAM,Tottenham,Spain,Premier League,Shadow Striker
+891,Christopher Kubo,CAM,PSG,Argentina,Ligue 1,Half Winger
+892,Christopher Gibbs-White,CAM,West Ham,Uruguay,Premier League,Classic 10
+893,Dani Kubo,CAM,Lazio,Turkey,Serie A,Half Winger
+894,Mason Alvarez,CAM,Stuttgart,Morocco,Bundesliga,Shadow Striker
+895,Bruno Mount,CAM,Brest,Colombia,Ligue 1,Shadow Striker
+896,Eberechi Maddison,CAM,AC Milan,Germany,Serie A,Classic 10
+897,Lee Olmo,CAM,Marseille,Colombia,Ligue 1,Half Winger
+898,Cole Nkunku,CAM,Brest,Japan,Ligue 1,Playmaker
+899,Brahim Dybala,CAM,Lille,Norway,Ligue 1,Playmaker
+900,Arda Nkunku,CAM,Bologna,Germany,Serie A,Shadow Striker
+901,Bruno Gibbs-White,CAM,Bayer Leverkusen,Japan,Bundesliga,Playmaker
+902,Jamal Kubo,CAM,Liverpool,Turkey,Premier League,Classic 10
+903,Dominik Wirtz,CAM,Manchester City,Netherlands,Premier League,Half Winger
+904,Florian Foden,CAM,Lazio,South Korea,Serie A,Classic 10
+905,Takefusa Alvarez,CAM,AC Milan,Uruguay,Serie A,Shadow Striker
+906,Dani Foden,CAM,Monaco,Argentina,Ligue 1,Half Winger
+907,Takefusa Maddison,CAM,PSG,France,Ligue 1,Shadow Striker
+908,Julian Fernandes,CAM,RB Leipzig,Spain,Bundesliga,Classic 10
+909,Brahim Nkunku,CAM,Lazio,Netherlands,Serie A,Half Winger
+910,Dominik Alvarez,CAM,Valencia,Netherlands,La Liga,Playmaker
+911,Julian Nkunku,CAM,Nice,Japan,Ligue 1,Shadow Striker
+912,Arda Mount,CAM,Stuttgart,Japan,Bundesliga,Half Winger
+913,Christopher Gibbs-White,CAM,Monaco,Brazil,Ligue 1,Playmaker
+914,Christopher Szoboszlai,CAM,Atletico Madrid,England,La Liga,Playmaker
+915,Julian Foden,CAM,Manchester City,Netherlands,Premier League,Half Winger
+916,Dominik Kubo,CAM,Lyon,Japan,Ligue 1,Playmaker
+917,Christopher Dybala,CAM,Lille,Morocco,Ligue 1,Playmaker
+918,Jamal Palmer,CAM,Real Madrid,Spain,La Liga,Shadow Striker
+919,Martin Mount,CAM,West Ham,Colombia,Premier League,Playmaker
+920,Jamal Kang-in,CAM,Juventus,Argentina,Serie A,Half Winger
+921,Paulo Wirtz,CAM,Bayern Munich,Brazil,Bundesliga,Shadow Striker
+922,Dani Eze,CAM,Dortmund,Spain,Bundesliga,Shadow Striker
+923,Arda Palmer,CAM,Brest,South Korea,Ligue 1,Half Winger
+924,Jamal Diaz,CAM,Atalanta,Turkey,Serie A,Playmaker
+925,Dani Gibbs-White,CAM,AC Milan,Japan,Serie A,Shadow Striker
+926,Takefusa Musiala,CAM,PSG,England,Ligue 1,Playmaker
+927,Florian Palmer,CAM,RB Leipzig,Morocco,Bundesliga,Playmaker
+928,Cole Eze,CAM,Atalanta,Portugal,Serie A,Playmaker
+929,Cole Kubo,CAM,Lazio,Argentina,Serie A,Classic 10
+930,Arda Nkunku,CAM,Arsenal,South Korea,Premier League,Half Winger
+931,Phil Diaz,CAM,Girona,Norway,La Liga,Playmaker
+932,Mason Alvarez,CAM,Athletic Club,England,La Liga,Half Winger
+933,Cole Musiala,CAM,Brest,Germany,Ligue 1,Classic 10
+934,Julian Nkunku,CAM,Juventus,Netherlands,Serie A,Half Winger
+935,Lee Kubo,CAM,Newcastle,Turkey,Premier League,Half Winger
+936,Phil Palmer,CAM,Girona,Japan,La Liga,Shadow Striker
+937,Jamal Maddison,CAM,Bayern Munich,Brazil,Bundesliga,Playmaker
+938,Cole Guler,CAM,Valencia,Colombia,La Liga,Half Winger
+939,Paulo Kubo,CAM,Aston Villa,Portugal,Premier League,Half Winger
+940,Bruno Fernandes,CAM,Inter Milan,Norway,Serie A,Playmaker
+941,Dani Foden,CAM,PSG,England,Ligue 1,Half Winger
+942,Morgan Eze,CAM,Newcastle,Turkey,Premier League,Shadow Striker
+943,Xavi Kang-in,CAM,Manchester City,Uruguay,Premier League,Half Winger
+944,Arda Alvarez,CAM,Lyon,South Korea,Ligue 1,Shadow Striker
+945,Brahim Alvarez,CAM,Monaco,Brazil,Ligue 1,Shadow Striker
+946,Julian Guler,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+947,Lee Kang-in,CAM,Valencia,Morocco,La Liga,Half Winger
+948,Dominik Kang-in,CAM,Manchester City,Spain,Premier League,Shadow Striker
+949,Arda Mount,CAM,Inter Milan,Spain,Serie A,Playmaker
+950,Arda Olmo,CAM,Lille,Spain,Ligue 1,Playmaker
+951,Eberechi Diaz,CAM,Monaco,South Korea,Ligue 1,Half Winger
+952,Florian Guler,CAM,AS Roma,Uruguay,Serie A,Half Winger
+953,Paulo Musiala,CAM,Real Madrid,England,La Liga,Classic 10
+954,Morgan Simons,CAM,Girona,Portugal,La Liga,Classic 10
+955,Cole Nkunku,CAM,Juventus,Germany,Serie A,Classic 10
+956,James Musiala,CAM,Barcelona,Argentina,La Liga,Playmaker
+957,Mason Wirtz,CAM,Frankfurt,Germany,Bundesliga,Classic 10
+958,Cole Gibbs-White,CAM,AC Milan,Turkey,Serie A,Playmaker
+959,Xavi Wirtz,CAM,Dortmund,Morocco,Bundesliga,Classic 10
+960,Dominik Kubo,CAM,Newcastle,France,Premier League,Playmaker
+961,Xavi Diaz,CAM,Nice,Morocco,Ligue 1,Playmaker
+962,Morgan Kang-in,CAM,West Ham,Colombia,Premier League,Playmaker
+963,Cole Kang-in,CAM,Bayern Munich,Colombia,Bundesliga,Half Winger
+964,Arda Wirtz,CAM,Brighton,England,Premier League,Classic 10
+965,Bruno Eze,CAM,Nice,England,Ligue 1,Playmaker
+966,Paulo Eze,CAM,Arsenal,South Korea,Premier League,Shadow Striker
+967,Dominik Wirtz,CAM,Inter Milan,South Korea,Serie A,Playmaker
+968,Eberechi Diaz,CAM,West Ham,Brazil,Premier League,Shadow Striker
+969,Morgan Szoboszlai,CAM,Marseille,Argentina,Ligue 1,Half Winger
+970,Morgan Maddison,CAM,Girona,Spain,La Liga,Shadow Striker
+971,Takefusa Gibbs-White,CAM,Atletico Madrid,England,La Liga,Half Winger
+972,Florian Wirtz,CAM,Bayer Leverkusen,Netherlands,Bundesliga,Half Winger
+973,Cole Guler,CAM,Atalanta,South Korea,Serie A,Shadow Striker
+974,Martin Nkunku,CAM,Lille,England,Ligue 1,Classic 10
+975,Julian Gibbs-White,CAM,Dortmund,Morocco,Bundesliga,Half Winger
+976,Eberechi Nkunku,CAM,Brighton,Germany,Premier League,Playmaker
+977,Arda Gibbs-White,CAM,Lazio,South Korea,Serie A,Half Winger
+978,Bruno Fernandes,CAM,Frankfurt,Netherlands,Bundesliga,Playmaker
+979,Dominik Odegaard,CAM,Real Sociedad,Argentina,La Liga,Shadow Striker
+980,Dani Foden,CAM,AC Milan,Morocco,Serie A,Half Winger
+981,Bruno Kubo,CAM,AS Roma,Norway,Serie A,Shadow Striker
+982,Mason Nkunku,CAM,Dortmund,Turkey,Bundesliga,Classic 10
+983,Brahim Gibbs-White,CAM,Liverpool,Japan,Premier League,Half Winger
+984,Christopher Dybala,CAM,Manchester City,Colombia,Premier League,Playmaker
+985,Paulo Guler,CAM,Dortmund,France,Bundesliga,Half Winger
+986,Eberechi Guler,CAM,Nice,South Korea,Ligue 1,Classic 10
+987,Bruno Gibbs-White,CAM,Bologna,South Korea,Serie A,Playmaker
+988,Florian Nkunku,CAM,Marseille,Colombia,Ligue 1,Shadow Striker
+989,Xavi Simons,CAM,Real Betis,Germany,La Liga,Playmaker
+990,Arda Palmer,CAM,West Ham,Netherlands,Premier League,Classic 10
+991,Florian Nkunku,CAM,Girona,Germany,La Liga,Classic 10
+992,Lee Mount,CAM,West Ham,Spain,Premier League,Playmaker
+993,Dominik Nkunku,CAM,Valencia,Norway,La Liga,Shadow Striker
+994,Brahim Dybala,CAM,Girona,Colombia,La Liga,Playmaker
+995,Christopher Alvarez,CAM,Liverpool,England,Premier League,Classic 10
+996,Jamal Kang-in,CAM,Arsenal,Netherlands,Premier League,Half Winger
+997,Martin Szoboszlai,CAM,Brighton,France,Premier League,Classic 10
+998,Bruno Guler,CAM,Marseille,Uruguay,Ligue 1,Shadow Striker
+999,James Dybala,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+1000,Eberechi Mount,CAM,Arsenal,Turkey,Premier League,Classic 10
+1001,Dani Gibbs-White,CAM,Athletic Club,Turkey,La Liga,Shadow Striker
+1002,Paulo Diaz,CAM,Dortmund,Morocco,Bundesliga,Shadow Striker
+1003,Florian Palmer,CAM,Dortmund,Uruguay,Bundesliga,Playmaker
+1004,Dominik Palmer,CAM,Bayern Munich,Morocco,Bundesliga,Playmaker
+1005,Takefusa Nkunku,CAM,Manchester United,Portugal,Premier League,Half Winger
+1006,Martin Mount,CAM,Frankfurt,Portugal,Bundesliga,Shadow Striker
+1007,Martin Eze,CAM,Tottenham,France,Premier League,Playmaker
+1008,Cole Kubo,CAM,PSG,Brazil,Ligue 1,Shadow Striker
+1009,Takefusa Kang-in,CAM,Girona,Netherlands,La Liga,Classic 10
+1010,Cole Palmer,CAM,Nice,Colombia,Ligue 1,Playmaker
+1011,Florian Olmo,CAM,Liverpool,Japan,Premier League,Half Winger
+1012,Bruno Olmo,CAM,Liverpool,Turkey,Premier League,Shadow Striker
+1013,Takefusa Simons,CAM,Manchester United,South Korea,Premier League,Shadow Striker
+1014,Jamal Foden,CAM,Stuttgart,Germany,Bundesliga,Shadow Striker
+1015,Christopher Foden,CAM,Bologna,Brazil,Serie A,Playmaker
+1016,Morgan Simons,CAM,Brighton,Spain,Premier League,Classic 10
+1017,Paulo Fernandes,CAM,Newcastle,Portugal,Premier League,Classic 10
+1018,Bruno Kang-in,CAM,Manchester City,South Korea,Premier League,Half Winger
+1019,Morgan Guler,CAM,Inter Milan,England,Serie A,Classic 10
+1020,Jamal Simons,CAM,Atletico Madrid,Colombia,La Liga,Half Winger
+1021,Cole Alvarez,CAM,Lazio,Brazil,Serie A,Classic 10
+1022,Xavi Guler,CAM,Frankfurt,Spain,Bundesliga,Classic 10
+1023,Eberechi Diaz,CAM,Manchester City,Norway,Premier League,Classic 10
+1024,Brahim Wirtz,CAM,Stuttgart,Netherlands,Bundesliga,Shadow Striker
+1025,Takefusa Guler,CAM,Dortmund,Morocco,Bundesliga,Playmaker
+1026,Phil Eze,CAM,Manchester City,Spain,Premier League,Classic 10
+1027,Lee Odegaard,CAM,PSG,Netherlands,Ligue 1,Shadow Striker
+1028,Xavi Alvarez,CAM,AC Milan,Morocco,Serie A,Playmaker
+1029,Arda Guler,CAM,PSG,Turkey,Ligue 1,Half Winger
+1030,Dani Palmer,CAM,Marseille,France,Ligue 1,Shadow Striker
+1031,Xavi Dybala,CAM,Marseille,Turkey,Ligue 1,Shadow Striker
+1032,Dani Gibbs-White,CAM,Real Madrid,Turkey,La Liga,Playmaker
+1033,Dominik Gibbs-White,CAM,Monaco,Morocco,Ligue 1,Half Winger
+1034,James Guler,CAM,Brest,Brazil,Ligue 1,Half Winger
+1035,Morgan Fernandes,CAM,Bayern Munich,Colombia,Bundesliga,Playmaker
+1036,Lee Foden,CAM,Bologna,England,Serie A,Shadow Striker
+1037,Phil Szoboszlai,CAM,Atletico Madrid,Norway,La Liga,Shadow Striker
+1038,Xavi Palmer,CAM,Bayern Munich,Japan,Bundesliga,Shadow Striker
+1039,Xavi Szoboszlai,CAM,Girona,Argentina,La Liga,Shadow Striker
+1040,Takefusa Diaz,CAM,AC Milan,Turkey,Serie A,Playmaker
+1041,Xavi Gibbs-White,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Playmaker
+1042,Florian Kang-in,CAM,Marseille,Portugal,Ligue 1,Shadow Striker
+1043,James Diaz,CAM,Stuttgart,England,Bundesliga,Half Winger
+1044,Phil Szoboszlai,CAM,Bayern Munich,Spain,Bundesliga,Half Winger
+1045,Eberechi Musiala,CAM,RB Leipzig,Uruguay,Bundesliga,Shadow Striker
+1046,Julian Odegaard,CAM,Real Sociedad,Netherlands,La Liga,Classic 10
+1047,Takefusa Fernandes,CAM,Atalanta,Argentina,Serie A,Playmaker
+1048,Paulo Simons,CAM,Napoli,Turkey,Serie A,Half Winger
+1049,Paulo Alvarez,CAM,Real Betis,Morocco,La Liga,Classic 10
+1050,Takefusa Nkunku,CAM,Bayern Munich,Netherlands,Bundesliga,Half Winger
+1051,Florian Foden,CAM,Dortmund,Morocco,Bundesliga,Shadow Striker
+1052,Xavi Olmo,CAM,Atletico Madrid,Argentina,La Liga,Classic 10
+1053,Julian Alvarez,CAM,Atalanta,Germany,Serie A,Shadow Striker
+1054,Cole Maddison,CAM,Atletico Madrid,Portugal,La Liga,Classic 10
+1055,Florian Wirtz,CAM,Real Sociedad,Morocco,La Liga,Classic 10
+1056,Mason Fernandes,CAM,Lazio,Colombia,Serie A,Playmaker
+1057,Phil Musiala,CAM,Juventus,Germany,Serie A,Half Winger
+1058,Martin Mount,CAM,Inter Milan,Portugal,Serie A,Shadow Striker
+1059,Brahim Mount,CAM,Lille,France,Ligue 1,Classic 10
+1060,Brahim Kubo,CAM,Girona,Spain,La Liga,Playmaker
+1061,Paulo Olmo,CAM,West Ham,Argentina,Premier League,Playmaker
+1062,Morgan Dybala,CAM,Bayer Leverkusen,Morocco,Bundesliga,Shadow Striker
+1063,Brahim Maddison,CAM,Lille,Germany,Ligue 1,Classic 10
+1064,Eberechi Dybala,CAM,Lille,Norway,Ligue 1,Playmaker
+1065,Mason Guler,CAM,PSG,Portugal,Ligue 1,Half Winger
+1066,Brahim Fernandes,CAM,Aston Villa,Germany,Premier League,Half Winger
+1067,James Kang-in,CAM,Juventus,Japan,Serie A,Playmaker
+1068,Xavi Nkunku,CAM,Marseille,Germany,Ligue 1,Half Winger
+1069,Eberechi Kang-in,CAM,Brighton,South Korea,Premier League,Shadow Striker
+1070,Bruno Maddison,CAM,Bayern Munich,France,Bundesliga,Playmaker
+1071,Christopher Guler,CAM,Arsenal,Argentina,Premier League,Classic 10
+1072,Dani Mount,CAM,Brest,Netherlands,Ligue 1,Shadow Striker
+1073,Lee Guler,CAM,Manchester City,Portugal,Premier League,Half Winger
+1074,Julian Gibbs-White,CAM,West Ham,Spain,Premier League,Playmaker
+1075,Arda Odegaard,CAM,Dortmund,Japan,Bundesliga,Shadow Striker
+1076,Brahim Foden,CAM,Bayern Munich,South Korea,Bundesliga,Half Winger
+1077,Brahim Palmer,CAM,Valencia,Turkey,La Liga,Half Winger
+1078,Xavi Mount,CAM,Frankfurt,Japan,Bundesliga,Classic 10
+1079,Martin Kang-in,CAM,Bayern Munich,Norway,Bundesliga,Playmaker
+1080,Mason Gibbs-White,CAM,AC Milan,Uruguay,Serie A,Playmaker
+1081,Xavi Kubo,CAM,Napoli,Morocco,Serie A,Half Winger
+1082,Jamal Odegaard,CAM,Real Betis,Argentina,La Liga,Classic 10
+1083,Arda Simons,CAM,Stuttgart,Germany,Bundesliga,Shadow Striker
+1084,Dani Simons,CAM,Manchester City,Netherlands,Premier League,Playmaker
+1085,James Gibbs-White,CAM,Napoli,Netherlands,Serie A,Playmaker
+1086,Dominik Guler,CAM,Athletic Club,Japan,La Liga,Classic 10
+1087,Dominik Guler,CAM,AS Roma,Uruguay,Serie A,Classic 10
+1088,Christopher Foden,CAM,Tottenham,Turkey,Premier League,Half Winger
+1089,Christopher Nkunku,CAM,Bologna,Norway,Serie A,Classic 10
+1090,Mason Guler,CAM,Monaco,Portugal,Ligue 1,Shadow Striker
+1091,Paulo Gibbs-White,CAM,Nice,Brazil,Ligue 1,Shadow Striker
+1092,Martin Mount,CAM,Bayer Leverkusen,Spain,Bundesliga,Half Winger
+1093,Mason Olmo,CAM,Monaco,Spain,Ligue 1,Shadow Striker
+1094,Dominik Wirtz,CAM,Dortmund,Colombia,Bundesliga,Classic 10
+1095,Brahim Gibbs-White,CAM,Nice,Turkey,Ligue 1,Playmaker
+1096,Martin Eze,CAM,Lyon,England,Ligue 1,Playmaker
+1097,Florian Kubo,CAM,Aston Villa,Argentina,Premier League,Playmaker
+1098,Martin Maddison,CAM,Napoli,England,Serie A,Playmaker
+1099,Phil Guler,CAM,Atalanta,Portugal,Serie A,Playmaker
+1100,Mason Nkunku,CAM,Atletico Madrid,Turkey,La Liga,Shadow Striker
+1101,Martin Alvarez,CAM,AC Milan,Norway,Serie A,Classic 10
+1102,Takefusa Mount,CAM,RB Leipzig,Argentina,Bundesliga,Classic 10
+1103,Eberechi Szoboszlai,CAM,Tottenham,Uruguay,Premier League,Playmaker
+1104,Julian Musiala,CAM,Aston Villa,Brazil,Premier League,Playmaker
+1105,Bruno Alvarez,CAM,Dortmund,Uruguay,Bundesliga,Playmaker
+1106,Eberechi Maddison,CAM,Tottenham,Brazil,Premier League,Shadow Striker
+1107,Paulo Diaz,CAM,Juventus,Spain,Serie A,Shadow Striker
+1108,Dani Kang-in,CAM,Chelsea,Norway,Premier League,Classic 10
+1109,Julian Guler,CAM,Bayern Munich,South Korea,Bundesliga,Shadow Striker
+1110,Martin Eze,CAM,Monaco,Netherlands,Ligue 1,Playmaker
+1111,Martin Mount,CAM,Stuttgart,Portugal,Bundesliga,Playmaker
+1112,Phil Kubo,CAM,Tottenham,Portugal,Premier League,Half Winger
+1113,Xavi Maddison,CAM,Liverpool,South Korea,Premier League,Shadow Striker
+1114,Lee Guler,CAM,Valencia,Norway,La Liga,Shadow Striker
+1115,Paulo Kang-in,CAM,Bayern Munich,Spain,Bundesliga,Shadow Striker
+1116,Cole Gibbs-White,CAM,Atalanta,England,Serie A,Shadow Striker
+1117,Julian Musiala,CAM,Real Madrid,Japan,La Liga,Classic 10
+1118,Bruno Szoboszlai,CAM,Bologna,England,Serie A,Half Winger
+1119,Paulo Kubo,CAM,Girona,Argentina,La Liga,Playmaker
+1120,Arda Kang-in,CAM,Monaco,South Korea,Ligue 1,Playmaker
+1121,Arda Szoboszlai,CAM,Chelsea,Uruguay,Premier League,Shadow Striker
+1122,Paulo Kubo,CAM,Real Madrid,Spain,La Liga,Classic 10
+1123,Paulo Fernandes,CAM,Dortmund,Japan,Bundesliga,Half Winger
+1124,Bruno Nkunku,CAM,Real Madrid,Argentina,La Liga,Classic 10
+1125,Brahim Dybala,CAM,Atalanta,Germany,Serie A,Shadow Striker
+1126,Dani Wirtz,CAM,Stuttgart,France,Bundesliga,Classic 10
+1127,Julian Alvarez,CAM,AS Roma,Turkey,Serie A,Classic 10
+1128,Eberechi Olmo,CAM,Brighton,Norway,Premier League,Shadow Striker
+1129,Phil Palmer,CAM,Stuttgart,Uruguay,Bundesliga,Shadow Striker
+1130,James Guler,CAM,AC Milan,Morocco,Serie A,Shadow Striker
+1131,Florian Guler,CAM,Frankfurt,Turkey,Bundesliga,Shadow Striker
+1132,Morgan Guler,CAM,Dortmund,Colombia,Bundesliga,Classic 10
+1133,Xavi Kubo,CAM,Frankfurt,Netherlands,Bundesliga,Playmaker
+1134,Cole Kang-in,CAM,Girona,England,La Liga,Shadow Striker
+1135,Jamal Nkunku,CAM,Brest,Colombia,Ligue 1,Half Winger
+1136,Eberechi Nkunku,CAM,Atletico Madrid,Uruguay,La Liga,Shadow Striker
+1137,Mason Mount,CAM,Dortmund,England,Bundesliga,Half Winger
+1138,Cole Dybala,CAM,Stuttgart,Morocco,Bundesliga,Classic 10
+1139,Dani Eze,CAM,Lyon,Norway,Ligue 1,Shadow Striker
+1140,Christopher Kang-in,CAM,Arsenal,Morocco,Premier League,Half Winger
+1141,Cole Simons,CAM,Valencia,Netherlands,La Liga,Shadow Striker
+1142,Dominik Alvarez,CAM,Frankfurt,Brazil,Bundesliga,Classic 10
+1143,Dani Fernandes,CAM,Stuttgart,Argentina,Bundesliga,Classic 10
+1144,Arda Fernandes,CAM,AS Roma,Brazil,Serie A,Half Winger
+1145,Mason Szoboszlai,CAM,Bayern Munich,Argentina,Bundesliga,Half Winger
+1146,Lee Fernandes,CAM,AC Milan,Turkey,Serie A,Playmaker
+1147,Dani Maddison,CAM,AC Milan,Morocco,Serie A,Half Winger
+1148,Martin Diaz,CAM,Nice,South Korea,Ligue 1,Playmaker
+1149,Martin Mount,CAM,Napoli,Turkey,Serie A,Half Winger
+1150,Morgan Nkunku,CAM,Girona,Japan,La Liga,Half Winger
+1151,Takefusa Simons,CAM,Real Madrid,Spain,La Liga,Playmaker
+1152,Mason Mount,CAM,Tottenham,Netherlands,Premier League,Half Winger
+1153,James Palmer,CAM,Bologna,Spain,Serie A,Playmaker
+1154,Dani Kubo,CAM,Brest,Japan,Ligue 1,Half Winger
+1155,Florian Szoboszlai,CAM,Marseille,Germany,Ligue 1,Playmaker
+1156,Mason Foden,CAM,Valencia,Portugal,La Liga,Shadow Striker
+1157,Martin Eze,CAM,Bayern Munich,Spain,Bundesliga,Classic 10
+1158,Morgan Szoboszlai,CAM,Valencia,Germany,La Liga,Shadow Striker
+1159,Phil Maddison,CAM,Bayern Munich,Brazil,Bundesliga,Shadow Striker
+1160,Florian Palmer,CAM,PSG,Spain,Ligue 1,Playmaker
+1161,Florian Dybala,CAM,Tottenham,England,Premier League,Playmaker
+1162,Arda Diaz,CAM,AS Roma,Uruguay,Serie A,Playmaker
+1163,Martin Dybala,CAM,Tottenham,Brazil,Premier League,Shadow Striker
+1164,Paulo Eze,CAM,Marseille,Uruguay,Ligue 1,Classic 10
+1165,Jamal Wirtz,CAM,Napoli,Colombia,Serie A,Classic 10
+1166,Dani Nkunku,CAM,Real Sociedad,France,La Liga,Playmaker
+1167,Cole Maddison,CAM,Dortmund,South Korea,Bundesliga,Classic 10
+1168,Takefusa Nkunku,CAM,Lille,Argentina,Ligue 1,Shadow Striker
+1169,Lee Dybala,CAM,Aston Villa,France,Premier League,Playmaker
+1170,Takefusa Gibbs-White,CAM,Lyon,Germany,Ligue 1,Classic 10
+1171,Lee Palmer,CAM,Valencia,France,La Liga,Classic 10
+1172,Cole Nkunku,CAM,Dortmund,Brazil,Bundesliga,Shadow Striker
+1173,Takefusa Dybala,CAM,Athletic Club,France,La Liga,Playmaker
+1174,Xavi Foden,CAM,Atletico Madrid,Portugal,La Liga,Shadow Striker
+1175,Florian Diaz,CAM,Marseille,Turkey,Ligue 1,Half Winger
+1176,Dani Musiala,CAM,Tottenham,Brazil,Premier League,Classic 10
+1177,Takefusa Guler,CAM,Chelsea,Argentina,Premier League,Shadow Striker
+1178,Brahim Diaz,CAM,Bologna,Japan,Serie A,Classic 10
+1179,James Alvarez,CAM,Dortmund,Germany,Bundesliga,Playmaker
+1180,Julian Diaz,CAM,Bayern Munich,Uruguay,Bundesliga,Half Winger
+1181,Dominik Szoboszlai,CAM,Newcastle,France,Premier League,Shadow Striker
+1182,Martin Musiala,CAM,Arsenal,Uruguay,Premier League,Shadow Striker
+1183,Lee Kubo,CAM,Juventus,Japan,Serie A,Classic 10
+1184,Lee Olmo,CAM,Dortmund,Norway,Bundesliga,Playmaker
+1185,Paulo Maddison,CAM,Girona,England,La Liga,Playmaker
+1186,Xavi Guler,CAM,Bologna,Argentina,Serie A,Playmaker
+1187,Takefusa Fernandes,CAM,Bologna,Germany,Serie A,Playmaker
+1188,Paulo Wirtz,CAM,Frankfurt,Uruguay,Bundesliga,Shadow Striker
+1189,Jamal Musiala,CAM,Juventus,Colombia,Serie A,Shadow Striker
+1190,Paulo Nkunku,CAM,Napoli,England,Serie A,Classic 10
+1191,Morgan Palmer,CAM,AC Milan,Netherlands,Serie A,Shadow Striker
+1192,Morgan Wirtz,CAM,Real Sociedad,Colombia,La Liga,Playmaker
+1193,Christopher Eze,CAM,PSG,Japan,Ligue 1,Playmaker
+1194,Paulo Musiala,CAM,Inter Milan,Japan,Serie A,Playmaker
+1195,Julian Foden,CAM,Atletico Madrid,France,La Liga,Playmaker
+1196,Christopher Gibbs-White,CAM,Frankfurt,Brazil,Bundesliga,Shadow Striker
+1197,Eberechi Simons,CAM,Bayern Munich,France,Bundesliga,Shadow Striker
+1198,Morgan Odegaard,CAM,Valencia,Spain,La Liga,Playmaker
+1199,Christopher Odegaard,CAM,Bayer Leverkusen,Turkey,Bundesliga,Half Winger
+1200,Arda Kang-in,CAM,Juventus,Spain,Serie A,Shadow Striker
+1201,Takefusa Guler,CAM,Atletico Madrid,Brazil,La Liga,Classic 10
+1202,Dani Gibbs-White,CAM,Lille,Portugal,Ligue 1,Half Winger
+1203,Arda Simons,CAM,Girona,Uruguay,La Liga,Playmaker
+1204,Phil Simons,CAM,Frankfurt,Brazil,Bundesliga,Classic 10
+1205,Arda Kubo,CAM,Bayern Munich,Norway,Bundesliga,Shadow Striker
+1206,Mason Mount,CAM,Newcastle,Morocco,Premier League,Playmaker
+1207,Lee Olmo,CAM,Brighton,South Korea,Premier League,Half Winger
+1208,Paulo Diaz,CAM,Athletic Club,Colombia,La Liga,Shadow Striker
+1209,Christopher Dybala,CAM,Frankfurt,Portugal,Bundesliga,Shadow Striker
+1210,Bruno Diaz,CAM,Atletico Madrid,Argentina,La Liga,Shadow Striker
+1211,Lee Fernandes,CAM,Dortmund,Brazil,Bundesliga,Shadow Striker
+1212,Dani Olmo,CAM,Real Madrid,Argentina,La Liga,Shadow Striker
+1213,Julian Foden,CAM,Inter Milan,Colombia,Serie A,Classic 10
+1214,Lee Mount,CAM,Real Betis,France,La Liga,Shadow Striker
+1215,Florian Palmer,CAM,Inter Milan,Morocco,Serie A,Shadow Striker
+1216,James Simons,CAM,AC Milan,Colombia,Serie A,Classic 10
+1217,Phil Fernandes,CAM,Frankfurt,Netherlands,Bundesliga,Playmaker
+1218,Lee Fernandes,CAM,Marseille,England,Ligue 1,Half Winger
+1219,Arda Musiala,CAM,Liverpool,Spain,Premier League,Half Winger
+1220,James Nkunku,CAM,Aston Villa,Argentina,Premier League,Playmaker
+1221,Dominik Mount,CAM,AC Milan,South Korea,Serie A,Shadow Striker
+1222,James Szoboszlai,CAM,Monaco,Netherlands,Ligue 1,Shadow Striker
+1223,Julian Szoboszlai,CAM,Aston Villa,Colombia,Premier League,Classic 10
+1224,Paulo Kubo,CAM,Athletic Club,England,La Liga,Classic 10
+1225,Cole Kubo,CAM,Chelsea,South Korea,Premier League,Playmaker
+1226,Jamal Foden,CAM,Stuttgart,Japan,Bundesliga,Playmaker
+1227,Dani Mount,CAM,Athletic Club,Colombia,La Liga,Classic 10
+1228,James Odegaard,CAM,Bayer Leverkusen,France,Bundesliga,Classic 10
+1229,Brahim Foden,CAM,Juventus,Argentina,Serie A,Classic 10
+1230,Bruno Mount,CAM,Newcastle,Norway,Premier League,Classic 10
+1231,Takefusa Szoboszlai,CAM,Manchester City,Colombia,Premier League,Classic 10
+1232,Bruno Diaz,CAM,Frankfurt,Colombia,Bundesliga,Playmaker
+1233,Jamal Nkunku,CAM,Inter Milan,France,Serie A,Classic 10
+1234,Paulo Palmer,CAM,PSG,Norway,Ligue 1,Playmaker
+1235,Phil Simons,CAM,Real Betis,South Korea,La Liga,Half Winger
+1236,Florian Kubo,CAM,Lyon,South Korea,Ligue 1,Playmaker
+1237,Christopher Odegaard,CAM,Stuttgart,Turkey,Bundesliga,Half Winger
+1238,Mason Musiala,CAM,West Ham,Norway,Premier League,Classic 10
+1239,Takefusa Simons,CAM,Marseille,England,Ligue 1,Shadow Striker
+1240,Jamal Fernandes,CAM,Liverpool,Colombia,Premier League,Classic 10
+1241,Martin Maddison,CAM,Bayer Leverkusen,Germany,Bundesliga,Half Winger
+1242,Takefusa Simons,CAM,Marseille,France,Ligue 1,Half Winger
+1243,Jamal Fernandes,CAM,Stuttgart,Brazil,Bundesliga,Classic 10
+1244,Arda Palmer,CAM,Nice,Morocco,Ligue 1,Half Winger
+1245,Dani Palmer,CAM,Real Madrid,Morocco,La Liga,Shadow Striker
+1246,Mason Gibbs-White,CAM,Atletico Madrid,England,La Liga,Classic 10
+1247,Xavi Fernandes,CAM,Real Sociedad,France,La Liga,Classic 10
+1248,Takefusa Simons,CAM,Bayern Munich,France,Bundesliga,Classic 10
+1249,Jamal Wirtz,CAM,Atalanta,Turkey,Serie A,Half Winger
+1250,Eberechi Simons,CAM,Bayern Munich,England,Bundesliga,Classic 10
+1251,Christopher Gibbs-White,CAM,Stuttgart,Morocco,Bundesliga,Classic 10
+1252,Julian Guler,CAM,Valencia,Germany,La Liga,Shadow Striker
+1253,Florian Nkunku,CAM,Bayern Munich,Morocco,Bundesliga,Playmaker
+1254,Mason Eze,CAM,Brighton,France,Premier League,Half Winger
+1255,Phil Palmer,CAM,Dortmund,England,Bundesliga,Half Winger
+1256,Cole Odegaard,CAM,Manchester United,Colombia,Premier League,Classic 10
+1257,Xavi Olmo,CAM,Atletico Madrid,Argentina,La Liga,Half Winger
+1258,Julian Musiala,CAM,AC Milan,Netherlands,Serie A,Half Winger
+1259,Christopher Odegaard,CAM,Manchester City,Morocco,Premier League,Shadow Striker
+1260,Dominik Fernandes,CAM,Atletico Madrid,Japan,La Liga,Classic 10
+1261,Julian Eze,CAM,Dortmund,Norway,Bundesliga,Half Winger
+1262,Lee Diaz,CAM,Monaco,Morocco,Ligue 1,Half Winger
+1263,Jamal Guler,CAM,Bayer Leverkusen,Morocco,Bundesliga,Playmaker
+1264,Xavi Mount,CAM,Lazio,Portugal,Serie A,Playmaker
+1265,Bruno Foden,CAM,Aston Villa,Morocco,Premier League,Half Winger
+1266,Dominik Palmer,CAM,AS Roma,South Korea,Serie A,Playmaker
+1267,Lee Fernandes,CAM,Athletic Club,Uruguay,La Liga,Classic 10
+1268,Takefusa Nkunku,CAM,Tottenham,Germany,Premier League,Shadow Striker
+1269,Eberechi Mount,CAM,Lazio,Argentina,Serie A,Classic 10
+1270,Christopher Wirtz,CAM,Stuttgart,Spain,Bundesliga,Half Winger
+1271,Christopher Diaz,CAM,Bologna,Turkey,Serie A,Classic 10
+1272,Mason Diaz,CAM,Brest,Spain,Ligue 1,Half Winger
+1273,Lee Diaz,CAM,Lille,England,Ligue 1,Playmaker
+1274,Eberechi Odegaard,CAM,Liverpool,Spain,Premier League,Playmaker
+1275,Arda Eze,CAM,AC Milan,Uruguay,Serie A,Half Winger
+1276,Xavi Gibbs-White,CAM,Brest,South Korea,Ligue 1,Half Winger
+1277,James Guler,CAM,Bayern Munich,Brazil,Bundesliga,Playmaker
+1278,Dani Kubo,CAM,Aston Villa,Morocco,Premier League,Playmaker
+1279,Florian Simons,CAM,AC Milan,Germany,Serie A,Shadow Striker
+1280,Julian Dybala,CAM,Arsenal,Netherlands,Premier League,Half Winger
+1281,Bruno Wirtz,CAM,Juventus,Spain,Serie A,Playmaker
+1282,Martin Foden,CAM,Bayer Leverkusen,Uruguay,Bundesliga,Shadow Striker
+1283,Xavi Dybala,CAM,Napoli,Norway,Serie A,Shadow Striker
+1284,Eberechi Maddison,CAM,Lazio,Uruguay,Serie A,Classic 10
+1285,Dominik Gibbs-White,CAM,Liverpool,Brazil,Premier League,Classic 10
+1286,Brahim Fernandes,CAM,Real Sociedad,Turkey,La Liga,Shadow Striker
+1287,Dani Eze,CAM,West Ham,Turkey,Premier League,Shadow Striker
+1288,Lee Fernandes,CAM,Nice,Brazil,Ligue 1,Half Winger
+1289,Paulo Nkunku,CAM,Aston Villa,Turkey,Premier League,Shadow Striker
+1290,Florian Maddison,CAM,Aston Villa,Turkey,Premier League,Playmaker
+1291,Morgan Alvarez,CAM,Tottenham,England,Premier League,Half Winger
+1292,Julian Nkunku,CAM,Lyon,Portugal,Ligue 1,Shadow Striker
+1293,Xavi Alvarez,CAM,Athletic Club,Japan,La Liga,Shadow Striker
+1294,Florian Palmer,CAM,Nice,Japan,Ligue 1,Half Winger
+1295,Martin Olmo,CAM,Marseille,Colombia,Ligue 1,Half Winger
+1296,Paulo Szoboszlai,CAM,West Ham,Morocco,Premier League,Shadow Striker
+1297,Jamal Wirtz,CAM,Bayern Munich,Uruguay,Bundesliga,Classic 10
+1298,Phil Gibbs-White,CAM,Real Madrid,Brazil,La Liga,Shadow Striker
+1299,Lee Olmo,CAM,Juventus,Japan,Serie A,Shadow Striker
+1300,Florian Diaz,CAM,Bologna,Uruguay,Serie A,Playmaker
+1301,Cole Guler,CAM,PSG,Portugal,Ligue 1,Half Winger
+1302,Paulo Maddison,CAM,Inter Milan,Colombia,Serie A,Half Winger
+1303,Florian Odegaard,CAM,Lille,France,Ligue 1,Half Winger
+1304,Xavi Mount,CAM,Brest,Spain,Ligue 1,Playmaker
+1305,Cole Simons,CAM,Real Betis,France,La Liga,Shadow Striker
+1306,Lee Eze,CAM,Atalanta,Japan,Serie A,Playmaker
+1307,Jamal Guler,CAM,Barcelona,Morocco,La Liga,Half Winger
+1308,Bruno Alvarez,CAM,Real Betis,Portugal,La Liga,Classic 10
+1309,Brahim Mount,CAM,Stuttgart,England,Bundesliga,Playmaker
+1310,Paulo Kubo,CAM,PSG,Turkey,Ligue 1,Half Winger
+1311,Phil Palmer,CAM,Frankfurt,Spain,Bundesliga,Playmaker
+1312,Bruno Gibbs-White,CAM,West Ham,France,Premier League,Classic 10
+1313,Eberechi Foden,CAM,Brighton,Brazil,Premier League,Shadow Striker
+1314,Mason Gibbs-White,CAM,Dortmund,South Korea,Bundesliga,Classic 10
+1315,Dominik Simons,CAM,Manchester City,Germany,Premier League,Half Winger
+1316,Lee Kang-in,CAM,Napoli,South Korea,Serie A,Classic 10
+1317,Dominik Guler,CAM,RB Leipzig,Netherlands,Bundesliga,Half Winger
+1318,Dominik Mount,CAM,Bayern Munich,Morocco,Bundesliga,Classic 10
+1319,Brahim Mount,CAM,Manchester City,Norway,Premier League,Classic 10
+1320,Paulo Diaz,CAM,Lille,Colombia,Ligue 1,Shadow Striker
+1321,Eberechi Diaz,CAM,RB Leipzig,South Korea,Bundesliga,Shadow Striker
+1322,Eberechi Gibbs-White,CAM,Aston Villa,Japan,Premier League,Classic 10
+1323,Mason Gibbs-White,CAM,Atalanta,Colombia,Serie A,Shadow Striker
+1324,Xavi Palmer,CAM,Dortmund,Uruguay,Bundesliga,Half Winger
+1325,Dani Gibbs-White,CAM,Atalanta,Norway,Serie A,Playmaker
+1326,Phil Maddison,CAM,Lille,Brazil,Ligue 1,Half Winger
+1327,Brahim Kang-in,CAM,Chelsea,Brazil,Premier League,Shadow Striker
+1328,Paulo Kang-in,CAM,Brest,South Korea,Ligue 1,Playmaker
+1329,Dani Palmer,CAM,Juventus,Spain,Serie A,Playmaker
+1330,Dani Foden,CAM,Atalanta,England,Serie A,Shadow Striker
+1331,Paulo Mount,CAM,Arsenal,Germany,Premier League,Half Winger
+1332,Mason Alvarez,CAM,Chelsea,Japan,Premier League,Shadow Striker
+1333,Paulo Mount,CAM,Liverpool,Argentina,Premier League,Classic 10
+1334,Takefusa Gibbs-White,CAM,AS Roma,Uruguay,Serie A,Half Winger
+1335,Takefusa Kang-in,CAM,Juventus,England,Serie A,Classic 10
+1336,Martin Diaz,CAM,Nice,England,Ligue 1,Shadow Striker
+1337,Takefusa Foden,CAM,Bayern Munich,Morocco,Bundesliga,Playmaker
+1338,Cole Kang-in,CAM,Chelsea,England,Premier League,Classic 10
+1339,Lee Maddison,CAM,Chelsea,Portugal,Premier League,Half Winger
+1340,Eberechi Kubo,CAM,Atletico Madrid,Spain,La Liga,Shadow Striker
+1341,James Palmer,CAM,Lyon,Brazil,Ligue 1,Half Winger
+1342,Eberechi Olmo,CAM,Aston Villa,Brazil,Premier League,Half Winger
+1343,Phil Nkunku,CAM,Brest,Brazil,Ligue 1,Playmaker
+1344,Bruno Dybala,CAM,West Ham,Germany,Premier League,Classic 10
+1345,Takefusa Mount,CAM,Real Madrid,Germany,La Liga,Shadow Striker
+1346,Lee Kang-in,CAM,Monaco,South Korea,Ligue 1,Shadow Striker
+1347,James Musiala,CAM,Bayer Leverkusen,South Korea,Bundesliga,Classic 10
+1348,Christopher Palmer,CAM,Atletico Madrid,South Korea,La Liga,Classic 10
+1349,Mason Gibbs-White,CAM,Lille,England,Ligue 1,Classic 10
+1350,Jamal Palmer,CAM,Nice,South Korea,Ligue 1,Shadow Striker
+1351,Paulo Musiala,CAM,Marseille,South Korea,Ligue 1,Shadow Striker
+1352,Bruno Maddison,CAM,Lille,Colombia,Ligue 1,Shadow Striker
+1353,Bruno Simons,CAM,Monaco,Netherlands,Ligue 1,Playmaker
+1354,Bruno Szoboszlai,CAM,RB Leipzig,Spain,Bundesliga,Half Winger
+1355,Mason Diaz,CAM,Tottenham,Morocco,Premier League,Shadow Striker
+1356,Christopher Wirtz,CAM,Napoli,South Korea,Serie A,Playmaker
+1357,Julian Foden,CAM,Marseille,Argentina,Ligue 1,Playmaker
+1358,Martin Kang-in,CAM,Tottenham,Argentina,Premier League,Shadow Striker
+1359,Julian Wirtz,CAM,RB Leipzig,Norway,Bundesliga,Shadow Striker
+1360,Jamal Diaz,CAM,West Ham,Brazil,Premier League,Classic 10
+1361,Lee Diaz,CAM,Chelsea,Germany,Premier League,Half Winger
+1362,Phil Musiala,CAM,Newcastle,Netherlands,Premier League,Classic 10
+1363,Morgan Foden,CAM,RB Leipzig,Germany,Bundesliga,Playmaker
+1364,Julian Foden,CAM,Bayer Leverkusen,Germany,Bundesliga,Classic 10
+1365,Julian Eze,CAM,Nice,Uruguay,Ligue 1,Classic 10
+1366,Christopher Nkunku,CAM,West Ham,Argentina,Premier League,Shadow Striker
+1367,Mason Fernandes,CAM,Dortmund,England,Bundesliga,Half Winger
+1368,Florian Palmer,CAM,Manchester United,Japan,Premier League,Half Winger
+1369,Mason Fernandes,CAM,Bayer Leverkusen,Norway,Bundesliga,Half Winger
+1370,Dani Simons,CAM,Brest,Japan,Ligue 1,Half Winger
+1371,Mason Nkunku,CAM,AS Roma,Portugal,Serie A,Playmaker
+1372,Bruno Kubo,CAM,Newcastle,Colombia,Premier League,Playmaker
+1373,Arda Musiala,CAM,Nice,South Korea,Ligue 1,Half Winger
+1374,Cole Eze,CAM,Real Betis,Portugal,La Liga,Half Winger
+1375,Phil Musiala,CAM,Bayer Leverkusen,Spain,Bundesliga,Classic 10
+1376,Cole Kang-in,CAM,Juventus,Germany,Serie A,Playmaker
+1377,Dominik Nkunku,CAM,Marseille,Brazil,Ligue 1,Playmaker
+1378,Mason Simons,CAM,West Ham,Japan,Premier League,Playmaker
+1379,Julian Olmo,CAM,Stuttgart,Morocco,Bundesliga,Classic 10
+1380,Dominik Mount,CAM,Bayern Munich,Turkey,Bundesliga,Half Winger
+1381,Dominik Maddison,CAM,Monaco,Norway,Ligue 1,Playmaker
+1382,Cole Diaz,CAM,Arsenal,Spain,Premier League,Playmaker
+1383,Brahim Guler,CAM,Dortmund,Argentina,Bundesliga,Shadow Striker
+1384,Xavi Guler,CAM,Frankfurt,South Korea,Bundesliga,Shadow Striker
+1385,Morgan Eze,CAM,Stuttgart,Netherlands,Bundesliga,Shadow Striker
+1386,Xavi Alvarez,CAM,West Ham,Brazil,Premier League,Classic 10
+1387,Bruno Gibbs-White,CAM,Real Sociedad,France,La Liga,Half Winger
+1388,Paulo Musiala,CAM,Dortmund,Brazil,Bundesliga,Classic 10
+1389,Florian Foden,CAM,Napoli,Spain,Serie A,Shadow Striker
+1390,Xavi Guler,CAM,Bologna,Netherlands,Serie A,Playmaker
+1391,Paulo Guler,CAM,AC Milan,Colombia,Serie A,Classic 10
+1392,Phil Foden,CAM,Real Madrid,Colombia,La Liga,Shadow Striker
+1393,Paulo Simons,CAM,Girona,Japan,La Liga,Playmaker
+1394,Arda Mount,CAM,Real Betis,Brazil,La Liga,Shadow Striker
+1395,Jamal Foden,CAM,AS Roma,Colombia,Serie A,Shadow Striker
+1396,Phil Fernandes,CAM,Stuttgart,Colombia,Bundesliga,Playmaker
+1397,Morgan Dybala,CAM,PSG,Morocco,Ligue 1,Classic 10
+1398,Mason Maddison,CAM,Barcelona,South Korea,La Liga,Classic 10
+1399,Arda Simons,CAM,Arsenal,Spain,Premier League,Playmaker
+1400,Morgan Olmo,CAM,PSG,Norway,Ligue 1,Shadow Striker
+1401,Morgan Wirtz,CAM,RB Leipzig,Colombia,Bundesliga,Classic 10
+1402,Martin Palmer,CAM,Real Madrid,Germany,La Liga,Half Winger
+1403,Martin Kang-in,CAM,Aston Villa,Argentina,Premier League,Playmaker
+1404,Jamal Kang-in,CAM,Lazio,Brazil,Serie A,Half Winger
+1405,Martin Szoboszlai,CAM,Bayer Leverkusen,Portugal,Bundesliga,Playmaker
+1406,Takefusa Fernandes,CAM,Napoli,Colombia,Serie A,Half Winger
+1407,Arda Nkunku,CAM,Real Betis,Spain,La Liga,Playmaker
+1408,Christopher Gibbs-White,CAM,West Ham,Norway,Premier League,Classic 10
+1409,Mason Gibbs-White,CAM,Real Madrid,Japan,La Liga,Shadow Striker
+1410,Morgan Maddison,CAM,Manchester City,England,Premier League,Classic 10
+1411,Xavi Eze,CAM,Real Betis,Argentina,La Liga,Playmaker
+1412,Florian Diaz,CAM,Aston Villa,Norway,Premier League,Classic 10
+1413,Florian Diaz,CAM,Atalanta,Argentina,Serie A,Classic 10
+1414,Paulo Fernandes,CAM,Valencia,Germany,La Liga,Classic 10
+1415,Julian Simons,CAM,Lazio,Germany,Serie A,Playmaker
+1416,Mason Kang-in,CAM,Newcastle,Germany,Premier League,Playmaker
+1417,Jamal Palmer,CAM,AS Roma,Norway,Serie A,Classic 10
+1418,Christopher Dybala,CAM,Marseille,Colombia,Ligue 1,Classic 10
+1419,Brahim Olmo,CAM,Dortmund,Morocco,Bundesliga,Playmaker
+1420,Dominik Dybala,CAM,Juventus,Morocco,Serie A,Half Winger
+1421,Florian Foden,CAM,Arsenal,Uruguay,Premier League,Shadow Striker
+1422,Takefusa Kang-in,CAM,Bologna,Japan,Serie A,Classic 10
+1423,Bruno Guler,CAM,Lille,Norway,Ligue 1,Classic 10
+1424,Julian Mount,CAM,Atletico Madrid,Argentina,La Liga,Shadow Striker
+1425,Bruno Musiala,CAM,Stuttgart,Germany,Bundesliga,Shadow Striker
+1426,Martin Odegaard,CAM,Stuttgart,Spain,Bundesliga,Classic 10
+1427,Dominik Szoboszlai,CAM,Real Betis,France,La Liga,Shadow Striker
+1428,Arda Diaz,CAM,PSG,Netherlands,Ligue 1,Classic 10
+1429,Julian Dybala,CAM,Bayern Munich,England,Bundesliga,Shadow Striker
+1430,Arda Foden,CAM,RB Leipzig,South Korea,Bundesliga,Classic 10
+1431,Cole Kubo,CAM,Valencia,Spain,La Liga,Classic 10
+1432,Bruno Musiala,CAM,Atletico Madrid,Morocco,La Liga,Shadow Striker
+1433,Arda Wirtz,CAM,Brest,Netherlands,Ligue 1,Classic 10
+1434,Brahim Odegaard,CAM,Valencia,Netherlands,La Liga,Classic 10
+1435,Brahim Gibbs-White,CAM,Athletic Club,Germany,La Liga,Half Winger
+1436,Mason Wirtz,CAM,Nice,Norway,Ligue 1,Playmaker
+1437,Takefusa Diaz,CAM,Dortmund,Brazil,Bundesliga,Shadow Striker
+1438,Mason Kang-in,CAM,Napoli,Spain,Serie A,Half Winger
+1439,Eberechi Fernandes,CAM,AS Roma,Norway,Serie A,Classic 10
+1440,Eberechi Palmer,CAM,West Ham,England,Premier League,Shadow Striker
+1441,Phil Gibbs-White,CAM,Bayern Munich,Germany,Bundesliga,Playmaker
+1442,Takefusa Musiala,CAM,Brest,Germany,Ligue 1,Shadow Striker
+1443,Christopher Guler,CAM,Barcelona,Argentina,La Liga,Playmaker
+1444,James Palmer,CAM,Real Madrid,Norway,La Liga,Shadow Striker
+1445,Martin Szoboszlai,CAM,Bologna,Japan,Serie A,Playmaker
+1446,Christopher Wirtz,CAM,Arsenal,England,Premier League,Playmaker
+1447,Phil Guler,CAM,Girona,Colombia,La Liga,Playmaker
+1448,Morgan Musiala,CAM,Arsenal,Morocco,Premier League,Playmaker
+1449,Martin Diaz,CAM,Athletic Club,Spain,La Liga,Half Winger
+1450,Paulo Kubo,CAM,Juventus,Brazil,Serie A,Classic 10
+1451,Dani Kubo,CAM,Valencia,Colombia,La Liga,Playmaker
+1452,Martin Foden,CAM,Juventus,Norway,Serie A,Playmaker
+1453,Dominik Gibbs-White,CAM,Girona,Turkey,La Liga,Shadow Striker
+1454,Mason Odegaard,CAM,Stuttgart,Colombia,Bundesliga,Playmaker
+1455,Christopher Palmer,CAM,Bologna,Brazil,Serie A,Classic 10
+1456,Arda Simons,CAM,Valencia,Turkey,La Liga,Half Winger
+1457,Dominik Mount,CAM,AC Milan,Argentina,Serie A,Half Winger
+1458,Florian Palmer,CAM,Napoli,Japan,Serie A,Classic 10
+1459,Morgan Szoboszlai,CAM,Marseille,Netherlands,Ligue 1,Shadow Striker
+1460,Paulo Gibbs-White,CAM,Brest,England,Ligue 1,Shadow Striker
+1461,James Gibbs-White,CAM,Stuttgart,England,Bundesliga,Classic 10
+1462,Christopher Szoboszlai,CAM,RB Leipzig,Brazil,Bundesliga,Playmaker
+1463,Morgan Diaz,CAM,Dortmund,Argentina,Bundesliga,Classic 10
+1464,Phil Alvarez,CAM,Real Betis,Portugal,La Liga,Playmaker
+1465,Lee Mount,CAM,Marseille,Colombia,Ligue 1,Shadow Striker
+1466,Mason Alvarez,CAM,PSG,Portugal,Ligue 1,Half Winger
+1467,Bruno Mount,CAM,Nice,Argentina,Ligue 1,Half Winger
+1468,Jamal Diaz,CAM,Aston Villa,Brazil,Premier League,Classic 10
+1469,Arda Fernandes,CAM,Barcelona,Netherlands,La Liga,Half Winger
+1470,Cole Palmer,CAM,Brest,Argentina,Ligue 1,Classic 10
+1471,Jamal Palmer,CAM,Lyon,Brazil,Ligue 1,Half Winger
+1472,Morgan Kubo,CAM,Juventus,Portugal,Serie A,Playmaker
+1473,Bruno Odegaard,CAM,Bayern Munich,South Korea,Bundesliga,Classic 10
+1474,Jamal Simons,CAM,Manchester City,Norway,Premier League,Half Winger
+1475,Eberechi Alvarez,CAM,Tottenham,Spain,Premier League,Shadow Striker
+1476,Julian Szoboszlai,CAM,Lyon,Brazil,Ligue 1,Shadow Striker
+1477,Takefusa Gibbs-White,CAM,Brest,Germany,Ligue 1,Half Winger
+1478,Phil Guler,CAM,Real Sociedad,Brazil,La Liga,Shadow Striker
+1479,Brahim Odegaard,CAM,Real Betis,Uruguay,La Liga,Half Winger
+1480,Eberechi Simons,CAM,PSG,England,Ligue 1,Classic 10
+1481,James Nkunku,CAM,Real Madrid,Spain,La Liga,Classic 10
+1482,Bruno Palmer,CAM,Manchester City,South Korea,Premier League,Playmaker
+1483,Eberechi Simons,CAM,Inter Milan,Brazil,Serie A,Playmaker
+1484,Xavi Alvarez,CAM,RB Leipzig,Portugal,Bundesliga,Playmaker
+1485,Florian Wirtz,CAM,Marseille,Argentina,Ligue 1,Half Winger
+1486,Martin Olmo,CAM,Frankfurt,Colombia,Bundesliga,Classic 10
+1487,Xavi Musiala,CAM,Nice,Portugal,Ligue 1,Half Winger
+1488,Xavi Olmo,CAM,Inter Milan,Japan,Serie A,Half Winger
+1489,Christopher Odegaard,CAM,Monaco,Morocco,Ligue 1,Classic 10
+1490,Morgan Fernandes,CAM,Bayer Leverkusen,South Korea,Bundesliga,Playmaker
+1491,Christopher Guler,CAM,Bayer Leverkusen,Colombia,Bundesliga,Shadow Striker
+1492,Florian Simons,CAM,Inter Milan,Morocco,Serie A,Shadow Striker
+1493,Bruno Gibbs-White,CAM,Tottenham,England,Premier League,Playmaker
+1494,James Fernandes,CAM,Frankfurt,Norway,Bundesliga,Shadow Striker
+1495,Mason Eze,CAM,Bayer Leverkusen,Germany,Bundesliga,Playmaker
+1496,Florian Guler,CAM,Monaco,England,Ligue 1,Half Winger
+1497,Eberechi Palmer,CAM,Bayer Leverkusen,Portugal,Bundesliga,Playmaker
+1498,James Musiala,CAM,Frankfurt,Turkey,Bundesliga,Classic 10
+1499,Dani Dybala,CAM,Aston Villa,Morocco,Premier League,Classic 10
+1500,Jamal Kang-in,CAM,Atalanta,Turkey,Serie A,Shadow Striker

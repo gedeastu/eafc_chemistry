@@ -1,0 +1,1501 @@
+Id,NamaPemain,Posisi,Club,Negara,Liga,PlayerInstruction
+1,Ollie Gimenez,ST,Aston Villa,Belgium,Premier League,Advanced Forward
+2,Harry Toney,ST,Marseille,Uruguay,Ligue 1,False 9
+3,Harry Sesko,ST,AS Roma,Germany,Serie A,Poacher
+4,Santiago Kane,ST,Arsenal,Portugal,Premier League,Advanced Forward
+5,Ivan Nunez,ST,RB Leipzig,Sweden,Bundesliga,False 9
+6,Victor Watkins,ST,Athletic Club,Spain,La Liga,Target Forward
+7,Lautaro Hojlund,ST,Atletico Madrid,Nigeria,La Liga,False 9
+8,Callum Openda,ST,Bologna,Belgium,Serie A,Target Forward
+9,Erling Openda,ST,Atletico Madrid,France,La Liga,Advanced Forward
+10,Dusan Nunez,ST,West Ham,Uruguay,Premier League,False 9
+11,Robert Sesko,ST,Newcastle,France,Premier League,Poacher
+12,Lois Lewandowski,ST,Athletic Club,Uruguay,La Liga,Target Forward
+13,Harry Fullkrug,ST,Bayer Leverkusen,Nigeria,Bundesliga,False 9
+14,Harry Wilson,ST,Athletic Club,Slovenia,La Liga,Poacher
+15,Lautaro Sesko,ST,PSG,Belgium,Ligue 1,Target Forward
+16,Romelu Nunez,ST,PSG,Spain,Ligue 1,False 9
+17,Alexander Ramos,ST,Napoli,Germany,Serie A,False 9
+18,Callum Alvarez,ST,Lille,Norway,Ligue 1,Advanced Forward
+19,Julian Haaland,ST,Tottenham,Spain,Premier League,Poacher
+20,Goncalo Alvarez,ST,Lille,Argentina,Ligue 1,Advanced Forward
+21,Dusan Lewandowski,ST,Real Madrid,Belgium,La Liga,Advanced Forward
+22,Victor Watkins,ST,Arsenal,Serbia,Premier League,Target Forward
+23,Callum Haaland,ST,Atalanta,France,Serie A,Target Forward
+24,Romelu Hojlund,ST,Tottenham,Sweden,Premier League,Poacher
+25,Alvaro Ramos,ST,Atletico Madrid,Uruguay,La Liga,Target Forward
+26,Niclas Kane,ST,PSG,Norway,Ligue 1,Advanced Forward
+27,Dusan Lukaku,ST,RB Leipzig,Sweden,Bundesliga,False 9
+28,Erling Ramos,ST,Girona,Belgium,La Liga,Target Forward
+29,Niclas Lewandowski,ST,Real Sociedad,Portugal,La Liga,Poacher
+30,Ivan Watkins,ST,PSG,Serbia,Ligue 1,Poacher
+31,Romelu Lewandowski,ST,Stuttgart,England,Bundesliga,Poacher
+32,Alvaro Lukaku,ST,RB Leipzig,Denmark,Bundesliga,False 9
+33,Romelu Haaland,ST,Aston Villa,Belgium,Premier League,Poacher
+34,Victor Martinez,ST,Liverpool,Portugal,Premier League,Advanced Forward
+35,Niclas Nunez,ST,Liverpool,Denmark,Premier League,Poacher
+36,Victor Watkins,ST,Atletico Madrid,Serbia,La Liga,Poacher
+37,Harry Toney,ST,Monaco,Poland,Ligue 1,Target Forward
+38,Alexander Toney,ST,Bologna,Slovenia,Serie A,Target Forward
+39,Alexander Morata,ST,Atalanta,Denmark,Serie A,Advanced Forward
+40,Julian Watkins,ST,Inter Milan,Norway,Serie A,False 9
+41,Robert Wilson,ST,Brest,Norway,Ligue 1,Target Forward
+42,Darwin Alvarez,ST,Inter Milan,Poland,Serie A,Poacher
+43,Erling Alvarez,ST,Manchester United,Norway,Premier League,Target Forward
+44,Julian Wilson,ST,Bayer Leverkusen,Norway,Bundesliga,False 9
+45,Santiago Martinez,ST,AS Roma,Brazil,Serie A,False 9
+46,Santiago Morata,ST,PSG,Nigeria,Ligue 1,Target Forward
+47,Ollie Isak,ST,Stuttgart,Nigeria,Bundesliga,Poacher
+48,Ivan Kane,ST,Dortmund,England,Bundesliga,Target Forward
+49,Alvaro Haaland,ST,RB Leipzig,France,Bundesliga,Target Forward
+50,Darwin Vlahovic,ST,Real Sociedad,Uruguay,La Liga,Advanced Forward
+51,Alexander Morata,ST,AS Roma,Belgium,Serie A,Poacher
+52,Victor Haaland,ST,Juventus,Brazil,Serie A,Poacher
+53,Santiago Nunez,ST,Manchester City,Brazil,Premier League,False 9
+54,Goncalo Sesko,ST,Napoli,Germany,Serie A,False 9
+55,Alexander Vlahovic,ST,Frankfurt,Brazil,Bundesliga,Target Forward
+56,Rasmus Alvarez,ST,Frankfurt,Argentina,Bundesliga,Poacher
+57,Erling Lukaku,ST,Stuttgart,Sweden,Bundesliga,False 9
+58,Lautaro Wilson,ST,PSG,Uruguay,Ligue 1,Poacher
+59,Harry Martinez,ST,Atalanta,France,Serie A,Target Forward
+60,Ivan Hojlund,ST,Lille,Mexico,Ligue 1,False 9
+61,Ollie Wilson,ST,Inter Milan,Denmark,Serie A,Advanced Forward
+62,Rasmus Watkins,ST,Nice,Denmark,Ligue 1,Poacher
+63,Benjamin Kane,ST,Bayer Leverkusen,England,Bundesliga,Target Forward
+64,Niclas Kane,ST,Bayern Munich,Argentina,Bundesliga,Target Forward
+65,Erling Gimenez,ST,Real Madrid,Argentina,La Liga,Target Forward
+66,Callum Openda,ST,Dortmund,Mexico,Bundesliga,Advanced Forward
+67,Callum Kane,ST,Monaco,Portugal,Ligue 1,Advanced Forward
+68,Santiago Vlahovic,ST,Tottenham,Uruguay,Premier League,Advanced Forward
+69,Alvaro Ramos,ST,Bologna,Germany,Serie A,False 9
+70,Erling Wilson,ST,Girona,Mexico,La Liga,Poacher
+71,Ivan Lukaku,ST,Valencia,Argentina,La Liga,Advanced Forward
+72,Alvaro Openda,ST,Arsenal,Belgium,Premier League,Target Forward
+73,Niclas Ramos,ST,Lyon,Nigeria,Ligue 1,Advanced Forward
+74,Alvaro Wilson,ST,Frankfurt,Germany,Bundesliga,False 9
+75,Harry Lukaku,ST,Athletic Club,France,La Liga,False 9
+76,Santiago Osimhen,ST,Napoli,Poland,Serie A,False 9
+77,Darwin Lewandowski,ST,Monaco,Norway,Ligue 1,False 9
+78,Alvaro Lukaku,ST,Stuttgart,Denmark,Bundesliga,Target Forward
+79,Darwin Morata,ST,Real Sociedad,Nigeria,La Liga,False 9
+80,Alexander Fullkrug,ST,Manchester City,Argentina,Premier League,Poacher
+81,Alvaro Osimhen,ST,Newcastle,Poland,Premier League,Poacher
+82,Victor Alvarez,ST,Manchester City,Germany,Premier League,False 9
+83,Goncalo Martinez,ST,Monaco,Belgium,Ligue 1,Poacher
+84,Benjamin Lewandowski,ST,Athletic Club,Belgium,La Liga,Target Forward
+85,Alvaro Haaland,ST,Bologna,England,Serie A,Target Forward
+86,Callum Osimhen,ST,Barcelona,Nigeria,La Liga,False 9
+87,Ivan Gimenez,ST,Atalanta,Serbia,Serie A,Advanced Forward
+88,Santiago Kane,ST,Girona,Argentina,La Liga,False 9
+89,Victor Alvarez,ST,Marseille,Serbia,Ligue 1,Target Forward
+90,Alvaro Lukaku,ST,Marseille,Uruguay,Ligue 1,Target Forward
+91,Ollie Openda,ST,Lille,Brazil,Ligue 1,Poacher
+92,Harry Nunez,ST,Dortmund,England,Bundesliga,False 9
+93,Ivan Morata,ST,Frankfurt,Spain,Bundesliga,Advanced Forward
+94,Erling Toney,ST,RB Leipzig,Poland,Bundesliga,Poacher
+95,Julian Lukaku,ST,RB Leipzig,Denmark,Bundesliga,False 9
+96,Julian Ramos,ST,Chelsea,Brazil,Premier League,Advanced Forward
+97,Dusan Vlahovic,ST,Nice,Portugal,Ligue 1,Target Forward
+98,Julian Lukaku,ST,Brest,Norway,Ligue 1,Poacher
+99,Darwin Sesko,ST,Atalanta,France,Serie A,Poacher
+100,Lois Morata,ST,Arsenal,Sweden,Premier League,Advanced Forward
+101,Niclas Ramos,ST,Bayern Munich,France,Bundesliga,Target Forward
+102,Santiago Kane,ST,Lille,Brazil,Ligue 1,Poacher
+103,Harry Hojlund,ST,Bayern Munich,Slovenia,Bundesliga,Poacher
+104,Callum Ramos,ST,Monaco,France,Ligue 1,Advanced Forward
+105,Ivan Lewandowski,ST,Bayer Leverkusen,Belgium,Bundesliga,Poacher
+106,Romelu Watkins,ST,Girona,France,La Liga,Poacher
+107,Julian Lewandowski,ST,Stuttgart,Serbia,Bundesliga,Poacher
+108,Darwin Lewandowski,ST,Monaco,Belgium,Ligue 1,Target Forward
+109,Callum Isak,ST,AS Roma,Serbia,Serie A,False 9
+110,Ivan Haaland,ST,Liverpool,Germany,Premier League,False 9
+111,Lautaro Watkins,ST,Real Betis,Belgium,La Liga,Poacher
+112,Rasmus Isak,ST,Bologna,Nigeria,Serie A,Target Forward
+113,Dusan Gimenez,ST,Aston Villa,Argentina,Premier League,Advanced Forward
+114,Alvaro Isak,ST,Nice,Belgium,Ligue 1,Poacher
+115,Victor Isak,ST,Valencia,Argentina,La Liga,False 9
+116,Rasmus Isak,ST,Real Betis,Mexico,La Liga,Target Forward
+117,Rasmus Openda,ST,Aston Villa,Spain,Premier League,Target Forward
+118,Julian Isak,ST,Nice,Germany,Ligue 1,Advanced Forward
+119,Lois Sesko,ST,Liverpool,Uruguay,Premier League,Poacher
+120,Harry Nunez,ST,Inter Milan,Denmark,Serie A,Target Forward
+121,Niclas Watkins,ST,Brest,Sweden,Ligue 1,False 9
+122,Lois Vlahovic,ST,Newcastle,England,Premier League,Advanced Forward
+123,Harry Fullkrug,ST,Lille,Belgium,Ligue 1,False 9
+124,Niclas Isak,ST,Dortmund,Serbia,Bundesliga,False 9
+125,Rasmus Toney,ST,Atalanta,Norway,Serie A,False 9
+126,Alexander Haaland,ST,Barcelona,Belgium,La Liga,Advanced Forward
+127,Dusan Lukaku,ST,Dortmund,Serbia,Bundesliga,Advanced Forward
+128,Goncalo Nunez,ST,Bayern Munich,Spain,Bundesliga,False 9
+129,Alvaro Wilson,ST,Bayer Leverkusen,Germany,Bundesliga,False 9
+130,Romelu Gimenez,ST,Stuttgart,Brazil,Bundesliga,Target Forward
+131,Romelu Isak,ST,Newcastle,Slovenia,Premier League,Poacher
+132,Goncalo Toney,ST,Real Betis,Slovenia,La Liga,False 9
+133,Robert Haaland,ST,Napoli,Norway,Serie A,Advanced Forward
+134,Callum Wilson,ST,Real Sociedad,Germany,La Liga,Target Forward
+135,Goncalo Martinez,ST,AS Roma,Sweden,Serie A,False 9
+136,Victor Isak,ST,Dortmund,Uruguay,Bundesliga,Target Forward
+137,Romelu Lukaku,ST,Juventus,Belgium,Serie A,False 9
+138,Santiago Martinez,ST,Girona,Poland,La Liga,Poacher
+139,Rasmus Fullkrug,ST,Nice,France,Ligue 1,Advanced Forward
+140,Goncalo Ramos,ST,Atletico Madrid,Portugal,La Liga,Target Forward
+141,Robert Vlahovic,ST,Stuttgart,Portugal,Bundesliga,Target Forward
+142,Lautaro Openda,ST,AS Roma,Slovenia,Serie A,Target Forward
+143,Benjamin Lukaku,ST,Liverpool,Norway,Premier League,Poacher
+144,Harry Toney,ST,Juventus,Nigeria,Serie A,Poacher
+145,Lois Wilson,ST,Athletic Club,Brazil,La Liga,False 9
+146,Victor Isak,ST,Frankfurt,Brazil,Bundesliga,Target Forward
+147,Ollie Martinez,ST,Monaco,Argentina,Ligue 1,Advanced Forward
+148,Dusan Vlahovic,ST,Lazio,Uruguay,Serie A,Target Forward
+149,Ivan Watkins,ST,Manchester United,Poland,Premier League,Target Forward
+150,Benjamin Toney,ST,Barcelona,Mexico,La Liga,False 9
+151,Callum Haaland,ST,Newcastle,Norway,Premier League,Advanced Forward
+152,Lois Toney,ST,Manchester City,Poland,Premier League,False 9
+153,Lois Lewandowski,ST,Monaco,Serbia,Ligue 1,Advanced Forward
+154,Lois Sesko,ST,Napoli,Spain,Serie A,Advanced Forward
+155,Lautaro Openda,ST,Chelsea,Portugal,Premier League,False 9
+156,Ollie Martinez,ST,Marseille,Argentina,Ligue 1,Target Forward
+157,Alexander Lewandowski,ST,Atalanta,Brazil,Serie A,Poacher
+158,Lautaro Isak,ST,Lyon,England,Ligue 1,False 9
+159,Victor Hojlund,ST,Bayern Munich,Norway,Bundesliga,Advanced Forward
+160,Ollie Nunez,ST,West Ham,Argentina,Premier League,Poacher
+161,Lois Hojlund,ST,Lille,Nigeria,Ligue 1,Advanced Forward
+162,Harry Lewandowski,ST,AS Roma,Spain,Serie A,False 9
+163,Benjamin Lukaku,ST,Marseille,Germany,Ligue 1,Target Forward
+164,Dusan Sesko,ST,Barcelona,Mexico,La Liga,Poacher
+165,Dusan Lewandowski,ST,Aston Villa,Sweden,Premier League,Poacher
+166,Callum Openda,ST,Newcastle,England,Premier League,Poacher
+167,Santiago Openda,ST,Real Betis,Nigeria,La Liga,Poacher
+168,Lautaro Lewandowski,ST,Dortmund,Brazil,Bundesliga,Advanced Forward
+169,Lautaro Lewandowski,ST,Brest,Nigeria,Ligue 1,Advanced Forward
+170,Santiago Hojlund,ST,Valencia,Poland,La Liga,Poacher
+171,Romelu Toney,ST,AS Roma,Serbia,Serie A,Poacher
+172,Romelu Openda,ST,Lazio,Sweden,Serie A,Target Forward
+173,Alvaro Haaland,ST,Arsenal,Serbia,Premier League,False 9
+174,Niclas Lewandowski,ST,Nice,Mexico,Ligue 1,Poacher
+175,Goncalo Alvarez,ST,Bayer Leverkusen,Norway,Bundesliga,Poacher
+176,Alvaro Haaland,ST,Liverpool,Slovenia,Premier League,Target Forward
+177,Darwin Osimhen,ST,Napoli,Uruguay,Serie A,Target Forward
+178,Darwin Watkins,ST,Frankfurt,Germany,Bundesliga,Poacher
+179,Benjamin Haaland,ST,Lyon,Portugal,Ligue 1,Advanced Forward
+180,Niclas Ramos,ST,Athletic Club,Denmark,La Liga,Advanced Forward
+181,Julian Fullkrug,ST,Inter Milan,Poland,Serie A,Poacher
+182,Lois Openda,ST,Lille,Belgium,Ligue 1,Advanced Forward
+183,Lois Alvarez,ST,Bayern Munich,Poland,Bundesliga,Poacher
+184,Harry Wilson,ST,Juventus,Serbia,Serie A,Poacher
+185,Dusan Alvarez,ST,Brest,Sweden,Ligue 1,False 9
+186,Lautaro Haaland,ST,Atalanta,Mexico,Serie A,Poacher
+187,Robert Ramos,ST,Brest,Brazil,Ligue 1,Target Forward
+188,Harry Kane,ST,RB Leipzig,England,Bundesliga,Poacher
+189,Ollie Alvarez,ST,Athletic Club,Portugal,La Liga,Advanced Forward
+190,Julian Wilson,ST,Aston Villa,Serbia,Premier League,False 9
+191,Victor Watkins,ST,Frankfurt,Sweden,Bundesliga,Poacher
+192,Alexander Ramos,ST,Aston Villa,France,Premier League,False 9
+193,Alvaro Wilson,ST,Valencia,Argentina,La Liga,False 9
+194,Erling Openda,ST,Tottenham,Portugal,Premier League,Advanced Forward
+195,Harry Martinez,ST,RB Leipzig,Slovenia,Bundesliga,Poacher
+196,Romelu Morata,ST,Stuttgart,Nigeria,Bundesliga,Target Forward
+197,Harry Morata,ST,Brest,Mexico,Ligue 1,False 9
+198,Dusan Gimenez,ST,Valencia,Mexico,La Liga,Poacher
+199,Alexander Isak,ST,Atletico Madrid,Spain,La Liga,Advanced Forward
+200,Erling Kane,ST,Real Madrid,Argentina,La Liga,Target Forward
+201,Alvaro Lukaku,ST,PSG,Spain,Ligue 1,Target Forward
+202,Darwin Openda,ST,Bayern Munich,Slovenia,Bundesliga,Poacher
+203,Goncalo Hojlund,ST,AC Milan,Uruguay,Serie A,False 9
+204,Victor Nunez,ST,Real Betis,Spain,La Liga,False 9
+205,Alexander Openda,ST,Arsenal,Nigeria,Premier League,Target Forward
+206,Romelu Toney,ST,Real Betis,Germany,La Liga,Advanced Forward
+207,Lautaro Haaland,ST,AS Roma,England,Serie A,False 9
+208,Alvaro Haaland,ST,Brest,Spain,Ligue 1,Target Forward
+209,Julian Ramos,ST,Juventus,Germany,Serie A,Target Forward
+210,Erling Martinez,ST,Lazio,Mexico,Serie A,Target Forward
+211,Alexander Watkins,ST,Monaco,France,Ligue 1,False 9
+212,Alvaro Martinez,ST,Monaco,France,Ligue 1,False 9
+213,Robert Watkins,ST,Aston Villa,Belgium,Premier League,Advanced Forward
+214,Goncalo Toney,ST,Manchester United,Argentina,Premier League,False 9
+215,Goncalo Osimhen,ST,Aston Villa,Poland,Premier League,Target Forward
+216,Erling Toney,ST,Frankfurt,Belgium,Bundesliga,Target Forward
+217,Romelu Alvarez,ST,Brighton,Belgium,Premier League,False 9
+218,Julian Vlahovic,ST,Lille,France,Ligue 1,Poacher
+219,Julian Wilson,ST,AC Milan,Belgium,Serie A,Advanced Forward
+220,Niclas Toney,ST,Arsenal,Belgium,Premier League,Target Forward
+221,Niclas Lukaku,ST,Inter Milan,Argentina,Serie A,Target Forward
+222,Robert Alvarez,ST,Real Sociedad,Nigeria,La Liga,False 9
+223,Erling Fullkrug,ST,Real Betis,Denmark,La Liga,Target Forward
+224,Julian Lewandowski,ST,Chelsea,Sweden,Premier League,False 9
+225,Alvaro Lewandowski,ST,Napoli,Germany,Serie A,False 9
+226,Erling Gimenez,ST,Monaco,Argentina,Ligue 1,Target Forward
+227,Romelu Wilson,ST,Inter Milan,Norway,Serie A,False 9
+228,Lautaro Watkins,ST,Lille,Slovenia,Ligue 1,Poacher
+229,Alexander Martinez,ST,Dortmund,Sweden,Bundesliga,Target Forward
+230,Niclas Wilson,ST,Real Madrid,Germany,La Liga,Advanced Forward
+231,Lautaro Gimenez,ST,Real Madrid,Uruguay,La Liga,False 9
+232,Lois Fullkrug,ST,Real Betis,Argentina,La Liga,Target Forward
+233,Santiago Lewandowski,ST,Bayer Leverkusen,Slovenia,Bundesliga,False 9
+234,Lois Lukaku,ST,Inter Milan,England,Serie A,Advanced Forward
+235,Lautaro Vlahovic,ST,Nice,Serbia,Ligue 1,Advanced Forward
+236,Alexander Lukaku,ST,Lille,Denmark,Ligue 1,False 9
+237,Darwin Lukaku,ST,Lyon,Germany,Ligue 1,False 9
+238,Rasmus Nunez,ST,Lazio,Belgium,Serie A,Target Forward
+239,Dusan Gimenez,ST,Arsenal,Norway,Premier League,False 9
+240,Ivan Kane,ST,Athletic Club,Argentina,La Liga,Advanced Forward
+241,Victor Gimenez,ST,Newcastle,Belgium,Premier League,Target Forward
+242,Dusan Openda,ST,Frankfurt,Portugal,Bundesliga,False 9
+243,Rasmus Fullkrug,ST,Lille,Norway,Ligue 1,Poacher
+244,Robert Watkins,ST,Tottenham,France,Premier League,False 9
+245,Niclas Morata,ST,Lyon,Germany,Ligue 1,False 9
+246,Alvaro Fullkrug,ST,Bologna,Mexico,Serie A,Target Forward
+247,Alexander Morata,ST,Girona,Uruguay,La Liga,Poacher
+248,Santiago Sesko,ST,Valencia,Germany,La Liga,Target Forward
+249,Lois Wilson,ST,Real Madrid,Belgium,La Liga,Target Forward
+250,Darwin Hojlund,ST,Real Madrid,Serbia,La Liga,Target Forward
+251,Goncalo Alvarez,ST,Frankfurt,Sweden,Bundesliga,Target Forward
+252,Romelu Openda,ST,Dortmund,Sweden,Bundesliga,Advanced Forward
+253,Lautaro Toney,ST,Bologna,Norway,Serie A,Target Forward
+254,Alexander Martinez,ST,Aston Villa,Mexico,Premier League,Advanced Forward
+255,Erling Fullkrug,ST,Lille,Nigeria,Ligue 1,Advanced Forward
+256,Erling Sesko,ST,Monaco,Nigeria,Ligue 1,False 9
+257,Alvaro Openda,ST,Brest,Nigeria,Ligue 1,Poacher
+258,Harry Vlahovic,ST,Juventus,Spain,Serie A,Advanced Forward
+259,Robert Lukaku,ST,Real Madrid,Spain,La Liga,Advanced Forward
+260,Rasmus Hojlund,ST,Real Madrid,Denmark,La Liga,Target Forward
+261,Benjamin Alvarez,ST,Manchester United,Spain,Premier League,Poacher
+262,Harry Osimhen,ST,Atletico Madrid,England,La Liga,Poacher
+263,Alexander Lewandowski,ST,Monaco,England,Ligue 1,Target Forward
+264,Ivan Toney,ST,AS Roma,France,Serie A,Target Forward
+265,Julian Sesko,ST,Frankfurt,Nigeria,Bundesliga,Advanced Forward
+266,Victor Nunez,ST,RB Leipzig,Portugal,Bundesliga,False 9
+267,Victor Lewandowski,ST,Real Betis,Argentina,La Liga,Advanced Forward
+268,Alvaro Watkins,ST,Atletico Madrid,Uruguay,La Liga,False 9
+269,Santiago Morata,ST,Atalanta,Brazil,Serie A,False 9
+270,Benjamin Haaland,ST,Real Sociedad,France,La Liga,Target Forward
+271,Dusan Ramos,ST,West Ham,Denmark,Premier League,Target Forward
+272,Darwin Alvarez,ST,Real Betis,Germany,La Liga,Poacher
+273,Alexander Morata,ST,Bologna,Belgium,Serie A,Poacher
+274,Julian Watkins,ST,Bayern Munich,England,Bundesliga,Target Forward
+275,Dusan Ramos,ST,Bayer Leverkusen,Brazil,Bundesliga,False 9
+276,Lautaro Hojlund,ST,Girona,Argentina,La Liga,Advanced Forward
+277,Santiago Toney,ST,Chelsea,Germany,Premier League,Poacher
+278,Callum Vlahovic,ST,Marseille,Sweden,Ligue 1,Target Forward
+279,Goncalo Toney,ST,Real Sociedad,England,La Liga,Target Forward
+280,Lautaro Sesko,ST,Real Betis,Poland,La Liga,Advanced Forward
+281,Romelu Sesko,ST,RB Leipzig,England,Bundesliga,False 9
+282,Harry Osimhen,ST,Lille,Slovenia,Ligue 1,Advanced Forward
+283,Ollie Lewandowski,ST,AS Roma,Brazil,Serie A,False 9
+284,Julian Nunez,ST,Girona,France,La Liga,False 9
+285,Victor Isak,ST,Frankfurt,Nigeria,Bundesliga,Poacher
+286,Darwin Watkins,ST,Girona,Uruguay,La Liga,False 9
+287,Harry Wilson,ST,Barcelona,Brazil,La Liga,False 9
+288,Victor Kane,ST,Liverpool,Spain,Premier League,Advanced Forward
+289,Santiago Martinez,ST,Inter Milan,Argentina,Serie A,False 9
+290,Goncalo Osimhen,ST,AC Milan,Denmark,Serie A,Poacher
+291,Callum Watkins,ST,Monaco,Serbia,Ligue 1,Target Forward
+292,Callum Vlahovic,ST,Arsenal,Poland,Premier League,False 9
+293,Darwin Ramos,ST,Newcastle,Brazil,Premier League,Poacher
+294,Harry Alvarez,ST,PSG,Poland,Ligue 1,Target Forward
+295,Julian Osimhen,ST,Real Madrid,Serbia,La Liga,Target Forward
+296,Benjamin Morata,ST,Juventus,Mexico,Serie A,Target Forward
+297,Lautaro Nunez,ST,Inter Milan,Argentina,Serie A,Advanced Forward
+298,Benjamin Gimenez,ST,Bayern Munich,Sweden,Bundesliga,False 9
+299,Romelu Openda,ST,Real Sociedad,Norway,La Liga,Advanced Forward
+300,Benjamin Lukaku,ST,Bayer Leverkusen,Brazil,Bundesliga,Advanced Forward
+301,Erling Nunez,ST,Liverpool,Belgium,Premier League,Target Forward
+302,Goncalo Sesko,ST,Frankfurt,Argentina,Bundesliga,Poacher
+303,Darwin Openda,ST,Athletic Club,France,La Liga,Advanced Forward
+304,Dusan Gimenez,ST,Real Madrid,Slovenia,La Liga,Poacher
+305,Ivan Openda,ST,Napoli,Germany,Serie A,Target Forward
+306,Niclas Martinez,ST,Lille,Poland,Ligue 1,Target Forward
+307,Lois Ramos,ST,Lazio,Portugal,Serie A,Advanced Forward
+308,Alvaro Watkins,ST,Bayer Leverkusen,Uruguay,Bundesliga,Target Forward
+309,Romelu Lukaku,ST,Liverpool,Brazil,Premier League,Target Forward
+310,Ollie Lukaku,ST,Brighton,Spain,Premier League,Advanced Forward
+311,Niclas Vlahovic,ST,Brest,Denmark,Ligue 1,Poacher
+312,Romelu Morata,ST,Girona,Portugal,La Liga,Advanced Forward
+313,Goncalo Nunez,ST,PSG,Uruguay,Ligue 1,Advanced Forward
+314,Darwin Isak,ST,Lyon,Serbia,Ligue 1,False 9
+315,Lois Haaland,ST,Lazio,Poland,Serie A,False 9
+316,Harry Gimenez,ST,Bologna,Spain,Serie A,False 9
+317,Erling Alvarez,ST,Bologna,Denmark,Serie A,False 9
+318,Rasmus Osimhen,ST,Juventus,Portugal,Serie A,False 9
+319,Ivan Isak,ST,PSG,Portugal,Ligue 1,False 9
+320,Victor Martinez,ST,Real Madrid,Norway,La Liga,Poacher
+321,Alvaro Wilson,ST,Stuttgart,Germany,Bundesliga,Target Forward
+322,Erling Haaland,ST,Dortmund,Slovenia,Bundesliga,Target Forward
+323,Julian Toney,ST,Chelsea,Norway,Premier League,Advanced Forward
+324,Santiago Wilson,ST,Inter Milan,England,Serie A,False 9
+325,Darwin Ramos,ST,Lille,Uruguay,Ligue 1,Advanced Forward
+326,Darwin Nunez,ST,Nice,Belgium,Ligue 1,Advanced Forward
+327,Victor Isak,ST,Atalanta,Poland,Serie A,Advanced Forward
+328,Alvaro Lewandowski,ST,Lyon,England,Ligue 1,False 9
+329,Goncalo Openda,ST,Liverpool,France,Premier League,Poacher
+330,Alvaro Alvarez,ST,Bayer Leverkusen,Uruguay,Bundesliga,False 9
+331,Harry Martinez,ST,Lyon,Sweden,Ligue 1,False 9
+332,Rasmus Martinez,ST,Athletic Club,Belgium,La Liga,Target Forward
+333,Victor Ramos,ST,West Ham,Brazil,Premier League,Target Forward
+334,Alvaro Alvarez,ST,Monaco,Portugal,Ligue 1,Target Forward
+335,Harry Vlahovic,ST,Aston Villa,Nigeria,Premier League,Advanced Forward
+336,Julian Alvarez,ST,Bayer Leverkusen,Denmark,Bundesliga,False 9
+337,Lois Nunez,ST,Girona,Nigeria,La Liga,Advanced Forward
+338,Julian Toney,ST,Manchester United,Brazil,Premier League,False 9
+339,Darwin Vlahovic,ST,Bologna,Spain,Serie A,False 9
+340,Callum Fullkrug,ST,AC Milan,Nigeria,Serie A,Poacher
+341,Lois Wilson,ST,AS Roma,Poland,Serie A,Target Forward
+342,Alexander Sesko,ST,Brest,Brazil,Ligue 1,Poacher
+343,Dusan Wilson,ST,Bayer Leverkusen,England,Bundesliga,Advanced Forward
+344,Lautaro Hojlund,ST,Atalanta,Spain,Serie A,Target Forward
+345,Rasmus Alvarez,ST,PSG,Slovenia,Ligue 1,Poacher
+346,Alvaro Gimenez,ST,Barcelona,Belgium,La Liga,Advanced Forward
+347,Lois Ramos,ST,Valencia,Mexico,La Liga,Target Forward
+348,Alvaro Gimenez,ST,PSG,Portugal,Ligue 1,False 9
+349,Goncalo Vlahovic,ST,Tottenham,Mexico,Premier League,Target Forward
+350,Erling Vlahovic,ST,Atalanta,Brazil,Serie A,Advanced Forward
+351,Harry Openda,ST,Atalanta,Mexico,Serie A,Poacher
+352,Harry Haaland,ST,Dortmund,Brazil,Bundesliga,Poacher
+353,Victor Martinez,ST,Juventus,Slovenia,Serie A,Target Forward
+354,Erling Hojlund,ST,Bayer Leverkusen,Nigeria,Bundesliga,Target Forward
+355,Darwin Martinez,ST,Inter Milan,Brazil,Serie A,Advanced Forward
+356,Benjamin Sesko,ST,Atletico Madrid,Argentina,La Liga,False 9
+357,Alexander Martinez,ST,Atalanta,France,Serie A,Advanced Forward
+358,Robert Isak,ST,Stuttgart,Brazil,Bundesliga,Poacher
+359,Darwin Lukaku,ST,Juventus,Slovenia,Serie A,Advanced Forward
+360,Alvaro Isak,ST,Atalanta,Portugal,Serie A,Advanced Forward
+361,Ollie Nunez,ST,Bayer Leverkusen,Nigeria,Bundesliga,Advanced Forward
+362,Benjamin Morata,ST,Bologna,Belgium,Serie A,Advanced Forward
+363,Victor Martinez,ST,Inter Milan,France,Serie A,Poacher
+364,Rasmus Lukaku,ST,Bayer Leverkusen,Uruguay,Bundesliga,Poacher
+365,Lois Osimhen,ST,Real Betis,Slovenia,La Liga,Target Forward
+366,Romelu Fullkrug,ST,Atletico Madrid,Belgium,La Liga,Target Forward
+367,Harry Vlahovic,ST,Lille,Mexico,Ligue 1,Target Forward
+368,Darwin Haaland,ST,Monaco,Belgium,Ligue 1,Poacher
+369,Lautaro Openda,ST,Bologna,Germany,Serie A,Poacher
+370,Alexander Ramos,ST,Monaco,Belgium,Ligue 1,Poacher
+371,Ivan Alvarez,ST,Real Betis,Nigeria,La Liga,Poacher
+372,Harry Alvarez,ST,AC Milan,Uruguay,Serie A,False 9
+373,Harry Openda,ST,Nice,Slovenia,Ligue 1,Poacher
+374,Lois Haaland,ST,Dortmund,Slovenia,Bundesliga,Poacher
+375,Romelu Gimenez,ST,Frankfurt,Uruguay,Bundesliga,Target Forward
+376,Alvaro Kane,ST,Brest,Poland,Ligue 1,False 9
+377,Robert Openda,ST,RB Leipzig,England,Bundesliga,Poacher
+378,Niclas Haaland,ST,Dortmund,Mexico,Bundesliga,Poacher
+379,Erling Haaland,ST,Nice,Nigeria,Ligue 1,False 9
+380,Erling Ramos,ST,Napoli,Slovenia,Serie A,False 9
+381,Lautaro Alvarez,ST,Monaco,Poland,Ligue 1,Target Forward
+382,Ollie Lewandowski,ST,Napoli,Denmark,Serie A,Poacher
+383,Victor Haaland,ST,Manchester United,Mexico,Premier League,Advanced Forward
+384,Alvaro Toney,ST,Real Sociedad,Spain,La Liga,Target Forward
+385,Dusan Wilson,ST,AS Roma,Germany,Serie A,Advanced Forward
+386,Ivan Hojlund,ST,Bayer Leverkusen,Poland,Bundesliga,Target Forward
+387,Alexander Sesko,ST,Valencia,Slovenia,La Liga,Target Forward
+388,Callum Gimenez,ST,Real Sociedad,England,La Liga,Target Forward
+389,Romelu Fullkrug,ST,Juventus,Slovenia,Serie A,Advanced Forward
+390,Santiago Lewandowski,ST,AC Milan,England,Serie A,Target Forward
+391,Ivan Lukaku,ST,Barcelona,Mexico,La Liga,Target Forward
+392,Alexander Sesko,ST,Chelsea,Spain,Premier League,False 9
+393,Lois Toney,ST,Napoli,Brazil,Serie A,Advanced Forward
+394,Darwin Fullkrug,ST,Napoli,Argentina,Serie A,Target Forward
+395,Erling Gimenez,ST,Girona,Belgium,La Liga,Advanced Forward
+396,Ivan Hojlund,ST,Brighton,Brazil,Premier League,Target Forward
+397,Santiago Haaland,ST,Napoli,Serbia,Serie A,Poacher
+398,Benjamin Hojlund,ST,Stuttgart,Portugal,Bundesliga,Advanced Forward
+399,Robert Fullkrug,ST,Real Madrid,Brazil,La Liga,False 9
+400,Julian Ramos,ST,Monaco,Denmark,Ligue 1,Poacher
+401,Lois Openda,ST,AC Milan,Belgium,Serie A,False 9
+402,Ollie Wilson,ST,RB Leipzig,Sweden,Bundesliga,False 9
+403,Alvaro Alvarez,ST,Real Madrid,Uruguay,La Liga,Poacher
+404,Rasmus Martinez,ST,Atletico Madrid,Germany,La Liga,Target Forward
+405,Romelu Lewandowski,ST,Bayer Leverkusen,Belgium,Bundesliga,Poacher
+406,Romelu Hojlund,ST,Chelsea,Belgium,Premier League,False 9
+407,Niclas Toney,ST,Arsenal,Denmark,Premier League,Target Forward
+408,Callum Sesko,ST,Aston Villa,Belgium,Premier League,False 9
+409,Santiago Isak,ST,Atalanta,Nigeria,Serie A,False 9
+410,Goncalo Sesko,ST,Atalanta,Poland,Serie A,Advanced Forward
+411,Niclas Gimenez,ST,AC Milan,Spain,Serie A,Target Forward
+412,Alvaro Nunez,ST,Brighton,Norway,Premier League,False 9
+413,Alvaro Openda,ST,Real Sociedad,Brazil,La Liga,Poacher
+414,Lois Lukaku,ST,Nice,Serbia,Ligue 1,Advanced Forward
+415,Callum Nunez,ST,AC Milan,England,Serie A,Advanced Forward
+416,Santiago Vlahovic,ST,AS Roma,Germany,Serie A,False 9
+417,Robert Lukaku,ST,Girona,Norway,La Liga,False 9
+418,Alvaro Nunez,ST,Dortmund,Slovenia,Bundesliga,Poacher
+419,Victor Gimenez,ST,Atletico Madrid,Brazil,La Liga,Poacher
+420,Darwin Gimenez,ST,Tottenham,Brazil,Premier League,Poacher
+421,Harry Lukaku,ST,Brest,Serbia,Ligue 1,Advanced Forward
+422,Victor Kane,ST,Monaco,Belgium,Ligue 1,Advanced Forward
+423,Rasmus Ramos,ST,Frankfurt,Argentina,Bundesliga,False 9
+424,Rasmus Hojlund,ST,Bologna,Brazil,Serie A,Advanced Forward
+425,Lautaro Kane,ST,PSG,Brazil,Ligue 1,Advanced Forward
+426,Harry Alvarez,ST,Atletico Madrid,Uruguay,La Liga,Target Forward
+427,Darwin Wilson,ST,Monaco,Brazil,Ligue 1,Advanced Forward
+428,Darwin Lukaku,ST,Dortmund,Nigeria,Bundesliga,Target Forward
+429,Alexander Haaland,ST,Athletic Club,Uruguay,La Liga,Target Forward
+430,Ollie Fullkrug,ST,West Ham,Uruguay,Premier League,Poacher
+431,Julian Gimenez,ST,Atletico Madrid,Spain,La Liga,False 9
+432,Dusan Ramos,ST,Lyon,Poland,Ligue 1,False 9
+433,Robert Morata,ST,Dortmund,Denmark,Bundesliga,Target Forward
+434,Alexander Osimhen,ST,Nice,Serbia,Ligue 1,Advanced Forward
+435,Niclas Isak,ST,Lille,Argentina,Ligue 1,False 9
+436,Santiago Fullkrug,ST,Athletic Club,Slovenia,La Liga,Advanced Forward
+437,Ivan Gimenez,ST,Napoli,Germany,Serie A,Advanced Forward
+438,Rasmus Toney,ST,Manchester City,Uruguay,Premier League,False 9
+439,Benjamin Sesko,ST,Brest,France,Ligue 1,Target Forward
+440,Goncalo Martinez,ST,Liverpool,Denmark,Premier League,False 9
+441,Benjamin Ramos,ST,Marseille,Portugal,Ligue 1,Advanced Forward
+442,Callum Ramos,ST,AS Roma,Uruguay,Serie A,Poacher
+443,Victor Osimhen,ST,Athletic Club,France,La Liga,False 9
+444,Lautaro Martinez,ST,Brest,France,Ligue 1,False 9
+445,Santiago Openda,ST,Valencia,Portugal,La Liga,Target Forward
+446,Santiago Watkins,ST,Athletic Club,Serbia,La Liga,False 9
+447,Robert Lukaku,ST,Real Betis,France,La Liga,Poacher
+448,Romelu Lukaku,ST,Manchester United,Germany,Premier League,Poacher
+449,Benjamin Vlahovic,ST,Stuttgart,Sweden,Bundesliga,Poacher
+450,Alvaro Vlahovic,ST,RB Leipzig,Brazil,Bundesliga,False 9
+451,Alexander Wilson,ST,Lille,Spain,Ligue 1,Advanced Forward
+452,Alvaro Vlahovic,ST,Nice,Belgium,Ligue 1,Target Forward
+453,Benjamin Lukaku,ST,Frankfurt,Portugal,Bundesliga,False 9
+454,Rasmus Nunez,ST,RB Leipzig,Poland,Bundesliga,Poacher
+455,Romelu Osimhen,ST,AC Milan,Mexico,Serie A,Target Forward
+456,Santiago Lewandowski,ST,RB Leipzig,Brazil,Bundesliga,False 9
+457,Lautaro Alvarez,ST,Lyon,Serbia,Ligue 1,Advanced Forward
+458,Lois Osimhen,ST,Nice,England,Ligue 1,False 9
+459,Rasmus Toney,ST,Nice,Brazil,Ligue 1,Advanced Forward
+460,Julian Nunez,ST,Nice,Denmark,Ligue 1,False 9
+461,Alexander Wilson,ST,Lille,Poland,Ligue 1,False 9
+462,Ollie Wilson,ST,Brest,England,Ligue 1,Poacher
+463,Benjamin Toney,ST,Brest,Poland,Ligue 1,Target Forward
+464,Robert Wilson,ST,Arsenal,France,Premier League,Advanced Forward
+465,Darwin Ramos,ST,RB Leipzig,Mexico,Bundesliga,Advanced Forward
+466,Niclas Haaland,ST,AS Roma,Portugal,Serie A,Poacher
+467,Ollie Lukaku,ST,Lille,Argentina,Ligue 1,Target Forward
+468,Alvaro Morata,ST,RB Leipzig,Mexico,Bundesliga,Target Forward
+469,Santiago Nunez,ST,Frankfurt,Portugal,Bundesliga,Target Forward
+470,Santiago Fullkrug,ST,Athletic Club,Poland,La Liga,False 9
+471,Harry Alvarez,ST,RB Leipzig,Slovenia,Bundesliga,Advanced Forward
+472,Robert Watkins,ST,Chelsea,Brazil,Premier League,Advanced Forward
+473,Benjamin Haaland,ST,Athletic Club,England,La Liga,Poacher
+474,Dusan Toney,ST,Bologna,Mexico,Serie A,Target Forward
+475,Robert Toney,ST,Bayer Leverkusen,Belgium,Bundesliga,Target Forward
+476,Robert Nunez,ST,Napoli,Poland,Serie A,Poacher
+477,Ivan Haaland,ST,Nice,Argentina,Ligue 1,Target Forward
+478,Lois Watkins,ST,Frankfurt,Spain,Bundesliga,Poacher
+479,Robert Wilson,ST,Frankfurt,France,Bundesliga,Advanced Forward
+480,Victor Morata,ST,Atletico Madrid,Mexico,La Liga,Poacher
+481,Goncalo Martinez,ST,Real Madrid,Denmark,La Liga,False 9
+482,Goncalo Hojlund,ST,AC Milan,Brazil,Serie A,Advanced Forward
+483,Dusan Hojlund,ST,Nice,Mexico,Ligue 1,False 9
+484,Erling Lukaku,ST,Manchester United,Germany,Premier League,Poacher
+485,Julian Hojlund,ST,Athletic Club,Belgium,La Liga,Poacher
+486,Lois Lewandowski,ST,Atletico Madrid,Belgium,La Liga,Target Forward
+487,Romelu Osimhen,ST,Bologna,Slovenia,Serie A,Advanced Forward
+488,Santiago Toney,ST,Juventus,Denmark,Serie A,False 9
+489,Robert Ramos,ST,Bologna,Norway,Serie A,False 9
+490,Alvaro Openda,ST,Dortmund,Poland,Bundesliga,False 9
+491,Goncalo Lukaku,ST,Marseille,Portugal,Ligue 1,Target Forward
+492,Lois Martinez,ST,Stuttgart,Argentina,Bundesliga,Target Forward
+493,Harry Lukaku,ST,Marseille,Brazil,Ligue 1,Advanced Forward
+494,Callum Wilson,ST,Chelsea,Portugal,Premier League,Poacher
+495,Victor Nunez,ST,Chelsea,Brazil,Premier League,Target Forward
+496,Santiago Lukaku,ST,Real Betis,Poland,La Liga,False 9
+497,Ollie Kane,ST,AS Roma,Spain,Serie A,Advanced Forward
+498,Harry Gimenez,ST,Lyon,Uruguay,Ligue 1,Target Forward
+499,Rasmus Kane,ST,Brighton,Argentina,Premier League,False 9
+500,Robert Openda,ST,Barcelona,Spain,La Liga,Poacher
+501,Rasmus Alvarez,ST,Juventus,Spain,Serie A,Poacher
+502,Ivan Nunez,ST,AC Milan,France,Serie A,Poacher
+503,Harry Wilson,ST,Juventus,Brazil,Serie A,Target Forward
+504,Ivan Ramos,ST,Valencia,Uruguay,La Liga,Target Forward
+505,Lois Vlahovic,ST,Aston Villa,France,Premier League,Advanced Forward
+506,Santiago Martinez,ST,AC Milan,Portugal,Serie A,Poacher
+507,Callum Kane,ST,Barcelona,Denmark,La Liga,Target Forward
+508,Romelu Martinez,ST,Manchester United,Sweden,Premier League,False 9
+509,Julian Isak,ST,Napoli,Portugal,Serie A,Poacher
+510,Santiago Nunez,ST,Girona,Spain,La Liga,Target Forward
+511,Ivan Fullkrug,ST,Newcastle,Slovenia,Premier League,Poacher
+512,Callum Vlahovic,ST,Bayer Leverkusen,Denmark,Bundesliga,Advanced Forward
+513,Julian Lewandowski,ST,Valencia,Serbia,La Liga,Target Forward
+514,Lois Osimhen,ST,Lille,France,Ligue 1,False 9
+515,Erling Isak,ST,AS Roma,Nigeria,Serie A,False 9
+516,Benjamin Vlahovic,ST,Girona,France,La Liga,Target Forward
+517,Harry Vlahovic,ST,Lazio,Belgium,Serie A,Target Forward
+518,Alvaro Kane,ST,Manchester City,Poland,Premier League,Target Forward
+519,Alexander Martinez,ST,Frankfurt,Uruguay,Bundesliga,Target Forward
+520,Rasmus Vlahovic,ST,RB Leipzig,Poland,Bundesliga,Poacher
+521,Ollie Sesko,ST,Juventus,Brazil,Serie A,Advanced Forward
+522,Lautaro Fullkrug,ST,Marseille,Uruguay,Ligue 1,Target Forward
+523,Niclas Isak,ST,Bayer Leverkusen,Slovenia,Bundesliga,False 9
+524,Santiago Kane,ST,Napoli,Mexico,Serie A,Poacher
+525,Dusan Sesko,ST,Lyon,Nigeria,Ligue 1,Poacher
+526,Benjamin Isak,ST,Monaco,Brazil,Ligue 1,Advanced Forward
+527,Darwin Kane,ST,Nice,Slovenia,Ligue 1,Poacher
+528,Callum Lewandowski,ST,Liverpool,Mexico,Premier League,Poacher
+529,Rasmus Toney,ST,Aston Villa,Brazil,Premier League,Poacher
+530,Santiago Haaland,ST,Manchester United,Denmark,Premier League,False 9
+531,Benjamin Openda,ST,Stuttgart,Nigeria,Bundesliga,False 9
+532,Lois Ramos,ST,Real Betis,Germany,La Liga,False 9
+533,Dusan Alvarez,ST,Inter Milan,Germany,Serie A,Advanced Forward
+534,Victor Vlahovic,ST,PSG,Portugal,Ligue 1,Advanced Forward
+535,Dusan Osimhen,ST,Newcastle,Denmark,Premier League,Poacher
+536,Goncalo Watkins,ST,Barcelona,Portugal,La Liga,Advanced Forward
+537,Darwin Wilson,ST,Arsenal,Brazil,Premier League,Advanced Forward
+538,Lois Ramos,ST,Tottenham,Argentina,Premier League,Advanced Forward
+539,Santiago Martinez,ST,Real Betis,Brazil,La Liga,Target Forward
+540,Romelu Isak,ST,Stuttgart,Denmark,Bundesliga,Target Forward
+541,Lautaro Ramos,ST,Lille,Serbia,Ligue 1,Advanced Forward
+542,Rasmus Lukaku,ST,Atletico Madrid,Slovenia,La Liga,Target Forward
+543,Romelu Wilson,ST,Real Madrid,Sweden,La Liga,Advanced Forward
+544,Victor Vlahovic,ST,Bologna,Uruguay,Serie A,False 9
+545,Ivan Openda,ST,Girona,Uruguay,La Liga,Poacher
+546,Ollie Toney,ST,Stuttgart,France,Bundesliga,Advanced Forward
+547,Goncalo Kane,ST,Juventus,France,Serie A,Target Forward
+548,Alvaro Wilson,ST,Atalanta,Slovenia,Serie A,Poacher
+549,Erling Kane,ST,Monaco,Nigeria,Ligue 1,Poacher
+550,Erling Vlahovic,ST,Arsenal,Slovenia,Premier League,Poacher
+551,Rasmus Gimenez,ST,Manchester United,Portugal,Premier League,False 9
+552,Rasmus Martinez,ST,Real Betis,Serbia,La Liga,False 9
+553,Santiago Morata,ST,Inter Milan,Brazil,Serie A,Poacher
+554,Niclas Morata,ST,Lyon,Sweden,Ligue 1,Poacher
+555,Romelu Wilson,ST,West Ham,Norway,Premier League,Target Forward
+556,Niclas Toney,ST,Brest,Denmark,Ligue 1,Poacher
+557,Darwin Nunez,ST,Bayer Leverkusen,Portugal,Bundesliga,Advanced Forward
+558,Callum Hojlund,ST,Lazio,Argentina,Serie A,Target Forward
+559,Julian Morata,ST,Arsenal,Portugal,Premier League,False 9
+560,Alexander Haaland,ST,Marseille,Sweden,Ligue 1,Poacher
+561,Dusan Alvarez,ST,AS Roma,Nigeria,Serie A,Advanced Forward
+562,Ivan Gimenez,ST,AS Roma,Nigeria,Serie A,Target Forward
+563,Niclas Kane,ST,Girona,Norway,La Liga,Advanced Forward
+564,Lois Hojlund,ST,West Ham,Argentina,Premier League,Target Forward
+565,Dusan Lewandowski,ST,Real Betis,Poland,La Liga,False 9
+566,Rasmus Wilson,ST,Aston Villa,Norway,Premier League,Target Forward
+567,Darwin Hojlund,ST,Lille,Germany,Ligue 1,False 9
+568,Santiago Alvarez,ST,Bayern Munich,France,Bundesliga,Target Forward
+569,Ollie Fullkrug,ST,Bayern Munich,England,Bundesliga,Target Forward
+570,Lois Isak,ST,West Ham,Slovenia,Premier League,Target Forward
+571,Harry Vlahovic,ST,PSG,Slovenia,Ligue 1,Target Forward
+572,Lois Wilson,ST,Valencia,Uruguay,La Liga,Advanced Forward
+573,Ivan Toney,ST,Real Sociedad,Norway,La Liga,Poacher
+574,Alexander Fullkrug,ST,Bologna,France,Serie A,False 9
+575,Harry Hojlund,ST,Monaco,England,Ligue 1,Target Forward
+576,Alvaro Haaland,ST,Bayern Munich,Serbia,Bundesliga,Advanced Forward
+577,Victor Lewandowski,ST,Manchester City,Germany,Premier League,Target Forward
+578,Lautaro Alvarez,ST,Juventus,England,Serie A,Target Forward
+579,Goncalo Sesko,ST,Real Betis,Mexico,La Liga,Poacher
+580,Santiago Lukaku,ST,Monaco,Belgium,Ligue 1,False 9
+581,Goncalo Alvarez,ST,RB Leipzig,France,Bundesliga,Advanced Forward
+582,Lois Alvarez,ST,Newcastle,Denmark,Premier League,Target Forward
+583,Alvaro Hojlund,ST,PSG,Serbia,Ligue 1,False 9
+584,Erling Lewandowski,ST,Frankfurt,Slovenia,Bundesliga,Target Forward
+585,Darwin Hojlund,ST,Dortmund,Denmark,Bundesliga,Poacher
+586,Ollie Vlahovic,ST,Chelsea,Brazil,Premier League,Advanced Forward
+587,Benjamin Alvarez,ST,Juventus,Mexico,Serie A,Poacher
+588,Alexander Sesko,ST,Stuttgart,Portugal,Bundesliga,Target Forward
+589,Lautaro Isak,ST,Juventus,Germany,Serie A,Poacher
+590,Benjamin Nunez,ST,Dortmund,Poland,Bundesliga,Poacher
+591,Goncalo Vlahovic,ST,Valencia,Norway,La Liga,Target Forward
+592,Ivan Hojlund,ST,PSG,Brazil,Ligue 1,Advanced Forward
+593,Ivan Wilson,ST,Bologna,Germany,Serie A,False 9
+594,Dusan Isak,ST,Juventus,Spain,Serie A,False 9
+595,Alvaro Lewandowski,ST,Real Betis,Germany,La Liga,False 9
+596,Callum Lewandowski,ST,Liverpool,Denmark,Premier League,Poacher
+597,Robert Alvarez,ST,Brest,Portugal,Ligue 1,Poacher
+598,Robert Lewandowski,ST,PSG,Slovenia,Ligue 1,Advanced Forward
+599,Julian Morata,ST,Juventus,Norway,Serie A,Poacher
+600,Erling Sesko,ST,Barcelona,Brazil,La Liga,Poacher
+601,Ivan Hojlund,ST,Chelsea,Belgium,Premier League,Advanced Forward
+602,Lois Openda,ST,Monaco,Uruguay,Ligue 1,Poacher
+603,Julian Hojlund,ST,RB Leipzig,Germany,Bundesliga,Poacher
+604,Dusan Alvarez,ST,Arsenal,Denmark,Premier League,Advanced Forward
+605,Ollie Osimhen,ST,Manchester United,Slovenia,Premier League,Advanced Forward
+606,Erling Kane,ST,Girona,Mexico,La Liga,Target Forward
+607,Julian Morata,ST,Chelsea,Uruguay,Premier League,False 9
+608,Darwin Ramos,ST,Dortmund,France,Bundesliga,Advanced Forward
+609,Julian Nunez,ST,Manchester United,Mexico,Premier League,Poacher
+610,Robert Openda,ST,Stuttgart,Portugal,Bundesliga,Advanced Forward
+611,Erling Watkins,ST,Bayer Leverkusen,Poland,Bundesliga,Advanced Forward
+612,Dusan Vlahovic,ST,PSG,Portugal,Ligue 1,False 9
+613,Julian Osimhen,ST,Liverpool,Uruguay,Premier League,Target Forward
+614,Niclas Lewandowski,ST,Bayern Munich,Serbia,Bundesliga,Poacher
+615,Harry Fullkrug,ST,Real Sociedad,Slovenia,La Liga,Poacher
+616,Goncalo Nunez,ST,RB Leipzig,France,Bundesliga,False 9
+617,Rasmus Vlahovic,ST,Inter Milan,Belgium,Serie A,Poacher
+618,Niclas Morata,ST,Chelsea,Argentina,Premier League,Poacher
+619,Lautaro Alvarez,ST,Marseille,Poland,Ligue 1,Target Forward
+620,Santiago Fullkrug,ST,Monaco,Slovenia,Ligue 1,Poacher
+621,Ivan Toney,ST,Nice,France,Ligue 1,Advanced Forward
+622,Harry Nunez,ST,Frankfurt,France,Bundesliga,Target Forward
+623,Romelu Alvarez,ST,Stuttgart,Portugal,Bundesliga,False 9
+624,Lautaro Wilson,ST,Valencia,Spain,La Liga,Poacher
+625,Lautaro Isak,ST,Bayern Munich,Spain,Bundesliga,False 9
+626,Julian Haaland,ST,Girona,Slovenia,La Liga,Target Forward
+627,Lois Vlahovic,ST,Juventus,Spain,Serie A,Target Forward
+628,Alvaro Morata,ST,AC Milan,England,Serie A,Poacher
+629,Alvaro Morata,ST,Atalanta,Spain,Serie A,Advanced Forward
+630,Ivan Toney,ST,Atletico Madrid,Nigeria,La Liga,Poacher
+631,Niclas Sesko,ST,Athletic Club,Belgium,La Liga,Target Forward
+632,Harry Lukaku,ST,Brighton,Poland,Premier League,False 9
+633,Rasmus Hojlund,ST,Real Madrid,Sweden,La Liga,Advanced Forward
+634,Darwin Kane,ST,Valencia,Germany,La Liga,False 9
+635,Niclas Gimenez,ST,Marseille,Argentina,Ligue 1,Advanced Forward
+636,Victor Openda,ST,Real Betis,Serbia,La Liga,Advanced Forward
+637,Romelu Watkins,ST,Juventus,Spain,Serie A,Advanced Forward
+638,Alvaro Sesko,ST,Bayern Munich,Slovenia,Bundesliga,False 9
+639,Erling Isak,ST,Barcelona,Slovenia,La Liga,False 9
+640,Callum Lewandowski,ST,Juventus,Sweden,Serie A,Target Forward
+641,Julian Lewandowski,ST,Manchester United,Denmark,Premier League,Target Forward
+642,Victor Ramos,ST,Bologna,Belgium,Serie A,Target Forward
+643,Lois Fullkrug,ST,Tottenham,Nigeria,Premier League,False 9
+644,Benjamin Martinez,ST,Frankfurt,Serbia,Bundesliga,Target Forward
+645,Niclas Sesko,ST,AC Milan,England,Serie A,False 9
+646,Harry Morata,ST,Frankfurt,Sweden,Bundesliga,False 9
+647,Benjamin Haaland,ST,Bayer Leverkusen,Belgium,Bundesliga,False 9
+648,Rasmus Osimhen,ST,Stuttgart,Belgium,Bundesliga,False 9
+649,Erling Haaland,ST,Atalanta,England,Serie A,Target Forward
+650,Robert Sesko,ST,Tottenham,Serbia,Premier League,Advanced Forward
+651,Alvaro Nunez,ST,Arsenal,France,Premier League,False 9
+652,Robert Lukaku,ST,Brest,Mexico,Ligue 1,Advanced Forward
+653,Niclas Alvarez,ST,Girona,Spain,La Liga,Poacher
+654,Lautaro Isak,ST,Lille,Uruguay,Ligue 1,Target Forward
+655,Lautaro Osimhen,ST,AC Milan,Portugal,Serie A,Advanced Forward
+656,Dusan Ramos,ST,Real Madrid,England,La Liga,Poacher
+657,Victor Morata,ST,Aston Villa,Poland,Premier League,Poacher
+658,Dusan Watkins,ST,Lyon,Spain,Ligue 1,Target Forward
+659,Julian Haaland,ST,Bayer Leverkusen,Germany,Bundesliga,False 9
+660,Santiago Isak,ST,Lille,England,Ligue 1,False 9
+661,Santiago Osimhen,ST,Monaco,Germany,Ligue 1,False 9
+662,Alvaro Haaland,ST,RB Leipzig,Spain,Bundesliga,False 9
+663,Victor Ramos,ST,Napoli,Slovenia,Serie A,False 9
+664,Alvaro Nunez,ST,Real Madrid,France,La Liga,Poacher
+665,Romelu Isak,ST,Atletico Madrid,Serbia,La Liga,Target Forward
+666,Callum Fullkrug,ST,Stuttgart,Brazil,Bundesliga,Poacher
+667,Benjamin Lukaku,ST,West Ham,Belgium,Premier League,Advanced Forward
+668,Ollie Ramos,ST,Atalanta,Spain,Serie A,False 9
+669,Ivan Alvarez,ST,Manchester United,Brazil,Premier League,Target Forward
+670,Lois Lukaku,ST,Chelsea,Spain,Premier League,Poacher
+671,Callum Vlahovic,ST,Liverpool,Portugal,Premier League,Advanced Forward
+672,Santiago Ramos,ST,Athletic Club,Serbia,La Liga,Advanced Forward
+673,Niclas Sesko,ST,Newcastle,Nigeria,Premier League,Poacher
+674,Robert Sesko,ST,Bayern Munich,Argentina,Bundesliga,Poacher
+675,Niclas Ramos,ST,Dortmund,Brazil,Bundesliga,False 9
+676,Lautaro Martinez,ST,Manchester United,Serbia,Premier League,Poacher
+677,Santiago Toney,ST,Barcelona,Portugal,La Liga,Poacher
+678,Santiago Lukaku,ST,West Ham,Slovenia,Premier League,Poacher
+679,Alexander Ramos,ST,Real Madrid,Sweden,La Liga,Advanced Forward
+680,Victor Gimenez,ST,Lille,Nigeria,Ligue 1,Target Forward
+681,Alexander Vlahovic,ST,RB Leipzig,France,Bundesliga,Poacher
+682,Robert Morata,ST,Bayern Munich,Nigeria,Bundesliga,False 9
+683,Goncalo Morata,ST,Nice,Mexico,Ligue 1,Target Forward
+684,Julian Wilson,ST,Girona,Germany,La Liga,Target Forward
+685,Niclas Osimhen,ST,Brighton,Brazil,Premier League,False 9
+686,Goncalo Haaland,ST,Valencia,France,La Liga,Poacher
+687,Goncalo Openda,ST,Frankfurt,Germany,Bundesliga,False 9
+688,Romelu Openda,ST,AC Milan,Uruguay,Serie A,Poacher
+689,Callum Openda,ST,AC Milan,France,Serie A,Target Forward
+690,Lautaro Kane,ST,Monaco,Denmark,Ligue 1,Poacher
+691,Alexander Toney,ST,Real Betis,Sweden,La Liga,Advanced Forward
+692,Benjamin Kane,ST,Brighton,Argentina,Premier League,Poacher
+693,Benjamin Fullkrug,ST,Nice,Argentina,Ligue 1,Poacher
+694,Darwin Martinez,ST,AS Roma,Sweden,Serie A,False 9
+695,Robert Sesko,ST,Brest,Belgium,Ligue 1,Target Forward
+696,Romelu Gimenez,ST,Inter Milan,England,Serie A,Advanced Forward
+697,Victor Wilson,ST,AC Milan,Mexico,Serie A,False 9
+698,Callum Watkins,ST,Tottenham,Brazil,Premier League,False 9
+699,Lautaro Vlahovic,ST,Stuttgart,Spain,Bundesliga,Target Forward
+700,Lois Hojlund,ST,Juventus,Portugal,Serie A,Poacher
+701,Santiago Openda,ST,Monaco,Brazil,Ligue 1,Advanced Forward
+702,Lautaro Sesko,ST,Atletico Madrid,Spain,La Liga,Advanced Forward
+703,Lautaro Fullkrug,ST,Manchester United,Brazil,Premier League,Target Forward
+704,Callum Watkins,ST,Atletico Madrid,France,La Liga,False 9
+705,Lautaro Sesko,ST,Arsenal,France,Premier League,False 9
+706,Alvaro Wilson,ST,Real Sociedad,Uruguay,La Liga,Target Forward
+707,Lautaro Nunez,ST,Bologna,Uruguay,Serie A,Target Forward
+708,Benjamin Kane,ST,Barcelona,Argentina,La Liga,Advanced Forward
+709,Lois Openda,ST,Lyon,Norway,Ligue 1,Target Forward
+710,Niclas Fullkrug,ST,Marseille,England,Ligue 1,False 9
+711,Ivan Morata,ST,Juventus,Germany,Serie A,Target Forward
+712,Callum Vlahovic,ST,AC Milan,Slovenia,Serie A,Advanced Forward
+713,Alexander Kane,ST,PSG,England,Ligue 1,Target Forward
+714,Dusan Openda,ST,Atalanta,Mexico,Serie A,Poacher
+715,Callum Morata,ST,Stuttgart,Denmark,Bundesliga,Poacher
+716,Ollie Alvarez,ST,Marseille,Uruguay,Ligue 1,Poacher
+717,Alexander Ramos,ST,Frankfurt,Serbia,Bundesliga,False 9
+718,Ollie Hojlund,ST,Barcelona,Portugal,La Liga,Advanced Forward
+719,Victor Nunez,ST,Monaco,Serbia,Ligue 1,False 9
+720,Niclas Toney,ST,Liverpool,Mexico,Premier League,Advanced Forward
+721,Callum Haaland,ST,Liverpool,Nigeria,Premier League,Advanced Forward
+722,Alexander Openda,ST,Chelsea,Uruguay,Premier League,False 9
+723,Darwin Hojlund,ST,Atalanta,Serbia,Serie A,Target Forward
+724,Darwin Nunez,ST,Real Betis,Nigeria,La Liga,Advanced Forward
+725,Dusan Kane,ST,Inter Milan,Spain,Serie A,Target Forward
+726,Rasmus Fullkrug,ST,Marseille,England,Ligue 1,Target Forward
+727,Niclas Ramos,ST,Valencia,Nigeria,La Liga,Advanced Forward
+728,Callum Alvarez,ST,Frankfurt,Slovenia,Bundesliga,Advanced Forward
+729,Goncalo Alvarez,ST,Tottenham,Poland,Premier League,Poacher
+730,Harry Kane,ST,Lille,Nigeria,Ligue 1,Target Forward
+731,Ivan Toney,ST,Athletic Club,Belgium,La Liga,False 9
+732,Callum Gimenez,ST,PSG,Sweden,Ligue 1,Target Forward
+733,Goncalo Kane,ST,RB Leipzig,Poland,Bundesliga,False 9
+734,Ollie Morata,ST,Aston Villa,Uruguay,Premier League,False 9
+735,Callum Sesko,ST,Athletic Club,Spain,La Liga,False 9
+736,Benjamin Alvarez,ST,Chelsea,Belgium,Premier League,Advanced Forward
+737,Erling Lukaku,ST,Athletic Club,Serbia,La Liga,Advanced Forward
+738,Ollie Kane,ST,PSG,Belgium,Ligue 1,Advanced Forward
+739,Harry Openda,ST,Newcastle,Sweden,Premier League,Target Forward
+740,Julian Sesko,ST,Inter Milan,Argentina,Serie A,Poacher
+741,Goncalo Vlahovic,ST,West Ham,Poland,Premier League,False 9
+742,Lautaro Morata,ST,Valencia,Serbia,La Liga,Advanced Forward
+743,Alexander Fullkrug,ST,Atalanta,England,Serie A,Target Forward
+744,Dusan Lewandowski,ST,Valencia,Sweden,La Liga,Target Forward
+745,Romelu Osimhen,ST,Napoli,Nigeria,Serie A,Target Forward
+746,Harry Martinez,ST,Napoli,Germany,Serie A,Advanced Forward
+747,Benjamin Sesko,ST,Marseille,Denmark,Ligue 1,Advanced Forward
+748,Lautaro Isak,ST,Tottenham,Spain,Premier League,False 9
+749,Julian Nunez,ST,Marseille,Mexico,Ligue 1,Advanced Forward
+750,Erling Morata,ST,Newcastle,Belgium,Premier League,False 9
+751,Dusan Alvarez,ST,Bayern Munich,Uruguay,Bundesliga,Advanced Forward
+752,Santiago Osimhen,ST,Brighton,Mexico,Premier League,Poacher
+753,Dusan Wilson,ST,Atalanta,Belgium,Serie A,False 9
+754,Goncalo Haaland,ST,Nice,Sweden,Ligue 1,Target Forward
+755,Robert Fullkrug,ST,Brest,Nigeria,Ligue 1,Advanced Forward
+756,Erling Ramos,ST,Frankfurt,Serbia,Bundesliga,Target Forward
+757,Alvaro Sesko,ST,Tottenham,Portugal,Premier League,Poacher
+758,Victor Gimenez,ST,Dortmund,Nigeria,Bundesliga,Target Forward
+759,Ivan Sesko,ST,Stuttgart,France,Bundesliga,Poacher
+760,Robert Isak,ST,Manchester City,Slovenia,Premier League,False 9
+761,Callum Morata,ST,Bayer Leverkusen,Brazil,Bundesliga,False 9
+762,Rasmus Vlahovic,ST,Barcelona,Spain,La Liga,Target Forward
+763,Rasmus Haaland,ST,Real Betis,Denmark,La Liga,Poacher
+764,Erling Lukaku,ST,West Ham,Argentina,Premier League,False 9
+765,Lautaro Openda,ST,Bologna,England,Serie A,Target Forward
+766,Romelu Haaland,ST,RB Leipzig,Uruguay,Bundesliga,Target Forward
+767,Darwin Isak,ST,Dortmund,Slovenia,Bundesliga,Target Forward
+768,Alvaro Nunez,ST,Aston Villa,Serbia,Premier League,False 9
+769,Harry Haaland,ST,Dortmund,Brazil,Bundesliga,Advanced Forward
+770,Erling Isak,ST,Athletic Club,England,La Liga,Poacher
+771,Ollie Toney,ST,Newcastle,Poland,Premier League,Poacher
+772,Julian Hojlund,ST,AS Roma,Belgium,Serie A,Advanced Forward
+773,Alexander Gimenez,ST,Valencia,Mexico,La Liga,False 9
+774,Robert Alvarez,ST,West Ham,Uruguay,Premier League,Advanced Forward
+775,Julian Vlahovic,ST,Bayern Munich,Nigeria,Bundesliga,Target Forward
+776,Robert Martinez,ST,Lyon,Portugal,Ligue 1,Advanced Forward
+777,Dusan Hojlund,ST,Nice,Denmark,Ligue 1,False 9
+778,Harry Sesko,ST,Inter Milan,Uruguay,Serie A,Advanced Forward
+779,Robert Vlahovic,ST,Real Madrid,Mexico,La Liga,Advanced Forward
+780,Darwin Toney,ST,Liverpool,Nigeria,Premier League,Advanced Forward
+781,Harry Ramos,ST,Chelsea,Mexico,Premier League,False 9
+782,Alexander Gimenez,ST,Newcastle,Mexico,Premier League,Advanced Forward
+783,Callum Fullkrug,ST,Tottenham,Uruguay,Premier League,False 9
+784,Julian Openda,ST,Tottenham,Argentina,Premier League,Poacher
+785,Santiago Kane,ST,Real Sociedad,Uruguay,La Liga,Poacher
+786,Ivan Lukaku,ST,Bayer Leverkusen,Brazil,Bundesliga,False 9
+787,Alexander Haaland,ST,Napoli,Sweden,Serie A,Poacher
+788,Erling Lewandowski,ST,Juventus,Sweden,Serie A,Advanced Forward
+789,Ollie Martinez,ST,Arsenal,Poland,Premier League,Poacher
+790,Rasmus Toney,ST,Newcastle,Uruguay,Premier League,Advanced Forward
+791,Dusan Watkins,ST,Girona,Argentina,La Liga,Advanced Forward
+792,Goncalo Isak,ST,Real Madrid,Germany,La Liga,Target Forward
+793,Ivan Alvarez,ST,Newcastle,Brazil,Premier League,False 9
+794,Niclas Hojlund,ST,Inter Milan,Argentina,Serie A,Advanced Forward
+795,Rasmus Openda,ST,Napoli,Poland,Serie A,Poacher
+796,Darwin Lukaku,ST,Real Sociedad,Argentina,La Liga,Poacher
+797,Lautaro Openda,ST,Bayern Munich,Uruguay,Bundesliga,False 9
+798,Julian Isak,ST,AS Roma,Uruguay,Serie A,Target Forward
+799,Niclas Openda,ST,Bologna,Poland,Serie A,Target Forward
+800,Dusan Martinez,ST,Nice,Mexico,Ligue 1,Advanced Forward
+801,Harry Lewandowski,ST,Atletico Madrid,Uruguay,La Liga,Advanced Forward
+802,Benjamin Wilson,ST,Stuttgart,Serbia,Bundesliga,Advanced Forward
+803,Dusan Fullkrug,ST,PSG,Denmark,Ligue 1,False 9
+804,Alvaro Vlahovic,ST,Marseille,Spain,Ligue 1,False 9
+805,Ivan Toney,ST,AC Milan,Argentina,Serie A,Target Forward
+806,Lautaro Vlahovic,ST,AS Roma,Slovenia,Serie A,Poacher
+807,Ollie Nunez,ST,Manchester City,Sweden,Premier League,Poacher
+808,Callum Alvarez,ST,Inter Milan,Serbia,Serie A,Advanced Forward
+809,Ollie Morata,ST,Stuttgart,Spain,Bundesliga,False 9
+810,Lautaro Hojlund,ST,AS Roma,Slovenia,Serie A,False 9
+811,Benjamin Alvarez,ST,AS Roma,Denmark,Serie A,Poacher
+812,Dusan Hojlund,ST,Brest,Nigeria,Ligue 1,False 9
+813,Ollie Hojlund,ST,Inter Milan,Poland,Serie A,False 9
+814,Callum Sesko,ST,Bologna,Uruguay,Serie A,Advanced Forward
+815,Victor Openda,ST,Arsenal,England,Premier League,False 9
+816,Julian Ramos,ST,Newcastle,Denmark,Premier League,Target Forward
+817,Goncalo Ramos,ST,Barcelona,Nigeria,La Liga,Advanced Forward
+818,Santiago Fullkrug,ST,Liverpool,England,Premier League,False 9
+819,Santiago Haaland,ST,AC Milan,France,Serie A,Poacher
+820,Ollie Fullkrug,ST,Napoli,Spain,Serie A,False 9
+821,Santiago Isak,ST,Stuttgart,Belgium,Bundesliga,Advanced Forward
+822,Erling Hojlund,ST,Liverpool,Sweden,Premier League,Advanced Forward
+823,Lois Haaland,ST,Bologna,Germany,Serie A,Poacher
+824,Victor Hojlund,ST,Frankfurt,Nigeria,Bundesliga,Poacher
+825,Alvaro Martinez,ST,Athletic Club,Denmark,La Liga,Target Forward
+826,Alexander Gimenez,ST,Chelsea,Denmark,Premier League,Target Forward
+827,Harry Vlahovic,ST,Atalanta,Norway,Serie A,Target Forward
+828,Harry Sesko,ST,AC Milan,Uruguay,Serie A,Advanced Forward
+829,Ivan Kane,ST,Dortmund,Sweden,Bundesliga,Target Forward
+830,Dusan Ramos,ST,Stuttgart,Slovenia,Bundesliga,Target Forward
+831,Romelu Kane,ST,Barcelona,Nigeria,La Liga,Target Forward
+832,Alvaro Martinez,ST,Atalanta,Denmark,Serie A,Advanced Forward
+833,Dusan Alvarez,ST,AC Milan,Norway,Serie A,Poacher
+834,Darwin Sesko,ST,AS Roma,England,Serie A,Poacher
+835,Darwin Morata,ST,Stuttgart,England,Bundesliga,Advanced Forward
+836,Niclas Ramos,ST,Frankfurt,Germany,Bundesliga,Target Forward
+837,Alexander Hojlund,ST,Stuttgart,Uruguay,Bundesliga,Advanced Forward
+838,Santiago Lewandowski,ST,Brighton,Slovenia,Premier League,False 9
+839,Goncalo Ramos,ST,Atletico Madrid,Germany,La Liga,Advanced Forward
+840,Niclas Osimhen,ST,Dortmund,Slovenia,Bundesliga,Advanced Forward
+841,Romelu Osimhen,ST,Aston Villa,Slovenia,Premier League,Target Forward
+842,Goncalo Lewandowski,ST,Real Madrid,Portugal,La Liga,Advanced Forward
+843,Goncalo Alvarez,ST,Manchester United,Uruguay,Premier League,Poacher
+844,Alexander Vlahovic,ST,Real Betis,England,La Liga,False 9
+845,Santiago Gimenez,ST,Athletic Club,Poland,La Liga,Target Forward
+846,Benjamin Openda,ST,AS Roma,Serbia,Serie A,Advanced Forward
+847,Rasmus Watkins,ST,Tottenham,Uruguay,Premier League,False 9
+848,Lautaro Kane,ST,Bayern Munich,England,Bundesliga,Advanced Forward
+849,Ivan Vlahovic,ST,Newcastle,Sweden,Premier League,Target Forward
+850,Darwin Isak,ST,Bayern Munich,Germany,Bundesliga,False 9
+851,Darwin Ramos,ST,PSG,Poland,Ligue 1,Advanced Forward
+852,Alvaro Gimenez,ST,RB Leipzig,Germany,Bundesliga,False 9
+853,Robert Ramos,ST,RB Leipzig,Spain,Bundesliga,False 9
+854,Benjamin Vlahovic,ST,Stuttgart,Mexico,Bundesliga,Poacher
+855,Callum Fullkrug,ST,AC Milan,Belgium,Serie A,Poacher
+856,Romelu Haaland,ST,Lazio,Germany,Serie A,Poacher
+857,Darwin Morata,ST,AC Milan,Argentina,Serie A,False 9
+858,Darwin Nunez,ST,Nice,Sweden,Ligue 1,Advanced Forward
+859,Erling Fullkrug,ST,Bologna,Mexico,Serie A,Poacher
+860,Robert Nunez,ST,Atletico Madrid,Serbia,La Liga,Poacher
+861,Benjamin Isak,ST,Brighton,Uruguay,Premier League,False 9
+862,Harry Toney,ST,Dortmund,Spain,Bundesliga,Advanced Forward
+863,Robert Wilson,ST,Nice,Belgium,Ligue 1,Advanced Forward
+864,Ivan Vlahovic,ST,Valencia,Sweden,La Liga,Advanced Forward
+865,Julian Toney,ST,Monaco,Slovenia,Ligue 1,Advanced Forward
+866,Erling Wilson,ST,Lazio,Serbia,Serie A,Advanced Forward
+867,Callum Morata,ST,RB Leipzig,Norway,Bundesliga,Poacher
+868,Romelu Kane,ST,Aston Villa,Portugal,Premier League,False 9
+869,Romelu Openda,ST,Aston Villa,Belgium,Premier League,Advanced Forward
+870,Julian Ramos,ST,Real Betis,Poland,La Liga,Advanced Forward
+871,Alexander Morata,ST,Dortmund,Norway,Bundesliga,False 9
+872,Lois Lewandowski,ST,Bologna,Argentina,Serie A,False 9
+873,Lautaro Toney,ST,Aston Villa,England,Premier League,Advanced Forward
+874,Goncalo Morata,ST,PSG,Belgium,Ligue 1,Advanced Forward
+875,Harry Fullkrug,ST,Aston Villa,Germany,Premier League,False 9
+876,Ollie Gimenez,ST,Napoli,Poland,Serie A,Target Forward
+877,Romelu Fullkrug,ST,Stuttgart,Brazil,Bundesliga,Advanced Forward
+878,Goncalo Martinez,ST,Atletico Madrid,Denmark,La Liga,False 9
+879,Victor Isak,ST,PSG,Sweden,Ligue 1,Advanced Forward
+880,Dusan Openda,ST,Real Sociedad,Poland,La Liga,False 9
+881,Harry Kane,ST,Monaco,Belgium,Ligue 1,Poacher
+882,Robert Haaland,ST,Real Betis,Uruguay,La Liga,Poacher
+883,Santiago Osimhen,ST,West Ham,Norway,Premier League,Poacher
+884,Alvaro Sesko,ST,Napoli,Poland,Serie A,Advanced Forward
+885,Lautaro Toney,ST,Juventus,England,Serie A,False 9
+886,Harry Gimenez,ST,RB Leipzig,England,Bundesliga,Target Forward
+887,Lois Wilson,ST,Lille,England,Ligue 1,Poacher
+888,Lautaro Kane,ST,Chelsea,Germany,Premier League,Target Forward
+889,Erling Kane,ST,Newcastle,Germany,Premier League,Poacher
+890,Niclas Morata,ST,Brighton,Serbia,Premier League,Poacher
+891,Niclas Alvarez,ST,Newcastle,Slovenia,Premier League,Advanced Forward
+892,Ollie Gimenez,ST,Stuttgart,England,Bundesliga,False 9
+893,Callum Martinez,ST,Nice,Uruguay,Ligue 1,False 9
+894,Santiago Toney,ST,Monaco,Argentina,Ligue 1,Advanced Forward
+895,Julian Fullkrug,ST,Stuttgart,Serbia,Bundesliga,Advanced Forward
+896,Rasmus Toney,ST,Monaco,Belgium,Ligue 1,False 9
+897,Niclas Sesko,ST,Marseille,England,Ligue 1,Advanced Forward
+898,Ivan Haaland,ST,Lyon,England,Ligue 1,False 9
+899,Ivan Nunez,ST,PSG,Mexico,Ligue 1,Poacher
+900,Erling Vlahovic,ST,PSG,Slovenia,Ligue 1,Advanced Forward
+901,Lois Toney,ST,Real Madrid,Belgium,La Liga,Poacher
+902,Alvaro Lukaku,ST,AC Milan,Slovenia,Serie A,Poacher
+903,Santiago Martinez,ST,Napoli,Brazil,Serie A,Advanced Forward
+904,Robert Kane,ST,Tottenham,Mexico,Premier League,Advanced Forward
+905,Erling Kane,ST,Brest,Sweden,Ligue 1,Advanced Forward
+906,Goncalo Toney,ST,Stuttgart,Sweden,Bundesliga,Advanced Forward
+907,Rasmus Toney,ST,Atalanta,Nigeria,Serie A,False 9
+908,Ollie Watkins,ST,Newcastle,Belgium,Premier League,Advanced Forward
+909,Goncalo Sesko,ST,Lille,Uruguay,Ligue 1,False 9
+910,Erling Osimhen,ST,Valencia,Poland,La Liga,Target Forward
+911,Alexander Lukaku,ST,Real Madrid,Denmark,La Liga,False 9
+912,Ollie Vlahovic,ST,Monaco,Portugal,Ligue 1,Target Forward
+913,Alvaro Alvarez,ST,Liverpool,Sweden,Premier League,Target Forward
+914,Rasmus Vlahovic,ST,Frankfurt,Portugal,Bundesliga,Target Forward
+915,Santiago Hojlund,ST,Valencia,Mexico,La Liga,Poacher
+916,Alvaro Fullkrug,ST,Girona,Belgium,La Liga,Advanced Forward
+917,Romelu Hojlund,ST,Athletic Club,Spain,La Liga,Poacher
+918,Robert Isak,ST,Manchester United,Spain,Premier League,False 9
+919,Santiago Osimhen,ST,Lille,Brazil,Ligue 1,False 9
+920,Victor Wilson,ST,Dortmund,Norway,Bundesliga,False 9
+921,Niclas Fullkrug,ST,Manchester United,Denmark,Premier League,Advanced Forward
+922,Dusan Isak,ST,Lyon,Argentina,Ligue 1,Poacher
+923,Julian Isak,ST,Barcelona,Slovenia,La Liga,Target Forward
+924,Goncalo Watkins,ST,AS Roma,Spain,Serie A,Poacher
+925,Benjamin Vlahovic,ST,Marseille,Serbia,Ligue 1,Advanced Forward
+926,Alexander Wilson,ST,Athletic Club,Denmark,La Liga,Poacher
+927,Darwin Sesko,ST,Real Betis,Nigeria,La Liga,Advanced Forward
+928,Lautaro Lukaku,ST,Frankfurt,Belgium,Bundesliga,Target Forward
+929,Rasmus Nunez,ST,Bayer Leverkusen,Denmark,Bundesliga,False 9
+930,Dusan Morata,ST,Brighton,Nigeria,Premier League,Target Forward
+931,Alvaro Ramos,ST,Nice,Poland,Ligue 1,Advanced Forward
+932,Erling Gimenez,ST,Juventus,Norway,Serie A,Poacher
+933,Darwin Ramos,ST,Juventus,Nigeria,Serie A,False 9
+934,Benjamin Gimenez,ST,Real Sociedad,France,La Liga,Advanced Forward
+935,Romelu Isak,ST,AC Milan,Belgium,Serie A,Target Forward
+936,Ollie Isak,ST,AS Roma,Denmark,Serie A,Target Forward
+937,Rasmus Nunez,ST,Valencia,Brazil,La Liga,Target Forward
+938,Harry Watkins,ST,PSG,Uruguay,Ligue 1,Target Forward
+939,Goncalo Sesko,ST,Nice,Nigeria,Ligue 1,Target Forward
+940,Rasmus Ramos,ST,Manchester United,Uruguay,Premier League,Target Forward
+941,Alvaro Haaland,ST,Athletic Club,Belgium,La Liga,False 9
+942,Lois Vlahovic,ST,Brighton,France,Premier League,Advanced Forward
+943,Santiago Wilson,ST,RB Leipzig,Serbia,Bundesliga,Advanced Forward
+944,Alvaro Martinez,ST,PSG,Brazil,Ligue 1,False 9
+945,Lois Watkins,ST,PSG,Brazil,Ligue 1,Target Forward
+946,Niclas Ramos,ST,Brest,England,Ligue 1,Target Forward
+947,Alexander Watkins,ST,Bayern Munich,Norway,Bundesliga,Poacher
+948,Goncalo Isak,ST,Juventus,England,Serie A,Poacher
+949,Callum Sesko,ST,Bayern Munich,Sweden,Bundesliga,Poacher
+950,Rasmus Watkins,ST,Stuttgart,Serbia,Bundesliga,Poacher
+951,Benjamin Nunez,ST,Real Betis,Belgium,La Liga,False 9
+952,Callum Gimenez,ST,Dortmund,Argentina,Bundesliga,Advanced Forward
+953,Santiago Sesko,ST,Atalanta,Slovenia,Serie A,Poacher
+954,Victor Openda,ST,AC Milan,Sweden,Serie A,Poacher
+955,Rasmus Lukaku,ST,Nice,France,Ligue 1,Poacher
+956,Benjamin Alvarez,ST,Napoli,Sweden,Serie A,Advanced Forward
+957,Santiago Kane,ST,AS Roma,Norway,Serie A,Advanced Forward
+958,Callum Osimhen,ST,Bayer Leverkusen,Mexico,Bundesliga,Advanced Forward
+959,Rasmus Lewandowski,ST,Liverpool,Uruguay,Premier League,Target Forward
+960,Ollie Kane,ST,RB Leipzig,Argentina,Bundesliga,Target Forward
+961,Alvaro Gimenez,ST,PSG,Slovenia,Ligue 1,Poacher
+962,Romelu Lewandowski,ST,Nice,Portugal,Ligue 1,Target Forward
+963,Rasmus Wilson,ST,Brest,Slovenia,Ligue 1,Poacher
+964,Darwin Haaland,ST,West Ham,Nigeria,Premier League,False 9
+965,Erling Fullkrug,ST,Stuttgart,Belgium,Bundesliga,Poacher
+966,Victor Martinez,ST,Marseille,Slovenia,Ligue 1,Poacher
+967,Alexander Wilson,ST,Lille,England,Ligue 1,Poacher
+968,Lautaro Isak,ST,Brest,Slovenia,Ligue 1,Target Forward
+969,Darwin Alvarez,ST,Valencia,Argentina,La Liga,Poacher
+970,Victor Martinez,ST,Dortmund,Belgium,Bundesliga,False 9
+971,Santiago Sesko,ST,Real Madrid,Mexico,La Liga,Advanced Forward
+972,Harry Kane,ST,Lyon,England,Ligue 1,False 9
+973,Alvaro Martinez,ST,Atalanta,Denmark,Serie A,False 9
+974,Erling Nunez,ST,Dortmund,Germany,Bundesliga,Poacher
+975,Alvaro Nunez,ST,PSG,Brazil,Ligue 1,Advanced Forward
+976,Lautaro Lukaku,ST,Inter Milan,Mexico,Serie A,False 9
+977,Victor Lukaku,ST,Inter Milan,Spain,Serie A,Advanced Forward
+978,Romelu Osimhen,ST,Liverpool,Germany,Premier League,Poacher
+979,Santiago Toney,ST,Newcastle,Serbia,Premier League,Poacher
+980,Harry Gimenez,ST,Lille,Denmark,Ligue 1,False 9
+981,Benjamin Kane,ST,Arsenal,England,Premier League,Poacher
+982,Victor Hojlund,ST,Monaco,Germany,Ligue 1,Poacher
+983,Darwin Osimhen,ST,Atalanta,Mexico,Serie A,Poacher
+984,Goncalo Isak,ST,Brest,France,Ligue 1,Advanced Forward
+985,Goncalo Sesko,ST,Arsenal,Nigeria,Premier League,Target Forward
+986,Darwin Alvarez,ST,Girona,Brazil,La Liga,Poacher
+987,Darwin Wilson,ST,Girona,Spain,La Liga,Target Forward
+988,Lautaro Osimhen,ST,Stuttgart,Spain,Bundesliga,Advanced Forward
+989,Lois Toney,ST,Stuttgart,Argentina,Bundesliga,False 9
+990,Darwin Vlahovic,ST,Athletic Club,England,La Liga,Target Forward
+991,Goncalo Nunez,ST,Bologna,France,Serie A,Poacher
+992,Harry Martinez,ST,Valencia,Slovenia,La Liga,Target Forward
+993,Rasmus Morata,ST,Marseille,Poland,Ligue 1,Target Forward
+994,Lois Hojlund,ST,Liverpool,Norway,Premier League,Advanced Forward
+995,Benjamin Wilson,ST,Athletic Club,Sweden,La Liga,Target Forward
+996,Rasmus Lewandowski,ST,Nice,England,Ligue 1,Target Forward
+997,Niclas Morata,ST,Bayern Munich,Uruguay,Bundesliga,False 9
+998,Lois Openda,ST,Dortmund,Norway,Bundesliga,False 9
+999,Callum Isak,ST,Real Madrid,Nigeria,La Liga,Poacher
+1000,Alexander Haaland,ST,Atalanta,Brazil,Serie A,Target Forward
+1001,Ivan Haaland,ST,Bayer Leverkusen,Slovenia,Bundesliga,Advanced Forward
+1002,Santiago Morata,ST,Real Madrid,Germany,La Liga,Target Forward
+1003,Erling Lewandowski,ST,Real Sociedad,England,La Liga,Target Forward
+1004,Goncalo Ramos,ST,Stuttgart,Argentina,Bundesliga,Poacher
+1005,Rasmus Martinez,ST,Atletico Madrid,Nigeria,La Liga,Poacher
+1006,Ivan Openda,ST,Juventus,Mexico,Serie A,False 9
+1007,Erling Openda,ST,Marseille,England,Ligue 1,Target Forward
+1008,Goncalo Osimhen,ST,Lyon,Sweden,Ligue 1,Target Forward
+1009,Robert Ramos,ST,PSG,Belgium,Ligue 1,Advanced Forward
+1010,Santiago Lukaku,ST,Athletic Club,France,La Liga,False 9
+1011,Dusan Sesko,ST,Stuttgart,England,Bundesliga,False 9
+1012,Romelu Morata,ST,Manchester United,Brazil,Premier League,Target Forward
+1013,Darwin Gimenez,ST,Bayern Munich,England,Bundesliga,Advanced Forward
+1014,Ollie Martinez,ST,Athletic Club,Belgium,La Liga,Poacher
+1015,Ivan Lewandowski,ST,Bologna,Slovenia,Serie A,Poacher
+1016,Julian Wilson,ST,Real Sociedad,Slovenia,La Liga,Poacher
+1017,Darwin Hojlund,ST,Lazio,Brazil,Serie A,Poacher
+1018,Harry Ramos,ST,Marseille,England,Ligue 1,Target Forward
+1019,Victor Nunez,ST,Monaco,Nigeria,Ligue 1,Target Forward
+1020,Lois Wilson,ST,Atletico Madrid,Portugal,La Liga,False 9
+1021,Goncalo Watkins,ST,West Ham,Nigeria,Premier League,False 9
+1022,Lautaro Lewandowski,ST,Atalanta,Norway,Serie A,Advanced Forward
+1023,Lois Haaland,ST,Inter Milan,Argentina,Serie A,False 9
+1024,Niclas Nunez,ST,PSG,Sweden,Ligue 1,Target Forward
+1025,Niclas Fullkrug,ST,Barcelona,Mexico,La Liga,False 9
+1026,Santiago Haaland,ST,Atletico Madrid,Serbia,La Liga,Poacher
+1027,Callum Osimhen,ST,Bologna,England,Serie A,Target Forward
+1028,Julian Isak,ST,RB Leipzig,Spain,Bundesliga,Target Forward
+1029,Julian Watkins,ST,Lyon,Brazil,Ligue 1,False 9
+1030,Lois Gimenez,ST,Stuttgart,Serbia,Bundesliga,Target Forward
+1031,Ivan Watkins,ST,RB Leipzig,Sweden,Bundesliga,Poacher
+1032,Romelu Hojlund,ST,Chelsea,Germany,Premier League,False 9
+1033,Robert Gimenez,ST,Atletico Madrid,Belgium,La Liga,False 9
+1034,Niclas Sesko,ST,Lyon,Nigeria,Ligue 1,False 9
+1035,Callum Isak,ST,Juventus,Norway,Serie A,Poacher
+1036,Ollie Nunez,ST,Lazio,Denmark,Serie A,Target Forward
+1037,Victor Morata,ST,Aston Villa,France,Premier League,False 9
+1038,Ivan Osimhen,ST,PSG,Spain,Ligue 1,Poacher
+1039,Goncalo Sesko,ST,Manchester City,England,Premier League,Advanced Forward
+1040,Erling Watkins,ST,Stuttgart,Nigeria,Bundesliga,Target Forward
+1041,Alexander Hojlund,ST,Atalanta,Sweden,Serie A,Poacher
+1042,Darwin Vlahovic,ST,Real Sociedad,Portugal,La Liga,Poacher
+1043,Victor Gimenez,ST,Lille,Portugal,Ligue 1,Target Forward
+1044,Santiago Lukaku,ST,Arsenal,Denmark,Premier League,Target Forward
+1045,Rasmus Haaland,ST,Marseille,Portugal,Ligue 1,Target Forward
+1046,Goncalo Toney,ST,Lazio,Sweden,Serie A,Poacher
+1047,Erling Isak,ST,Bayer Leverkusen,Sweden,Bundesliga,Target Forward
+1048,Ollie Osimhen,ST,Monaco,England,Ligue 1,Target Forward
+1049,Darwin Fullkrug,ST,Marseille,Denmark,Ligue 1,Advanced Forward
+1050,Callum Osimhen,ST,AC Milan,Nigeria,Serie A,Target Forward
+1051,Ollie Alvarez,ST,Atletico Madrid,Belgium,La Liga,False 9
+1052,Callum Haaland,ST,Barcelona,Denmark,La Liga,Target Forward
+1053,Goncalo Gimenez,ST,Bologna,Uruguay,Serie A,Target Forward
+1054,Goncalo Morata,ST,Tottenham,Serbia,Premier League,Target Forward
+1055,Niclas Osimhen,ST,Real Betis,Uruguay,La Liga,Advanced Forward
+1056,Harry Vlahovic,ST,Newcastle,England,Premier League,Poacher
+1057,Callum Haaland,ST,RB Leipzig,Denmark,Bundesliga,Target Forward
+1058,Victor Nunez,ST,Brest,Portugal,Ligue 1,Advanced Forward
+1059,Alexander Martinez,ST,Atalanta,England,Serie A,False 9
+1060,Ivan Alvarez,ST,Girona,Mexico,La Liga,Target Forward
+1061,Romelu Morata,ST,Atletico Madrid,Nigeria,La Liga,False 9
+1062,Alexander Sesko,ST,Lille,Poland,Ligue 1,Advanced Forward
+1063,Benjamin Haaland,ST,Real Madrid,Spain,La Liga,Poacher
+1064,Callum Nunez,ST,AS Roma,Portugal,Serie A,Poacher
+1065,Victor Ramos,ST,Liverpool,Denmark,Premier League,Poacher
+1066,Lautaro Isak,ST,Valencia,Serbia,La Liga,Poacher
+1067,Robert Lukaku,ST,Atletico Madrid,Serbia,La Liga,Advanced Forward
+1068,Lautaro Lukaku,ST,Frankfurt,Norway,Bundesliga,Advanced Forward
+1069,Lautaro Osimhen,ST,Juventus,Denmark,Serie A,Advanced Forward
+1070,Santiago Openda,ST,Real Madrid,Argentina,La Liga,Target Forward
+1071,Lautaro Alvarez,ST,Marseille,Belgium,Ligue 1,Advanced Forward
+1072,Ollie Vlahovic,ST,Atalanta,England,Serie A,False 9
+1073,Victor Haaland,ST,Brighton,Argentina,Premier League,False 9
+1074,Robert Lewandowski,ST,Nice,Argentina,Ligue 1,Poacher
+1075,Callum Ramos,ST,Monaco,Poland,Ligue 1,Poacher
+1076,Robert Toney,ST,Bayer Leverkusen,England,Bundesliga,Poacher
+1077,Goncalo Watkins,ST,Monaco,France,Ligue 1,Poacher
+1078,Harry Isak,ST,Brest,Serbia,Ligue 1,Advanced Forward
+1079,Darwin Kane,ST,Juventus,Belgium,Serie A,Poacher
+1080,Dusan Haaland,ST,Tottenham,Belgium,Premier League,Advanced Forward
+1081,Julian Hojlund,ST,Real Madrid,Brazil,La Liga,Target Forward
+1082,Alexander Isak,ST,Lazio,Belgium,Serie A,Target Forward
+1083,Erling Ramos,ST,Chelsea,Brazil,Premier League,Poacher
+1084,Julian Martinez,ST,Napoli,France,Serie A,Advanced Forward
+1085,Ivan Ramos,ST,Marseille,Slovenia,Ligue 1,False 9
+1086,Victor Gimenez,ST,AS Roma,Argentina,Serie A,Target Forward
+1087,Alvaro Hojlund,ST,RB Leipzig,Poland,Bundesliga,Poacher
+1088,Ollie Osimhen,ST,Atletico Madrid,Portugal,La Liga,Target Forward
+1089,Benjamin Toney,ST,Frankfurt,England,Bundesliga,Poacher
+1090,Darwin Hojlund,ST,Tottenham,Slovenia,Premier League,Advanced Forward
+1091,Callum Morata,ST,Brest,France,Ligue 1,Poacher
+1092,Alvaro Haaland,ST,Dortmund,France,Bundesliga,False 9
+1093,Dusan Haaland,ST,Lazio,Belgium,Serie A,Target Forward
+1094,Callum Toney,ST,Bayern Munich,Belgium,Bundesliga,False 9
+1095,Robert Vlahovic,ST,Napoli,Serbia,Serie A,Advanced Forward
+1096,Ollie Sesko,ST,Chelsea,Poland,Premier League,False 9
+1097,Lautaro Ramos,ST,Stuttgart,Serbia,Bundesliga,Target Forward
+1098,Ivan Alvarez,ST,AC Milan,Germany,Serie A,Poacher
+1099,Darwin Osimhen,ST,Bayern Munich,Mexico,Bundesliga,Target Forward
+1100,Lois Lewandowski,ST,Chelsea,Mexico,Premier League,Target Forward
+1101,Alexander Haaland,ST,Lazio,Slovenia,Serie A,False 9
+1102,Harry Nunez,ST,Lille,Poland,Ligue 1,Advanced Forward
+1103,Victor Haaland,ST,Barcelona,Serbia,La Liga,Advanced Forward
+1104,Alvaro Gimenez,ST,Frankfurt,Portugal,Bundesliga,Advanced Forward
+1105,Goncalo Morata,ST,Dortmund,Denmark,Bundesliga,Target Forward
+1106,Benjamin Vlahovic,ST,Atletico Madrid,Portugal,La Liga,False 9
+1107,Julian Kane,ST,Nice,Mexico,Ligue 1,False 9
+1108,Dusan Haaland,ST,Newcastle,Denmark,Premier League,False 9
+1109,Robert Wilson,ST,Manchester United,Spain,Premier League,Poacher
+1110,Victor Martinez,ST,Napoli,Germany,Serie A,Poacher
+1111,Lautaro Haaland,ST,Bologna,Germany,Serie A,Target Forward
+1112,Goncalo Gimenez,ST,Real Sociedad,Mexico,La Liga,Target Forward
+1113,Erling Gimenez,ST,Juventus,Spain,Serie A,Poacher
+1114,Goncalo Ramos,ST,Bayern Munich,Sweden,Bundesliga,Poacher
+1115,Ivan Martinez,ST,Frankfurt,Norway,Bundesliga,Poacher
+1116,Alexander Fullkrug,ST,AC Milan,Norway,Serie A,Advanced Forward
+1117,Niclas Sesko,ST,Atletico Madrid,Norway,La Liga,False 9
+1118,Ollie Alvarez,ST,Aston Villa,Denmark,Premier League,Advanced Forward
+1119,Lautaro Wilson,ST,Aston Villa,Nigeria,Premier League,Target Forward
+1120,Alvaro Hojlund,ST,Nice,Serbia,Ligue 1,False 9
+1121,Harry Fullkrug,ST,Lyon,Spain,Ligue 1,Poacher
+1122,Callum Martinez,ST,Marseille,Belgium,Ligue 1,False 9
+1123,Niclas Morata,ST,Atalanta,Spain,Serie A,False 9
+1124,Harry Sesko,ST,Stuttgart,Germany,Bundesliga,Poacher
+1125,Lautaro Fullkrug,ST,RB Leipzig,Argentina,Bundesliga,Target Forward
+1126,Rasmus Osimhen,ST,Chelsea,Norway,Premier League,Poacher
+1127,Victor Nunez,ST,Manchester United,Slovenia,Premier League,Target Forward
+1128,Benjamin Toney,ST,Bayern Munich,Denmark,Bundesliga,Advanced Forward
+1129,Victor Gimenez,ST,Napoli,Uruguay,Serie A,Poacher
+1130,Goncalo Osimhen,ST,Barcelona,Belgium,La Liga,Target Forward
+1131,Dusan Martinez,ST,Juventus,Poland,Serie A,Advanced Forward
+1132,Goncalo Nunez,ST,Barcelona,Serbia,La Liga,Advanced Forward
+1133,Alexander Osimhen,ST,Juventus,Poland,Serie A,Poacher
+1134,Rasmus Hojlund,ST,Newcastle,Portugal,Premier League,False 9
+1135,Ivan Isak,ST,Arsenal,Brazil,Premier League,Advanced Forward
+1136,Alexander Wilson,ST,Tottenham,Norway,Premier League,False 9
+1137,Romelu Haaland,ST,AS Roma,France,Serie A,Advanced Forward
+1138,Romelu Morata,ST,West Ham,Nigeria,Premier League,Poacher
+1139,Julian Toney,ST,Athletic Club,Germany,La Liga,False 9
+1140,Lois Nunez,ST,AS Roma,Mexico,Serie A,False 9
+1141,Benjamin Haaland,ST,PSG,Germany,Ligue 1,Poacher
+1142,Rasmus Isak,ST,Athletic Club,France,La Liga,False 9
+1143,Erling Sesko,ST,Lille,Portugal,Ligue 1,False 9
+1144,Lois Fullkrug,ST,AS Roma,Brazil,Serie A,Poacher
+1145,Ollie Ramos,ST,Dortmund,Serbia,Bundesliga,Advanced Forward
+1146,Benjamin Morata,ST,Real Madrid,Brazil,La Liga,Target Forward
+1147,Ollie Nunez,ST,Inter Milan,Poland,Serie A,Poacher
+1148,Lautaro Nunez,ST,Barcelona,Portugal,La Liga,False 9
+1149,Dusan Morata,ST,Lille,Sweden,Ligue 1,Target Forward
+1150,Robert Martinez,ST,Atalanta,Nigeria,Serie A,Target Forward
+1151,Santiago Wilson,ST,Atletico Madrid,Slovenia,La Liga,False 9
+1152,Dusan Wilson,ST,Bayer Leverkusen,Germany,Bundesliga,Poacher
+1153,Ollie Morata,ST,Stuttgart,Denmark,Bundesliga,Advanced Forward
+1154,Lois Kane,ST,Atletico Madrid,England,La Liga,Poacher
+1155,Dusan Lukaku,ST,Chelsea,Nigeria,Premier League,Advanced Forward
+1156,Alexander Openda,ST,Valencia,England,La Liga,Target Forward
+1157,Benjamin Hojlund,ST,Dortmund,Slovenia,Bundesliga,Poacher
+1158,Lois Martinez,ST,Newcastle,Belgium,Premier League,Poacher
+1159,Robert Martinez,ST,Bayern Munich,Brazil,Bundesliga,Target Forward
+1160,Alexander Haaland,ST,Atalanta,England,Serie A,Poacher
+1161,Robert Vlahovic,ST,Lille,Serbia,Ligue 1,Target Forward
+1162,Robert Sesko,ST,PSG,Portugal,Ligue 1,Poacher
+1163,Victor Vlahovic,ST,Bologna,Nigeria,Serie A,Advanced Forward
+1164,Alvaro Martinez,ST,Newcastle,Slovenia,Premier League,Advanced Forward
+1165,Victor Haaland,ST,RB Leipzig,Spain,Bundesliga,False 9
+1166,Robert Morata,ST,Marseille,Norway,Ligue 1,Advanced Forward
+1167,Ollie Toney,ST,Juventus,Nigeria,Serie A,False 9
+1168,Niclas Openda,ST,Real Madrid,Norway,La Liga,False 9
+1169,Goncalo Isak,ST,Real Betis,Uruguay,La Liga,Target Forward
+1170,Ivan Vlahovic,ST,Tottenham,Poland,Premier League,Target Forward
+1171,Dusan Lukaku,ST,Lyon,Denmark,Ligue 1,Target Forward
+1172,Ollie Sesko,ST,Bologna,Serbia,Serie A,Poacher
+1173,Rasmus Martinez,ST,PSG,Norway,Ligue 1,False 9
+1174,Goncalo Watkins,ST,Lille,Nigeria,Ligue 1,Target Forward
+1175,Callum Lewandowski,ST,Inter Milan,Spain,Serie A,False 9
+1176,Victor Fullkrug,ST,Monaco,Spain,Ligue 1,Poacher
+1177,Callum Lewandowski,ST,Atalanta,Portugal,Serie A,Target Forward
+1178,Santiago Openda,ST,Real Madrid,Germany,La Liga,False 9
+1179,Robert Openda,ST,Bayern Munich,Sweden,Bundesliga,Advanced Forward
+1180,Robert Kane,ST,Chelsea,Mexico,Premier League,Poacher
+1181,Erling Kane,ST,Newcastle,Brazil,Premier League,False 9
+1182,Rasmus Martinez,ST,Lazio,Uruguay,Serie A,Advanced Forward
+1183,Victor Osimhen,ST,Chelsea,Mexico,Premier League,Poacher
+1184,Callum Vlahovic,ST,Bayer Leverkusen,Mexico,Bundesliga,Advanced Forward
+1185,Alexander Gimenez,ST,PSG,Poland,Ligue 1,Advanced Forward
+1186,Darwin Wilson,ST,Brest,Norway,Ligue 1,Target Forward
+1187,Lautaro Ramos,ST,PSG,France,Ligue 1,Advanced Forward
+1188,Lois Openda,ST,Bayern Munich,Sweden,Bundesliga,Poacher
+1189,Alexander Toney,ST,Bayern Munich,Poland,Bundesliga,Poacher
+1190,Ollie Kane,ST,Frankfurt,Nigeria,Bundesliga,Advanced Forward
+1191,Erling Hojlund,ST,Manchester United,Argentina,Premier League,False 9
+1192,Callum Watkins,ST,Arsenal,Serbia,Premier League,False 9
+1193,Benjamin Ramos,ST,Newcastle,Poland,Premier League,Target Forward
+1194,Ivan Haaland,ST,Inter Milan,Brazil,Serie A,Advanced Forward
+1195,Victor Alvarez,ST,AC Milan,Poland,Serie A,Target Forward
+1196,Rasmus Vlahovic,ST,Brest,Portugal,Ligue 1,Poacher
+1197,Callum Gimenez,ST,Bologna,Poland,Serie A,Target Forward
+1198,Harry Openda,ST,Real Sociedad,Serbia,La Liga,Target Forward
+1199,Benjamin Lukaku,ST,Frankfurt,Slovenia,Bundesliga,Poacher
+1200,Niclas Haaland,ST,Monaco,Slovenia,Ligue 1,Advanced Forward
+1201,Ivan Wilson,ST,Brighton,Germany,Premier League,Advanced Forward
+1202,Erling Toney,ST,Brighton,Poland,Premier League,False 9
+1203,Goncalo Haaland,ST,PSG,Nigeria,Ligue 1,Advanced Forward
+1204,Romelu Morata,ST,Inter Milan,England,Serie A,Poacher
+1205,Dusan Gimenez,ST,Brest,Nigeria,Ligue 1,False 9
+1206,Goncalo Nunez,ST,Liverpool,Denmark,Premier League,Target Forward
+1207,Lois Vlahovic,ST,Monaco,Nigeria,Ligue 1,Advanced Forward
+1208,Niclas Sesko,ST,Atletico Madrid,Brazil,La Liga,Advanced Forward
+1209,Lautaro Openda,ST,Monaco,Denmark,Ligue 1,Target Forward
+1210,Julian Wilson,ST,Real Madrid,Nigeria,La Liga,False 9
+1211,Santiago Osimhen,ST,Manchester City,Norway,Premier League,Advanced Forward
+1212,Lois Alvarez,ST,Bologna,Norway,Serie A,Target Forward
+1213,Darwin Watkins,ST,Bologna,Belgium,Serie A,Advanced Forward
+1214,Victor Hojlund,ST,Lille,Argentina,Ligue 1,Target Forward
+1215,Benjamin Fullkrug,ST,Manchester City,Brazil,Premier League,Target Forward
+1216,Santiago Openda,ST,Barcelona,Uruguay,La Liga,Target Forward
+1217,Callum Ramos,ST,Lille,Portugal,Ligue 1,Advanced Forward
+1218,Dusan Isak,ST,Bologna,Argentina,Serie A,Poacher
+1219,Rasmus Watkins,ST,Nice,Uruguay,Ligue 1,Poacher
+1220,Santiago Morata,ST,Stuttgart,Spain,Bundesliga,Poacher
+1221,Robert Hojlund,ST,AC Milan,Norway,Serie A,Poacher
+1222,Alvaro Toney,ST,Manchester City,Uruguay,Premier League,False 9
+1223,Erling Martinez,ST,Aston Villa,Spain,Premier League,False 9
+1224,Victor Toney,ST,Bayern Munich,Mexico,Bundesliga,Poacher
+1225,Ollie Gimenez,ST,Newcastle,Mexico,Premier League,Advanced Forward
+1226,Santiago Hojlund,ST,Frankfurt,Serbia,Bundesliga,Poacher
+1227,Benjamin Alvarez,ST,Marseille,Portugal,Ligue 1,False 9
+1228,Victor Lukaku,ST,Bologna,Nigeria,Serie A,Poacher
+1229,Ivan Osimhen,ST,Tottenham,Argentina,Premier League,Poacher
+1230,Darwin Osimhen,ST,Chelsea,Denmark,Premier League,Advanced Forward
+1231,Rasmus Isak,ST,Newcastle,Belgium,Premier League,False 9
+1232,Alexander Alvarez,ST,Inter Milan,Serbia,Serie A,False 9
+1233,Erling Fullkrug,ST,Manchester City,Germany,Premier League,Advanced Forward
+1234,Benjamin Watkins,ST,PSG,Nigeria,Ligue 1,False 9
+1235,Benjamin Lewandowski,ST,West Ham,Denmark,Premier League,Poacher
+1236,Darwin Lewandowski,ST,Real Sociedad,Norway,La Liga,Advanced Forward
+1237,Santiago Haaland,ST,Bayer Leverkusen,Spain,Bundesliga,Target Forward
+1238,Alexander Ramos,ST,Nice,Sweden,Ligue 1,Advanced Forward
+1239,Rasmus Osimhen,ST,Athletic Club,Germany,La Liga,Poacher
+1240,Dusan Fullkrug,ST,Juventus,Poland,Serie A,Advanced Forward
+1241,Romelu Lukaku,ST,AC Milan,Portugal,Serie A,False 9
+1242,Rasmus Fullkrug,ST,Lyon,Argentina,Ligue 1,Advanced Forward
+1243,Lois Toney,ST,Brighton,England,Premier League,Advanced Forward
+1244,Benjamin Haaland,ST,Bayern Munich,Portugal,Bundesliga,Poacher
+1245,Lois Vlahovic,ST,Lille,Poland,Ligue 1,Target Forward
+1246,Darwin Watkins,ST,Aston Villa,Denmark,Premier League,Advanced Forward
+1247,Dusan Alvarez,ST,Atalanta,Poland,Serie A,Advanced Forward
+1248,Darwin Fullkrug,ST,Dortmund,Denmark,Bundesliga,Advanced Forward
+1249,Romelu Wilson,ST,Chelsea,Mexico,Premier League,Target Forward
+1250,Erling Toney,ST,AS Roma,Poland,Serie A,Advanced Forward
+1251,Harry Hojlund,ST,Valencia,Slovenia,La Liga,False 9
+1252,Dusan Hojlund,ST,Brighton,Belgium,Premier League,Poacher
+1253,Ollie Martinez,ST,AS Roma,Brazil,Serie A,Target Forward
+1254,Ollie Martinez,ST,Lille,Slovenia,Ligue 1,Target Forward
+1255,Callum Toney,ST,RB Leipzig,Brazil,Bundesliga,Poacher
+1256,Callum Kane,ST,Real Sociedad,Sweden,La Liga,Poacher
+1257,Ivan Gimenez,ST,Real Sociedad,France,La Liga,Target Forward
+1258,Lautaro Sesko,ST,Brighton,Poland,Premier League,Poacher
+1259,Romelu Watkins,ST,Barcelona,Belgium,La Liga,Poacher
+1260,Robert Fullkrug,ST,Brest,Slovenia,Ligue 1,Advanced Forward
+1261,Goncalo Sesko,ST,West Ham,Slovenia,Premier League,Target Forward
+1262,Ivan Gimenez,ST,AS Roma,Sweden,Serie A,False 9
+1263,Callum Fullkrug,ST,Bologna,Belgium,Serie A,Poacher
+1264,Alvaro Hojlund,ST,Liverpool,Poland,Premier League,Target Forward
+1265,Erling Toney,ST,Brest,Nigeria,Ligue 1,False 9
+1266,Goncalo Haaland,ST,Frankfurt,Brazil,Bundesliga,False 9
+1267,Rasmus Ramos,ST,Tottenham,Denmark,Premier League,Poacher
+1268,Darwin Gimenez,ST,Frankfurt,Norway,Bundesliga,Target Forward
+1269,Benjamin Osimhen,ST,Atalanta,Brazil,Serie A,False 9
+1270,Lautaro Watkins,ST,Manchester City,Norway,Premier League,Poacher
+1271,Lois Wilson,ST,Manchester City,Nigeria,Premier League,Advanced Forward
+1272,Callum Watkins,ST,Atletico Madrid,France,La Liga,False 9
+1273,Harry Isak,ST,Barcelona,Germany,La Liga,False 9
+1274,Alexander Ramos,ST,Bayern Munich,Denmark,Bundesliga,Advanced Forward
+1275,Victor Sesko,ST,Bayern Munich,Slovenia,Bundesliga,Poacher
+1276,Alexander Watkins,ST,Atalanta,England,Serie A,Advanced Forward
+1277,Lois Martinez,ST,Arsenal,Nigeria,Premier League,Advanced Forward
+1278,Callum Haaland,ST,Arsenal,Spain,Premier League,Advanced Forward
+1279,Lois Lewandowski,ST,Stuttgart,Mexico,Bundesliga,Target Forward
+1280,Erling Ramos,ST,Stuttgart,Poland,Bundesliga,False 9
+1281,Julian Nunez,ST,Real Madrid,Uruguay,La Liga,Poacher
+1282,Darwin Wilson,ST,Juventus,Denmark,Serie A,False 9
+1283,Callum Fullkrug,ST,Real Madrid,England,La Liga,False 9
+1284,Victor Morata,ST,Tottenham,France,Premier League,Target Forward
+1285,Lois Gimenez,ST,Real Sociedad,Portugal,La Liga,Poacher
+1286,Erling Lukaku,ST,PSG,Argentina,Ligue 1,Target Forward
+1287,Harry Fullkrug,ST,Lille,Mexico,Ligue 1,Advanced Forward
+1288,Julian Ramos,ST,Barcelona,Norway,La Liga,Poacher
+1289,Ollie Lewandowski,ST,Stuttgart,Slovenia,Bundesliga,Poacher
+1290,Benjamin Gimenez,ST,Arsenal,Denmark,Premier League,False 9
+1291,Romelu Nunez,ST,West Ham,Uruguay,Premier League,Poacher
+1292,Callum Vlahovic,ST,Atalanta,Sweden,Serie A,False 9
+1293,Darwin Watkins,ST,Brest,Denmark,Ligue 1,Target Forward
+1294,Niclas Isak,ST,Bayer Leverkusen,Argentina,Bundesliga,Target Forward
+1295,Ollie Alvarez,ST,Bologna,Belgium,Serie A,Advanced Forward
+1296,Niclas Lewandowski,ST,Tottenham,Sweden,Premier League,Target Forward
+1297,Darwin Isak,ST,Tottenham,France,Premier League,Advanced Forward
+1298,Lautaro Gimenez,ST,RB Leipzig,Germany,Bundesliga,Advanced Forward
+1299,Alexander Lewandowski,ST,Nice,Nigeria,Ligue 1,False 9
+1300,Harry Gimenez,ST,Newcastle,Slovenia,Premier League,Poacher
+1301,Lautaro Sesko,ST,Dortmund,Spain,Bundesliga,False 9
+1302,Dusan Hojlund,ST,Dortmund,Norway,Bundesliga,Advanced Forward
+1303,Alvaro Openda,ST,Chelsea,Brazil,Premier League,Poacher
+1304,Rasmus Wilson,ST,Stuttgart,Argentina,Bundesliga,Target Forward
+1305,Ivan Lewandowski,ST,Dortmund,Spain,Bundesliga,Poacher
+1306,Dusan Morata,ST,Real Betis,Spain,La Liga,Poacher
+1307,Lois Nunez,ST,Real Sociedad,Serbia,La Liga,False 9
+1308,Benjamin Morata,ST,Bayern Munich,France,Bundesliga,Target Forward
+1309,Romelu Isak,ST,Atalanta,Poland,Serie A,False 9
+1310,Robert Sesko,ST,Chelsea,Norway,Premier League,Target Forward
+1311,Harry Isak,ST,AC Milan,England,Serie A,False 9
+1312,Erling Haaland,ST,Manchester United,Norway,Premier League,Target Forward
+1313,Niclas Watkins,ST,Atletico Madrid,Serbia,La Liga,Advanced Forward
+1314,Victor Alvarez,ST,Atletico Madrid,Argentina,La Liga,Advanced Forward
+1315,Lois Sesko,ST,Juventus,Slovenia,Serie A,Target Forward
+1316,Goncalo Vlahovic,ST,Monaco,Germany,Ligue 1,False 9
+1317,Romelu Hojlund,ST,Chelsea,Norway,Premier League,False 9
+1318,Goncalo Sesko,ST,Lyon,Norway,Ligue 1,Advanced Forward
+1319,Benjamin Morata,ST,Inter Milan,Poland,Serie A,Target Forward
+1320,Callum Gimenez,ST,Monaco,Serbia,Ligue 1,Advanced Forward
+1321,Harry Nunez,ST,Lyon,Portugal,Ligue 1,Target Forward
+1322,Lois Alvarez,ST,Tottenham,Belgium,Premier League,False 9
+1323,Niclas Lewandowski,ST,Chelsea,England,Premier League,False 9
+1324,Ivan Hojlund,ST,Stuttgart,Nigeria,Bundesliga,False 9
+1325,Callum Vlahovic,ST,AS Roma,Slovenia,Serie A,Target Forward
+1326,Niclas Morata,ST,Juventus,Mexico,Serie A,Target Forward
+1327,Victor Nunez,ST,Bologna,Serbia,Serie A,Target Forward
+1328,Alvaro Watkins,ST,Atletico Madrid,Denmark,La Liga,False 9
+1329,Benjamin Toney,ST,AC Milan,Germany,Serie A,Poacher
+1330,Romelu Vlahovic,ST,Frankfurt,Belgium,Bundesliga,Advanced Forward
+1331,Benjamin Fullkrug,ST,Brest,Uruguay,Ligue 1,Poacher
+1332,Ollie Openda,ST,Lille,Mexico,Ligue 1,Poacher
+1333,Robert Kane,ST,Stuttgart,Serbia,Bundesliga,Advanced Forward
+1334,Romelu Sesko,ST,PSG,England,Ligue 1,Advanced Forward
+1335,Romelu Sesko,ST,Atletico Madrid,Spain,La Liga,Poacher
+1336,Lautaro Lukaku,ST,Marseille,Norway,Ligue 1,Target Forward
+1337,Victor Gimenez,ST,Marseille,Spain,Ligue 1,Poacher
+1338,Darwin Ramos,ST,Monaco,Uruguay,Ligue 1,False 9
+1339,Rasmus Lukaku,ST,Atletico Madrid,Norway,La Liga,Advanced Forward
+1340,Robert Fullkrug,ST,Napoli,Sweden,Serie A,False 9
+1341,Lautaro Fullkrug,ST,Bayer Leverkusen,Sweden,Bundesliga,False 9
+1342,Alvaro Isak,ST,Manchester United,France,Premier League,False 9
+1343,Rasmus Kane,ST,West Ham,Serbia,Premier League,Target Forward
+1344,Harry Morata,ST,Brest,Slovenia,Ligue 1,False 9
+1345,Robert Nunez,ST,Bayern Munich,Spain,Bundesliga,Target Forward
+1346,Alvaro Haaland,ST,Brest,Brazil,Ligue 1,Advanced Forward
+1347,Erling Martinez,ST,Brest,Argentina,Ligue 1,Poacher
+1348,Callum Vlahovic,ST,Barcelona,Norway,La Liga,Poacher
+1349,Niclas Alvarez,ST,Aston Villa,France,Premier League,False 9
+1350,Santiago Vlahovic,ST,Brest,France,Ligue 1,False 9
+1351,Callum Nunez,ST,Lyon,Slovenia,Ligue 1,Poacher
+1352,Ivan Ramos,ST,Newcastle,France,Premier League,Advanced Forward
+1353,Callum Fullkrug,ST,Newcastle,Portugal,Premier League,Poacher
+1354,Rasmus Isak,ST,Brest,Argentina,Ligue 1,Advanced Forward
+1355,Robert Lukaku,ST,Real Madrid,Slovenia,La Liga,Poacher
+1356,Niclas Lukaku,ST,Bayer Leverkusen,Germany,Bundesliga,False 9
+1357,Benjamin Wilson,ST,Stuttgart,Brazil,Bundesliga,Advanced Forward
+1358,Darwin Kane,ST,Lyon,Spain,Ligue 1,Target Forward
+1359,Romelu Morata,ST,Monaco,Spain,Ligue 1,False 9
+1360,Santiago Morata,ST,PSG,Germany,Ligue 1,False 9
+1361,Harry Ramos,ST,Juventus,Serbia,Serie A,False 9
+1362,Benjamin Isak,ST,RB Leipzig,Germany,Bundesliga,Advanced Forward
+1363,Julian Alvarez,ST,Atalanta,Serbia,Serie A,Poacher
+1364,Victor Lewandowski,ST,AS Roma,Brazil,Serie A,Poacher
+1365,Niclas Kane,ST,Lille,Serbia,Ligue 1,False 9
+1366,Harry Morata,ST,Liverpool,Brazil,Premier League,Target Forward
+1367,Lois Wilson,ST,RB Leipzig,Poland,Bundesliga,Advanced Forward
+1368,Callum Martinez,ST,Bologna,Argentina,Serie A,Poacher
+1369,Dusan Nunez,ST,Dortmund,England,Bundesliga,Target Forward
+1370,Victor Alvarez,ST,Lyon,England,Ligue 1,Advanced Forward
+1371,Alvaro Gimenez,ST,Frankfurt,Denmark,Bundesliga,Advanced Forward
+1372,Harry Martinez,ST,Girona,Belgium,La Liga,Target Forward
+1373,Benjamin Vlahovic,ST,Lyon,Norway,Ligue 1,Advanced Forward
+1374,Dusan Lewandowski,ST,Inter Milan,Sweden,Serie A,Target Forward
+1375,Darwin Toney,ST,Bayern Munich,Serbia,Bundesliga,Advanced Forward
+1376,Victor Gimenez,ST,Atletico Madrid,England,La Liga,False 9
+1377,Lautaro Lukaku,ST,Valencia,Sweden,La Liga,Target Forward
+1378,Goncalo Osimhen,ST,Atletico Madrid,Brazil,La Liga,Target Forward
+1379,Niclas Wilson,ST,PSG,Mexico,Ligue 1,Target Forward
+1380,Rasmus Toney,ST,Lille,Portugal,Ligue 1,False 9
+1381,Alvaro Toney,ST,Napoli,Portugal,Serie A,Target Forward
+1382,Dusan Toney,ST,Lille,Belgium,Ligue 1,Advanced Forward
+1383,Santiago Watkins,ST,Juventus,Germany,Serie A,Poacher
+1384,Alvaro Alvarez,ST,Real Sociedad,Brazil,La Liga,Poacher
+1385,Erling Watkins,ST,Liverpool,Serbia,Premier League,False 9
+1386,Alvaro Haaland,ST,RB Leipzig,England,Bundesliga,False 9
+1387,Romelu Openda,ST,Bayern Munich,Mexico,Bundesliga,Target Forward
+1388,Dusan Vlahovic,ST,West Ham,Serbia,Premier League,False 9
+1389,Callum Vlahovic,ST,Napoli,France,Serie A,Advanced Forward
+1390,Ollie Ramos,ST,Lille,Norway,Ligue 1,Poacher
+1391,Ollie Hojlund,ST,Monaco,Serbia,Ligue 1,Advanced Forward
+1392,Benjamin Kane,ST,Napoli,Portugal,Serie A,Poacher
+1393,Ivan Osimhen,ST,Arsenal,Brazil,Premier League,Target Forward
+1394,Robert Nunez,ST,Atletico Madrid,France,La Liga,Target Forward
+1395,Santiago Alvarez,ST,Inter Milan,Poland,Serie A,False 9
+1396,Santiago Haaland,ST,Barcelona,Argentina,La Liga,False 9
+1397,Erling Toney,ST,PSG,Belgium,Ligue 1,Poacher
+1398,Rasmus Gimenez,ST,Brighton,Spain,Premier League,Target Forward
+1399,Darwin Fullkrug,ST,Tottenham,Slovenia,Premier League,Advanced Forward
+1400,Rasmus Gimenez,ST,Atletico Madrid,Sweden,La Liga,Advanced Forward
+1401,Alexander Gimenez,ST,Stuttgart,Slovenia,Bundesliga,False 9
+1402,Benjamin Lukaku,ST,Arsenal,Mexico,Premier League,False 9
+1403,Darwin Haaland,ST,Stuttgart,France,Bundesliga,False 9
+1404,Callum Gimenez,ST,Dortmund,England,Bundesliga,Advanced Forward
+1405,Alexander Watkins,ST,Atletico Madrid,Norway,La Liga,Target Forward
+1406,Harry Openda,ST,Aston Villa,Slovenia,Premier League,False 9
+1407,Ivan Hojlund,ST,Monaco,Norway,Ligue 1,Advanced Forward
+1408,Alvaro Toney,ST,Manchester City,Serbia,Premier League,Target Forward
+1409,Darwin Haaland,ST,Dortmund,France,Bundesliga,False 9
+1410,Harry Martinez,ST,Aston Villa,Uruguay,Premier League,Poacher
+1411,Niclas Isak,ST,RB Leipzig,Denmark,Bundesliga,False 9
+1412,Ollie Openda,ST,Bayer Leverkusen,Serbia,Bundesliga,Poacher
+1413,Ollie Nunez,ST,Stuttgart,Portugal,Bundesliga,False 9
+1414,Alexander Lukaku,ST,Bayern Munich,Spain,Bundesliga,Advanced Forward
+1415,Ollie Fullkrug,ST,Marseille,Argentina,Ligue 1,Advanced Forward
+1416,Victor Vlahovic,ST,Monaco,Germany,Ligue 1,Target Forward
+1417,Alvaro Lewandowski,ST,Lazio,Argentina,Serie A,Advanced Forward
+1418,Romelu Isak,ST,Brest,Portugal,Ligue 1,Poacher
+1419,Victor Osimhen,ST,Bologna,England,Serie A,Advanced Forward
+1420,Callum Osimhen,ST,Real Madrid,Portugal,La Liga,False 9
+1421,Victor Alvarez,ST,Bayer Leverkusen,Mexico,Bundesliga,Advanced Forward
+1422,Romelu Morata,ST,Liverpool,Belgium,Premier League,False 9
+1423,Goncalo Haaland,ST,Monaco,France,Ligue 1,Advanced Forward
+1424,Erling Hojlund,ST,Lyon,Nigeria,Ligue 1,False 9
+1425,Erling Lewandowski,ST,Bayern Munich,Nigeria,Bundesliga,Advanced Forward
+1426,Julian Haaland,ST,Bayern Munich,England,Bundesliga,False 9
+1427,Niclas Kane,ST,Bologna,Slovenia,Serie A,Target Forward
+1428,Rasmus Fullkrug,ST,Inter Milan,England,Serie A,Poacher
+1429,Harry Watkins,ST,PSG,Uruguay,Ligue 1,Advanced Forward
+1430,Callum Gimenez,ST,AS Roma,Denmark,Serie A,Advanced Forward
+1431,Lois Gimenez,ST,Lyon,Serbia,Ligue 1,Target Forward
+1432,Ollie Morata,ST,Manchester United,Argentina,Premier League,Target Forward
+1433,Alexander Martinez,ST,Nice,Portugal,Ligue 1,Poacher
+1434,Darwin Martinez,ST,Real Sociedad,Norway,La Liga,Poacher
+1435,Ollie Morata,ST,Stuttgart,Norway,Bundesliga,Poacher
+1436,Goncalo Hojlund,ST,Marseille,Germany,Ligue 1,Poacher
+1437,Harry Alvarez,ST,Brest,Sweden,Ligue 1,Poacher
+1438,Lois Osimhen,ST,Brighton,England,Premier League,False 9
+1439,Erling Osimhen,ST,Liverpool,France,Premier League,Poacher
+1440,Julian Vlahovic,ST,West Ham,Denmark,Premier League,Advanced Forward
+1441,Alvaro Sesko,ST,Chelsea,France,Premier League,Poacher
+1442,Niclas Kane,ST,Lyon,Nigeria,Ligue 1,Target Forward
+1443,Ivan Kane,ST,Athletic Club,Belgium,La Liga,Target Forward
+1444,Niclas Vlahovic,ST,Brest,Germany,Ligue 1,Poacher
+1445,Alexander Openda,ST,Dortmund,France,Bundesliga,Target Forward
+1446,Dusan Isak,ST,Dortmund,Belgium,Bundesliga,Advanced Forward
+1447,Robert Vlahovic,ST,Atletico Madrid,Uruguay,La Liga,Target Forward
+1448,Darwin Gimenez,ST,Brest,Poland,Ligue 1,Poacher
+1449,Darwin Nunez,ST,Valencia,Brazil,La Liga,False 9
+1450,Dusan Wilson,ST,Lazio,Uruguay,Serie A,False 9
+1451,Harry Sesko,ST,AS Roma,Poland,Serie A,Advanced Forward
+1452,Niclas Nunez,ST,Atletico Madrid,Norway,La Liga,Advanced Forward
+1453,Ivan Vlahovic,ST,AC Milan,Belgium,Serie A,False 9
+1454,Harry Morata,ST,Bayer Leverkusen,Belgium,Bundesliga,Poacher
+1455,Erling Lukaku,ST,Liverpool,Slovenia,Premier League,Target Forward
+1456,Alvaro Lukaku,ST,Arsenal,Argentina,Premier League,Advanced Forward
+1457,Lautaro Osimhen,ST,Girona,Mexico,La Liga,Advanced Forward
+1458,Ivan Nunez,ST,Lille,Sweden,Ligue 1,Poacher
+1459,Goncalo Isak,ST,Lyon,Germany,Ligue 1,Poacher
+1460,Darwin Gimenez,ST,Bayern Munich,Belgium,Bundesliga,Poacher
+1461,Julian Lewandowski,ST,Inter Milan,Argentina,Serie A,False 9
+1462,Benjamin Morata,ST,Aston Villa,France,Premier League,Target Forward
+1463,Erling Nunez,ST,Bologna,Germany,Serie A,Advanced Forward
+1464,Goncalo Sesko,ST,Napoli,Norway,Serie A,Poacher
+1465,Dusan Kane,ST,Tottenham,Serbia,Premier League,Poacher
+1466,Rasmus Martinez,ST,Nice,Mexico,Ligue 1,Target Forward
+1467,Alvaro Osimhen,ST,Dortmund,Belgium,Bundesliga,False 9
+1468,Ivan Hojlund,ST,Lyon,France,Ligue 1,False 9
+1469,Ivan Vlahovic,ST,Barcelona,Slovenia,La Liga,False 9
+1470,Niclas Alvarez,ST,Inter Milan,Germany,Serie A,Advanced Forward
+1471,Lois Lewandowski,ST,Lazio,Spain,Serie A,Target Forward
+1472,Victor Lewandowski,ST,Real Betis,Poland,La Liga,False 9
+1473,Ivan Osimhen,ST,Bayer Leverkusen,Mexico,Bundesliga,False 9
+1474,Ivan Alvarez,ST,Nice,Belgium,Ligue 1,Advanced Forward
+1475,Dusan Vlahovic,ST,Real Madrid,Portugal,La Liga,Advanced Forward
+1476,Benjamin Martinez,ST,Stuttgart,Slovenia,Bundesliga,False 9
+1477,Rasmus Openda,ST,Barcelona,Spain,La Liga,Target Forward
+1478,Alexander Wilson,ST,PSG,Norway,Ligue 1,False 9
+1479,Ivan Gimenez,ST,Frankfurt,Nigeria,Bundesliga,False 9
+1480,Alvaro Lukaku,ST,Girona,France,La Liga,Advanced Forward
+1481,Erling Watkins,ST,Bologna,Belgium,Serie A,Target Forward
+1482,Darwin Kane,ST,Inter Milan,France,Serie A,Advanced Forward
+1483,Niclas Morata,ST,Aston Villa,Argentina,Premier League,Advanced Forward
+1484,Ivan Lukaku,ST,Real Betis,England,La Liga,Poacher
+1485,Romelu Hojlund,ST,Dortmund,Sweden,Bundesliga,Target Forward
+1486,Harry Openda,ST,Inter Milan,Nigeria,Serie A,Poacher
+1487,Ollie Hojlund,ST,Atalanta,Argentina,Serie A,Poacher
+1488,Lautaro Lukaku,ST,Monaco,Nigeria,Ligue 1,Poacher
+1489,Niclas Isak,ST,Frankfurt,Germany,Bundesliga,Poacher
+1490,Benjamin Isak,ST,Chelsea,Belgium,Premier League,Advanced Forward
+1491,Rasmus Toney,ST,Bayern Munich,Poland,Bundesliga,Advanced Forward
+1492,Romelu Nunez,ST,Valencia,Spain,La Liga,Advanced Forward
+1493,Robert Osimhen,ST,Manchester United,Belgium,Premier League,False 9
+1494,Romelu Fullkrug,ST,AC Milan,Slovenia,Serie A,Poacher
+1495,Alexander Lewandowski,ST,West Ham,Nigeria,Premier League,Target Forward
+1496,Callum Toney,ST,Bayer Leverkusen,Mexico,Bundesliga,False 9
+1497,Santiago Vlahovic,ST,Lyon,Belgium,Ligue 1,Advanced Forward
+1498,Victor Gimenez,ST,AS Roma,Poland,Serie A,Poacher
+1499,Rasmus Kane,ST,Newcastle,Poland,Premier League,Advanced Forward
+1500,Robert Hojlund,ST,Lille,Uruguay,Ligue 1,Target Forward
