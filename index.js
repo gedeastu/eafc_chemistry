@@ -28,7 +28,7 @@ async function main() {
   console.log("Taktik:", formation.tactic);
 
   const preselected = preselectPlayers(playersByPosition,formation.tactic,6);
-  console.log("\nPreselected Players:");
+  console.log("\nPlayers List:");
   const tableData = Object.values(preselected)
   .flat()
   .map(p => ({
