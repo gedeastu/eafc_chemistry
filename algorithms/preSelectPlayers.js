@@ -1,6 +1,6 @@
 import { tacticPreference } from "../utils/formationsAndPlaystyle.js";
 
-export function preselectPlayers(allPlayers, tactic, limit = 5) {
+export function preselectPlayers(allPlayers, tactic, limit = 6) {
   const selected = {};
 
   for (const pos in allPlayers) {
