@@ -5,7 +5,7 @@ export function backtrackingIterative(
   candidates
 ) {
   let best = {
-    score: -Infinity,
+    score: 0,
     squad: []
   };
 

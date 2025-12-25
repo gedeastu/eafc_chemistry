@@ -5,7 +5,7 @@ export function backtrackingRecursive(
   candidates
 ) {
   const best = {
-    score: -Infinity,
+    score: 0,
     squad: []
   };
   function dfs(idx, squad, usedIds) {
