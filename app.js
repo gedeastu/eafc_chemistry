@@ -2,8 +2,13 @@ document.getElementById("runBtn").addEventListener("click", async () => {
   const formation = document.getElementById("formation").value;
   const rawCount = Number(document.getElementById("countPlayer").value);
 
-  if (!formation || isNaN(rawCount) || rawCount <= 0) {
-    alert("Formasi atau jumlah pemain tidak valid");
+ if (!formation) {
+    alert("Formasi tidak valid");
+    return;
+  }
+
+  if (isNaN(rawCount) || rawCount < 5) {
+    alert("Minimal jumlah kandidat per posisi adalah 5");
     return;
   }
 
@@ -25,8 +30,10 @@ document.getElementById("runBtn").addEventListener("click", async () => {
   const meta = document.createElement("div");
   meta.className = "meta";
   meta.textContent =
-    `Formasi: ${data.formation} | ` +
-    `Jumlah kandidat per posisi: ${rawCount}`;
+    `Iterative: ${data.runtime.iterativeMs}ms `+
+    `| Recursive: ${data.runtime.recursiveMs}ms `+
+    `| Formasi: ${data.formation} ` +
+    `| Jumlah kandidat per posisi: ${rawCount}`;
   root.appendChild(meta);
 
   root.appendChild(
