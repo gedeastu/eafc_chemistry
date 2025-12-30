@@ -1,6 +1,6 @@
 import { chemistry } from "./chemistry.js";
 
-export function backtrackingRecursive(
+export function recursive(
   positions,
   candidates
 ) {

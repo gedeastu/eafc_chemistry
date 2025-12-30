@@ -1,6 +1,6 @@
 import { chemistry } from "./chemistry.js";
 
-export function backtrackingIterative(
+export function iterative(
   positions,
   candidates
 ) {
