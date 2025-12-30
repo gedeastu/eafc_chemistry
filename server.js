@@ -78,71 +78,89 @@ import { stdin as input, stdout as output } from 'node:process';
 //   };
 // }
 
-//Terminal Version
 async function main() {
   const rl = readline.createInterface({ input, output });
 
-  console.log("Pilih Formasi:");
-  console.log("433 → 4-3-3 (Tiki-Taka)");
-  console.log("4312 → 4-3-1-2 (Kick and Rush)");
-  console.log("4222 → 4-2-2-2 (Gegen Pressing)");
-  console.log("4213 → 4-2-1-3 (Jogo Bonito)");
+  try {
+    // ✅ input N dulu (minimal 5)
+    const nInput = await rl.question("Masukkan jumlah kandidat per posisi (minimal 5): ");
+    const n = Number.parseInt(nInput.trim(), 10);
 
-  const f = await rl.question("Masukkan formasi: ");
-  const formation = formations[f.trim()];
-  const counterPlayer = await rl.question("Jumlah Pemain per Posisi (Minimal 5): ");
+    if (!Number.isFinite(n) || n < 5) {
+      console.log("Input tidak valid. Minimal 5.");
+      rl.close();
+      return;
+    }
 
-  if (!formation) {
-    console.log("Formasi tidak valid");
+    console.log("Pilih Formasi:");
+    console.log("433 → 4-3-3 (Tiki-Taka)");
+    console.log("4312 → 4-3-1-2 (Kick and Rush)");
+    console.log("4222 → 4-2-2-2 (Gegen Pressing)");
+    console.log("4213 → 4-2-1-3 (Jogo Bonito)");
+
+    const f = await rl.question("Masukkan formasi: ");
+    const formation = formations[f.trim()];
+
+    if (!formation) {
+      console.log("Formasi tidak valid");
+      rl.close();
+      return;
+    }
+
+    console.log("\nFormasi:", formation.name);
+    console.log("Taktik:", formation.tactic);
+
+    const preselected = preselectPlayers(playersByPosition, formation.tactic, n);
+
+    console.log("\nPlayers List:");
+    const tableData = Object.values(preselected)
+    .flat()
+    .map(p => ({
+      Nama: p.NamaPemain,
+      Posisi: p.Posisi,
+      Club: p.Club,
+      Instruction: p.PlayerInstruction
+    }))
+    console.table(tableData);
+
+
+    console.log("\n=== HASIL RUNNING TIME ===");
+    console.time("Backtracking Recursive");
+    const recResult = recursive(
+      formation.positions,
+      preselected
+    );
+    console.timeEnd("Backtracking Recursive");
+
+    console.time("Backtracking Iterative");
+    const itResult = iterative(
+      formation.positions,
+      preselected
+    );
+    console.timeEnd("Backtracking Iterative");
+
+    
+    console.log("\n=== HASIL ===");
+    console.log("Recursive Chemistry:", recResult.score);
+    console.log("Iterative Chemistry:", itResult.score);
+
+    console.table(itResult.squad.map(p => ({
+      Nama: p.NamaPemain,
+      Posisi: p.Posisi,
+      Club: p.Club,
+      Negara: p.Negara,
+      Instruction: p.PlayerInstruction
+    })));
+  } catch (error) {
+    if (err.name === "AbortError") {
+      console.log("\n⛔ Program dibatalkan");
+    } else {
+      console.error("Terjadi error:", err);
+    }
+  }finally{
     rl.close();
-    return;
   }
-
-  console.log("\nFormasi:", formation.name);
-  console.log("Taktik:", formation.tactic);
-
-  const preselected = preselectPlayers(playersByPosition,formation.tactic,counterPlayer);
-  console.log("\nPlayers List:");
-  const tableData = Object.values(preselected)
-  .flat()
-  .map(p => ({
-    Nama: p.NamaPemain,
-    Posisi: p.Posisi,
-    Club: p.Club,
-    Instruction: p.PlayerInstruction
-  }))
-  console.table(tableData);
-
-
- console.log("\n=== HASIL RUNNING TIME ===");
- console.time("Backtracking Recursive");
-  const recResult = recursive(
-    formation.positions,
-    preselected
-  );
-  console.timeEnd("Backtracking Recursive");
-
-  console.time("Backtracking Iterative");
-  const itResult = iterative(
-    formation.positions,
-    preselected
-  );
-  console.timeEnd("Backtracking Iterative");
-
-  
-  console.log("\n=== HASIL ===");
-  console.log("Recursive Chemistry:", recResult.score);
-  console.log("Iterative Chemistry:", itResult.score);
-
-  console.table(itResult.squad.map(p => ({
-    Nama: p.NamaPemain,
-    Posisi: p.Posisi,
-    Club: p.Club,
-    Negara: p.Negara,
-    Instruction: p.PlayerInstruction
-  })));
-
-  rl.close();
 }
+
 main();
 
