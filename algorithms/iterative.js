@@ -20,30 +20,33 @@ export function iterative(
     if (idx === positions.length) {
       const score = chemistry(squad);
       if (score > best.score) {
+      // console.log("Score: ",score);
+      // console.log("Best :  ",best.score);
+      // console.log("Squad :  ",squad);
         best = {
           score,
           squad
         };
       }
       continue;
-    }
+    }else{
+      const pos = positions[idx];
+      const list = candidates[pos];
+      if (!Array.isArray(list) || list.length === 0) {
+        continue;
+      }
+      for (const player of list) {
+        if (usedIds.has(player.Id)) continue;
 
-    const pos = positions[idx];
-    const list = candidates[pos];
-    if (!Array.isArray(list) || list.length === 0) {
-      continue;
-    }
-    for (const player of list) {
-      if (usedIds.has(player.Id)) continue;
+        const newUsed = new Set(usedIds);
+        newUsed.add(player.Id);
 
-      const newUsed = new Set(usedIds);
-      newUsed.add(player.Id);
-
-      stack.push({
-        idx: idx + 1,
-        squad: [...squad, player],
-        usedIds: newUsed
-      });
+        stack.push({
+          idx: idx + 1,
+          squad: [...squad, player],
+          usedIds: newUsed
+        });
+      }
     }
   }
   return best;

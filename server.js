@@ -152,10 +152,10 @@ async function main() {
       Instruction: p.PlayerInstruction
     })));
   } catch (error) {
-    if (err.name === "AbortError") {
+    if (error.name === "AbortError") {
       console.log("\n⛔ Program dibatalkan");
     } else {
-      console.error("Terjadi error:", err);
+      console.error("Terjadi error:", error);
     }
   }finally{
     rl.close();

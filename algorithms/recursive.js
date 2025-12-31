@@ -8,7 +8,7 @@ export function recursive(
     score: 0,
     squad: []
   };
-  function dfs(idx, squad, usedIds) {
+  function dfs(idx = 0, squad = [], usedIds = new Set()) {
     if (idx === positions.length) {
       const score = chemistry(squad);
       if (score > best.score) {
@@ -36,6 +36,7 @@ export function recursive(
     }
   }
 
-  dfs(0, [], new Set());
+  // dfs(0, [], new Set());
+  dfs()
   return best;
 }
